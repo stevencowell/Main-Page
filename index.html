@@ -147,23 +147,36 @@
     .resource-links ul {
       list-style: none;
       padding: 0;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
     }
-      .resource-links li {
-        margin: 10px 0;
-        display: flex;
-        align-items: center;
-      }
-      .resource-links img {
-        width: 120px;
-        height: auto;
-        margin-right: 10px;
-        border-radius: 5px;
-      }
-      .resource-links a {
-        color: blue;
-        display: flex;
-        align-items: center;
-      }
+    .resource-links li {
+      margin: 10px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+    .resource-links img {
+      width: 120px;
+      height: auto;
+      margin: 0 0 5px 0;
+      border-radius: 5px;
+    }
+    .resource-links a {
+      color: blue;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .title-image {
+      display: block;
+      max-width: 600px;
+      width: 90%;
+      margin: 0 auto 20px;
+      border-radius: 5px;
+    }
     /* Styles for quiz feedback */
     .quiz label[data-result="right"] {
         color: green;
@@ -281,6 +294,7 @@ summary { font-weight: bold; }
   <main class="content">
     <section class="content-section active" id="links">
       <h2>Projects</h2>
+      <img src="combined.png" alt="All projects" class="title-image" />
       <div class="resource-links">
         <ul>
           <li>
