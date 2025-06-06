@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="description" content="Industrial Arts Timber Technology" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Industrial Arts Timber Technology</title>
+
+  <!-- Google Font: Roboto -->
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet" />
+
+  <style>
+    /* ------------------------------------------------------------
+       BASE STYLES
+       ------------------------------------------------------------ */
+    * {
+      box-sizing: border-box;
+    }
+    body {
+      margin: 0;
+      font-family: 'Roboto', Arial, sans-serif;
+      background-color: #f9fafb;
+      color: #333;
+      line-height: 1.6;
+    }
+    a {
+      text-decoration: none;
+      color: inherit;
+    }
+    h1, h2, h3, h4, h5 {
+      margin: 0 0 0.5em 0;
+      font-weight: 500;
+      line-height: 1.2;
+    }
+    p {
+      margin: 0 0 1em 0;
+    }
+
+    /* ------------------------------------------------------------
+       HERO / HEADER
+       ------------------------------------------------------------ */
+    header {
+      background: linear-gradient(135deg, #2169d1 0%, #3a8dde 100%);
+      color: #fff;
+      padding: 3rem 1rem;
+      text-align: center;
+    }
+    header h1 {
+      font-size: 2.5rem;
+      letter-spacing: 0.5px;
+      font-weight: 700;
+      margin-bottom: 0.5rem;
+    }
+    header p {
+      font-size: 1.125rem;
+      opacity: 0.9;
+      margin-top: 0;
+    }
+
+    /* ------------------------------------------------------------
+       MAIN CONTENT
+       ------------------------------------------------------------ */
+    main {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 2rem 1rem;
+    }
+
+    /* Section Title */
+    .projects-section h2 {
+      font-size: 2rem;
+      text-align: center;
+      color: #2169d1;
+      margin-bottom: 1.5rem;
+      position: relative;
+      display: inline-block;
+    }
+    .projects-section h2::after {
+      content: '';
+      width: 50%;
+      height: 3px;
+      background: #2169d1;
+      position: absolute;
+      left: 25%;
+      bottom: -0.5rem;
+      border-radius: 2px;
+    }
+
+    /* ------------------------------------------------------------
+       GRID LAYOUT FOR PROJECTS
+       ------------------------------------------------------------ */
+    .projects-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 1.5rem;
+    }
+    .project-card {
+      background-color: #fff;
+      border-radius: 8px;
+      overflow: hidden;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+      transition: transform 0.25s ease, box-shadow 0.25s ease;
+      text-align: center;
+      display: flex;
+      flex-direction: column;
+    }
+    .project-card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 4px 12px rgba(0,0,0,0.12);
+    }
+
+    /* Thumbnail container ensures fixed height */
+    .thumb-container {
+      height: 160px;
+      background-color: #eef2f5;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      overflow: hidden;
+    }
+    .thumb-container img {
+      max-width: 100%;
+      max-height: 100%;
+    }
+
+    .project-title {
+      padding: 1rem 0.5rem;
+      font-size: 1.1rem;
+      font-weight: 500;
+      color: #2169d1;
+      margin-top: auto;
+    }
+    .project-title:hover {
+      text-decoration: underline;
+    }
+
+    /* ------------------------------------------------------------
+       FOOTER
+       ------------------------------------------------------------ */
+    footer {
+      text-align: center;
+      padding: 1.5rem 1rem;
+      font-size: 0.9rem;
+      color: #555;
+      background-color: #fff;
+      border-top: 1px solid #e0e0e0;
+      margin-top: 3rem;
+    }
+
+    /* ------------------------------------------------------------
+       RESPONSIVE ADJUSTMENTS
+       ------------------------------------------------------------ */
+    @media (max-width: 600px) {
+      header h1 {
+        font-size: 2rem;
+      }
+      header p {
+        font-size: 1rem;
+      }
+      .projects-section h2 {
+        font-size: 1.75rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Industrial Arts Timber Technology</h1>
+    <p>Explore our student projects in woodworking and design</p>
+  </header>
+
+  <main>
+    <section class="projects-section">
+      <h2>Projects</h2>
+
+      <div class="projects-grid">
+        <!-- Breadboard Project Card -->
+        <a href="https://stevencowell.github.io/Yr-9-Breadboard/" class="project-card" target="_blank">
+          <div class="thumb-container">
+            <img src="Breadboard.png" alt="Breadboard project thumbnail" />
+          </div>
+          <div class="project-title">Breadboard</div>
+        </a>
+
+        <!-- Clock Project Card -->
+        <a href="https://stevencowell.github.io/Yr-9-Clock/" class="project-card" target="_blank">
+          <div class="thumb-container">
+            <img src="Clock.png" alt="Clock project thumbnail" />
+          </div>
+          <div class="project-title">Clock</div>
+        </a>
+
+        <!-- Mirror Project Card -->
+        <a href="https://stevencowell.github.io/Yr-10-Mirror/" class="project-card" target="_blank">
+          <div class="thumb-container">
+            <img src="Mirror Picture.png" alt="Mirror project thumbnail" />
+          </div>
+          <div class="project-title">Mirror</div>
+        </a>
+
+        <!-- Desk Tidy Project Card -->
+        <a href="https://stevencowell.github.io/desk-tidy/" class="project-card" target="_blank">
+          <div class="thumb-container">
+            <img src="desk tidy picture (1).png" alt="Desk Tidy project thumbnail" />
+          </div>
+          <div class="project-title">Desk Tidy</div>
+        </a>
+
+        <!-- Bedside Table Project Card -->
+        <a href="https://stevencowell.github.io/Bedside-Table/" class="project-card" target="_blank">
+          <div class="thumb-container">
+            <img src="table (1).png" alt="Bedside Table project thumbnail" />
+          </div>
+          <div class="project-title">Bedside Table</div>
+        </a>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    &copy; 2025 Industrial Arts Timber Technology | All Rights Reserved
+  </footer>
+</body>
+</html>
