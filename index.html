@@ -2,235 +2,94 @@
 <html lang="en">
 <head>
   <meta charset="utf-8" />
-  <meta name="description" content="Industrial Arts Timber Technology" />
+  <meta name="description" content="Construction VET Task Selection" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Industrial Arts Timber Technology</title>
-
+  <title>Construction VET Task Selection</title>
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet" />
-
   <style>
-    /* ------------------------------------------------------------
-       BASE STYLES
-       ------------------------------------------------------------ */
-    * {
-      box-sizing: border-box;
-    }
-    body {
-      margin: 0;
-      font-family: 'Roboto', Arial, sans-serif;
-      background-color: #f9fafb;
-      color: #333;
-      line-height: 1.6;
-    }
-    a {
-      text-decoration: none;
-      color: inherit;
-    }
-    h1, h2, h3, h4, h5 {
-      margin: 0 0 0.5em 0;
-      font-weight: 500;
-      line-height: 1.2;
-    }
-    p {
-      margin: 0 0 1em 0;
-    }
-
-    /* ------------------------------------------------------------
-       HERO / HEADER
-       ------------------------------------------------------------ */
-    header {
-      background: linear-gradient(135deg, #2169d1 0%, #3a8dde 100%);
-      color: #fff;
-      padding: 3rem 1rem;
-      text-align: center;
-      position: relative;
-    }
-    #results-link {
-      position: absolute;
-      top: 0.75rem;
-      left: 0.75rem;
-      color: #fff;
-      font-weight: 500;
-      text-decoration: underline;
-    }
-    header h1 {
-      font-size: 2.5rem;
-      letter-spacing: 0.5px;
-      font-weight: 700;
-      margin-bottom: 0.5rem;
-    }
-    header p {
-      font-size: 1.125rem;
-      opacity: 0.9;
-      margin-top: 0;
-    }
-
-    /* ------------------------------------------------------------
-       MAIN CONTENT
-       ------------------------------------------------------------ */
-    main {
-      max-width: 1200px;
-      margin: 0 auto;
-      padding: 2rem 1rem;
-    }
-
-    /* Section Title */
-    .projects-section h2 {
-      font-size: 2rem;
-      text-align: center;
-      color: #2169d1;
-      margin-bottom: 1.5rem;
-      position: relative;
-      display: inline-block;
-    }
-    .projects-section h2::after {
-      content: '';
-      width: 50%;
-      height: 3px;
-      background: #2169d1;
-      position: absolute;
-      left: 25%;
-      bottom: -0.5rem;
-      border-radius: 2px;
-    }
-
-    /* ------------------------------------------------------------
-       GRID LAYOUT FOR PROJECTS
-       ------------------------------------------------------------ */
-    .projects-grid {
-      display: grid;
-      grid-template-columns: repeat(3, 1fr);
-      gap: 1.5rem;
-    }
-    .project-card {
-      background-color: #fff;
-      border-radius: 8px;
-      overflow: hidden;
-      box-shadow: 0 2px 6px rgba(0,0,0,0.08);
-      transition: transform 0.25s ease, box-shadow 0.25s ease;
-      text-align: center;
-      display: flex;
-      flex-direction: column;
-    }
-    .project-card:hover {
-      transform: translateY(-4px);
-      box-shadow: 0 4px 12px rgba(0,0,0,0.12);
-    }
-
-    /* Thumbnail container ensures fixed height */
-    .thumb-container {
-      height: 160px;
-      background-color: #eef2f5;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      overflow: hidden;
+    * { box-sizing: border-box; }
+    body { margin: 0; font-family: 'Roboto', Arial, sans-serif; background-color: #f9fafb; color: #333; line-height: 1.6; }
+    a { text-decoration: none; color: inherit; }
+    header { background: linear-gradient(135deg, #28a745 0%, #5cc56f 100%); color: #fff; padding: 3rem 1rem; text-align: center; }
+    header h1 { font-size: 2.5rem; margin: 0; font-weight: 700; }
+    header p { margin: 0; font-size: 1.125rem; opacity: 0.9; }
+    main { max-width: 1200px; margin: 0 auto; padding: 2rem 1rem; }
+    .modules-section h2 { font-size: 2rem; color: #28a745; text-align: center; margin-bottom: 2.5rem; position: relative; }
+    .modules-section h2::after { content: ''; width: 80px; height: 4px; background: #28a745; position: absolute; left: 50%; transform: translateX(-50%); bottom: -0.75rem; border-radius: 2px; }
+    .modules-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 1.5rem; }
+    .module-card { background: #fff; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1); transition: 0.25s; display: flex; flex-direction: column; text-align: center; overflow: hidden; }
+    .module-card:hover { transform: translateY(-5px); box-shadow: 0 4px 12px rgba(0,0,0,0.15); }
+    .thumb-container { 
+        height: 160px; /* Fixed height for consistency */
+        background: #e6f4ea; 
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        overflow: hidden;
     }
     .thumb-container img {
-      max-width: 100%;
-      max-height: 100%;
+        width: 100%;
+        height: 100%;
+        object-fit: cover; /* Ensures image covers the area without distortion */
     }
-
-    .project-title {
-      padding: 1rem 0.5rem;
-      font-size: 1.1rem;
-      font-weight: 500;
-      color: #2169d1;
-      margin-top: auto;
-    }
-    .project-title:hover {
-      text-decoration: underline;
-    }
-
-    /* ------------------------------------------------------------
-       FOOTER
-       ------------------------------------------------------------ */
-    footer {
-      text-align: center;
-      padding: 1.5rem 1rem;
-      font-size: 0.9rem;
-      color: #555;
-      background-color: #fff;
-      border-top: 1px solid #e0e0e0;
-      margin-top: 3rem;
-    }
-
-    /* ------------------------------------------------------------
-       RESPONSIVE ADJUSTMENTS
-       ------------------------------------------------------------ */
-    @media (max-width: 600px) {
-      header h1 {
-        font-size: 2rem;
-      }
-      header p {
-        font-size: 1rem;
-      }
-      .projects-section h2 {
-        font-size: 1.75rem;
-      }
-    }
+    .module-title { padding: 1.25rem 1rem; color: #333; font-weight: 500; flex-grow: 1; display: flex; align-items: center; justify-content: center; }
+    footer { text-align: center; padding: 1.5rem; background: #fff; border-top: 1px solid #e0e0e0; font-size: 0.9rem; color: #555; }
   </style>
 </head>
 <body>
   <header>
-    <a href="https://drive.google.com/drive/folders/1zI9Ha1fC5tsBIwEN2eLSVaLzcrmjzQFS?usp=drive_link" id="results-link">Results</a>
-    <h1>Industrial Arts Timber Technology</h1>
-    <p>Explore our student projects in woodworking and design</p>
+    <h1>Construction VET Task Selection</h1>
+    <p>Select a task below to access its supplementary materials</p>
   </header>
-
   <main>
-    <section class="projects-section">
-      <h2>Projects</h2>
-
-      <div class="projects-grid">
-        <a href="https://stevencowell.github.io/desk-tidy/" class="project-card" target="_blank">
+    <section class="modules-section">
+      <h2>Tasks</h2>
+      <div class="modules-grid">
+        <a href="Task 1 Modules/task1_index.html" class="module-card">
           <div class="thumb-container">
-            <img src="desk tidy picture (1).png" alt="Desk Tidy project thumbnail" />
+            <img src="https://images.pexels.com/photos/4513940/pexels-photo-4513940.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="A white hard hat and safety glasses on a blueprint.">
           </div>
-          <div class="project-title">Desk Tidy</div>
+          <div class="module-title">Task 1: White Card</div>
         </a>
-        <a href="https://stevencowell.github.io/Yr-9-Breadboard/" class="project-card" target="_blank">
+        <a href="Task 2 Modules/task2_index.html" class="module-card">
           <div class="thumb-container">
-            <img src="Breadboard.png" alt="Breadboard project thumbnail" />
+            <img src="https://images.pexels.com/photos/175039/pexels-photo-175039.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Various construction tools on a workbench.">
           </div>
-          <div class="project-title">Breadboard</div>
+          <div class="module-title">Task 2: Tools &amp; Equipment</div>
         </a>
-        <a href="https://stevencowell.github.io/Yr-9-Clock/" class="project-card" target="_blank">
+        <a href="Task 3 Modules/task3_index.html" class="module-card">
           <div class="thumb-container">
-            <img src="Clock.png" alt="Clock project thumbnail" />
+            <img src="https://images.pexels.com/photos/7245333/pexels-photo-7245333.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Workplace safety signs on a wall.">
           </div>
-          <div class="project-title">Clock</div>
+          <div class="module-title">Task 3: Work Safe</div>
         </a>
-        <a href="https://stevencowell.github.io/Carry-all/" class="project-card" target="_blank">
+        <a href="Task 4 Modules/task4_index.html" class="module-card">
           <div class="thumb-container">
-            <img src="carryall.png" alt="Carry-All project thumbnail" />
+            <img src="https://images.pexels.com/photos/834892/pexels-photo-834892.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Calculator and pen on top of architectural blueprints.">
           </div>
-          <div class="project-title">Carry-All</div>
+          <div class="module-title">Task 4: Working It Out</div>
         </a>
-        <a href="https://stevencowell.github.io/Yr-10-Mirror/" class="project-card" target="_blank">
+        <a href="Task 5.3 Modules/task5_index.html" class="module-card">
           <div class="thumb-container">
-            <img src="Mirror Picture.png" alt="Mirror project thumbnail" />
+            <img src="https://images.pexels.com/photos/209235/pexels-photo-209235.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="A joiner's workshop with tools and wood shavings.">
           </div>
-          <div class="project-title">Mirror</div>
+          <div class="module-title">Task 5.3: Joinery</div>
         </a>
-        <a href="https://stevencowell.github.io/Bedside-Table/" class="project-card" target="_blank">
+        <a href="Task 6 Modules/task6_index.html" class="module-card">
           <div class="thumb-container">
-            <img src="table (1).png" alt="Bedside Table project thumbnail" />
+            <img src="https://images.pexels.com/photos/3184292/pexels-photo-3184292.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="A team collaborating over project plans on a table.">
           </div>
-          <div class="project-title">Bedside Table</div>
+          <div class="module-title">Task 6: Project Planning</div>
         </a>
-        <a href="https://stevencowell.github.io/Construction-Supplementary-material/supplementary%20material/index.html" class="project-card" target="_blank">
+        <a href="Task 7 Modules/task7_index.html" class="module-card">
           <div class="thumb-container">
-            <img src="https://images.pexels.com/photos/159306/construction-site-build-construction-work-159306.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Construction tools on a blueprint" />
+            <img src="https://images.pexels.com/photos/159306/construction-site-build-construction-work-159306.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Construction workers collaborating on a group project.">
           </div>
-          <div class="project-title">Construction Supplementary Material</div>
+          <div class="module-title">Task 7: Group Project</div>
         </a>
       </div>
     </section>
   </main>
-
-  <footer>
-    &copy; 2025 Industrial Arts Timber Technology | All Rights Reserved
-  </footer>
+  <footer>&copy; 2025 Construction VET Resources</footer>
 </body>
 </html>
