@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-labelledby="title desc">
+  <title id="title">New mirror project thumbnail</title>
+  <desc id="desc">A polished timber framed mirror with a blue reflective surface on a workshop bench.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#f6fbff"/>
+      <stop offset="1" stop-color="#dbeafe"/>
+    </linearGradient>
+    <linearGradient id="glass" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#e8f7ff"/>
+      <stop offset="0.48" stop-color="#9fd5f4"/>
+      <stop offset="1" stop-color="#4f9ed8"/>
+    </linearGradient>
+    <linearGradient id="wood" x1="0" x2="1">
+      <stop offset="0" stop-color="#8b572a"/>
+      <stop offset="0.5" stop-color="#c1844a"/>
+      <stop offset="1" stop-color="#7a461f"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="150%">
+      <feDropShadow dx="0" dy="8" stdDeviation="8" flood-color="#1f2937" flood-opacity="0.22"/>
+    </filter>
+  </defs>
+
+  <rect width="320" height="200" rx="18" fill="url(#bg)"/>
+  <path d="M0 154 C54 130 94 172 151 148 C205 125 252 136 320 110 L320 200 L0 200 Z" fill="#c7d2fe" opacity="0.55"/>
+  <rect x="42" y="162" width="236" height="17" rx="8.5" fill="#9ca3af" opacity="0.35"/>
+
+  <g filter="url(#shadow)">
+    <rect x="92" y="22" width="136" height="152" rx="20" fill="url(#wood)"/>
+    <rect x="108" y="38" width="104" height="120" rx="14" fill="#5b3419" opacity="0.35"/>
+    <rect x="113" y="43" width="94" height="110" rx="12" fill="url(#glass)"/>
+    <path d="M124 50 H166 L115 112 V70 C115 59 116 53 124 50Z" fill="#fff" opacity="0.45"/>
+    <path d="M190 50 H200 V82 L147 153 H124 Z" fill="#fff" opacity="0.22"/>
+    <path d="M94 60 C121 66 198 66 226 58" fill="none" stroke="#f3d19b" stroke-width="4" stroke-linecap="round" opacity="0.45"/>
+    <path d="M96 139 C129 132 191 133 224 142" fill="none" stroke="#5c3519" stroke-width="3" stroke-linecap="round" opacity="0.42"/>
+  </g>
+
+  <g fill="none" stroke="#2169d1" stroke-width="5" stroke-linecap="round" opacity="0.82">
+    <path d="M68 52 l-16 -16"/>
+    <path d="M252 52 l16 -16"/>
+    <path d="M66 122 h-24"/>
+    <path d="M254 122 h24"/>
+  </g>
+</svg>
