@@ -1,5 +1,5 @@
 const programs = [
-  { title: "Desk Tidy", family: "Timber", stage: "Stage 4 / Year 7–8", course: "Technology Mandatory", periods: 25, version: "v1.2", pdf: "programs/Desk-Tidy-25-Period-Teaching-Program-v1.2-Website-Complete-10pt.pdf", docx: "programs/Desk-Tidy-25-Period-Teaching-Program-v1.2-Website-Complete-10pt.docx", site: "https://stevencowell.github.io/desk-tidy/" },
+  { title: "Desk Tidy", family: "Timber", stage: "Stage 4 / Year 7–8", course: "Technology Mandatory", periods: 25, version: "v1.3", pdf: "programs/Desk-Tidy-25-Period-Teaching-Program-v1.3-Website-Complete-10pt.pdf", docx: "programs/Desk-Tidy-25-Period-Teaching-Program-v1.3-Website-Complete-10pt.docx", site: "https://stevencowell.github.io/desk-tidy/" },
   { title: "Footstool", family: "Timber", stage: "Stage 4 / Year 8", course: "Industrial Technology – Timber", periods: 50, version: "v1.0", pdf: "programs/Footstool-50-Period-Teaching-Program-v1.0-Website-Complete-10pt.pdf", docx: "programs/Footstool-50-Period-Teaching-Program-v1.0-Website-Complete-10pt.docx", site: "https://stevencowell.github.io/Year-8-Intro-Timber-Technology/" },
   { title: "Breadboard", family: "Timber", stage: "Stage 5", course: "Industrial Technology – Timber", periods: 25, version: "v1.0", pdf: "programs/Breadboard-25-Period-Teaching-Program-v1.0-Website-Complete-10pt.pdf", docx: "programs/Breadboard-25-Period-Teaching-Program-v1.0-Website-Complete-10pt.docx", site: "https://stevencowell.github.io/bread-board-guided-course/" },
   { title: "Small Box", family: "Timber", stage: "Stage 5", course: "Industrial Technology – Timber", periods: 15, version: "v1.0", pdf: "programs/Small-Box-15-Period-Teaching-Program-v1.0-Website-Complete-10pt.pdf", docx: "programs/Small-Box-15-Period-Teaching-Program-v1.0-Website-Complete-10pt.docx", site: "https://stevencowell.github.io/Small-Box/" },
@@ -99,4 +99,3 @@ function renderPrograms() {
 search.addEventListener("input", renderPrograms);
 renderFilters();
 renderPrograms();
-
