@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="en-AU">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="A teacher-facing library of current TAS and Science teaching programs, editable copies and matching course sites.">
+  <title>Subject Program Library | TAS Learning Hub</title>
+  <link rel="icon" href="data:,">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&amp;family=Manrope:wght@600;700;800&amp;display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+  <script src="programs.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#programs">Skip to programs</a>
+
+  <header class="site-header">
+    <div class="shell nav-row">
+      <a class="brand" href="index.html" aria-label="Subject Program Library home">
+        <span class="brand-mark" aria-hidden="true">PL</span>
+        <span><strong>Subject Program Library</strong><small>Teacher planning hub</small></span>
+      </a>
+      <a class="quiet-link" href="../">Learning Hub</a>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="shell hero-grid">
+        <div>
+          <p class="eyebrow">One calm place for the documents that run the course.</p>
+          <h1>Find the program.<br><span>Teach the next lesson.</span></h1>
+          <p class="hero-lead">Open a print-ready PDF, download an editable Word copy or jump to the matching course site. Items still being prepared stay visible and clearly labelled.</p>
+          <div class="hero-actions">
+            <a class="button button-primary" href="#programs">Browse programs</a>
+            <a class="button button-secondary" href="../">Return to Learning Hub</a>
+          </div>
+        </div>
+        <aside class="summary-card" aria-labelledby="summary-title">
+          <p class="kicker">Library snapshot</p>
+          <h2 id="summary-title"><span id="ready-count">0</span> programs ready now</h2>
+          <dl>
+            <div><dt id="total-count">0</dt><dd>courses listed</dd></div>
+            <div><dt id="subject-count">0</dt><dd>subject areas</dd></div>
+            <div><dt>2027</dt><dd>delivery focus</dd></div>
+          </dl>
+          <p class="summary-note">Program status is shown on every card. “Not yet added” is a genuine gap, not a broken link.</p>
+        </aside>
+      </div>
+    </section>
+
+    <section class="controls-section" aria-labelledby="controls-title">
+      <div class="shell">
+        <p class="kicker">Find a program</p>
+        <div class="control-heading">
+          <h2 id="controls-title">Choose a subject or search by project</h2>
+          <label class="search-field">
+            <span>Search programs</span>
+            <input id="program-search" type="search" placeholder="e.g. mirror, food or Year 9" autocomplete="off">
+          </label>
+        </div>
+        <div class="filters" id="program-filters" aria-label="Filter programs by subject"></div>
+      </div>
+    </section>
+
+    <section class="program-section" id="programs" aria-labelledby="programs-title">
+      <div class="shell">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow dark">Program library</p>
+            <h2 id="programs-title">All subject programs</h2>
+          </div>
+          <p id="results-summary" class="results-summary" aria-live="polite"></p>
+        </div>
+        <div class="program-grid" id="program-grid"></div>
+        <div class="empty-state" id="empty-state" hidden>
+          <h3>No matching program</h3>
+          <p>Clear the search or choose another subject.</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="teacher-note">
+      <div class="shell teacher-note-inner">
+        <div><p class="kicker">Use the right copy</p><h2>PDF for teaching. Word for revision.</h2></div>
+        <p>Open the PDF when you need the stable classroom version. Use the editable copy when a program needs review, then issue a new version rather than overwriting the previous one.</p>
+      </div>
+    </section>
+  </main>
+
+  <footer><div class="shell footer-row"><span>Subject Program Library</span><span>TAS Learning Hub · Teacher resources</span></div></footer>
+</body>
+</html>
+
