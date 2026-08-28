@@ -89,7 +89,6 @@ function programCard(program) {
         ${program.syllabusUrl ? `<div class="syllabus-meta"><span>Official syllabus</span><a href="${program.syllabusUrl}" target="_blank" rel="noopener">${program.syllabusTitle} ↗</a><small>${program.syllabusStatus} · verified ${program.syllabusVerified}</small></div>` : ""}
         <div class="card-actions">
           ${ready ? `<a class="primary" href="${program.pdf}" target="_blank">Open PDF</a><a href="${program.docx}" download>Word copy</a>` : ""}
-          ${program.manifest ? `<a href="${program.manifest}" target="_blank">Alignment record</a>` : ""}
           <a href="${program.site}" target="_blank" rel="noopener">Course site ↗</a>
         </div>
       </div>
