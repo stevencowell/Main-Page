@@ -1,0 +1,2595 @@
+{
+  "schema_version": "1.1",
+  "program_id": "food-for-purpose-stage-4-introductory-elective",
+  "version": "v2.0",
+  "course": {
+    "title": "Food for Purpose",
+    "classification": "School-developed 50-hour Stage 4 introductory elective aligned to Food Technology",
+    "stage_or_year": "Stage 4",
+    "delivery_year": 2027,
+    "project": "Design, produce and evaluate teacher-approved food solutions for identified purposes"
+  },
+  "site": {
+    "name": "Stage 4 Food Technology - Food for Purpose",
+    "reference": "https://stevencowell.github.io/Year-8-Food-Technology/",
+    "inspection_date": "2026-08-28",
+    "state": "mixed"
+  },
+  "syllabus": {
+    "title": "Food Technology 7-10 Syllabus",
+    "version": "2025",
+    "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/food-technology-7-10-2025/overview/course",
+    "verified_date": "2026-08-28",
+    "mandatory_from": "2028",
+    "early_implementation": "permitted",
+    "steve_decision": "use-new-early",
+    "implementation_status": "early-adoption-confirmed"
+  },
+  "timetable": {
+    "weeks": 20,
+    "period_minutes": 60,
+    "periods_per_fortnight": 5,
+    "total_periods": 50
+  },
+  "outcomes": [
+    {
+      "code": "FT4-ADJ-01",
+      "statement": "in Stage 4, teachers may adjust the Stage 5 outcomes as appropriate to the needs of students in Years 7 and 8",
+      "source_id": "S2",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/food-technology-7-10-2025/outcomes"
+    },
+    {
+      "code": "FT5-SAF-01",
+      "statement": "applies safe work and management practices through food design and production processes",
+      "source_id": "S2",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/food-technology-7-10-2025/outcomes"
+    },
+    {
+      "code": "FT5-COM-01",
+      "statement": "communicates ideas, concepts and solutions in food design and production contexts",
+      "source_id": "S2",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/food-technology-7-10-2025/outcomes"
+    },
+    {
+      "code": "FT5-FPP-01",
+      "statement": "selects and justifies the use of food preparation and presentation practices",
+      "source_id": "S2",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/food-technology-7-10-2025/outcomes"
+    },
+    {
+      "code": "FT5-USE-01",
+      "statement": "selects and applies ingredients, techniques and equipment in food design and production contexts",
+      "source_id": "S2",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/food-technology-7-10-2025/outcomes"
+    },
+    {
+      "code": "FT5-IET-01",
+      "statement": "explains industry practices and emerging technologies used in food design and production",
+      "source_id": "S2",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/food-technology-7-10-2025/outcomes"
+    },
+    {
+      "code": "FT5-NSA-01",
+      "statement": "assesses how nutrition, food selection and availability influence individuals and communities",
+      "source_id": "S2",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/food-technology-7-10-2025/outcomes"
+    },
+    {
+      "code": "FT5-ENV-01",
+      "statement": "analyses relationships between food production systems, sustainability and society",
+      "source_id": "S2",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/food-technology-7-10-2025/outcomes"
+    }
+  ],
+  "source_register": [
+    {
+      "id": "S1",
+      "title": "Food Technology 7-10 Syllabus (2025) course overview",
+      "authority": "official-syllabus",
+      "location": "https://curriculum.nsw.edu.au/learning-areas/tas/food-technology-7-10-2025/overview/course",
+      "revision": "verified 2026-08-28",
+      "use": "Course classification, implementation advice and course requirements"
+    },
+    {
+      "id": "S2",
+      "title": "Food Technology 7-10 Syllabus (2025) outcomes",
+      "authority": "official-syllabus",
+      "location": "https://curriculum.nsw.edu.au/learning-areas/tas/food-technology-7-10-2025/outcomes",
+      "revision": "verified 2026-08-28",
+      "use": "Exact Stage 4 adjustment and Stage 5 outcomes"
+    },
+    {
+      "id": "S3",
+      "title": "Food design and preparation practices - Stage 4",
+      "authority": "official-syllabus",
+      "location": "https://curriculum.nsw.edu.au/learning-areas/tas/food-technology-7-10-2025/content/stage-4/fa0ef66edc",
+      "revision": "verified 2026-08-28",
+      "use": "Official Stage 4 syllabus content"
+    },
+    {
+      "id": "S4",
+      "title": "Food selection for nutrition and health - Stage 4",
+      "authority": "official-syllabus",
+      "location": "https://curriculum.nsw.edu.au/learning-areas/tas/food-technology-7-10-2025/content/stage-4/fa47006591",
+      "revision": "verified 2026-08-28",
+      "use": "Official Stage 4 syllabus content"
+    },
+    {
+      "id": "S5",
+      "title": "Food security and sustainability - Stage 4",
+      "authority": "official-syllabus",
+      "location": "https://curriculum.nsw.edu.au/learning-areas/tas/food-technology-7-10-2025/content/stage-4/fa28598545",
+      "revision": "verified 2026-08-28",
+      "use": "Official Stage 4 syllabus content"
+    },
+    {
+      "id": "S6",
+      "title": "Food for Purpose teacher program v1.0.0",
+      "authority": "local-program",
+      "location": "C:\\Users\\scowell1\\Documents\\Codex\\2026-08-28\\okay-so-with-the-all-the\\work\\year8-elective-alignment\\food-technology\\resources\\teacher\\teacher-program-v1.0.0.docx",
+      "revision": "63B416143E09E2369F7E3FFB22365FD910BBC3988AE99C90D7CBF3CFBBFD8F2A",
+      "use": "Preserved project sequence, candidate practical contexts and local boundaries"
+    },
+    {
+      "id": "S7",
+      "title": "Food for Purpose guided-course repository",
+      "authority": "website",
+      "location": "https://stevencowell.github.io/Year-8-Food-Technology/",
+      "revision": "inspected 2026-08-28",
+      "use": "Named theory sections, checks, scaffolded responses, applied activities, folio and routes"
+    },
+    {
+      "id": "S8",
+      "title": "Footstool network program v2.0",
+      "authority": "quality-reference",
+      "location": "C:\\Users\\scowell1\\Documents\\Codex\\2026-08-28\\okay-so-with-the-all-the\\work\\year8-elective-alignment\\intro-timber\\resources\\teacher\\Footstool-50-Period-Teaching-Program-v2.0-Network-Benchmark.docx",
+      "revision": "35305F05807C01BCD5AB334773ED3E83DFC5B5F5A3EA6579AC5CC4BFF1B07735",
+      "use": "Document structure, timetable pattern and visual family only"
+    }
+  ],
+  "website_learning_inventory": [
+    {
+      "id": "m01-s01",
+      "route": "modules/module-01.html#section-1",
+      "theory_section": "Personal hygiene and handwashing",
+      "quiz_or_check": "Personal hygiene and handwashing - knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        1
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "All 10 checked responses, act-01-handwashing-sequence and capstone-m01-s01.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m01-s02",
+      "route": "modules/module-01.html#section-2",
+      "theory_section": "Kitchen hazards and safe routines",
+      "quiz_or_check": "Kitchen hazards and safe routines - knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        2
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "All 10 checked responses, act-02-hazard-control-match and capstone-m01-s02.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m01-s03",
+      "route": "modules/module-01.html#section-3",
+      "theory_section": "Washing up, cleaning and sanitising",
+      "quiz_or_check": "Washing up, cleaning and sanitising - knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        3
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "All 10 checked responses, act-03-clean-sanitise-sort and capstone-m01-s03.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m02-s01",
+      "route": "modules/module-02.html#section-1",
+      "theory_section": "Reading recipes and cooking terms",
+      "quiz_or_check": "Reading recipes and cooking terms - knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        6
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "All 10 checked responses, act-04-recipe-anatomy-label and capstone-m02-s01.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m02-s02",
+      "route": "modules/module-02.html#section-2",
+      "theory_section": "Selecting equipment and techniques",
+      "quiz_or_check": "Selecting equipment and techniques - knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        7
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "All 10 checked responses, act-05-equipment-choice and capstone-m02-s02.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m02-s03",
+      "route": "modules/module-02.html#section-3",
+      "theory_section": "Measuring, converting and scaling",
+      "quiz_or_check": "Measuring, converting and scaling - knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        8
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "All 10 checked responses, act-06-conversion-retrieval and capstone-m02-s03.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m03-s01",
+      "route": "modules/module-03.html#section-1",
+      "theory_section": "Cross-contamination pathways",
+      "quiz_or_check": "Cross-contamination pathways - knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        11
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "All 10 checked responses, act-07-contamination-pathway and capstone-m03-s01.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m03-s02",
+      "route": "modules/module-03.html#section-2",
+      "theory_section": "Temperature control and storage",
+      "quiz_or_check": "Temperature control and storage - knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        12
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "All 10 checked responses, act-08-temperature-storage-decisions and capstone-m03-s02.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m03-s03",
+      "route": "modules/module-03.html#section-3",
+      "theory_section": "Allergens and safe food choices",
+      "quiz_or_check": "Allergens and safe food choices - knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        13
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "All 10 checked responses, act-09-allergen-communication and capstone-m03-s03.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m04-s01",
+      "route": "modules/module-04.html#section-1",
+      "theory_section": "Six essential nutrients",
+      "quiz_or_check": "Six essential nutrients - knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        16
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "All 10 checked responses, act-10-nutrient-function-match and capstone-m04-s01.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m04-s02",
+      "route": "modules/module-04.html#section-2",
+      "theory_section": "Food groups and balanced choices",
+      "quiz_or_check": "Food groups and balanced choices - knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        17
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "All 10 checked responses, act-11-food-group-menu-sort and capstone-m04-s02.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m04-s03",
+      "route": "modules/module-04.html#section-3",
+      "theory_section": "Added sugar and informed media choices",
+      "quiz_or_check": "Added sugar and informed media choices - knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        18
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "All 10 checked responses, act-12-media-claim-check and capstone-m04-s03.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m05-s01",
+      "route": "modules/module-05.html#section-1",
+      "theory_section": "Reasons for cooking",
+      "quiz_or_check": "Reasons for cooking - knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        21
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "All 10 checked responses, act-13-reasons-for-cooking and capstone-m05-s01.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m05-s02",
+      "route": "modules/module-05.html#section-2",
+      "theory_section": "Denaturation, dextrinisation and emulsification",
+      "quiz_or_check": "Denaturation, dextrinisation and emulsification - knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        22
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "All 10 checked responses, act-14-food-science-classify and capstone-m05-s02.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m05-s03",
+      "route": "modules/module-05.html#section-3",
+      "theory_section": "Fair ingredient tests and observations",
+      "quiz_or_check": "Fair ingredient tests and observations - knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        23
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "All 10 checked responses, act-15-fair-test-sequence and capstone-m05-s03.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m06-s01",
+      "route": "modules/module-06.html#section-1",
+      "theory_section": "The five senses",
+      "quiz_or_check": "The five senses - knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        26
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "All 10 checked responses, act-16-five-senses-label and capstone-m06-s01.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m06-s02",
+      "route": "modules/module-06.html#section-2",
+      "theory_section": "Precise sensory language and fair comparisons",
+      "quiz_or_check": "Precise sensory language and fair comparisons - knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        27
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "All 10 checked responses, act-17-descriptor-sort and capstone-m06-s02.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m06-s03",
+      "route": "modules/module-06.html#section-3",
+      "theory_section": "Using evidence to improve food",
+      "quiz_or_check": "Using evidence to improve food - knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        28
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "All 10 checked responses, act-18-sensory-improvement and capstone-m06-s03.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m07-s01",
+      "route": "modules/module-07.html#section-1",
+      "theory_section": "Farm-to-plate systems",
+      "quiz_or_check": "Farm-to-plate systems - knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        31
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "All 10 checked responses, act-19-farm-to-plate-sequence and capstone-m07-s01.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m07-s02",
+      "route": "modules/module-07.html#section-2",
+      "theory_section": "Australian food and fibre production",
+      "quiz_or_check": "Australian food and fibre production - knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        32
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "All 10 checked responses, act-20-production-role-match and capstone-m07-s02.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m07-s03",
+      "route": "modules/module-07.html#section-3",
+      "theory_section": "Waste, food security and sustainable choices",
+      "quiz_or_check": "Waste, food security and sustainable choices - knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        33
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "All 10 checked responses, act-21-sustainability-decisions and capstone-m07-s03.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m08-s01",
+      "route": "modules/module-08.html#section-1",
+      "theory_section": "User needs and constraints",
+      "quiz_or_check": "User needs and constraints - knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        36
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "All 10 checked responses, act-22-user-constraint-sort and capstone-m08-s01.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m08-s02",
+      "route": "modules/module-08.html#section-2",
+      "theory_section": "Menu balance and costing",
+      "quiz_or_check": "Menu balance and costing - knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        37
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "All 10 checked responses, act-23-costing-check and capstone-m08-s02.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m08-s03",
+      "route": "modules/module-08.html#section-3",
+      "theory_section": "Ideas, criteria and responsible choices",
+      "quiz_or_check": "Ideas, criteria and responsible choices - knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        38
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "All 10 checked responses, act-24-criteria-quality-check and capstone-m08-s03.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m09-s01",
+      "route": "modules/module-09.html#section-1",
+      "theory_section": "Recipe and equipment selection",
+      "quiz_or_check": "Recipe and equipment selection - knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        41
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "All 10 checked responses, act-25-recipe-equipment-plan and capstone-m09-s01.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m09-s02",
+      "route": "modules/module-09.html#section-2",
+      "theory_section": "Workflow and collaboration",
+      "quiz_or_check": "Workflow and collaboration - knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        42
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "All 10 checked responses, act-26-workflow-sequence and capstone-m09-s02.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m09-s03",
+      "route": "modules/module-09.html#section-3",
+      "theory_section": "Presentation, styling and photography",
+      "quiz_or_check": "Presentation, styling and photography - knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        43
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "All 10 checked responses, act-27-photo-evidence-choice and capstone-m09-s03.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m10-s01",
+      "route": "modules/module-10.html#section-1",
+      "theory_section": "Testing against criteria",
+      "quiz_or_check": "Testing against criteria - knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        46
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "All 10 checked responses, act-28-criteria-test-match and capstone-m10-s01.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m10-s02",
+      "route": "modules/module-10.html#section-2",
+      "theory_section": "Evidence, sources and bibliography",
+      "quiz_or_check": "Evidence, sources and bibliography - knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        47
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "All 10 checked responses, act-29-source-record-sequence and capstone-m10-s02.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m10-s03",
+      "route": "modules/module-10.html#section-3",
+      "theory_section": "Reflection, improvement and communication",
+      "quiz_or_check": "Reflection, improvement and communication - knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        48
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "All 10 checked responses, act-30-reflection-improvement and capstone-m10-s03.",
+      "teacher_to_confirm_ids": []
+    }
+  ],
+  "periods": [
+    {
+      "number": 1,
+      "type": "Site/theory",
+      "focus": "Personal hygiene and handwashing",
+      "student_work": "Complete 10 checks, the applied activity and the scaffolded response.",
+      "evidence": "Check 10 responses, the activity and the response.",
+      "syllabus_content": [
+        "Identify and apply safe and hygienic food preparation practices."
+      ],
+      "outcome_codes": [
+        "FT5-SAF-01",
+        "FT5-FPP-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S6",
+        "S7"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-01.html#section-1"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "m01-s01"
+      ]
+    },
+    {
+      "number": 2,
+      "type": "Project/folio",
+      "focus": "Kitchen hazards and safe routines",
+      "student_work": "Complete 10 checks and the response; save the activity and linked folio evidence.",
+      "evidence": "Check 10 responses, the response and folio evidence.",
+      "syllabus_content": [
+        "Assess risks when managing safe and hygienic handling of ingredients and equipment."
+      ],
+      "outcome_codes": [
+        "FT5-SAF-01",
+        "FT5-FPP-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S6",
+        "S7"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-01.html#section-2",
+        "folio.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "m01-s02"
+      ]
+    },
+    {
+      "number": 3,
+      "type": "Practical",
+      "focus": "Washing up, cleaning and sanitising",
+      "student_work": "First 20 min: complete the section check and response. Then start the approved practical.",
+      "evidence": "Check the response; observe the process and one quality point.",
+      "syllabus_content": [
+        "Identify and apply safe and hygienic food preparation practices."
+      ],
+      "outcome_codes": [
+        "FT5-SAF-01",
+        "FT5-FPP-01",
+        "FT5-USE-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S6",
+        "S7"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-01.html#section-3"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02"
+      ],
+      "website_learning_ids": [
+        "m01-s03"
+      ]
+    },
+    {
+      "number": 4,
+      "type": "Practical",
+      "focus": "Produce: Pikelets",
+      "student_work": "Continue the approved task using the current demonstration and controls; check technique and quality.",
+      "evidence": "Observe setup, process, technique, quality and clean/reset.",
+      "syllabus_content": [
+        "Apply safe, planned food preparation, production, presentation and evaluation practices."
+      ],
+      "outcome_codes": [
+        "FT5-SAF-01",
+        "FT5-FPP-01",
+        "FT5-USE-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S6",
+        "S7"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 5,
+      "type": "Practical",
+      "focus": "Evaluate: Pikelets",
+      "student_work": "Complete the approved stage; record quality, a decision and next action; clean/reset.",
+      "evidence": "Check quality and next action; observe completion and clean/reset.",
+      "syllabus_content": [
+        "Apply safe, planned food preparation, production, presentation and evaluation practices."
+      ],
+      "outcome_codes": [
+        "FT5-SAF-01",
+        "FT5-USE-01",
+        "FT5-COM-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S6",
+        "S7"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 6,
+      "type": "Site/theory",
+      "focus": "Reading recipes and cooking terms",
+      "student_work": "Complete 10 checks, the applied activity and the scaffolded response.",
+      "evidence": "Check 10 responses, the activity and the response.",
+      "syllabus_content": [
+        "Identify and describe food preparation techniques and practices."
+      ],
+      "outcome_codes": [
+        "FT5-FPP-01",
+        "FT5-COM-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S6",
+        "S7"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-02.html#section-1"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "m02-s01"
+      ]
+    },
+    {
+      "number": 7,
+      "type": "Project/folio",
+      "focus": "Selecting equipment and techniques",
+      "student_work": "Complete 10 checks and the response; save the activity and linked folio evidence.",
+      "evidence": "Check 10 responses, the response and folio evidence.",
+      "syllabus_content": [
+        "Identify and describe food preparation techniques and practices."
+      ],
+      "outcome_codes": [
+        "FT5-USE-01",
+        "FT5-FPP-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S6",
+        "S7"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-02.html#section-2",
+        "folio.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "m02-s02"
+      ]
+    },
+    {
+      "number": 8,
+      "type": "Practical",
+      "focus": "Measuring, converting and scaling",
+      "student_work": "First 20 min: complete the section check and response. Then start the approved practical.",
+      "evidence": "Check the response; observe the process and one quality point.",
+      "syllabus_content": [
+        "Apply planning and management skills when undertaking food preparation practices."
+      ],
+      "outcome_codes": [
+        "FT5-USE-01",
+        "FT5-FPP-01",
+        "FT5-SAF-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S6",
+        "S7"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-02.html#section-3"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02"
+      ],
+      "website_learning_ids": [
+        "m02-s03"
+      ]
+    },
+    {
+      "number": 9,
+      "type": "Practical",
+      "focus": "Produce: Mini beef sliders",
+      "student_work": "Continue the approved task using the current demonstration and controls; check technique and quality.",
+      "evidence": "Observe setup, process, technique, quality and clean/reset.",
+      "syllabus_content": [
+        "Apply safe, planned food preparation, production, presentation and evaluation practices."
+      ],
+      "outcome_codes": [
+        "FT5-SAF-01",
+        "FT5-FPP-01",
+        "FT5-USE-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S6",
+        "S7"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 10,
+      "type": "Practical",
+      "focus": "Evaluate: Mini beef sliders",
+      "student_work": "Complete the approved stage; record quality, a decision and next action; clean/reset.",
+      "evidence": "Check quality and next action; observe completion and clean/reset.",
+      "syllabus_content": [
+        "Apply safe, planned food preparation, production, presentation and evaluation practices."
+      ],
+      "outcome_codes": [
+        "FT5-SAF-01",
+        "FT5-USE-01",
+        "FT5-COM-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S6",
+        "S7"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 11,
+      "type": "Site/theory",
+      "focus": "Cross-contamination pathways",
+      "student_work": "Complete 10 checks, the applied activity and the scaffolded response.",
+      "evidence": "Check 10 responses, the activity and the response.",
+      "syllabus_content": [
+        "Assess risks when managing safe and hygienic handling of ingredients and equipment."
+      ],
+      "outcome_codes": [
+        "FT5-SAF-01",
+        "FT5-FPP-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S6",
+        "S7"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-03.html#section-1"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "m03-s01"
+      ]
+    },
+    {
+      "number": 12,
+      "type": "Project/folio",
+      "focus": "Temperature control and storage",
+      "student_work": "Complete 10 checks and the response; save the activity and linked folio evidence.",
+      "evidence": "Check 10 responses, the response and folio evidence.",
+      "syllabus_content": [
+        "Identify and apply safe and hygienic food preparation practices."
+      ],
+      "outcome_codes": [
+        "FT5-SAF-01",
+        "FT5-FPP-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S6",
+        "S7"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-03.html#section-2",
+        "folio.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "m03-s02"
+      ]
+    },
+    {
+      "number": 13,
+      "type": "Practical",
+      "focus": "Allergens and safe food choices",
+      "student_work": "First 20 min: complete the section check and response. Then start the approved practical.",
+      "evidence": "Check the response; observe the process and one quality point.",
+      "syllabus_content": [
+        "Compare food allergies and intolerances to determine suitable food selection for individuals."
+      ],
+      "outcome_codes": [
+        "FT5-SAF-01",
+        "FT5-NSA-01",
+        "FT5-FPP-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S4",
+        "S6",
+        "S7"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-03.html#section-3"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02"
+      ],
+      "website_learning_ids": [
+        "m03-s03"
+      ]
+    },
+    {
+      "number": 14,
+      "type": "Practical",
+      "focus": "Produce: Chocolate raspberry muffins",
+      "student_work": "Continue the approved task using the current demonstration and controls; check technique and quality.",
+      "evidence": "Observe setup, process, technique, quality and clean/reset.",
+      "syllabus_content": [
+        "Apply safe, planned food preparation, production, presentation and evaluation practices."
+      ],
+      "outcome_codes": [
+        "FT5-SAF-01",
+        "FT5-FPP-01",
+        "FT5-USE-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S6",
+        "S7"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 15,
+      "type": "Practical",
+      "focus": "Evaluate: Chocolate raspberry muffins",
+      "student_work": "Complete the approved stage; record quality, a decision and next action; clean/reset.",
+      "evidence": "Check quality and next action; observe completion and clean/reset.",
+      "syllabus_content": [
+        "Apply safe, planned food preparation, production, presentation and evaluation practices."
+      ],
+      "outcome_codes": [
+        "FT5-SAF-01",
+        "FT5-USE-01",
+        "FT5-COM-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S6",
+        "S7"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 16,
+      "type": "Site/theory",
+      "focus": "Six essential nutrients",
+      "student_work": "Complete 10 checks, the applied activity and the scaffolded response.",
+      "evidence": "Check 10 responses, the activity and the response.",
+      "syllabus_content": [
+        "Explain how the body uses nutrients from food for growth, repair and daily function."
+      ],
+      "outcome_codes": [
+        "FT5-NSA-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S4",
+        "S6",
+        "S7"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-04.html#section-1"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "m04-s01"
+      ]
+    },
+    {
+      "number": 17,
+      "type": "Project/folio",
+      "focus": "Food groups and balanced choices",
+      "student_work": "Complete 10 checks and the response; save the activity and linked folio evidence.",
+      "evidence": "Check 10 responses, the response and folio evidence.",
+      "syllabus_content": [
+        "Investigate and evaluate food guides that promote balanced and nutritious food choices."
+      ],
+      "outcome_codes": [
+        "FT5-NSA-01",
+        "FT5-COM-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S4",
+        "S6",
+        "S7"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-04.html#section-2",
+        "folio.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "m04-s02"
+      ]
+    },
+    {
+      "number": 18,
+      "type": "Practical",
+      "focus": "Added sugar and informed media choices",
+      "student_work": "First 20 min: complete the section check and response. Then start the approved practical.",
+      "evidence": "Check the response; observe the process and one quality point.",
+      "syllabus_content": [
+        "Investigate how media may influence food selection and the health of individuals and society."
+      ],
+      "outcome_codes": [
+        "FT5-NSA-01",
+        "FT5-COM-01",
+        "FT5-SAF-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S4",
+        "S6",
+        "S7"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-04.html#section-3"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02"
+      ],
+      "website_learning_ids": [
+        "m04-s03"
+      ]
+    },
+    {
+      "number": 19,
+      "type": "Practical",
+      "focus": "Produce: Calzone",
+      "student_work": "Continue the approved task using the current demonstration and controls; check technique and quality.",
+      "evidence": "Observe setup, process, technique, quality and clean/reset.",
+      "syllabus_content": [
+        "Apply safe, planned food preparation, production, presentation and evaluation practices."
+      ],
+      "outcome_codes": [
+        "FT5-SAF-01",
+        "FT5-FPP-01",
+        "FT5-USE-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S6",
+        "S7"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 20,
+      "type": "Practical",
+      "focus": "Evaluate: Calzone",
+      "student_work": "Complete the approved stage; record quality, a decision and next action; clean/reset.",
+      "evidence": "Check quality and next action; observe completion and clean/reset.",
+      "syllabus_content": [
+        "Apply safe, planned food preparation, production, presentation and evaluation practices."
+      ],
+      "outcome_codes": [
+        "FT5-SAF-01",
+        "FT5-USE-01",
+        "FT5-COM-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S6",
+        "S7"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 21,
+      "type": "Site/theory",
+      "focus": "Reasons for cooking",
+      "student_work": "Complete 10 checks, the applied activity and the scaffolded response.",
+      "evidence": "Check 10 responses, the activity and the response.",
+      "syllabus_content": [
+        "Identify and describe food preparation techniques and practices."
+      ],
+      "outcome_codes": [
+        "FT5-FPP-01",
+        "FT5-USE-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S6",
+        "S7"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-05.html#section-1"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "m05-s01"
+      ]
+    },
+    {
+      "number": 22,
+      "type": "Project/folio",
+      "focus": "Denaturation, dextrinisation and emulsification",
+      "student_work": "Complete 10 checks and the response; save the activity and linked folio evidence.",
+      "evidence": "Check 10 responses, the response and folio evidence.",
+      "syllabus_content": [
+        "Assess functional properties of ingredients in food planned and prepared for a specific context."
+      ],
+      "outcome_codes": [
+        "FT5-FPP-01",
+        "FT5-USE-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S6",
+        "S7"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-05.html#section-2",
+        "folio.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "m05-s02"
+      ]
+    },
+    {
+      "number": 23,
+      "type": "Practical",
+      "focus": "Fair ingredient tests and observations",
+      "student_work": "First 20 min: complete the section check and response. Then start the approved practical.",
+      "evidence": "Check the response; observe the process and one quality point.",
+      "syllabus_content": [
+        "Justify food design ideas through ingredient testing and experimentation for a specific context."
+      ],
+      "outcome_codes": [
+        "FT5-FPP-01",
+        "FT5-COM-01",
+        "FT5-SAF-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S6",
+        "S7"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-05.html#section-3"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02"
+      ],
+      "website_learning_ids": [
+        "m05-s03"
+      ]
+    },
+    {
+      "number": 24,
+      "type": "Practical",
+      "focus": "Produce: Jam drops",
+      "student_work": "Continue the approved task using the current demonstration and controls; check technique and quality.",
+      "evidence": "Observe setup, process, technique, quality and clean/reset.",
+      "syllabus_content": [
+        "Apply safe, planned food preparation, production, presentation and evaluation practices."
+      ],
+      "outcome_codes": [
+        "FT5-SAF-01",
+        "FT5-FPP-01",
+        "FT5-USE-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S6",
+        "S7"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 25,
+      "type": "Practical",
+      "focus": "Evaluate: Jam drops",
+      "student_work": "Complete the approved stage; record quality, a decision and next action; clean/reset.",
+      "evidence": "Check quality and next action; observe completion and clean/reset.",
+      "syllabus_content": [
+        "Apply safe, planned food preparation, production, presentation and evaluation practices."
+      ],
+      "outcome_codes": [
+        "FT5-SAF-01",
+        "FT5-USE-01",
+        "FT5-COM-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S6",
+        "S7"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 26,
+      "type": "Site/theory",
+      "focus": "The five senses",
+      "student_work": "Complete 10 checks, the applied activity and the scaffolded response.",
+      "evidence": "Check 10 responses, the activity and the response.",
+      "syllabus_content": [
+        "Evaluate how preparation techniques affect appearance, aroma, flavour and texture."
+      ],
+      "outcome_codes": [
+        "FT5-FPP-01",
+        "FT5-COM-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S6",
+        "S7"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-06.html#section-1"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "m06-s01"
+      ]
+    },
+    {
+      "number": 27,
+      "type": "Project/folio",
+      "focus": "Precise sensory language and fair comparisons",
+      "student_work": "Complete 10 checks and the response; save the activity and linked folio evidence.",
+      "evidence": "Check 10 responses, the response and folio evidence.",
+      "syllabus_content": [
+        "Evaluate how preparation techniques affect appearance, aroma, flavour and texture."
+      ],
+      "outcome_codes": [
+        "FT5-FPP-01",
+        "FT5-COM-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S6",
+        "S7"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-06.html#section-2",
+        "folio.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "m06-s02"
+      ]
+    },
+    {
+      "number": 28,
+      "type": "Practical",
+      "focus": "Using evidence to improve food",
+      "student_work": "First 20 min: complete the section check and response. Then start the approved practical.",
+      "evidence": "Check the response; observe the process and one quality point.",
+      "syllabus_content": [
+        "Evaluate how preparation techniques affect appearance, aroma, flavour and texture."
+      ],
+      "outcome_codes": [
+        "FT5-FPP-01",
+        "FT5-COM-01",
+        "FT5-SAF-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S6",
+        "S7"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-06.html#section-3"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02"
+      ],
+      "website_learning_ids": [
+        "m06-s03"
+      ]
+    },
+    {
+      "number": 29,
+      "type": "Practical",
+      "focus": "Produce: Braided apple strudel",
+      "student_work": "Continue the approved task using the current demonstration and controls; check technique and quality.",
+      "evidence": "Observe setup, process, technique, quality and clean/reset.",
+      "syllabus_content": [
+        "Apply safe, planned food preparation, production, presentation and evaluation practices."
+      ],
+      "outcome_codes": [
+        "FT5-SAF-01",
+        "FT5-FPP-01",
+        "FT5-USE-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S6",
+        "S7"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 30,
+      "type": "Practical",
+      "focus": "Evaluate: Braided apple strudel",
+      "student_work": "Complete the approved stage; record quality, a decision and next action; clean/reset.",
+      "evidence": "Check quality and next action; observe completion and clean/reset.",
+      "syllabus_content": [
+        "Apply safe, planned food preparation, production, presentation and evaluation practices."
+      ],
+      "outcome_codes": [
+        "FT5-SAF-01",
+        "FT5-USE-01",
+        "FT5-COM-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S6",
+        "S7"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 31,
+      "type": "Site/theory",
+      "focus": "Farm-to-plate systems",
+      "student_work": "Complete 10 checks, the applied activity and the scaffolded response.",
+      "evidence": "Check 10 responses, the activity and the response.",
+      "syllabus_content": [
+        "Identify food production and distribution systems."
+      ],
+      "outcome_codes": [
+        "FT5-ENV-01",
+        "FT5-IET-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S5",
+        "S6",
+        "S7"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-07.html#section-1"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "m07-s01"
+      ]
+    },
+    {
+      "number": 32,
+      "type": "Project/folio",
+      "focus": "Australian food and fibre production",
+      "student_work": "Complete 10 checks and the response; save the activity and linked folio evidence.",
+      "evidence": "Check 10 responses, the response and folio evidence.",
+      "syllabus_content": [
+        "Discuss career pathways in food design and production."
+      ],
+      "outcome_codes": [
+        "FT5-IET-01",
+        "FT5-ENV-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S6",
+        "S7"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-07.html#section-2",
+        "folio.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "m07-s02"
+      ]
+    },
+    {
+      "number": 33,
+      "type": "Practical",
+      "focus": "Waste, food security and sustainable choices",
+      "student_work": "First 20 min: complete the section check and response. Then start the approved practical.",
+      "evidence": "Check the response; observe the process and one quality point.",
+      "syllabus_content": [
+        "Explain how local and community food systems can minimise food waste and improve sustainability."
+      ],
+      "outcome_codes": [
+        "FT5-ENV-01",
+        "FT5-NSA-01",
+        "FT5-SAF-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S5",
+        "S6",
+        "S7"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-07.html#section-3"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02"
+      ],
+      "website_learning_ids": [
+        "m07-s03"
+      ]
+    },
+    {
+      "number": 34,
+      "type": "Practical",
+      "focus": "Produce: Two-ingredient pizza dough",
+      "student_work": "Continue the approved task using the current demonstration and controls; check technique and quality.",
+      "evidence": "Observe setup, process, technique, quality and clean/reset.",
+      "syllabus_content": [
+        "Apply safe, planned food preparation, production, presentation and evaluation practices."
+      ],
+      "outcome_codes": [
+        "FT5-SAF-01",
+        "FT5-FPP-01",
+        "FT5-USE-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S6",
+        "S7"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 35,
+      "type": "Practical",
+      "focus": "Evaluate: Two-ingredient pizza dough",
+      "student_work": "Complete the approved stage; record quality, a decision and next action; clean/reset.",
+      "evidence": "Check quality and next action; observe completion and clean/reset.",
+      "syllabus_content": [
+        "Apply safe, planned food preparation, production, presentation and evaluation practices."
+      ],
+      "outcome_codes": [
+        "FT5-SAF-01",
+        "FT5-USE-01",
+        "FT5-COM-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S6",
+        "S7"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 36,
+      "type": "Site/theory",
+      "focus": "User needs and constraints",
+      "student_work": "Complete 10 checks, the applied activity and the scaffolded response.",
+      "evidence": "Check 10 responses, the activity and the response.",
+      "syllabus_content": [
+        "Apply creative concepts and design thinking to generate and evaluate food ideas for a specific context."
+      ],
+      "outcome_codes": [
+        "FT5-COM-01",
+        "FT5-NSA-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S6",
+        "S7"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-08.html#section-1"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "m08-s01"
+      ]
+    },
+    {
+      "number": 37,
+      "type": "Project/folio",
+      "focus": "Menu balance and costing",
+      "student_work": "Complete 10 checks and the response; save the activity and linked folio evidence.",
+      "evidence": "Check 10 responses, the response and folio evidence.",
+      "syllabus_content": [
+        "Apply creative concepts and design thinking to generate and evaluate food ideas for a specific context."
+      ],
+      "outcome_codes": [
+        "FT5-COM-01",
+        "FT5-NSA-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S6",
+        "S7"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-08.html#section-2",
+        "folio.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "m08-s02"
+      ]
+    },
+    {
+      "number": 38,
+      "type": "Practical",
+      "focus": "Ideas, criteria and responsible choices",
+      "student_work": "First 20 min: complete the section check and response. Then start the approved practical.",
+      "evidence": "Check the response; observe the process and one quality point.",
+      "syllabus_content": [
+        "Apply creative concepts and design thinking to generate and evaluate food ideas for a specific context."
+      ],
+      "outcome_codes": [
+        "FT5-COM-01",
+        "FT5-FPP-01",
+        "FT5-ENV-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S6",
+        "S7"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-08.html#section-3"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02"
+      ],
+      "website_learning_ids": [
+        "m08-s03"
+      ]
+    },
+    {
+      "number": 39,
+      "type": "Practical",
+      "focus": "Produce: Honey-soy chicken wraps",
+      "student_work": "Continue the approved task using the current demonstration and controls; check technique and quality.",
+      "evidence": "Observe setup, process, technique, quality and clean/reset.",
+      "syllabus_content": [
+        "Apply safe, planned food preparation, production, presentation and evaluation practices."
+      ],
+      "outcome_codes": [
+        "FT5-SAF-01",
+        "FT5-FPP-01",
+        "FT5-USE-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S6",
+        "S7"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 40,
+      "type": "Practical",
+      "focus": "Evaluate: Honey-soy chicken wraps",
+      "student_work": "Complete the approved stage; record quality, a decision and next action; clean/reset.",
+      "evidence": "Check quality and next action; observe completion and clean/reset.",
+      "syllabus_content": [
+        "Apply safe, planned food preparation, production, presentation and evaluation practices."
+      ],
+      "outcome_codes": [
+        "FT5-SAF-01",
+        "FT5-USE-01",
+        "FT5-COM-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S6",
+        "S7"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 41,
+      "type": "Site/theory",
+      "focus": "Recipe and equipment selection",
+      "student_work": "Complete 10 checks, the applied activity and the scaffolded response.",
+      "evidence": "Check 10 responses, the activity and the response.",
+      "syllabus_content": [
+        "Identify and describe food preparation techniques and practices."
+      ],
+      "outcome_codes": [
+        "FT5-USE-01",
+        "FT5-FPP-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S6",
+        "S7"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-09.html#section-1"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "m09-s01"
+      ]
+    },
+    {
+      "number": 42,
+      "type": "Project/folio",
+      "focus": "Workflow and collaboration",
+      "student_work": "Complete 10 checks and the response; save the activity and linked folio evidence.",
+      "evidence": "Check 10 responses, the response and folio evidence.",
+      "syllabus_content": [
+        "Apply planning and management skills when undertaking food preparation practices."
+      ],
+      "outcome_codes": [
+        "FT5-SAF-01",
+        "FT5-FPP-01",
+        "FT5-COM-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S6",
+        "S7"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-09.html#section-2",
+        "folio.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "m09-s02"
+      ]
+    },
+    {
+      "number": 43,
+      "type": "Practical",
+      "focus": "Presentation, styling and photography",
+      "student_work": "First 20 min: complete the section check and response. Then start the approved practical.",
+      "evidence": "Check the response; observe the process and one quality point.",
+      "syllabus_content": [
+        "Investigate and apply food presentation, photography and styling techniques."
+      ],
+      "outcome_codes": [
+        "FT5-FPP-01",
+        "FT5-COM-01",
+        "FT5-SAF-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S6",
+        "S7"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-09.html#section-3"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02"
+      ],
+      "website_learning_ids": [
+        "m09-s03"
+      ]
+    },
+    {
+      "number": 44,
+      "type": "Practical",
+      "focus": "Produce: Party Task rehearsal or teacher-selected party recipe",
+      "student_work": "Continue the approved task using the current demonstration and controls; check technique and quality.",
+      "evidence": "Observe setup, process, technique, quality and clean/reset.",
+      "syllabus_content": [
+        "Apply safe, planned food preparation, production, presentation and evaluation practices."
+      ],
+      "outcome_codes": [
+        "FT5-SAF-01",
+        "FT5-FPP-01",
+        "FT5-USE-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S6",
+        "S7"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 45,
+      "type": "Practical",
+      "focus": "Evaluate: Party Task rehearsal or teacher-selected party recipe",
+      "student_work": "Complete the approved stage; record quality, a decision and next action; clean/reset.",
+      "evidence": "Check quality and next action; observe completion and clean/reset.",
+      "syllabus_content": [
+        "Apply safe, planned food preparation, production, presentation and evaluation practices."
+      ],
+      "outcome_codes": [
+        "FT5-SAF-01",
+        "FT5-USE-01",
+        "FT5-COM-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S6",
+        "S7"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 46,
+      "type": "Site/theory",
+      "focus": "Testing against criteria",
+      "student_work": "Complete 10 checks, the applied activity and the scaffolded response.",
+      "evidence": "Check 10 responses, the activity and the response.",
+      "syllabus_content": [
+        "Justify food design ideas through ingredient testing and experimentation for a specific context."
+      ],
+      "outcome_codes": [
+        "FT5-FPP-01",
+        "FT5-COM-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S6",
+        "S7"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-10.html#section-1"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "m10-s01"
+      ]
+    },
+    {
+      "number": 47,
+      "type": "Project/folio",
+      "focus": "Evidence, sources and bibliography",
+      "student_work": "Complete 10 checks and the response; save the activity and linked folio evidence.",
+      "evidence": "Check 10 responses, the response and folio evidence.",
+      "syllabus_content": [
+        "Apply creative concepts and design thinking to generate and evaluate food ideas for a specific context."
+      ],
+      "outcome_codes": [
+        "FT5-COM-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S6",
+        "S7"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-10.html#section-2",
+        "folio.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "m10-s02"
+      ]
+    },
+    {
+      "number": 48,
+      "type": "Practical",
+      "focus": "Reflection, improvement and communication",
+      "student_work": "First 20 min: complete the section check and response. Then start the approved practical.",
+      "evidence": "Check the response; observe the process and one quality point.",
+      "syllabus_content": [
+        "Justify food design ideas through ingredient testing and experimentation for a specific context."
+      ],
+      "outcome_codes": [
+        "FT5-COM-01",
+        "FT5-FPP-01",
+        "FT5-SAF-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S6",
+        "S7"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-10.html#section-3"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02"
+      ],
+      "website_learning_ids": [
+        "m10-s03"
+      ]
+    },
+    {
+      "number": 49,
+      "type": "Practical",
+      "focus": "Produce: Party Task production or teacher-selected final food solution",
+      "student_work": "Continue the approved task using the current demonstration and controls; check technique and quality.",
+      "evidence": "Observe setup, process, technique, quality and clean/reset.",
+      "syllabus_content": [
+        "Apply safe, planned food preparation, production, presentation and evaluation practices."
+      ],
+      "outcome_codes": [
+        "FT5-SAF-01",
+        "FT5-FPP-01",
+        "FT5-USE-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S6",
+        "S7"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 50,
+      "type": "Practical",
+      "focus": "Evaluate: Party Task production or teacher-selected final food solution",
+      "student_work": "Complete the approved stage; record quality, a decision and next action; clean/reset.",
+      "evidence": "Check quality and next action; observe completion and clean/reset.",
+      "syllabus_content": [
+        "Apply safe, planned food preparation, production, presentation and evaluation practices."
+      ],
+      "outcome_codes": [
+        "FT5-SAF-01",
+        "FT5-USE-01",
+        "FT5-COM-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S6",
+        "S7"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02"
+      ],
+      "website_learning_ids": []
+    }
+  ],
+  "site_route_map": [
+    {
+      "destination": "folio.html",
+      "purpose": "Named theory/check or saved folio destination",
+      "audience": "student",
+      "period_numbers": [
+        2,
+        7,
+        12,
+        17,
+        22,
+        27,
+        32,
+        37,
+        42,
+        47
+      ]
+    },
+    {
+      "destination": "modules/module-01.html#section-1",
+      "purpose": "Named theory/check or saved folio destination",
+      "audience": "student",
+      "period_numbers": [
+        1
+      ]
+    },
+    {
+      "destination": "modules/module-01.html#section-2",
+      "purpose": "Named theory/check or saved folio destination",
+      "audience": "student",
+      "period_numbers": [
+        2
+      ]
+    },
+    {
+      "destination": "modules/module-01.html#section-3",
+      "purpose": "Named theory/check or saved folio destination",
+      "audience": "student",
+      "period_numbers": [
+        3
+      ]
+    },
+    {
+      "destination": "modules/module-02.html#section-1",
+      "purpose": "Named theory/check or saved folio destination",
+      "audience": "student",
+      "period_numbers": [
+        6
+      ]
+    },
+    {
+      "destination": "modules/module-02.html#section-2",
+      "purpose": "Named theory/check or saved folio destination",
+      "audience": "student",
+      "period_numbers": [
+        7
+      ]
+    },
+    {
+      "destination": "modules/module-02.html#section-3",
+      "purpose": "Named theory/check or saved folio destination",
+      "audience": "student",
+      "period_numbers": [
+        8
+      ]
+    },
+    {
+      "destination": "modules/module-03.html#section-1",
+      "purpose": "Named theory/check or saved folio destination",
+      "audience": "student",
+      "period_numbers": [
+        11
+      ]
+    },
+    {
+      "destination": "modules/module-03.html#section-2",
+      "purpose": "Named theory/check or saved folio destination",
+      "audience": "student",
+      "period_numbers": [
+        12
+      ]
+    },
+    {
+      "destination": "modules/module-03.html#section-3",
+      "purpose": "Named theory/check or saved folio destination",
+      "audience": "student",
+      "period_numbers": [
+        13
+      ]
+    },
+    {
+      "destination": "modules/module-04.html#section-1",
+      "purpose": "Named theory/check or saved folio destination",
+      "audience": "student",
+      "period_numbers": [
+        16
+      ]
+    },
+    {
+      "destination": "modules/module-04.html#section-2",
+      "purpose": "Named theory/check or saved folio destination",
+      "audience": "student",
+      "period_numbers": [
+        17
+      ]
+    },
+    {
+      "destination": "modules/module-04.html#section-3",
+      "purpose": "Named theory/check or saved folio destination",
+      "audience": "student",
+      "period_numbers": [
+        18
+      ]
+    },
+    {
+      "destination": "modules/module-05.html#section-1",
+      "purpose": "Named theory/check or saved folio destination",
+      "audience": "student",
+      "period_numbers": [
+        21
+      ]
+    },
+    {
+      "destination": "modules/module-05.html#section-2",
+      "purpose": "Named theory/check or saved folio destination",
+      "audience": "student",
+      "period_numbers": [
+        22
+      ]
+    },
+    {
+      "destination": "modules/module-05.html#section-3",
+      "purpose": "Named theory/check or saved folio destination",
+      "audience": "student",
+      "period_numbers": [
+        23
+      ]
+    },
+    {
+      "destination": "modules/module-06.html#section-1",
+      "purpose": "Named theory/check or saved folio destination",
+      "audience": "student",
+      "period_numbers": [
+        26
+      ]
+    },
+    {
+      "destination": "modules/module-06.html#section-2",
+      "purpose": "Named theory/check or saved folio destination",
+      "audience": "student",
+      "period_numbers": [
+        27
+      ]
+    },
+    {
+      "destination": "modules/module-06.html#section-3",
+      "purpose": "Named theory/check or saved folio destination",
+      "audience": "student",
+      "period_numbers": [
+        28
+      ]
+    },
+    {
+      "destination": "modules/module-07.html#section-1",
+      "purpose": "Named theory/check or saved folio destination",
+      "audience": "student",
+      "period_numbers": [
+        31
+      ]
+    },
+    {
+      "destination": "modules/module-07.html#section-2",
+      "purpose": "Named theory/check or saved folio destination",
+      "audience": "student",
+      "period_numbers": [
+        32
+      ]
+    },
+    {
+      "destination": "modules/module-07.html#section-3",
+      "purpose": "Named theory/check or saved folio destination",
+      "audience": "student",
+      "period_numbers": [
+        33
+      ]
+    },
+    {
+      "destination": "modules/module-08.html#section-1",
+      "purpose": "Named theory/check or saved folio destination",
+      "audience": "student",
+      "period_numbers": [
+        36
+      ]
+    },
+    {
+      "destination": "modules/module-08.html#section-2",
+      "purpose": "Named theory/check or saved folio destination",
+      "audience": "student",
+      "period_numbers": [
+        37
+      ]
+    },
+    {
+      "destination": "modules/module-08.html#section-3",
+      "purpose": "Named theory/check or saved folio destination",
+      "audience": "student",
+      "period_numbers": [
+        38
+      ]
+    },
+    {
+      "destination": "modules/module-09.html#section-1",
+      "purpose": "Named theory/check or saved folio destination",
+      "audience": "student",
+      "period_numbers": [
+        41
+      ]
+    },
+    {
+      "destination": "modules/module-09.html#section-2",
+      "purpose": "Named theory/check or saved folio destination",
+      "audience": "student",
+      "period_numbers": [
+        42
+      ]
+    },
+    {
+      "destination": "modules/module-09.html#section-3",
+      "purpose": "Named theory/check or saved folio destination",
+      "audience": "student",
+      "period_numbers": [
+        43
+      ]
+    },
+    {
+      "destination": "modules/module-10.html#section-1",
+      "purpose": "Named theory/check or saved folio destination",
+      "audience": "student",
+      "period_numbers": [
+        46
+      ]
+    },
+    {
+      "destination": "modules/module-10.html#section-2",
+      "purpose": "Named theory/check or saved folio destination",
+      "audience": "student",
+      "period_numbers": [
+        47
+      ]
+    },
+    {
+      "destination": "modules/module-10.html#section-3",
+      "purpose": "Named theory/check or saved folio destination",
+      "audience": "student",
+      "period_numbers": [
+        48
+      ]
+    }
+  ],
+  "teacher_to_confirm": [
+    {
+      "id": "TTC-01",
+      "item": "Selected recipe/task, ingredients, quantities, substitutions, local food needs, equipment, ordering and practical date",
+      "owner": "Teacher / faculty",
+      "affected_periods": [
+        3,
+        4,
+        5,
+        8,
+        9,
+        10,
+        13,
+        14,
+        15,
+        18,
+        19,
+        20,
+        23,
+        24,
+        25,
+        28,
+        29,
+        30,
+        33,
+        34,
+        35,
+        38,
+        39,
+        40,
+        43,
+        44,
+        45,
+        48,
+        49,
+        50
+      ],
+      "due_before": "Before each practical"
+    },
+    {
+      "id": "TTC-02",
+      "item": "Current demonstrations, room routines, supervision, cleaning, allergy controls and local risk controls",
+      "owner": "Teacher / faculty",
+      "affected_periods": [
+        3,
+        4,
+        5,
+        8,
+        9,
+        10,
+        13,
+        14,
+        15,
+        18,
+        19,
+        20,
+        23,
+        24,
+        25,
+        28,
+        29,
+        30,
+        33,
+        34,
+        35,
+        38,
+        39,
+        40,
+        43,
+        44,
+        45,
+        48,
+        49,
+        50
+      ],
+      "due_before": "Before practical work"
+    },
+    {
+      "id": "TTC-03",
+      "item": "Task authority, outcomes, marks, dates, conditions, adjustments, rubric and submission method",
+      "owner": "Teacher / faculty",
+      "affected_periods": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50
+      ],
+      "due_before": "Before assessment"
+    },
+    {
+      "id": "TTC-04",
+      "item": "The evidence used for any outcome judgement; browser records remain formative and do not prove practical performance",
+      "owner": "Teacher / faculty",
+      "affected_periods": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50
+      ],
+      "due_before": "Before final reporting"
+    }
+  ],
+  "files": [
+    {
+      "path": "resources/teacher/Food-for-Purpose-50-Period-Teaching-Program-v2.0-Network-Benchmark.docx",
+      "purpose": "editable-program",
+      "version": "v2.0",
+      "sha256": "356FAC87D79FFB03E015FF402DC02D009ED872723EF4E66F80264F105BF4F16C"
+    },
+    {
+      "path": "resources/teacher/Food-for-Purpose-50-Period-Teaching-Program-v2.0-Network-Benchmark.pdf",
+      "purpose": "rendered-program",
+      "version": "v2.0",
+      "sha256": "CCCB29A019D44F1D6B62CEE43E7C520256228675AD14236EE41E27355CF72B9C"
+    },
+    {
+      "path": "resources/teacher/Food-for-Purpose-50-Period-Alignment-Manifest-v2.0.json",
+      "purpose": "alignment-manifest",
+      "version": "v2.0"
+    }
+  ]
+}

@@ -140,7 +140,7 @@
       background: var(--paper); box-shadow: 0 8px 26px rgba(24, 51, 42, .07);
       text-decoration: none; transition: transform .22s ease, box-shadow .22s ease, border-color .22s ease;
     }
-    .project-card:hover, .project-card:focus-visible {
+    .project-card:hover, .project-card:focus-visible, .project-card:focus-within {
       transform: translateY(-5px); border-color: #b8c8be; box-shadow: var(--shadow); outline: none;
     }
     .card-image { position: relative; height: 220px; overflow: hidden; background: #e7ece8; }
@@ -153,6 +153,14 @@
     .card-link { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin-top: auto; color: var(--forest); font-weight: 800; }
     .card-link span:last-child { font-size: 1.2rem; transition: transform .2s ease; }
     .project-card:hover .card-link span:last-child { transform: translate(3px, -3px); }
+    .card-actions { display: grid; gap: 8px; margin-top: auto; }
+    .card-actions .card-link { margin-top: 0; text-decoration: none; }
+    .syllabus-card-link {
+      display: inline-flex; align-items: center; justify-content: space-between; gap: 10px;
+      padding-top: 9px; border-top: 1px solid var(--line); color: var(--muted);
+      font-size: .84rem; font-weight: 700; text-decoration: none;
+    }
+    .syllabus-card-link:hover, .syllabus-card-link:focus-visible { color: var(--forest); text-decoration: underline; }
 
     .resource-card .card-image { height: 205px; }
     .resource-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
@@ -288,10 +296,10 @@
             <div class="card-body"><span class="tag">Stage 4 · Technology 7–8</span><h3>Desk Tidy</h3><p>Open the Desk Tidy project learning site.</p><span class="card-link"><span>Open project</span><span aria-hidden="true">↗</span></span></div>
           </a>
 
-          <a class="project-card" href="https://stevencowell.github.io/Year-8-Intro-Timber-Technology/" target="_blank" rel="noopener">
+          <article class="project-card">
             <div class="card-image"><img src="assets/footstool-workshop-hero.png" alt="Completed timber Footstool displayed on a school workshop bench" loading="lazy"></div>
-            <div class="card-body"><span class="tag">Stage 4 Industrial Technology</span><h3>Intro Timber Technology</h3><p>Build foundational timber, drawing, design and evaluation skills through the Footstool project.</p><span class="card-link"><span>Open guided course</span><span aria-hidden="true">↗</span></span></div>
-          </a>
+            <div class="card-body"><span class="tag">Stage 4 Industrial Technology</span><h3>Intro Timber Technology</h3><p>Build foundational timber, drawing, design and evaluation skills through the Footstool project.</p><div class="card-actions"><a class="card-link" href="https://stevencowell.github.io/Year-8-Intro-Timber-Technology/" target="_blank" rel="noopener"><span>Open guided course</span><span aria-hidden="true">↗</span></a><a class="syllabus-card-link" href="https://curriculum.nsw.edu.au/learning-areas/tas/industrial-technology-7-10-2025/overview/course" target="_blank" rel="noopener"><span>Official syllabus</span><span aria-hidden="true">↗</span></a></div></div>
+          </article>
 
           <a class="project-card" href="https://stevencowell.github.io/programmable-light-guided-course/" target="_blank" rel="noopener">
             <div class="card-image"><img src="https://stevencowell.github.io/programmable-light-guided-course/assets/programmable-light-hero.png" alt="Timber and clear-acrylic programmable light with an Arduino Uno and colour illumination" loading="lazy"></div>
@@ -489,10 +497,10 @@
             <div class="card-image"><img src="https://stevencowell.github.io/Year-7-8-Bucket-Hat/assets/bucket-hat-hero.png" alt="Purple reversible tie-dye bucket hat on a textiles worktable" loading="lazy"></div>
             <div class="card-body"><span class="tag">Stage 4 · Technology 7–8</span><h3>Bucket Hat for a Cause</h3><p>Design and construct a reversible bucket hat that communicates a respectful cause through a complete guided course.</p><span class="card-link"><span>Open guided course</span><span aria-hidden="true">&nearr;</span></span></div>
           </a>
-          <a class="project-card resource-card" href="https://stevencowell.github.io/Year-8-Textiles-Technology/" target="_blank" rel="noopener">
+          <article class="project-card resource-card">
             <div class="card-image"><img src="https://stevencowell.github.io/Year-8-Textiles-Technology/assets/visuals/heroes/module-01-textiles-workspace.png" alt="Folded fabric, thread spools, a design folio and a handmade pincushion arranged on a textiles worktable" loading="lazy"></div>
-            <div class="card-body"><span class="tag">Stage 4 Textiles Technology</span><h3>Year 8 Textiles Technology</h3><p>Follow a 20-week pathway through safe textiles practice, accessories, design, fibres, patterns and a shorts or pants project with learning checks and an autosaving folio.</p><span class="card-link"><span>Open guided course</span><span aria-hidden="true">&nearr;</span></span></div>
-          </a>
+            <div class="card-body"><span class="tag">Stage 4 Textiles Technology</span><h3>Year 8 Textiles Technology</h3><p>Follow a 20-week pathway through safe textiles practice, accessories, design, fibres, patterns and a shorts or pants project with learning checks and an autosaving folio.</p><div class="card-actions"><a class="card-link" href="https://stevencowell.github.io/Year-8-Textiles-Technology/" target="_blank" rel="noopener"><span>Open guided course</span><span aria-hidden="true">&nearr;</span></a><a class="syllabus-card-link" href="https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/overview/course" target="_blank" rel="noopener"><span>Official syllabus</span><span aria-hidden="true">&nearr;</span></a></div></div>
+          </article>
           <a class="project-card resource-card" href="https://stevencowell.github.io/Year-9-Textiles-Technology/" target="_blank" rel="noopener">
             <div class="card-image"><img src="https://stevencowell.github.io/Year-9-Textiles-Technology/assets/visuals/photos/material-swatches.png" alt="Textile swatches and yarn samples showing varied colours, textures and structures" loading="lazy"></div>
             <div class="card-body"><span class="tag">Stage 5 Textiles Technology</span><h3>Year 9 Textiles Technology</h3><p>Explore the eight-module guided course, Busy Work, video learning, autosaving folio and formal 2024 assessment support.</p><span class="card-link"><span>Open guided course</span><span aria-hidden="true">&nearr;</span></span></div>
@@ -533,10 +541,10 @@
             <div class="card-image"><img src="assets/fantastic-food-hero.png" alt="Fantastic Food practical dishes with fruit and vegetables in a Food Technology kitchen" loading="lazy"></div>
             <div class="card-body"><span class="tag">Stage 4 · Technology 7–8</span><h3>Fantastic Food</h3><p>Build safe kitchen routines, understand nutrition, complete practical food projects and collect evidence in an autosaving folio.</p><span class="card-link"><span>Open guided course</span><span aria-hidden="true">&nearr;</span></span></div>
           </a>
-          <a class="project-card resource-card" href="https://stevencowell.github.io/Year-8-Food-Technology/" target="_blank" rel="noopener">
+          <article class="project-card resource-card">
             <div class="card-image"><img src="assets/year-8-food-technology-card.png" alt="Prepared Food Technology kitchen workbench with a clean cutting board, folded cloth and utensils ready for a practical lesson" loading="lazy"></div>
-            <div class="card-body"><span class="tag">Stage 4 Food Technology</span><h3>Food for Purpose</h3><p>Build safe kitchen confidence, explore food choices and science, then design, produce and evaluate a purposeful party food solution.</p><span class="card-link"><span>Open guided course</span><span aria-hidden="true">&nearr;</span></span></div>
-          </a>
+            <div class="card-body"><span class="tag">Stage 4 Food Technology</span><h3>Food for Purpose</h3><p>Build safe kitchen confidence, explore food choices and science, then design, produce and evaluate a purposeful party food solution.</p><div class="card-actions"><a class="card-link" href="https://stevencowell.github.io/Year-8-Food-Technology/" target="_blank" rel="noopener"><span>Open guided course</span><span aria-hidden="true">&nearr;</span></a><a class="syllabus-card-link" href="https://curriculum.nsw.edu.au/learning-areas/tas/food-technology-7-10-2025/overview/course" target="_blank" rel="noopener"><span>Official syllabus</span><span aria-hidden="true">&nearr;</span></a></div></div>
+          </article>
           <a class="project-card resource-card" href="https://stevencowell.github.io/Year-8-The-Riv-Burger/" target="_blank" rel="noopener">
             <div class="card-image"><img src="https://stevencowell.github.io/Year-8-The-Riv-Burger/assets/riv-burger-hero.png" alt="Fresh Riv Burger featuring salad, herbs and locally sourced ingredients" loading="lazy"></div>
             <div class="card-body"><span class="tag">Stage 4 · Technology 7–8</span><h3>The Riv Burger</h3><p>Design a signature burger using local produce and school-grown herbs, with safe practical work and an autosaving evidence folio.</p><span class="card-link"><span>Open guided course</span><span aria-hidden="true">&nearr;</span></span></div>
