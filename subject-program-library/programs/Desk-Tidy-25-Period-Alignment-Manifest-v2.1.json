@@ -1,0 +1,1041 @@
+{
+  "schema_version": "1.1",
+  "program_id": "desk-tidy",
+  "version": "v2.1",
+  "teacher_facing_display": {
+    "course_identity": "Stage 4 Technology Mandatory",
+    "specific_year_group_visible": false,
+    "official_outcomes_complete": true,
+    "outcome_code_placement": "Beneath the plain-English syllabus alignment statement"
+  },
+  "course": {
+    "title": "Stage 4 Technology Mandatory",
+    "classification": "Technology Mandatory",
+    "stage_or_year": "Stage 4",
+    "delivery_year": 2027,
+    "project": "Desk Tidy"
+  },
+  "site": {
+    "name": "Desk Tidy",
+    "reference": "https://stevencowell.github.io/desk-tidy/",
+    "inspection_date": "2026-08-28",
+    "state": "repository"
+  },
+  "syllabus": {
+    "title": "Technology 7-8 Syllabus",
+    "version": "2023",
+    "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/technology-7-8-2023/overview/course",
+    "verified_date": "2026-08-28",
+    "mandatory_from": "2026",
+    "early_implementation": "not-applicable",
+    "steve_decision": "use-current",
+    "implementation_status": "current"
+  },
+  "timetable": {
+    "weeks": 10,
+    "period_minutes": 60,
+    "periods_per_fortnight": 5,
+    "total_periods": 25
+  },
+  "outcomes": [
+    {
+      "code": "TE4-SDP-01",
+      "statement": "explains relationships between sustainability, design and production",
+      "source_id": "S1",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/technology-7-8-2023/outcomes"
+    },
+    {
+      "code": "TE4-PDP-01",
+      "statement": "describes the practices and processes of designers and producers",
+      "source_id": "S1",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/technology-7-8-2023/outcomes"
+    },
+    {
+      "code": "TE4-MSC-01",
+      "statement": "explains how materials, systems and components contribute to solutions",
+      "source_id": "S1",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/technology-7-8-2023/outcomes"
+    },
+    {
+      "code": "TE4-PPM-01",
+      "statement": "applies processes in the planning, management and production of projects",
+      "source_id": "S1",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/technology-7-8-2023/outcomes"
+    },
+    {
+      "code": "TE4-DES-01",
+      "statement": "communicates and evaluates design ideas and solutions",
+      "source_id": "S1",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/technology-7-8-2023/outcomes"
+    },
+    {
+      "code": "TE4-SAF-01",
+      "statement": "selects and safely uses tools, materials, technologies and processes",
+      "source_id": "S1",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/technology-7-8-2023/outcomes"
+    },
+    {
+      "code": "TE4-DIG-01",
+      "statement": "demonstrates technological literacy to safely interact in digital environments",
+      "source_id": "S1",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/technology-7-8-2023/outcomes"
+    },
+    {
+      "code": "TE4-DIG-02",
+      "statement": "uses data and digital systems to code, design and produce projects",
+      "source_id": "S1",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/technology-7-8-2023/outcomes"
+    }
+  ],
+  "source_register": [
+    {
+      "id": "S1",
+      "title": "NSW Technology 7-8 Syllabus (2023)",
+      "authority": "official-syllabus",
+      "location": "https://curriculum.nsw.edu.au/learning-areas/tas/technology-7-8-2023/overview/course",
+      "revision": "verified 2026-08-28",
+      "use": "Course identity, complete Stage 4 outcomes and focus-area alignment"
+    },
+    {
+      "id": "S2",
+      "title": "Previous Desk Tidy teaching program",
+      "authority": "local-program",
+      "location": "C:\\Users\\scowell1\\Documents\\Codex\\2026-08-28\\okay-so-with-the-all-the\\work\\network-alignment\\desk-tidy\\resources\\teacher\\Desk-Tidy-25-Period-Teaching-Program-v2.0-Plugin-Build.docx",
+      "revision": "C9D07DC8929A7C1D8C964A3468943D5829598A5DC2BC2BBFD363379FF2F95923",
+      "use": "Preserved period sequence, teaching content, evidence and Teacher to confirm boundaries"
+    },
+    {
+      "id": "S3",
+      "title": "Desk Tidy course website",
+      "authority": "website",
+      "location": "https://stevencowell.github.io/desk-tidy/",
+      "revision": "repository inspection 2026-08-28",
+      "use": "Named learning routes and evidence destinations"
+    },
+    {
+      "id": "S4",
+      "title": "Riv Burger network benchmark v2.3",
+      "authority": "quality-reference",
+      "location": "C:\\Users\\scowell1\\Documents\\Codex\\2026-08-28\\okay-so-with-the-all-the\\work\\riv-burger-benchmark\\resources\\teacher\\Riv-Burger-25-Period-Teaching-Program-v2.3-Network-Benchmark.docx",
+      "revision": "CD4F9EB7F57559C3F15A756E09AB219BC2A6E0877FDE6B0FF813B169A0B80B7F",
+      "use": "Program structure and visual pattern only"
+    }
+  ],
+  "website_learning_inventory": [
+    {
+      "id": "P01-LEARNING",
+      "route": "weeks1-2/index.html",
+      "theory_section": "Design brief and user need",
+      "quiz_or_check": "Matching knowledge check and guided response",
+      "question_count": 10,
+      "scaffolded_response_count": 0,
+      "period_numbers": [
+        1
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "10 checks + capstone + Folio 1",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "P02-LEARNING",
+      "route": "weeks1-2/index.html",
+      "theory_section": "Hazards, risks and controls",
+      "quiz_or_check": "Matching knowledge check and guided response",
+      "question_count": 10,
+      "scaffolded_response_count": 0,
+      "period_numbers": [
+        2
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "10 checks + safety capstone + Folio 7",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "P06-LEARNING",
+      "route": "weeks3-4/index.html",
+      "theory_section": "Research products and production roles",
+      "quiz_or_check": "Matching knowledge check and guided response",
+      "question_count": 10,
+      "scaffolded_response_count": 0,
+      "period_numbers": [
+        6
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "10 checks + research capstone",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "P08-LEARNING",
+      "route": "weeks3-4/index.html",
+      "theory_section": "Compare, prototype and refine",
+      "quiz_or_check": "Matching knowledge check and guided response",
+      "question_count": 10,
+      "scaffolded_response_count": 0,
+      "period_numbers": [
+        8
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "10 checks + 2 capstones + Folio 3",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "P11-LEARNING",
+      "route": "weeks5-6/index.html",
+      "theory_section": "Orthographic drawing",
+      "quiz_or_check": "Matching knowledge check and guided response",
+      "question_count": 10,
+      "scaffolded_response_count": 0,
+      "period_numbers": [
+        11
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "10 checks + capstone + Folio 5",
+      "teacher_to_confirm_ids": []
+    }
+  ],
+  "periods": [
+    {
+      "number": 1,
+      "type": "Site/theory",
+      "focus": "Design brief and user need",
+      "student_work": "M1 Designing for an organised workspace: theory, 10 checks, verified video and activity brief-to-criteria; save brief/criteria to Folio 1.",
+      "evidence": "10 checks + capstone + Folio 1",
+      "syllabus_content": [
+        "Factors affecting design; document design processes"
+      ],
+      "outcome_codes": [
+        "TE4-DES-01",
+        "TE4-PDP-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "weeks1-2/index.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "P01-LEARNING"
+      ]
+    },
+    {
+      "number": 2,
+      "type": "Site/theory",
+      "focus": "Hazards, risks and controls",
+      "student_work": "M1 Hazards, risks and controls: theory, 10 checks, verified video and activity hazard-risk-control-chain.",
+      "evidence": "10 checks + safety capstone + Folio 7",
+      "syllabus_content": [
+        "Safe practice; select and justify processes"
+      ],
+      "outcome_codes": [
+        "TE4-SAF-01",
+        "TE4-PDP-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "weeks1-2/index.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "P02-LEARNING"
+      ]
+    },
+    {
+      "number": 3,
+      "type": "Practical",
+      "focus": "Choosing materials responsibly",
+      "student_work": "M1 Choosing materials responsibly: theory, 10 checks, verified video and activity materials-evidence-sort.",
+      "evidence": "10 checks + 2 materials capstones + sample record",
+      "syllabus_content": [
+        "Material properties; responsible sourcing; safe sample testing"
+      ],
+      "outcome_codes": [
+        "TE4-SAF-01",
+        "TE4-PPM-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-02"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 4,
+      "type": "Practical",
+      "focus": "Induction and demonstration",
+      "student_work": "Use M1 safety-section support; complete current induction and the teacher's practice-slat demonstration. Website support is not tool authorisation.",
+      "evidence": "Induction / OnGuard check",
+      "syllabus_content": [
+        "Safe use of materials, tools and processes"
+      ],
+      "outcome_codes": [
+        "TE4-SAF-01",
+        "TE4-PPM-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-02"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 5,
+      "type": "Practical",
+      "focus": "Practice slat",
+      "student_work": "Project-unit source: make the authorised 200 x 20 x 10 mm practice slat under current teacher controls and check accuracy.",
+      "evidence": "Practice-slat check",
+      "syllabus_content": [
+        "Develop practical skills; test processes"
+      ],
+      "outcome_codes": [
+        "TE4-SAF-01",
+        "TE4-PPM-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-02"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 6,
+      "type": "Site/theory",
+      "focus": "Research products and production roles",
+      "student_work": "M2 Researching organisers and generating four concepts: theory, 10 checks, verified video and activity research-to-four-concepts.",
+      "evidence": "10 checks + research capstone",
+      "syllabus_content": [
+        "Products/systems; production roles; ethical/legal considerations"
+      ],
+      "outcome_codes": [
+        "TE4-PDP-01",
+        "TE4-MSC-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "weeks3-4/index.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "P06-LEARNING"
+      ]
+    },
+    {
+      "number": 7,
+      "type": "Project/folio",
+      "focus": "Develop four concepts",
+      "student_work": "Continue the M2 research-to-four-concepts section/activity; draw four genuinely different annotated concepts with approximate sizes and save to Folio.",
+      "evidence": "Folio 2 concepts",
+      "syllabus_content": [
+        "Design/creative thinking; sketch and annotate ideas"
+      ],
+      "outcome_codes": [
+        "TE4-DES-01",
+        "TE4-PPM-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "desk-tidy-folio.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": []
+    },
+    {
+      "number": 8,
+      "type": "Site/theory",
+      "focus": "Compare, prototype and refine",
+      "student_work": "M2 Comparing concepts: theory, 10 checks, verified video and activity concept-evidence-decisions; use the matrix and approved prototype/model/sample.",
+      "evidence": "10 checks + 2 capstones + Folio 3",
+      "syllabus_content": [
+        "Assess ideas; create and test prototypes/models/samples"
+      ],
+      "outcome_codes": [
+        "TE4-DES-01",
+        "TE4-SDP-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "weeks3-4/index.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "P08-LEARNING"
+      ]
+    },
+    {
+      "number": 9,
+      "type": "Project/folio",
+      "focus": "Respectful design research",
+      "student_work": "M2 Respectful design research: theory, 10 checks, verified video and activity respectful-design-research.",
+      "evidence": "10 checks + capstone + Folio 4",
+      "syllabus_content": [
+        "Aboriginal and Torres Strait Islander Peoples' products/systems; ethical use"
+      ],
+      "outcome_codes": [
+        "TE4-DES-01",
+        "TE4-PPM-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "desk-tidy-folio.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": []
+    },
+    {
+      "number": 10,
+      "type": "Practical",
+      "focus": "Joint samples and approval",
+      "student_work": "Early support: pre-teach the M4 joint section/activity; practise approved joints on offcuts, compare quality and gain design/joint approval.",
+      "evidence": "Joint sample",
+      "syllabus_content": [
+        "Justify tools, materials and techniques"
+      ],
+      "outcome_codes": [
+        "TE4-SAF-01",
+        "TE4-PPM-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-02"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 11,
+      "type": "Site/theory",
+      "focus": "Orthographic drawing",
+      "student_work": "M3 Working drawings: theory, 10 checks, verified video and activity working-drawing-language; draw approved 1:10 orthographic views and save to Folio.",
+      "evidence": "10 checks + capstone + Folio 5",
+      "syllabus_content": [
+        "Sketch, draw, annotate and document solutions"
+      ],
+      "outcome_codes": [
+        "TE4-DES-01",
+        "TE4-PPM-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "weeks5-6/index.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "P11-LEARNING"
+      ]
+    },
+    {
+      "number": 12,
+      "type": "Project/folio",
+      "focus": "Isometric and cutting list",
+      "student_work": "Dual map: continue M3 working drawings and begin the cutting-list/production-plan package; prepare the isometric and cutting list from approved.",
+      "evidence": "Drawing + cutting-list evidence + Folio 5 and 6",
+      "syllabus_content": [
+        "Draw solutions; document design and safe production"
+      ],
+      "outcome_codes": [
+        "TE4-DES-01",
+        "TE4-PPM-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "desk-tidy-folio.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": []
+    },
+    {
+      "number": 13,
+      "type": "Project/folio",
+      "focus": "Production schedule",
+      "student_work": "Continue the M3 cutting-list/production-plan section and activity production-plan-sequence; complete its scaffolded sequence, dependencies, safety.",
+      "evidence": "Production-plan capstone + Folio 6",
+      "syllabus_content": [
+        "Plan and manage safe production; document design"
+      ],
+      "outcome_codes": [
+        "TE4-DES-01",
+        "TE4-PPM-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "desk-tidy-folio.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": []
+    },
+    {
+      "number": 14,
+      "type": "Practical",
+      "focus": "Datum marking-out",
+      "student_work": "M3 Datums and accurate marking out: theory, 10 checks, verified video and activity datum-stop-check.",
+      "evidence": "10 checks + capstone + Folio 8",
+      "syllabus_content": [
+        "Select processes; demonstrate safe practice"
+      ],
+      "outcome_codes": [
+        "TE4-SAF-01",
+        "TE4-PPM-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-02"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 15,
+      "type": "Practical",
+      "focus": "Complete marking-out",
+      "student_work": "Complete marking out from approved drawings; pair matching parts and recheck dimensions before irreversible work.",
+      "evidence": "Component check + Folio 8",
+      "syllabus_content": [
+        "Select processes; test accuracy"
+      ],
+      "outcome_codes": [
+        "TE4-SAF-01",
+        "TE4-PPM-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-02"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 16,
+      "type": "Practical",
+      "focus": "Cut components",
+      "student_work": "M4 Cutting and shaping accurately: theory, 10 checks, verified video and activity controlled-cutting-routine before tools are issued.",
+      "evidence": "10 checks + capstone",
+      "syllabus_content": [
+        "Develop practical skills; demonstrate safe practice"
+      ],
+      "outcome_codes": [
+        "TE4-SAF-01",
+        "TE4-PPM-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-02"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 17,
+      "type": "Practical",
+      "focus": "Shape and refine",
+      "student_work": "Continue the M4 cutting and shaping section/activity; shape matching parts using demonstrated methods.",
+      "evidence": "Shaped-component check",
+      "syllabus_content": [
+        "Production techniques and solution quality"
+      ],
+      "outcome_codes": [
+        "TE4-SAF-01",
+        "TE4-PPM-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-02"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 18,
+      "type": "Practical",
+      "focus": "Prepare joints and drilling",
+      "student_work": "M4 Butt, rebate and dowel joints: theory, 10 checks, verified video and activity joint-detective; prepare only the approved joint/drilling process.",
+      "evidence": "10 checks + capstone + Folio 9",
+      "syllabus_content": [
+        "Select and justify processes; safe practice"
+      ],
+      "outcome_codes": [
+        "TE4-SAF-01",
+        "TE4-PPM-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-02"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 19,
+      "type": "Practical",
+      "focus": "Dry fit",
+      "student_work": "M4 Dry fitting, PVA assembly and surface preparation: theory, 10 checks, verified video and activity dry-fit-to-surface.",
+      "evidence": "10 checks + capstone + Folio 10",
+      "syllabus_content": [
+        "Test, modify and improve quality"
+      ],
+      "outcome_codes": [
+        "TE4-SAF-01",
+        "TE4-PPM-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-02"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 20,
+      "type": "Practical",
+      "focus": "Refine the fit",
+      "student_work": "Continue the M4 dry-fit section/activity; resolve faults through teacher-approved adjustments, recheck the full assembly and complete the mapped.",
+      "evidence": "Capstone + approved dry fit",
+      "syllabus_content": [
+        "Test, modify and evaluate quality"
+      ],
+      "outcome_codes": [
+        "TE4-SAF-01",
+        "TE4-PPM-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-02"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 21,
+      "type": "Practical",
+      "focus": "Glue and clamp",
+      "student_work": "Continue activity dry-fit-to-surface; apply PVA, assemble and clamp only as demonstrated; photograph alignment and quality checks for Folio 10.",
+      "evidence": "Assembly record + Folio 10",
+      "syllabus_content": [
+        "Develop practical skills; document design"
+      ],
+      "outcome_codes": [
+        "TE4-SAF-01",
+        "TE4-PPM-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-02"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 22,
+      "type": "Practical",
+      "focus": "Surface preparation",
+      "student_work": "When cured and authorised, sand through 80, 120 and 240 grit; inspect glue, edges and surface; record preparation evidence in Folio 11.",
+      "evidence": "Surface check + Folio 11",
+      "syllabus_content": [
+        "Production techniques and solution quality"
+      ],
+      "outcome_codes": [
+        "TE4-SAF-01",
+        "TE4-PPM-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-02"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 23,
+      "type": "Practical",
+      "focus": "Apply clear finish",
+      "student_work": "M5 Applying a clear finish: use the full on-site theory alternative, 10 checks and activity finish-readiness-inspection.",
+      "evidence": "10 checks + capstone + Folio 11",
+      "syllabus_content": [
+        "Develop practical skills; demonstrate safe practice"
+      ],
+      "outcome_codes": [
+        "TE4-SAF-01",
+        "TE4-PPM-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-02"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 24,
+      "type": "Practical",
+      "focus": "Functional testing",
+      "student_work": "M5 Functional testing: theory, 10 checks, verified video and activity functional-test-builder; test capacity, access, stability.",
+      "evidence": "10 checks + capstone + Folio 12",
+      "syllabus_content": [
+        "Test, improve and evaluate quality"
+      ],
+      "outcome_codes": [
+        "TE4-SAF-01",
+        "TE4-PPM-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-02"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 25,
+      "type": "Project/folio",
+      "focus": "Evaluate and present",
+      "student_work": "M5 Evaluation, presentation and reflection: theory, 10 checks, verified video and activity evaluation-evidence-check.",
+      "evidence": "10 checks + 2 capstones + Folio 12",
+      "syllabus_content": [
+        "Evaluate using written, visual, verbal or multimodal forms"
+      ],
+      "outcome_codes": [
+        "TE4-DES-01",
+        "TE4-PPM-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "desk-tidy-folio.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": []
+    }
+  ],
+  "site_route_map": [
+    {
+      "destination": "desk-tidy-folio.html",
+      "purpose": "Named learning or saved evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        7,
+        9,
+        12,
+        13,
+        25
+      ]
+    },
+    {
+      "destination": "weeks1-2/index.html",
+      "purpose": "Named learning or saved evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        1,
+        2
+      ]
+    },
+    {
+      "destination": "weeks3-4/index.html",
+      "purpose": "Named learning or saved evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        6,
+        8
+      ]
+    },
+    {
+      "destination": "weeks5-6/index.html",
+      "purpose": "Named learning or saved evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        11
+      ]
+    }
+  ],
+  "teacher_to_confirm": [
+    {
+      "id": "TTC-01",
+      "item": "Confirm timetable, lesson order, class supports and approved adjustments.",
+      "owner": "Teacher / faculty",
+      "affected_periods": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "due_before": "Before the unit"
+    },
+    {
+      "id": "TTC-02",
+      "item": "Confirm each practical activity, materials, equipment, supervision and current risk controls.",
+      "owner": "Teacher / faculty",
+      "affected_periods": [
+        3,
+        4,
+        5,
+        10,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "due_before": "Before each practical"
+    },
+    {
+      "id": "TTC-03",
+      "item": "Confirm assessment authority, marks, dates, conditions and submission method.",
+      "owner": "Teacher / faculty",
+      "affected_periods": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "due_before": "Before assessment use"
+    },
+    {
+      "id": "TTC-04",
+      "item": "Confirm current links, program version and local sequence changes.",
+      "owner": "Teacher / faculty",
+      "affected_periods": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "due_before": "Before classroom issue"
+    }
+  ],
+  "files": [
+    {
+      "path": "resources/teacher/Desk-Tidy-25-Period-Teaching-Program-v2.1-Network-Benchmark.docx",
+      "purpose": "editable-program",
+      "version": "v2.1",
+      "sha256": "1DDA225A9B3F7388C2C002A67FA7250D4851793FFB08AC575690F55A9694CDFE"
+    },
+    {
+      "path": "resources/teacher/Desk-Tidy-25-Period-Teaching-Program-v2.1-Network-Benchmark.pdf",
+      "purpose": "rendered-program",
+      "version": "v2.1",
+      "sha256": "56B52E41E60F11AA7B8FBB4C3D54932CA00BF3032FC9199ED4DAF3BB0EBAF52F"
+    },
+    {
+      "path": "resources/teacher/Desk-Tidy-25-Period-Alignment-Manifest-v2.1.json",
+      "purpose": "alignment-manifest",
+      "version": "v2.1"
+    }
+  ]
+}

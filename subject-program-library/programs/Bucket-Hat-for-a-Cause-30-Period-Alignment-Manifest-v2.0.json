@@ -1,0 +1,1400 @@
+{
+  "schema_version": "1.1",
+  "program_id": "bucket-hat-for-a-cause",
+  "version": "v2.0",
+  "teacher_facing_display": {
+    "course_identity": "Stage 4 Technology Mandatory",
+    "specific_year_group_visible": false,
+    "official_outcomes_complete": true,
+    "outcome_code_placement": "Beneath the plain-English syllabus alignment statement"
+  },
+  "course": {
+    "title": "Stage 4 Technology Mandatory",
+    "classification": "Technology Mandatory",
+    "stage_or_year": "Stage 4",
+    "delivery_year": 2027,
+    "project": "Bucket Hat for a Cause"
+  },
+  "site": {
+    "name": "Bucket Hat for a Cause",
+    "reference": "https://stevencowell.github.io/Year-7-8-Bucket-Hat/",
+    "inspection_date": "2026-08-28",
+    "state": "repository"
+  },
+  "syllabus": {
+    "title": "Technology 7-8 Syllabus",
+    "version": "2023",
+    "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/technology-7-8-2023/overview/course",
+    "verified_date": "2026-08-28",
+    "mandatory_from": "2026",
+    "early_implementation": "not-applicable",
+    "steve_decision": "use-current",
+    "implementation_status": "current"
+  },
+  "timetable": {
+    "weeks": 10,
+    "period_minutes": 60,
+    "periods_per_fortnight": 6,
+    "total_periods": 30
+  },
+  "outcomes": [
+    {
+      "code": "TE4-SDP-01",
+      "statement": "explains relationships between sustainability, design and production",
+      "source_id": "S1",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/technology-7-8-2023/outcomes"
+    },
+    {
+      "code": "TE4-PDP-01",
+      "statement": "describes the practices and processes of designers and producers",
+      "source_id": "S1",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/technology-7-8-2023/outcomes"
+    },
+    {
+      "code": "TE4-MSC-01",
+      "statement": "explains how materials, systems and components contribute to solutions",
+      "source_id": "S1",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/technology-7-8-2023/outcomes"
+    },
+    {
+      "code": "TE4-PPM-01",
+      "statement": "applies processes in the planning, management and production of projects",
+      "source_id": "S1",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/technology-7-8-2023/outcomes"
+    },
+    {
+      "code": "TE4-DES-01",
+      "statement": "communicates and evaluates design ideas and solutions",
+      "source_id": "S1",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/technology-7-8-2023/outcomes"
+    },
+    {
+      "code": "TE4-SAF-01",
+      "statement": "selects and safely uses tools, materials, technologies and processes",
+      "source_id": "S1",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/technology-7-8-2023/outcomes"
+    },
+    {
+      "code": "TE4-DIG-01",
+      "statement": "demonstrates technological literacy to safely interact in digital environments",
+      "source_id": "S1",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/technology-7-8-2023/outcomes"
+    },
+    {
+      "code": "TE4-DIG-02",
+      "statement": "uses data and digital systems to code, design and produce projects",
+      "source_id": "S1",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/technology-7-8-2023/outcomes"
+    }
+  ],
+  "source_register": [
+    {
+      "id": "S1",
+      "title": "NSW Technology 7-8 Syllabus (2023)",
+      "authority": "official-syllabus",
+      "location": "https://curriculum.nsw.edu.au/learning-areas/tas/technology-7-8-2023/overview/course",
+      "revision": "verified 2026-08-28",
+      "use": "Course identity, complete Stage 4 outcomes and focus-area alignment"
+    },
+    {
+      "id": "S2",
+      "title": "Previous Bucket Hat for a Cause teaching program",
+      "authority": "local-program",
+      "location": "C:\\Users\\scowell1\\Documents\\Codex\\2026-08-28\\okay-so-with-the-all-the\\work\\network-alignment\\bucket-hat\\resources\\teacher\\Bucket-Hat-for-a-Cause-30-Period-Teaching-Program-v1.0-Website-Complete-10pt.docx",
+      "revision": "83C198C2D67F9483F03587B4DDB8EFF8303C5FDE1BED283087B2EB5DC301F2C9",
+      "use": "Preserved period sequence, teaching content, evidence and Teacher to confirm boundaries"
+    },
+    {
+      "id": "S3",
+      "title": "Bucket Hat for a Cause course website",
+      "authority": "website",
+      "location": "https://stevencowell.github.io/Year-7-8-Bucket-Hat/",
+      "revision": "repository inspection 2026-08-28",
+      "use": "Named learning routes and evidence destinations"
+    },
+    {
+      "id": "S4",
+      "title": "Riv Burger network benchmark v2.3",
+      "authority": "quality-reference",
+      "location": "C:\\Users\\scowell1\\Documents\\Codex\\2026-08-28\\okay-so-with-the-all-the\\work\\riv-burger-benchmark\\resources\\teacher\\Riv-Burger-25-Period-Teaching-Program-v2.3-Network-Benchmark.docx",
+      "revision": "CD4F9EB7F57559C3F15A756E09AB219BC2A6E0877FDE6B0FF813B169A0B80B7F",
+      "use": "Program structure and visual pattern only"
+    }
+  ],
+  "website_learning_inventory": [
+    {
+      "id": "P01-LEARNING",
+      "route": "modules/module-01.html",
+      "theory_section": "Module 1 - 1.1 Textiles are everywhere; 1.2 Hats.",
+      "quiz_or_check": "Matching knowledge check and guided response",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        1
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "check + response",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "P04-LEARNING",
+      "route": "modules/module-02.html",
+      "theory_section": "Module 2 - 2.1 Practical-room routines; 2.2 Tools, pins.",
+      "quiz_or_check": "Matching knowledge check and guided response",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        4
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "check + response",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "P06-LEARNING",
+      "route": "modules/module-03.html",
+      "theory_section": "Module 3 - 3.1 Colour communicates; 3.2 Symbols and imagery.",
+      "quiz_or_check": "Matching knowledge check and guided response",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        6
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "check + response",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "P09-LEARNING",
+      "route": "modules/module-04.html",
+      "theory_section": "Module 4 - 4.1 Design situation, need and user.",
+      "quiz_or_check": "Matching knowledge check and guided response",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        9
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "check + response",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "P11-LEARNING",
+      "route": "modules/module-05.html",
+      "theory_section": "Module 5 - 5.1 Mood boards with direction; 5.2 Distinct annotated.",
+      "quiz_or_check": "Matching knowledge check and guided response",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        11
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "check + response",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "P14-LEARNING",
+      "route": "modules/module-06.html",
+      "theory_section": "Module 6 - 6.1 Fibre, yarn and fabric; 6.2 Cotton and polyester.",
+      "quiz_or_check": "Matching knowledge check and guided response",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        14
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "check + response",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "P16-LEARNING",
+      "route": "modules/module-07.html",
+      "theory_section": "Module 7 - 7.1 Sampling before production; 7.2 Appliqué.",
+      "quiz_or_check": "Matching knowledge check and guided response",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        16
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "check + response",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "P19-LEARNING",
+      "route": "modules/module-08.html",
+      "theory_section": "Module 8 - 8.1 Pattern pieces and symbols; 8.2 Layout.",
+      "quiz_or_check": "Matching knowledge check and guided response",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        19
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "check + response",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "P20-LEARNING",
+      "route": "modules/module-08.html",
+      "theory_section": "Module 8 - 8.3 Machine readiness and practice",
+      "quiz_or_check": "Matching knowledge check and guided response",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        20
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "check + response",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "P22-LEARNING",
+      "route": "modules/module-09.html",
+      "theory_section": "Module 9 - 9.1 Action plan and workflow",
+      "quiz_or_check": "Matching knowledge check and guided response",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        22
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "check + response",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "P23-LEARNING",
+      "route": "modules/module-09.html",
+      "theory_section": "Module 9 - 9.2 Construction quality",
+      "quiz_or_check": "Matching knowledge check and guided response",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        23
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "check + response",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "P24-LEARNING",
+      "route": "modules/module-09.html",
+      "theory_section": "Module 9 - 9.3 Progress evidence",
+      "quiz_or_check": "Matching knowledge check and guided response",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        24
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "check + response",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "P27-LEARNING",
+      "route": "modules/module-10.html",
+      "theory_section": "Module 10 - 10.1 Test against criteria",
+      "quiz_or_check": "Matching knowledge check and guided response",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        27
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "check + response",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "P28-LEARNING",
+      "route": "modules/module-10.html",
+      "theory_section": "Module 10 - 10.2 Feedback and reflection",
+      "quiz_or_check": "Matching knowledge check and guided response",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        28
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "check + response",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "P29-LEARNING",
+      "route": "modules/module-10.html",
+      "theory_section": "Module 10 - 10.3 Designer statement and presentation",
+      "quiz_or_check": "Matching knowledge check and guided response",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        29
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "check + response",
+      "teacher_to_confirm_ids": []
+    }
+  ],
+  "periods": [
+    {
+      "number": 1,
+      "type": "Site/theory",
+      "focus": "Module 1 - 1.1 Textiles are everywhere; 1.2 Hats.",
+      "student_work": "Teach named section(s); students complete each 10-question check and saved response.",
+      "evidence": "check + response",
+      "syllabus_content": [
+        "Investigate materials and production processes; develop."
+      ],
+      "outcome_codes": [
+        "TE4-MSC-01",
+        "TE4-PDP-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-01.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "P01-LEARNING"
+      ]
+    },
+    {
+      "number": 2,
+      "type": "Project/folio",
+      "focus": "Module 1 - folio evidence",
+      "student_work": "Review responses; organise source, planning, feedback and evaluation evidence.",
+      "evidence": "Check the current folio and evaluation evidence",
+      "syllabus_content": [
+        "Plan, document, communicate and evaluate design and production"
+      ],
+      "outcome_codes": [
+        "TE4-DES-01",
+        "TE4-PPM-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "folio.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": []
+    },
+    {
+      "number": 3,
+      "type": "Practical",
+      "focus": "Module 1 - authorised practical",
+      "student_work": "Follow current teacher demonstration/local procedure; record genuine observations or progress.",
+      "evidence": "Observe the approved practical and check the authentic record",
+      "syllabus_content": [
+        "Safe selection and use of tools, materials and production processes"
+      ],
+      "outcome_codes": [
+        "TE4-SAF-01",
+        "TE4-PPM-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-02"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 4,
+      "type": "Site/theory",
+      "focus": "Module 2 - 2.1 Practical-room routines; 2.2 Tools, pins.",
+      "student_work": "Teach named section(s); students complete each 10-question check and saved response.",
+      "evidence": "check + response",
+      "syllabus_content": [
+        "Investigate materials and production processes; develop."
+      ],
+      "outcome_codes": [
+        "TE4-SAF-01",
+        "TE4-PDP-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-02.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "P04-LEARNING"
+      ]
+    },
+    {
+      "number": 5,
+      "type": "Practical",
+      "focus": "Module 2 - authorised practical",
+      "student_work": "Follow current teacher demonstration/local procedure; record genuine observations or progress.",
+      "evidence": "Observe the approved practical and check the authentic record",
+      "syllabus_content": [
+        "Safe selection and use of tools, materials and production processes"
+      ],
+      "outcome_codes": [
+        "TE4-SAF-01",
+        "TE4-PPM-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-02"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 6,
+      "type": "Site/theory",
+      "focus": "Module 3 - 3.1 Colour communicates; 3.2 Symbols and imagery.",
+      "student_work": "Teach named section(s); students complete each 10-question check and saved response.",
+      "evidence": "check + response",
+      "syllabus_content": [
+        "Investigate materials and production processes; develop."
+      ],
+      "outcome_codes": [
+        "TE4-DES-01",
+        "TE4-PDP-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-03.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "P06-LEARNING"
+      ]
+    },
+    {
+      "number": 7,
+      "type": "Project/folio",
+      "focus": "Module 3 - folio evidence",
+      "student_work": "Review responses; organise source, planning, feedback and evaluation evidence.",
+      "evidence": "Check the current folio and evaluation evidence",
+      "syllabus_content": [
+        "Plan, document, communicate and evaluate design and production"
+      ],
+      "outcome_codes": [
+        "TE4-DES-01",
+        "TE4-PPM-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "folio.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": []
+    },
+    {
+      "number": 8,
+      "type": "Practical",
+      "focus": "Module 3 - authorised practical",
+      "student_work": "Follow current teacher demonstration/local procedure; record genuine observations or progress.",
+      "evidence": "Observe the approved practical and check the authentic record",
+      "syllabus_content": [
+        "Safe selection and use of tools, materials and production processes"
+      ],
+      "outcome_codes": [
+        "TE4-SAF-01",
+        "TE4-PPM-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-02"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 9,
+      "type": "Site/theory",
+      "focus": "Module 4 - 4.1 Design situation, need and user.",
+      "student_work": "Teach named section(s); students complete each 10-question check and saved response.",
+      "evidence": "check + response",
+      "syllabus_content": [
+        "Investigate materials and production processes; develop."
+      ],
+      "outcome_codes": [
+        "TE4-DES-01",
+        "TE4-PDP-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-04.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "P09-LEARNING"
+      ]
+    },
+    {
+      "number": 10,
+      "type": "Practical",
+      "focus": "Module 4 - authorised practical",
+      "student_work": "Follow current teacher demonstration/local procedure; record genuine observations or progress.",
+      "evidence": "Observe the approved practical and check the authentic record",
+      "syllabus_content": [
+        "Safe selection and use of tools, materials and production processes"
+      ],
+      "outcome_codes": [
+        "TE4-SAF-01",
+        "TE4-PPM-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-02"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 11,
+      "type": "Site/theory",
+      "focus": "Module 5 - 5.1 Mood boards with direction; 5.2 Distinct annotated.",
+      "student_work": "Teach named section(s); students complete each 10-question check and saved response.",
+      "evidence": "check + response",
+      "syllabus_content": [
+        "Investigate materials and production processes; develop."
+      ],
+      "outcome_codes": [
+        "TE4-DES-01",
+        "TE4-MSC-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-05.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "P11-LEARNING"
+      ]
+    },
+    {
+      "number": 12,
+      "type": "Project/folio",
+      "focus": "Module 5 - folio evidence",
+      "student_work": "Review responses; organise source, planning, feedback and evaluation evidence.",
+      "evidence": "Check the current folio and evaluation evidence",
+      "syllabus_content": [
+        "Plan, document, communicate and evaluate design and production"
+      ],
+      "outcome_codes": [
+        "TE4-DES-01",
+        "TE4-PPM-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "folio.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": []
+    },
+    {
+      "number": 13,
+      "type": "Practical",
+      "focus": "Module 5 - authorised practical",
+      "student_work": "Follow current teacher demonstration/local procedure; record genuine observations or progress.",
+      "evidence": "Observe the approved practical and check the authentic record",
+      "syllabus_content": [
+        "Safe selection and use of tools, materials and production processes"
+      ],
+      "outcome_codes": [
+        "TE4-SAF-01",
+        "TE4-PPM-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-02"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 14,
+      "type": "Site/theory",
+      "focus": "Module 6 - 6.1 Fibre, yarn and fabric; 6.2 Cotton and polyester.",
+      "student_work": "Teach named section(s); students complete each 10-question check and saved response.",
+      "evidence": "check + response",
+      "syllabus_content": [
+        "Investigate materials and production processes; develop."
+      ],
+      "outcome_codes": [
+        "TE4-MSC-01",
+        "TE4-PDP-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-06.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "P14-LEARNING"
+      ]
+    },
+    {
+      "number": 15,
+      "type": "Practical",
+      "focus": "Module 6 - authorised practical",
+      "student_work": "Follow current teacher demonstration/local procedure; record genuine observations or progress.",
+      "evidence": "Observe the approved practical and check the authentic record",
+      "syllabus_content": [
+        "Safe selection and use of tools, materials and production processes"
+      ],
+      "outcome_codes": [
+        "TE4-SAF-01",
+        "TE4-PPM-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-02"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 16,
+      "type": "Site/theory",
+      "focus": "Module 7 - 7.1 Sampling before production; 7.2 Appliqué.",
+      "student_work": "Teach named section(s); students complete each 10-question check and saved response.",
+      "evidence": "check + response",
+      "syllabus_content": [
+        "Investigate materials and production processes; develop."
+      ],
+      "outcome_codes": [
+        "TE4-MSC-01",
+        "TE4-PDP-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-07.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "P16-LEARNING"
+      ]
+    },
+    {
+      "number": 17,
+      "type": "Project/folio",
+      "focus": "Module 7 - folio evidence",
+      "student_work": "Review responses; organise source, planning, feedback and evaluation evidence.",
+      "evidence": "Check the current folio and evaluation evidence",
+      "syllabus_content": [
+        "Plan, document, communicate and evaluate design and production"
+      ],
+      "outcome_codes": [
+        "TE4-DES-01",
+        "TE4-PPM-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "folio.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": []
+    },
+    {
+      "number": 18,
+      "type": "Practical",
+      "focus": "Module 7 - authorised practical",
+      "student_work": "Follow current teacher demonstration/local procedure; record genuine observations or progress.",
+      "evidence": "Observe the approved practical and check the authentic record",
+      "syllabus_content": [
+        "Safe selection and use of tools, materials and production processes"
+      ],
+      "outcome_codes": [
+        "TE4-SAF-01",
+        "TE4-PPM-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-02"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 19,
+      "type": "Site/theory",
+      "focus": "Module 8 - 8.1 Pattern pieces and symbols; 8.2 Layout.",
+      "student_work": "Teach named section(s); students complete each 10-question check and saved response.",
+      "evidence": "check + response",
+      "syllabus_content": [
+        "Investigate materials and production processes; develop."
+      ],
+      "outcome_codes": [
+        "TE4-MSC-01",
+        "TE4-PDP-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-08.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "P19-LEARNING"
+      ]
+    },
+    {
+      "number": 20,
+      "type": "Site/theory",
+      "focus": "Module 8 - 8.3 Machine readiness and practice",
+      "student_work": "Teach named section(s); students complete each 10-question check and saved response.",
+      "evidence": "check + response",
+      "syllabus_content": [
+        "Investigate materials and production processes; develop."
+      ],
+      "outcome_codes": [
+        "TE4-MSC-01",
+        "TE4-PDP-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-08.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "P20-LEARNING"
+      ]
+    },
+    {
+      "number": 21,
+      "type": "Practical",
+      "focus": "Module 8 - authorised practical",
+      "student_work": "Follow current teacher demonstration/local procedure; record genuine observations or progress.",
+      "evidence": "Observe the approved practical and check the authentic record",
+      "syllabus_content": [
+        "Safe selection and use of tools, materials and production processes"
+      ],
+      "outcome_codes": [
+        "TE4-SAF-01",
+        "TE4-PPM-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-02"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 22,
+      "type": "Site/theory",
+      "focus": "Module 9 - 9.1 Action plan and workflow",
+      "student_work": "Teach named section(s); students complete each 10-question check and saved response.",
+      "evidence": "check + response",
+      "syllabus_content": [
+        "Investigate materials and production processes; develop."
+      ],
+      "outcome_codes": [
+        "TE4-MSC-01",
+        "TE4-PDP-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-09.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "P22-LEARNING"
+      ]
+    },
+    {
+      "number": 23,
+      "type": "Site/theory",
+      "focus": "Module 9 - 9.2 Construction quality",
+      "student_work": "Teach named section(s); students complete each 10-question check and saved response.",
+      "evidence": "check + response",
+      "syllabus_content": [
+        "Investigate materials and production processes; develop."
+      ],
+      "outcome_codes": [
+        "TE4-MSC-01",
+        "TE4-PDP-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-09.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "P23-LEARNING"
+      ]
+    },
+    {
+      "number": 24,
+      "type": "Site/theory",
+      "focus": "Module 9 - 9.3 Progress evidence",
+      "student_work": "Teach named section(s); students complete each 10-question check and saved response.",
+      "evidence": "check + response",
+      "syllabus_content": [
+        "Investigate materials and production processes; develop."
+      ],
+      "outcome_codes": [
+        "TE4-MSC-01",
+        "TE4-PDP-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-09.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "P24-LEARNING"
+      ]
+    },
+    {
+      "number": 25,
+      "type": "Project/folio",
+      "focus": "Module 9 - folio evidence",
+      "student_work": "Review responses; organise source, planning, feedback and evaluation evidence.",
+      "evidence": "Check the current folio and evaluation evidence",
+      "syllabus_content": [
+        "Plan, document, communicate and evaluate design and production"
+      ],
+      "outcome_codes": [
+        "TE4-DES-01",
+        "TE4-PPM-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "folio.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": []
+    },
+    {
+      "number": 26,
+      "type": "Practical",
+      "focus": "Module 9 - authorised practical",
+      "student_work": "Follow current teacher demonstration/local procedure; record genuine observations or progress.",
+      "evidence": "Observe the approved practical and check the authentic record",
+      "syllabus_content": [
+        "Safe selection and use of tools, materials and production processes"
+      ],
+      "outcome_codes": [
+        "TE4-SAF-01",
+        "TE4-PPM-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-02"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 27,
+      "type": "Site/theory",
+      "focus": "Module 10 - 10.1 Test against criteria",
+      "student_work": "Teach named section(s); students complete each 10-question check and saved response.",
+      "evidence": "check + response",
+      "syllabus_content": [
+        "Investigate materials and production processes; develop."
+      ],
+      "outcome_codes": [
+        "TE4-DES-01",
+        "TE4-PDP-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-10.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "P27-LEARNING"
+      ]
+    },
+    {
+      "number": 28,
+      "type": "Site/theory",
+      "focus": "Module 10 - 10.2 Feedback and reflection",
+      "student_work": "Teach named section(s); students complete each 10-question check and saved response.",
+      "evidence": "check + response",
+      "syllabus_content": [
+        "Investigate materials and production processes; develop."
+      ],
+      "outcome_codes": [
+        "TE4-DES-01",
+        "TE4-MSC-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-10.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "P28-LEARNING"
+      ]
+    },
+    {
+      "number": 29,
+      "type": "Site/theory",
+      "focus": "Module 10 - 10.3 Designer statement and presentation",
+      "student_work": "Teach named section(s); students complete each 10-question check and saved response.",
+      "evidence": "check + response",
+      "syllabus_content": [
+        "Investigate materials and production processes; develop."
+      ],
+      "outcome_codes": [
+        "TE4-DES-01",
+        "TE4-PDP-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-10.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "P29-LEARNING"
+      ]
+    },
+    {
+      "number": 30,
+      "type": "Practical",
+      "focus": "Module 10 - authorised practical",
+      "student_work": "Follow current teacher demonstration/local procedure; record genuine observations or progress.",
+      "evidence": "Observe the approved practical and check the authentic record",
+      "syllabus_content": [
+        "Safe selection and use of tools, materials and production processes"
+      ],
+      "outcome_codes": [
+        "TE4-SAF-01",
+        "TE4-PPM-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-02"
+      ],
+      "website_learning_ids": []
+    }
+  ],
+  "site_route_map": [
+    {
+      "destination": "folio.html",
+      "purpose": "Named learning or saved evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        2,
+        7,
+        12,
+        17,
+        25
+      ]
+    },
+    {
+      "destination": "modules/module-01.html",
+      "purpose": "Named learning or saved evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        1
+      ]
+    },
+    {
+      "destination": "modules/module-02.html",
+      "purpose": "Named learning or saved evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        4
+      ]
+    },
+    {
+      "destination": "modules/module-03.html",
+      "purpose": "Named learning or saved evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        6
+      ]
+    },
+    {
+      "destination": "modules/module-04.html",
+      "purpose": "Named learning or saved evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        9
+      ]
+    },
+    {
+      "destination": "modules/module-05.html",
+      "purpose": "Named learning or saved evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        11
+      ]
+    },
+    {
+      "destination": "modules/module-06.html",
+      "purpose": "Named learning or saved evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        14
+      ]
+    },
+    {
+      "destination": "modules/module-07.html",
+      "purpose": "Named learning or saved evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        16
+      ]
+    },
+    {
+      "destination": "modules/module-08.html",
+      "purpose": "Named learning or saved evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        19,
+        20
+      ]
+    },
+    {
+      "destination": "modules/module-09.html",
+      "purpose": "Named learning or saved evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        22,
+        23,
+        24
+      ]
+    },
+    {
+      "destination": "modules/module-10.html",
+      "purpose": "Named learning or saved evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        27,
+        28,
+        29
+      ]
+    }
+  ],
+  "teacher_to_confirm": [
+    {
+      "id": "TTC-01",
+      "item": "Confirm timetable, lesson order, class supports and approved adjustments.",
+      "owner": "Teacher / faculty",
+      "affected_periods": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "due_before": "Before the unit"
+    },
+    {
+      "id": "TTC-02",
+      "item": "Confirm each practical activity, materials, equipment, supervision and current risk controls.",
+      "owner": "Teacher / faculty",
+      "affected_periods": [
+        3,
+        5,
+        8,
+        10,
+        13,
+        15,
+        18,
+        21,
+        26,
+        30
+      ],
+      "due_before": "Before each practical"
+    },
+    {
+      "id": "TTC-03",
+      "item": "Confirm assessment authority, marks, dates, conditions and submission method.",
+      "owner": "Teacher / faculty",
+      "affected_periods": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "due_before": "Before assessment use"
+    },
+    {
+      "id": "TTC-04",
+      "item": "Confirm current links, program version and local sequence changes.",
+      "owner": "Teacher / faculty",
+      "affected_periods": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "due_before": "Before classroom issue"
+    }
+  ],
+  "files": [
+    {
+      "path": "resources/teacher/Bucket-Hat-for-a-Cause-30-Period-Teaching-Program-v2.0-Network-Benchmark.docx",
+      "purpose": "editable-program",
+      "version": "v2.0",
+      "sha256": "F854687F5A1604E388F22B14272890D72D7790DF96E32DF2DF1AE28BFECFCEC1"
+    },
+    {
+      "path": "resources/teacher/Bucket-Hat-for-a-Cause-30-Period-Teaching-Program-v2.0-Network-Benchmark.pdf",
+      "purpose": "rendered-program",
+      "version": "v2.0",
+      "sha256": "455BC2A1A889209BA7B2E007A200B9517A05744A86D5BB607F3D243D1DC46D77"
+    },
+    {
+      "path": "resources/teacher/Bucket-Hat-for-a-Cause-30-Period-Alignment-Manifest-v2.0.json",
+      "purpose": "alignment-manifest",
+      "version": "v2.0"
+    }
+  ]
+}

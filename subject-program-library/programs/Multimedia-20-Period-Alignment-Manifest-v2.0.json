@@ -1,0 +1,1020 @@
+{
+  "schema_version": "1.1",
+  "program_id": "multimedia",
+  "version": "v2.0",
+  "teacher_facing_display": {
+    "course_identity": "Stage 4 Technology Mandatory",
+    "specific_year_group_visible": false,
+    "official_outcomes_complete": true,
+    "outcome_code_placement": "Beneath the plain-English syllabus alignment statement"
+  },
+  "course": {
+    "title": "Stage 4 Technology Mandatory",
+    "classification": "Technology Mandatory",
+    "stage_or_year": "Stage 4",
+    "delivery_year": 2027,
+    "project": "Multimedia"
+  },
+  "site": {
+    "name": "Multimedia",
+    "reference": "https://stevencowell.github.io/Year-7-Multimedia/",
+    "inspection_date": "2026-08-28",
+    "state": "repository"
+  },
+  "syllabus": {
+    "title": "Technology 7-8 Syllabus",
+    "version": "2023",
+    "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/technology-7-8-2023/overview/course",
+    "verified_date": "2026-08-28",
+    "mandatory_from": "2026",
+    "early_implementation": "not-applicable",
+    "steve_decision": "use-current",
+    "implementation_status": "current"
+  },
+  "timetable": {
+    "weeks": 8,
+    "period_minutes": 60,
+    "periods_per_fortnight": 5,
+    "total_periods": 20
+  },
+  "outcomes": [
+    {
+      "code": "TE4-SDP-01",
+      "statement": "explains relationships between sustainability, design and production",
+      "source_id": "S1",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/technology-7-8-2023/outcomes"
+    },
+    {
+      "code": "TE4-PDP-01",
+      "statement": "describes the practices and processes of designers and producers",
+      "source_id": "S1",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/technology-7-8-2023/outcomes"
+    },
+    {
+      "code": "TE4-MSC-01",
+      "statement": "explains how materials, systems and components contribute to solutions",
+      "source_id": "S1",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/technology-7-8-2023/outcomes"
+    },
+    {
+      "code": "TE4-PPM-01",
+      "statement": "applies processes in the planning, management and production of projects",
+      "source_id": "S1",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/technology-7-8-2023/outcomes"
+    },
+    {
+      "code": "TE4-DES-01",
+      "statement": "communicates and evaluates design ideas and solutions",
+      "source_id": "S1",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/technology-7-8-2023/outcomes"
+    },
+    {
+      "code": "TE4-SAF-01",
+      "statement": "selects and safely uses tools, materials, technologies and processes",
+      "source_id": "S1",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/technology-7-8-2023/outcomes"
+    },
+    {
+      "code": "TE4-DIG-01",
+      "statement": "demonstrates technological literacy to safely interact in digital environments",
+      "source_id": "S1",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/technology-7-8-2023/outcomes"
+    },
+    {
+      "code": "TE4-DIG-02",
+      "statement": "uses data and digital systems to code, design and produce projects",
+      "source_id": "S1",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/technology-7-8-2023/outcomes"
+    }
+  ],
+  "source_register": [
+    {
+      "id": "S1",
+      "title": "NSW Technology 7-8 Syllabus (2023)",
+      "authority": "official-syllabus",
+      "location": "https://curriculum.nsw.edu.au/learning-areas/tas/technology-7-8-2023/overview/course",
+      "revision": "verified 2026-08-28",
+      "use": "Course identity, complete Stage 4 outcomes and focus-area alignment"
+    },
+    {
+      "id": "S2",
+      "title": "Previous Multimedia teaching program",
+      "authority": "local-program",
+      "location": "C:\\Users\\scowell1\\Documents\\Codex\\2026-08-28\\okay-so-with-the-all-the\\work\\network-alignment\\multimedia\\resources\\teacher\\Year-7-Multimedia-Teaching-Program-v1.0.docx",
+      "revision": "2A73882FDA1BC1DBDD1F6290F64D02AF54E9023BC5620C3947938CC59E6CE076",
+      "use": "Preserved period sequence, teaching content, evidence and Teacher to confirm boundaries"
+    },
+    {
+      "id": "S3",
+      "title": "Multimedia course website",
+      "authority": "website",
+      "location": "https://stevencowell.github.io/Year-7-Multimedia/",
+      "revision": "repository inspection 2026-08-28",
+      "use": "Named learning routes and evidence destinations"
+    },
+    {
+      "id": "S4",
+      "title": "Riv Burger network benchmark v2.3",
+      "authority": "quality-reference",
+      "location": "C:\\Users\\scowell1\\Documents\\Codex\\2026-08-28\\okay-so-with-the-all-the\\work\\riv-burger-benchmark\\resources\\teacher\\Riv-Burger-25-Period-Teaching-Program-v2.3-Network-Benchmark.docx",
+      "revision": "CD4F9EB7F57559C3F15A756E09AB219BC2A6E0877FDE6B0FF813B169A0B80B7F",
+      "use": "Program structure and visual pattern only"
+    }
+  ],
+  "website_learning_inventory": [
+    {
+      "id": "P01-LEARNING",
+      "route": "modules/module-01.html",
+      "theory_section": "Module 1 - Brief, purpose and audience",
+      "quiz_or_check": "Matching knowledge check and guided response",
+      "question_count": 10,
+      "scaffolded_response_count": 0,
+      "period_numbers": [
+        1
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Check: Brief separates confirmed requirements, student choices and one unsupported.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "P03-LEARNING",
+      "route": "modules/module-02.html",
+      "theory_section": "Module 2 - Colour roles, contrast and typography",
+      "quiz_or_check": "Matching knowledge check and guided response",
+      "question_count": 10,
+      "scaffolded_response_count": 0,
+      "period_numbers": [
+        3
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Check: Palette and typography decisions name purpose, audience and a readable.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "P05-LEARNING",
+      "route": "modules/module-03.html",
+      "theory_section": "Module 3 - Symbols, recognition and logo stress testing",
+      "quiz_or_check": "Matching knowledge check and guided response",
+      "question_count": 10,
+      "scaffolded_response_count": 0,
+      "period_numbers": [
+        5
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Check: Logo remains recognisable in small, large, one-colour and.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "P07-LEARNING",
+      "route": "modules/module-04.html",
+      "theory_section": "Module 4 - Menu structure, grouping and scan paths",
+      "quiz_or_check": "Matching knowledge check and guided response",
+      "question_count": 10,
+      "scaffolded_response_count": 0,
+      "period_numbers": [
+        7
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Check: Menu structure uses labelled groups, predictable alignment and a reader.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "P09-LEARNING",
+      "route": "modules/module-05.html",
+      "theory_section": "Module 5 - Poster composition and focal path",
+      "quiz_or_check": "Matching knowledge check and guided response",
+      "question_count": 10,
+      "scaffolded_response_count": 0,
+      "period_numbers": [
+        9
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Check: Poster plan names what viewers should notice first, next and last.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "P11-LEARNING",
+      "route": "modules/module-06.html",
+      "theory_section": "Module 6 - Consistent identity across touchpoints",
+      "quiz_or_check": "Matching knowledge check and guided response",
+      "question_count": 10,
+      "scaffolded_response_count": 0,
+      "period_numbers": [
+        11
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Check: Student can distinguish deliberate consistency from copying one layout.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "P13-LEARNING",
+      "route": "modules/module-07.html",
+      "theory_section": "Module 7 - Motion states and Match and Move",
+      "quiz_or_check": "Matching knowledge check and guided response",
+      "question_count": 10,
+      "scaffolded_response_count": 0,
+      "period_numbers": [
+        13
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Check: Storyboard names the complete starting and ending states and the element.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "P15-LEARNING",
+      "route": "modules/module-08.html",
+      "theory_section": "Module 8 - Persuasion, target groups and greenwashing",
+      "quiz_or_check": "Matching knowledge check and guided response",
+      "question_count": 10,
+      "scaffolded_response_count": 0,
+      "period_numbers": [
+        15
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Check: Student identifies what a claim says, what evidence exists and how wording.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "P17-LEARNING",
+      "route": "modules/module-09.html",
+      "theory_section": "Module 9 - Web portfolio structure and prepared media",
+      "quiz_or_check": "Matching knowledge check and guided response",
+      "question_count": 10,
+      "scaffolded_response_count": 0,
+      "period_numbers": [
+        17
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Check: Site structure is predictable and media preparation includes alt text.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "P19-LEARNING",
+      "route": "modules/module-10.html",
+      "theory_section": "Module 10 - Success criteria, feedback and design.",
+      "quiz_or_check": "Matching knowledge check and guided response",
+      "question_count": 10,
+      "scaffolded_response_count": 0,
+      "period_numbers": [
+        19
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Check: Rationale connects audience, purpose, criterion, observed evidence.",
+      "teacher_to_confirm_ids": []
+    }
+  ],
+  "periods": [
+    {
+      "number": 1,
+      "type": "Site/theory",
+      "focus": "Module 1 - Brief, purpose and audience",
+      "student_work": "Teach: Introduce the verified Fast Food Futures design challenge; model a source-bound brief and respectful.",
+      "evidence": "Check: Brief separates confirmed requirements, student choices and one unsupported.",
+      "syllabus_content": [
+        "Create, communicate, test and evaluate a digital solution"
+      ],
+      "outcome_codes": [
+        "TE4-DES-01",
+        "TE4-PDP-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-01.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "P01-LEARNING"
+      ]
+    },
+    {
+      "number": 2,
+      "type": "Project/folio",
+      "focus": "Module 1 - Originality, responsible AI and brief.",
+      "student_work": "Teach: Model a transparent originality trail and the ideas-only AI boundary from the Drive brainstorm.",
+      "evidence": "Check: Student contribution, checking, attribution and privacy boundary are visible.",
+      "syllabus_content": [
+        "Create, communicate, test and evaluate a digital solution"
+      ],
+      "outcome_codes": [
+        "TE4-DES-01",
+        "TE4-PPM-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "folio.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": []
+    },
+    {
+      "number": 3,
+      "type": "Site/theory",
+      "focus": "Module 2 - Colour roles, contrast and typography",
+      "student_work": "Teach: Explain colour roles, context, contrast, type roles and legibility using the Drive design masters.",
+      "evidence": "Check: Palette and typography decisions name purpose, audience and a readable.",
+      "syllabus_content": [
+        "Create, communicate, test and evaluate a digital solution"
+      ],
+      "outcome_codes": [
+        "TE4-DES-01",
+        "TE4-PDP-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-02.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "P03-LEARNING"
+      ]
+    },
+    {
+      "number": 4,
+      "type": "Project/folio",
+      "focus": "Module 2 - Hierarchy, layout and visual direction",
+      "student_work": "Teach: Model hierarchy, layout relationships and a purposeful mood-board direction.",
+      "evidence": "Check: Visual direction is coherent and success criteria are observable rather than.",
+      "syllabus_content": [
+        "Create, communicate, test and evaluate a digital solution"
+      ],
+      "outcome_codes": [
+        "TE4-DES-01",
+        "TE4-PPM-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "folio.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": []
+    },
+    {
+      "number": 5,
+      "type": "Site/theory",
+      "focus": "Module 3 - Symbols, recognition and logo stress testing",
+      "student_work": "Teach: Explain symbol recognition, simplicity, scale and contrast; model the logo stress-test before students.",
+      "evidence": "Check: Logo remains recognisable in small, large, one-colour and.",
+      "syllabus_content": [
+        "Create, communicate, test and evaluate a digital solution"
+      ],
+      "outcome_codes": [
+        "TE4-PDP-01",
+        "TE4-DES-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-03.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "P05-LEARNING"
+      ]
+    },
+    {
+      "number": 6,
+      "type": "Practical",
+      "focus": "Module 3 - Canva logo workflow, variants and critique",
+      "student_work": "Teach: Use the current Drive logo demonstration first, then model criterion-based critique and deliberate logo.",
+      "evidence": "Check: Selected logo and rationale show an original decision.",
+      "syllabus_content": [
+        "Create, communicate, test and evaluate a digital solution"
+      ],
+      "outcome_codes": [
+        "TE4-SAF-01",
+        "TE4-PPM-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-02"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 7,
+      "type": "Site/theory",
+      "focus": "Module 4 - Menu structure, grouping and scan paths",
+      "student_work": "Teach: Inspect the complete current Drive canteen menu first as an information-design example.",
+      "evidence": "Check: Menu structure uses labelled groups, predictable alignment and a reader.",
+      "syllabus_content": [
+        "Create, communicate, test and evaluate a digital solution"
+      ],
+      "outcome_codes": [
+        "TE4-MSC-01",
+        "TE4-PDP-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-04.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "P07-LEARNING"
+      ]
+    },
+    {
+      "number": 8,
+      "type": "Project/folio",
+      "focus": "Module 4 - Honest product information and menu evidence",
+      "student_work": "Teach: Model the boundary between supported description, evidence-needed claims and details that must be.",
+      "evidence": "Check: Student menu evidence is original and does not copy historical products.",
+      "syllabus_content": [
+        "Create, communicate, test and evaluate a digital solution"
+      ],
+      "outcome_codes": [
+        "TE4-DES-01",
+        "TE4-PPM-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "folio.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": []
+    },
+    {
+      "number": 9,
+      "type": "Site/theory",
+      "focus": "Module 5 - Poster composition and focal path",
+      "student_work": "Teach: Use the current Drive poster first to model composition, focal point.",
+      "evidence": "Check: Poster plan names what viewers should notice first, next and last.",
+      "syllabus_content": [
+        "Create, communicate, test and evaluate a digital solution"
+      ],
+      "outcome_codes": [
+        "TE4-PDP-01",
+        "TE4-DES-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-05.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "P09-LEARNING"
+      ]
+    },
+    {
+      "number": 10,
+      "type": "Practical",
+      "focus": "Module 5 - Poster production, clean edges and.",
+      "student_work": "Teach: Use the current Drive poster demonstration and three mock-ups first.",
+      "evidence": "Check: Poster export has clean image edges, readable hierarchy.",
+      "syllabus_content": [
+        "Create, communicate, test and evaluate a digital solution"
+      ],
+      "outcome_codes": [
+        "TE4-SAF-01",
+        "TE4-PPM-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-02"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 11,
+      "type": "Site/theory",
+      "focus": "Module 6 - Consistent identity across touchpoints",
+      "student_work": "Teach: Explain how shape, colour and type stay coherent while scale and placement adapt to each application.",
+      "evidence": "Check: Student can distinguish deliberate consistency from copying one layout.",
+      "syllabus_content": [
+        "Create, communicate, test and evaluate a digital solution"
+      ],
+      "outcome_codes": [
+        "TE4-PDP-01",
+        "TE4-DES-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-06.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "P11-LEARNING"
+      ]
+    },
+    {
+      "number": 12,
+      "type": "Practical",
+      "focus": "Module 6 - Staff-uniform concept, suitability and.",
+      "student_work": "Teach: Use the current Drive staff-uniform demonstration first; model placement, contrast.",
+      "evidence": "Check: Uniform concept retains brand recognition and explains suitability.",
+      "syllabus_content": [
+        "Create, communicate, test and evaluate a digital solution"
+      ],
+      "outcome_codes": [
+        "TE4-SAF-01",
+        "TE4-PPM-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-02"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 13,
+      "type": "Site/theory",
+      "focus": "Module 7 - Motion states and Match and Move",
+      "student_work": "Teach: Use the verified 6:21 Drive tutorial first to explain complete visual states.",
+      "evidence": "Check: Storyboard names the complete starting and ending states and the element.",
+      "syllabus_content": [
+        "Create, communicate, test and evaluate a digital solution"
+      ],
+      "outcome_codes": [
+        "TE4-PPM-01",
+        "TE4-DES-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-07.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "P13-LEARNING"
+      ]
+    },
+    {
+      "number": 14,
+      "type": "Practical",
+      "focus": "Module 7 - Timing, MP4 export and evidence-quality.",
+      "student_work": "Teach: Model timing, playback and MP4 verification. Use the supplied 0:16 clip only to check what a source.",
+      "evidence": "Check: Reopened MP4 is checked for timing, hierarchy, crop, spelling and ending.",
+      "syllabus_content": [
+        "Create, communicate, test and evaluate a digital solution"
+      ],
+      "outcome_codes": [
+        "TE4-SAF-01",
+        "TE4-PPM-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-02"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 15,
+      "type": "Site/theory",
+      "focus": "Module 8 - Persuasion, target groups and greenwashing",
+      "student_work": "Teach: Use the current Drive marketing simulation first to distinguish informative persuasion.",
+      "evidence": "Check: Student identifies what a claim says, what evidence exists and how wording.",
+      "syllabus_content": [
+        "Create, communicate, test and evaluate a digital solution"
+      ],
+      "outcome_codes": [
+        "TE4-SDP-01",
+        "TE4-PDP-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-08.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "P15-LEARNING"
+      ]
+    },
+    {
+      "number": 16,
+      "type": "Project/folio",
+      "focus": "Module 8 - Business ripple effects and designer.",
+      "student_work": "Teach: Model a cautious system ripple chain that labels confirmed links.",
+      "evidence": "Check: Ripple chain makes uncertainty visible and ends with a realistic.",
+      "syllabus_content": [
+        "Create, communicate, test and evaluate a digital solution"
+      ],
+      "outcome_codes": [
+        "TE4-DES-01",
+        "TE4-PPM-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "folio.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": []
+    },
+    {
+      "number": 17,
+      "type": "Site/theory",
+      "focus": "Module 9 - Web portfolio structure and prepared media",
+      "student_work": "Teach: Use the current Drive Google Sites demonstration first to model the Home.",
+      "evidence": "Check: Site structure is predictable and media preparation includes alt text.",
+      "syllabus_content": [
+        "Create, communicate, test and evaluate a digital solution"
+      ],
+      "outcome_codes": [
+        "TE4-DIG-01",
+        "TE4-PDP-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-09.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "P17-LEARNING"
+      ]
+    },
+    {
+      "number": 18,
+      "type": "Practical",
+      "focus": "Module 9 - Publication, access and teacher-viewable.",
+      "student_work": "Teach: Distinguish preview, publish, authorised access, local save and submission.",
+      "evidence": "Check: Link works for the intended viewer without exposing edit access.",
+      "syllabus_content": [
+        "Create, communicate, test and evaluate a digital solution"
+      ],
+      "outcome_codes": [
+        "TE4-SAF-01",
+        "TE4-PPM-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-02"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 19,
+      "type": "Site/theory",
+      "focus": "Module 10 - Success criteria, feedback and design.",
+      "student_work": "Teach: Model how criteria, observable feedback and evidence support a concise design rationale.",
+      "evidence": "Check: Rationale connects audience, purpose, criterion, observed evidence.",
+      "syllabus_content": [
+        "Create, communicate, test and evaluate a digital solution"
+      ],
+      "outcome_codes": [
+        "TE4-DES-01",
+        "TE4-PDP-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-10.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "P19-LEARNING"
+      ]
+    },
+    {
+      "number": 20,
+      "type": "Project/folio",
+      "focus": "Module 10 - Evaluation, next iteration and final.",
+      "student_work": "Teach: Model an honest criterion-evidence-judgement-next-iteration evaluation and a safe order for.",
+      "evidence": "Check: Evaluation uses specific evidence, identifies a limitation and proposes one.",
+      "syllabus_content": [
+        "Create, communicate, test and evaluate a digital solution"
+      ],
+      "outcome_codes": [
+        "TE4-DIG-01",
+        "TE4-PPM-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "folio.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": []
+    }
+  ],
+  "site_route_map": [
+    {
+      "destination": "folio.html",
+      "purpose": "Named learning or saved evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        2,
+        4,
+        8,
+        16,
+        20
+      ]
+    },
+    {
+      "destination": "modules/module-01.html",
+      "purpose": "Named learning or saved evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        1
+      ]
+    },
+    {
+      "destination": "modules/module-02.html",
+      "purpose": "Named learning or saved evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        3
+      ]
+    },
+    {
+      "destination": "modules/module-03.html",
+      "purpose": "Named learning or saved evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        5
+      ]
+    },
+    {
+      "destination": "modules/module-04.html",
+      "purpose": "Named learning or saved evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        7
+      ]
+    },
+    {
+      "destination": "modules/module-05.html",
+      "purpose": "Named learning or saved evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        9
+      ]
+    },
+    {
+      "destination": "modules/module-06.html",
+      "purpose": "Named learning or saved evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        11
+      ]
+    },
+    {
+      "destination": "modules/module-07.html",
+      "purpose": "Named learning or saved evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        13
+      ]
+    },
+    {
+      "destination": "modules/module-08.html",
+      "purpose": "Named learning or saved evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        15
+      ]
+    },
+    {
+      "destination": "modules/module-09.html",
+      "purpose": "Named learning or saved evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        17
+      ]
+    },
+    {
+      "destination": "modules/module-10.html",
+      "purpose": "Named learning or saved evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        19
+      ]
+    }
+  ],
+  "teacher_to_confirm": [
+    {
+      "id": "TTC-01",
+      "item": "Confirm timetable, lesson order, class supports and approved adjustments.",
+      "owner": "Teacher / faculty",
+      "affected_periods": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "due_before": "Before the unit"
+    },
+    {
+      "id": "TTC-02",
+      "item": "Confirm each practical activity, materials, equipment, supervision and current risk controls.",
+      "owner": "Teacher / faculty",
+      "affected_periods": [
+        6,
+        10,
+        12,
+        14,
+        18
+      ],
+      "due_before": "Before each practical"
+    },
+    {
+      "id": "TTC-03",
+      "item": "Confirm assessment authority, marks, dates, conditions and submission method.",
+      "owner": "Teacher / faculty",
+      "affected_periods": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "due_before": "Before assessment use"
+    },
+    {
+      "id": "TTC-04",
+      "item": "Confirm current links, program version and local sequence changes.",
+      "owner": "Teacher / faculty",
+      "affected_periods": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "due_before": "Before classroom issue"
+    }
+  ],
+  "files": [
+    {
+      "path": "resources/teacher/Multimedia-20-Period-Teaching-Program-v2.0-Network-Benchmark.docx",
+      "purpose": "editable-program",
+      "version": "v2.0",
+      "sha256": "216B1B7087EC91655779F03854AF0864909D11C2D39751FE3C03B5A40AB6A2BE"
+    },
+    {
+      "path": "resources/teacher/Multimedia-20-Period-Teaching-Program-v2.0-Network-Benchmark.pdf",
+      "purpose": "rendered-program",
+      "version": "v2.0",
+      "sha256": "ED98149B4EA5C939553B9511F0C8E3C4DDF653C7EB2BBD5BA1B134C77D8FD33B"
+    },
+    {
+      "path": "resources/teacher/Multimedia-20-Period-Alignment-Manifest-v2.0.json",
+      "purpose": "alignment-manifest",
+      "version": "v2.0"
+    }
+  ]
+}
