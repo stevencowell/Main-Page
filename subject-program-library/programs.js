@@ -58,6 +58,13 @@ const stage4UnitAlignment = {
   "Agriculture": { state: "primary", label: "Option: 5 current primary", slot: "Extended option" },
 };
 
+const alignmentStateLabels = {
+  primary: { symbol: "●", label: "Primary syllabus contribution" },
+  reinforcing: { symbol: "○", label: "Reinforcing syllabus contribution" },
+  conditional: { symbol: "◆", label: "Conditional source approval" },
+  gap: { symbol: "—", label: "No mapped contribution" },
+};
+
 const syllabusFamilies = [
   {
     key: "technology-7-8-2023",
@@ -166,6 +173,7 @@ function programCard(program) {
   } else if (program.syllabusAligned) {
     details.push("Syllabus-aligned");
   }
+  const alignmentHeading = alignment ? alignmentStateLabels[alignment.state] : null;
   const statusLabel = program.master ? "Master" : (program.benchmark ? "Benchmark" : (ready ? "Ready" : (program.alignmentInProgress ? "Alignment in progress" : "Not yet added")));
   return `
     <article class="program-card${program.master ? " is-master" : ""}" data-family="${program.family}" data-program-title="${program.title}"${alignment ? ` data-alignment-state="${alignment.state}"` : ""}>
@@ -174,6 +182,7 @@ function programCard(program) {
           <span class="subject-tag">${program.family}</span>
           <span class="status ${ready ? "ready" : "pending"}">${statusLabel}</span>
         </div>
+        ${alignmentHeading ? `<div class="alignment-banner alignment-banner--${alignment.state}"><span aria-hidden="true">${alignmentHeading.symbol}</span>${alignmentHeading.label}</div>` : ""}
         <h4>${program.title}</h4>
         <p class="course-meta">${courseLabel(program)}</p>
         <div class="program-details">${details.map(detail => typeof detail === "string" ? `<span>${detail}</span>` : `<span class="alignment-detail alignment-detail--${detail.state}">${detail.label}</span>`).join("")}</div>
@@ -205,6 +214,7 @@ function syllabusFamilyMarkup(group, items) {
   const programLabel = `${items.length} ${items.length === 1 ? "program" : "programs"}`;
   const alignmentLegend = group.key === "technology-7-8-2023" ? `
     <div class="card-alignment-legend" aria-label="Unit alignment colour key">
+      <strong>Syllabus contribution key</strong>
       <span class="alignment-detail--primary">● Primary contribution</span>
       <span class="alignment-detail--reinforcing">○ Reinforcing contribution</span>
       <span class="alignment-detail--conditional">◆ Conditional source approval</span>
