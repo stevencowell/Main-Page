@@ -1,5 +1,5 @@
 const programs = [
-  { title: "Stage 4 Technology 200-hour Master", family: "Technology", stage: "Stage 4", course: "Stage 4 Technology", periods: 200, version: "v1.0", master: true, masterNote: "Modular two-year control program: all 85 syllabus content points are placed across an exact 200-hour reference combination. Eighty-two are scheduled as primary coverage; three stay amber until authorised local sources and protocols are confirmed.", syllabusAligned: true, alignmentState: "conditional", alignmentLabel: "82 primary · 3 conditional", pdf: "programs/Stage-4-Technology-200-Hour-Modular-Master-Teaching-Program-v1.0-Network-Benchmark.pdf", docx: "programs/Stage-4-Technology-200-Hour-Modular-Master-Teaching-Program-v1.0-Network-Benchmark.docx", manifest: "programs/Stage-4-Technology-200-Hour-Modular-Master-Alignment-Manifest-v1.0.json", syllabusTitle: "Technology 7–8 Syllabus (2023)", syllabusUrl: "https://curriculum.nsw.edu.au/learning-areas/tas/technology-7-8-2023/overview/course", syllabusStatus: "Implemented from 2026", syllabusVerified: "29 August 2026" },
+  { title: "Stage 4 Technology 200-hour Master", family: "Technology", stage: "Stage 4", course: "Stage 4 Technology", periods: 200, version: "v1.0", master: true, masterNote: "Flexible two-year master program covering all four Stage 4 focus areas across a 200-hour course. Three source-specific items remain marked for confirmation.", syllabusAligned: true, pdf: "programs/Stage-4-Technology-200-Hour-Modular-Master-Teaching-Program-v1.0-Network-Benchmark.pdf", docx: "programs/Stage-4-Technology-200-Hour-Modular-Master-Teaching-Program-v1.0-Network-Benchmark.docx", manifest: "programs/Stage-4-Technology-200-Hour-Modular-Master-Alignment-Manifest-v1.0.json", syllabusTitle: "Technology 7–8 Syllabus (2023)", syllabusUrl: "https://curriculum.nsw.edu.au/learning-areas/tas/technology-7-8-2023/overview/course", syllabusStatus: "Implemented from 2026", syllabusVerified: "29 August 2026" },
   { title: "The Riv Burger", family: "Food and Agriculture", stage: "Stage 4", course: "Technology", periods: 25, version: "v2.4", benchmark: true, syllabusAligned: true, pdf: "programs/Riv-Burger-25-Period-Teaching-Program-v2.4-Network-Benchmark.pdf", docx: "programs/Riv-Burger-25-Period-Teaching-Program-v2.4-Network-Benchmark.docx", manifest: "programs/Riv-Burger-25-Period-Alignment-Manifest-v2.4.json", syllabusTitle: "Technology 7–8 Syllabus (2023)", syllabusUrl: "https://curriculum.nsw.edu.au/learning-areas/tas/technology-7-8-2023/overview/course", syllabusStatus: "Implemented from 2026", syllabusVerified: "28 August 2026", site: "https://stevencowell.github.io/Year-8-The-Riv-Burger/" },
   { title: "Desk Tidy", family: "Timber", stage: "Stage 4", course: "Technology", periods: 25, version: "v2.1", syllabusAligned: true, pdf: "programs/Desk-Tidy-25-Period-Teaching-Program-v2.1-Network-Benchmark.pdf", docx: "programs/Desk-Tidy-25-Period-Teaching-Program-v2.1-Network-Benchmark.docx", manifest: "programs/Desk-Tidy-25-Period-Alignment-Manifest-v2.1.json", syllabusTitle: "Technology 7–8 Syllabus (2023)", syllabusUrl: "https://curriculum.nsw.edu.au/learning-areas/tas/technology-7-8-2023/overview/course", syllabusStatus: "Implemented from 2026", syllabusVerified: "28 August 2026", site: "https://stevencowell.github.io/desk-tidy/" },
   { title: "Programmable Light", family: "Timber", stage: "Stage 4", course: "Technology", periods: 25, version: "v2.0", syllabusAligned: true, pdf: "programs/Programmable-Light-25-Period-Teaching-Program-v2.0-Network-Benchmark.pdf", docx: "programs/Programmable-Light-25-Period-Teaching-Program-v2.0-Network-Benchmark.docx", manifest: "programs/Programmable-Light-25-Period-Alignment-Manifest-v2.0.json", syllabusTitle: "Technology 7–8 Syllabus (2023)", syllabusUrl: "https://curriculum.nsw.edu.au/learning-areas/tas/technology-7-8-2023/overview/course", syllabusStatus: "Implemented from 2026", syllabusVerified: "28 August 2026", site: "https://stevencowell.github.io/programmable-light-guided-course/" },
@@ -44,26 +44,27 @@ const programs = [
   { title: "Year 8 Science Guided Course", family: "Science", stage: "Stage 4 / Year 8", course: "Science", periods: 100, version: "v1.0", pdf: "programs/Year-8-Science-100-Period-Teaching-Program-v1.0-Website-Complete-10pt.pdf", docx: "programs/Year-8-Science-100-Period-Teaching-Program-v1.0-Website-Complete-10pt.docx", site: "https://stevencowell.github.io/Year-8-Science-Guided-Course/" }
 ];
 
-const stage4UnitAlignment = {
-  "The Riv Burger": { state: "conditional", label: "Master: 13 primary · 2 conditional", slot: "Reference slot" },
-  "Desk Tidy": { state: "primary", label: "Master: 20 of 85 primary", slot: "Reference slot" },
-  "Programmable Light": { state: "primary", label: "Master: 1 primary · 19 reinforcing", slot: "Reference slot" },
-  "Hose Reel Holder": { state: "reinforcing", label: "Reinforces 9 of 85", slot: "Substitution option" },
-  "Catapult": { state: "primary", label: "Master: 21 of 85 primary", slot: "Reference slot" },
-  "Crack the Code": { state: "primary", label: "Master: 12 of 85 primary", slot: "Reference slot" },
-  "Multimedia": { state: "conditional", label: "Master: 9 primary · 1 conditional", slot: "Spread over 10 weeks" },
-  "Lunch Is Packed": { state: "reinforcing", label: "Reinforces 9 of 85", slot: "Reference slot" },
-  "Bucket Hat for a Cause": { state: "reinforcing", label: "Reinforces 12 of 85", slot: "Substitution option" },
-  "Fantastic Food": { state: "primary", label: "Master: 6 of 85 primary", slot: "Reference 30-period load" },
-  "Agriculture": { state: "primary", label: "Option: 5 current primary", slot: "Extended option" },
+const stage4UnitFocus = {
+  "The Riv Burger": "fap",
+  "Desk Tidy": "mpp",
+  "Programmable Light": "integrated",
+  "Hose Reel Holder": "mpp",
+  "Catapult": "ets",
+  "Crack the Code": "dct",
+  "Multimedia": "dct",
+  "Lunch Is Packed": "mpp",
+  "Bucket Hat for a Cause": "mpp",
+  "Fantastic Food": "fap",
+  "Agriculture": "fap",
 };
 
-const alignmentStateLabels = {
-  primary: { symbol: "●", label: "Primary syllabus contribution" },
-  reinforcing: { symbol: "○", label: "Reinforcing syllabus contribution" },
-  conditional: { symbol: "◆", label: "Conditional source approval" },
-  gap: { symbol: "—", label: "No mapped contribution" },
-};
+const stage4FocusAreas = [
+  { key: "dct", title: "Digital and communication technologies", description: "Projects using data, digital systems and communication technologies." },
+  { key: "ets", title: "Engineering technologies and systems", description: "Projects exploring components, forces, motion, energy and engineered solutions." },
+  { key: "fap", title: "Food and agricultural practices", description: "Projects developing and evaluating food and agricultural solutions and practices." },
+  { key: "mpp", title: "Materials and production processes", description: "Projects selecting, producing and evaluating materials and production processes." },
+  { key: "integrated", title: "Integrated across focus areas", description: "A cross-focus project connecting materials and production, digital technologies and engineered systems." },
+];
 
 const syllabusFamilies = [
   {
@@ -164,28 +165,22 @@ function courseLabel(program) {
 function programCard(program) {
   const ready = Boolean(program.pdf);
   const details = [program.stage, program.periods ? `${program.periods} periods` : null, program.version].filter(Boolean);
-  const alignment = program.alignmentLabel
-    ? { label: program.alignmentLabel, state: program.alignmentState || "primary" }
-    : stage4UnitAlignment[program.title];
-  if (alignment) {
-    details.push(alignment);
-    if (alignment.slot) details.push(alignment.slot);
-  } else if (program.syllabusAligned) {
+  const isStage4Technology = program.syllabusUrl?.includes("/technology-7-8-2023/");
+  if (program.syllabusAligned && !isStage4Technology) {
     details.push("Syllabus-aligned");
   }
-  const alignmentHeading = alignment ? alignmentStateLabels[alignment.state] : null;
+  const focusAreaKey = program.master && isStage4Technology ? "all" : stage4UnitFocus[program.title];
   const statusLabel = program.master ? "Master" : (program.benchmark ? "Benchmark" : (ready ? "Ready" : (program.alignmentInProgress ? "Alignment in progress" : "Not yet added")));
   return `
-    <article class="program-card${program.master ? " is-master" : ""}" data-family="${program.family}" data-program-title="${program.title}"${alignment ? ` data-alignment-state="${alignment.state}"` : ""}>
+    <article class="program-card${program.master ? " is-master" : ""}" data-family="${program.family}" data-program-title="${program.title}"${focusAreaKey ? ` data-focus-area="${focusAreaKey}"` : ""}>
       <div class="program-body">
         <div class="card-topline">
           <span class="subject-tag">${program.family}</span>
           <span class="status ${ready ? "ready" : "pending"}">${statusLabel}</span>
         </div>
-        ${alignmentHeading ? `<div class="alignment-banner alignment-banner--${alignment.state}"><span aria-hidden="true">${alignmentHeading.symbol}</span>${alignmentHeading.label}</div>` : ""}
         <h4>${program.title}</h4>
         <p class="course-meta">${courseLabel(program)}</p>
-        <div class="program-details">${details.map(detail => typeof detail === "string" ? `<span>${detail}</span>` : `<span class="alignment-detail alignment-detail--${detail.state}">${detail.label}</span>`).join("")}</div>
+        <div class="program-details">${details.map(detail => `<span>${detail}</span>`).join("")}</div>
         <p class="card-note">${program.master ? (program.masterNote || "Two-year course map with exact site, evidence and syllabus destinations.") : (program.benchmark ? "Network benchmark: outcome codes sit beside the syllabus content they support, and each teacher checkpoint says exactly what to check or observe." : (ready ? "Print-ready program and editable source, aligned to the matching course site." : (program.alignmentInProgress ? "Existing course materials are being converted into the network program format; the official syllabus is confirmed." : "The course remains listed so the program gap is visible and easy to complete.")))}</p>
         ${program.syllabusUrl ? `<div class="syllabus-meta"><span>Official syllabus</span><a href="${program.syllabusUrl}" target="_blank" rel="noopener">${program.syllabusTitle} ↗</a><small>${program.syllabusStatus} · verified ${program.syllabusVerified}</small></div>` : ""}
         <div class="card-actions">
@@ -212,15 +207,37 @@ function syllabusFamilyMarkup(group, items) {
   const masters = sorted.filter(program => program.master);
   const projects = sorted.filter(program => !program.master);
   const programLabel = `${items.length} ${items.length === 1 ? "program" : "programs"}`;
-  const alignmentLegend = group.key === "technology-7-8-2023" ? `
-    <div class="card-alignment-legend" aria-label="Unit alignment colour key">
-      <strong>Syllabus contribution key</strong>
-      <span class="alignment-detail--primary">● Primary contribution</span>
-      <span class="alignment-detail--reinforcing">○ Reinforcing contribution</span>
-      <span class="alignment-detail--conditional">◆ Conditional source approval</span>
-      <span class="alignment-detail--gap">— No mapped contribution</span>
+  const focusAreaKey = group.key === "technology-7-8-2023" ? `
+    <div class="focus-area-key" aria-label="Stage 4 syllabus focus-area colour key">
+      <strong>Stage 4 focus-area colours</strong>
+      <small>Colour and grouping show each unit's primary syllabus focus area, not a teaching order. Alignment strength is written separately on every card.</small>
+      <span class="focus-key--dct">Digital and communication</span>
+      <span class="focus-key--ets">Engineering systems</span>
+      <span class="focus-key--fap">Food and agriculture</span>
+      <span class="focus-key--mpp">Materials and production</span>
+      <span class="focus-key--integrated">Integrated project</span>
     </div>
   ` : "";
+  const groupedProjects = group.key === "technology-7-8-2023"
+    ? stage4FocusAreas.map(area => {
+        const areaProjects = projects.filter(program => stage4UnitFocus[program.title] === area.key);
+        if (!areaProjects.length) return "";
+        const unitLabel = `${areaProjects.length} ${areaProjects.length === 1 ? "unit" : "units"}`;
+        return `
+          <section class="focus-area-group focus-area-group--${area.key}" aria-labelledby="focus-area-${area.key}">
+            <header class="focus-area-heading">
+              <div>
+                <p>${area.key === "integrated" ? "Cross-focus project" : "Official Stage 4 focus area"}</p>
+                <h4 id="focus-area-${area.key}">${area.title}</h4>
+                <small>${area.description}</small>
+              </div>
+              <strong>${unitLabel}</strong>
+            </header>
+            <div class="program-grid">${areaProjects.map(programCard).join("")}</div>
+          </section>
+        `;
+      }).join("")
+    : (projects.length ? `<div class="program-grid">${projects.map(programCard).join("")}</div>` : "");
   return `
     <section class="syllabus-family syllabus-family--${group.tone}" data-syllabus-key="${group.key}" aria-labelledby="syllabus-${group.key}">
       <header class="syllabus-family-header">
@@ -234,9 +251,9 @@ function syllabusFamilyMarkup(group, items) {
           ${group.url ? `<a href="${group.url}" target="_blank" rel="noopener">Open official syllabus ↗</a>` : ""}
         </div>
       </header>
-      ${alignmentLegend}
+      ${focusAreaKey}
       ${masters.length ? `<div class="master-program-grid" aria-label="Master programs">${masters.map(programCard).join("")}</div>` : ""}
-      ${projects.length ? `<div class="program-grid">${projects.map(programCard).join("")}</div>` : ""}
+      ${groupedProjects}
     </section>
   `;
 }
