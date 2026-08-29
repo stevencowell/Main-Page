@@ -99,9 +99,13 @@ h1 span { color: #f0d49f; }
 .status.ready { color: #245f42; background: #dff2e6; }
 .status.pending { color: #726344; background: #f4eedf; }
 .program-card h4 { margin: 19px 0 7px; font-family: Manrope, sans-serif; font-size: 1.45rem; line-height: 1.12; letter-spacing: -.025em; }
+.program-details .alignment-detail--primary { color: #175d40; border-color: #b9d8c6; background: #e4f3e9; }
+.program-details .alignment-detail--reinforcing { color: #315d48; border-color: #c7ddcf; background: #eff7f1; }
+.program-details .alignment-detail--conditional { color: #775d15; border-color: #e1ca7a; background: #fff1bd; }
+.program-details .alignment-detail--gap { color: #6a6f6d; border-color: #cfd4d1; background: #ecefed; }
 .course-meta { margin: 0; color: var(--muted); font-size: .9rem; }
 .program-details { display: flex; flex-wrap: wrap; gap: 7px; margin: 19px 0 0; }
-.program-details span { padding: 5px 8px; border-radius: 8px; color: #4e5e57; background: #f3f5f3; font-size: .75rem; font-weight: 700; }
+.program-details span { padding: 5px 8px; border: 1px solid transparent; border-radius: 8px; color: #4e5e57; background: #f3f5f3; font-size: .75rem; font-weight: 700; }
 .card-note { margin: 16px 0 0; color: var(--muted); font-size: .86rem; }
 .syllabus-meta { display: grid; gap: 4px; margin-top: 16px; padding: 12px 13px; border: 1px solid #d6e2d9; border-radius: 12px; background: #f5f8f5; }
 .syllabus-meta span { color: #66736d; font-size: .68rem; font-weight: 800; letter-spacing: .06em; text-transform: uppercase; }

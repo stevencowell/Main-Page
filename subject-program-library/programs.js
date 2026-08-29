@@ -1,4 +1,5 @@
 const programs = [
+  { title: "Stage 4 Technology 200-hour Master", family: "Technology", stage: "Stage 4", course: "Stage 4 Technology", periods: 200, version: "v1.0", master: true, masterNote: "Modular two-year control program: all 85 syllabus content points are placed across an exact 200-hour reference combination. Eighty-two are scheduled as primary coverage; three stay amber until authorised local sources and protocols are confirmed.", syllabusAligned: true, alignmentState: "conditional", alignmentLabel: "82 primary · 3 conditional", pdf: "programs/Stage-4-Technology-200-Hour-Modular-Master-Teaching-Program-v1.0-Network-Benchmark.pdf", docx: "programs/Stage-4-Technology-200-Hour-Modular-Master-Teaching-Program-v1.0-Network-Benchmark.docx", manifest: "programs/Stage-4-Technology-200-Hour-Modular-Master-Alignment-Manifest-v1.0.json", syllabusTitle: "Technology 7–8 Syllabus (2023)", syllabusUrl: "https://curriculum.nsw.edu.au/learning-areas/tas/technology-7-8-2023/overview/course", syllabusStatus: "Implemented from 2026", syllabusVerified: "29 August 2026" },
   { title: "The Riv Burger", family: "Food and Agriculture", stage: "Stage 4", course: "Technology", periods: 25, version: "v2.4", benchmark: true, syllabusAligned: true, pdf: "programs/Riv-Burger-25-Period-Teaching-Program-v2.4-Network-Benchmark.pdf", docx: "programs/Riv-Burger-25-Period-Teaching-Program-v2.4-Network-Benchmark.docx", manifest: "programs/Riv-Burger-25-Period-Alignment-Manifest-v2.4.json", syllabusTitle: "Technology 7–8 Syllabus (2023)", syllabusUrl: "https://curriculum.nsw.edu.au/learning-areas/tas/technology-7-8-2023/overview/course", syllabusStatus: "Implemented from 2026", syllabusVerified: "28 August 2026", site: "https://stevencowell.github.io/Year-8-The-Riv-Burger/" },
   { title: "Desk Tidy", family: "Timber", stage: "Stage 4", course: "Technology", periods: 25, version: "v2.1", syllabusAligned: true, pdf: "programs/Desk-Tidy-25-Period-Teaching-Program-v2.1-Network-Benchmark.pdf", docx: "programs/Desk-Tidy-25-Period-Teaching-Program-v2.1-Network-Benchmark.docx", manifest: "programs/Desk-Tidy-25-Period-Alignment-Manifest-v2.1.json", syllabusTitle: "Technology 7–8 Syllabus (2023)", syllabusUrl: "https://curriculum.nsw.edu.au/learning-areas/tas/technology-7-8-2023/overview/course", syllabusStatus: "Implemented from 2026", syllabusVerified: "28 August 2026", site: "https://stevencowell.github.io/desk-tidy/" },
   { title: "Programmable Light", family: "Timber", stage: "Stage 4", course: "Technology", periods: 25, version: "v2.0", syllabusAligned: true, pdf: "programs/Programmable-Light-25-Period-Teaching-Program-v2.0-Network-Benchmark.pdf", docx: "programs/Programmable-Light-25-Period-Teaching-Program-v2.0-Network-Benchmark.docx", manifest: "programs/Programmable-Light-25-Period-Alignment-Manifest-v2.0.json", syllabusTitle: "Technology 7–8 Syllabus (2023)", syllabusUrl: "https://curriculum.nsw.edu.au/learning-areas/tas/technology-7-8-2023/overview/course", syllabusStatus: "Implemented from 2026", syllabusVerified: "28 August 2026", site: "https://stevencowell.github.io/programmable-light-guided-course/" },
@@ -134,9 +135,19 @@ function renderFilters() {
   });
 }
 
+function courseLabel(program) {
+  const isStage4Technology = program.stage === "Stage 4" && program.syllabusUrl?.includes("/technology-7-8-2023/");
+  return isStage4Technology ? "Stage 4 Technology" : program.course;
+}
+
 function programCard(program) {
   const ready = Boolean(program.pdf);
-  const details = [program.stage, program.periods ? `${program.periods} periods` : null, program.version, program.syllabusAligned ? "Syllabus-aligned" : null].filter(Boolean);
+  const details = [program.stage, program.periods ? `${program.periods} periods` : null, program.version].filter(Boolean);
+  if (program.alignmentLabel) {
+    details.push({ label: program.alignmentLabel, state: program.alignmentState || "primary" });
+  } else if (program.syllabusAligned) {
+    details.push("Syllabus-aligned");
+  }
   const statusLabel = program.master ? "Master" : (program.benchmark ? "Benchmark" : (ready ? "Ready" : (program.alignmentInProgress ? "Alignment in progress" : "Not yet added")));
   return `
     <article class="program-card${program.master ? " is-master" : ""}" data-family="${program.family}" data-program-title="${program.title}">
@@ -146,13 +157,13 @@ function programCard(program) {
           <span class="status ${ready ? "ready" : "pending"}">${statusLabel}</span>
         </div>
         <h4>${program.title}</h4>
-        <p class="course-meta">${program.course}</p>
-        <div class="program-details">${details.map(detail => `<span>${detail}</span>`).join("")}</div>
+        <p class="course-meta">${courseLabel(program)}</p>
+        <div class="program-details">${details.map(detail => typeof detail === "string" ? `<span>${detail}</span>` : `<span class="alignment-detail alignment-detail--${detail.state}">${detail.label}</span>`).join("")}</div>
         <p class="card-note">${program.master ? (program.masterNote || "Two-year course map with exact site, evidence and syllabus destinations.") : (program.benchmark ? "Network benchmark: outcome codes sit beside the syllabus content they support, and each teacher checkpoint says exactly what to check or observe." : (ready ? "Print-ready program and editable source, aligned to the matching course site." : (program.alignmentInProgress ? "Existing course materials are being converted into the network program format; the official syllabus is confirmed." : "The course remains listed so the program gap is visible and easy to complete.")))}</p>
         ${program.syllabusUrl ? `<div class="syllabus-meta"><span>Official syllabus</span><a href="${program.syllabusUrl}" target="_blank" rel="noopener">${program.syllabusTitle} ↗</a><small>${program.syllabusStatus} · verified ${program.syllabusVerified}</small></div>` : ""}
         <div class="card-actions">
           ${ready ? `<a class="primary" href="${program.pdf}" target="_blank">Open PDF</a><a href="${program.docx}" download>Word copy</a>` : ""}
-          <a href="${program.site}" target="_blank" rel="noopener">Course site ↗</a>
+          ${program.site ? `<a href="${program.site}" target="_blank" rel="noopener">Course site ↗</a>` : ""}
         </div>
       </div>
     </article>
