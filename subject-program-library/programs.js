@@ -44,6 +44,20 @@ const programs = [
   { title: "Year 8 Science Guided Course", family: "Science", stage: "Stage 4 / Year 8", course: "Science", periods: 100, version: "v1.0", pdf: "programs/Year-8-Science-100-Period-Teaching-Program-v1.0-Website-Complete-10pt.pdf", docx: "programs/Year-8-Science-100-Period-Teaching-Program-v1.0-Website-Complete-10pt.docx", site: "https://stevencowell.github.io/Year-8-Science-Guided-Course/" }
 ];
 
+const stage4UnitAlignment = {
+  "The Riv Burger": { state: "conditional", label: "Master: 13 primary · 2 conditional", slot: "Reference slot" },
+  "Desk Tidy": { state: "primary", label: "Master: 20 of 85 primary", slot: "Reference slot" },
+  "Programmable Light": { state: "primary", label: "Master: 1 primary · 19 reinforcing", slot: "Reference slot" },
+  "Hose Reel Holder": { state: "reinforcing", label: "Reinforces 9 of 85", slot: "Substitution option" },
+  "Catapult": { state: "primary", label: "Master: 21 of 85 primary", slot: "Reference slot" },
+  "Crack the Code": { state: "primary", label: "Master: 12 of 85 primary", slot: "Reference slot" },
+  "Multimedia": { state: "conditional", label: "Master: 9 primary · 1 conditional", slot: "Spread over 10 weeks" },
+  "Lunch Is Packed": { state: "reinforcing", label: "Reinforces 9 of 85", slot: "Reference slot" },
+  "Bucket Hat for a Cause": { state: "reinforcing", label: "Reinforces 12 of 85", slot: "Substitution option" },
+  "Fantastic Food": { state: "primary", label: "Master: 6 of 85 primary", slot: "Reference 30-period load" },
+  "Agriculture": { state: "primary", label: "Option: 5 current primary", slot: "Extended option" },
+};
+
 const syllabusFamilies = [
   {
     key: "technology-7-8-2023",
@@ -143,14 +157,18 @@ function courseLabel(program) {
 function programCard(program) {
   const ready = Boolean(program.pdf);
   const details = [program.stage, program.periods ? `${program.periods} periods` : null, program.version].filter(Boolean);
-  if (program.alignmentLabel) {
-    details.push({ label: program.alignmentLabel, state: program.alignmentState || "primary" });
+  const alignment = program.alignmentLabel
+    ? { label: program.alignmentLabel, state: program.alignmentState || "primary" }
+    : stage4UnitAlignment[program.title];
+  if (alignment) {
+    details.push(alignment);
+    if (alignment.slot) details.push(alignment.slot);
   } else if (program.syllabusAligned) {
     details.push("Syllabus-aligned");
   }
   const statusLabel = program.master ? "Master" : (program.benchmark ? "Benchmark" : (ready ? "Ready" : (program.alignmentInProgress ? "Alignment in progress" : "Not yet added")));
   return `
-    <article class="program-card${program.master ? " is-master" : ""}" data-family="${program.family}" data-program-title="${program.title}">
+    <article class="program-card${program.master ? " is-master" : ""}" data-family="${program.family}" data-program-title="${program.title}"${alignment ? ` data-alignment-state="${alignment.state}"` : ""}>
       <div class="program-body">
         <div class="card-topline">
           <span class="subject-tag">${program.family}</span>
@@ -185,6 +203,14 @@ function syllabusFamilyMarkup(group, items) {
   const masters = sorted.filter(program => program.master);
   const projects = sorted.filter(program => !program.master);
   const programLabel = `${items.length} ${items.length === 1 ? "program" : "programs"}`;
+  const alignmentLegend = group.key === "technology-7-8-2023" ? `
+    <div class="card-alignment-legend" aria-label="Unit alignment colour key">
+      <span class="alignment-detail--primary">● Primary contribution</span>
+      <span class="alignment-detail--reinforcing">○ Reinforcing contribution</span>
+      <span class="alignment-detail--conditional">◆ Conditional source approval</span>
+      <span class="alignment-detail--gap">— No mapped contribution</span>
+    </div>
+  ` : "";
   return `
     <section class="syllabus-family syllabus-family--${group.tone}" data-syllabus-key="${group.key}" aria-labelledby="syllabus-${group.key}">
       <header class="syllabus-family-header">
@@ -198,6 +224,7 @@ function syllabusFamilyMarkup(group, items) {
           ${group.url ? `<a href="${group.url}" target="_blank" rel="noopener">Open official syllabus ↗</a>` : ""}
         </div>
       </header>
+      ${alignmentLegend}
       ${masters.length ? `<div class="master-program-grid" aria-label="Master programs">${masters.map(programCard).join("")}</div>` : ""}
       ${projects.length ? `<div class="program-grid">${projects.map(programCard).join("")}</div>` : ""}
     </section>

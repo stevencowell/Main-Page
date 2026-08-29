@@ -83,10 +83,16 @@ h1 span { color: #f0d49f; }
 .syllabus-family-actions { display: grid; flex: 0 0 auto; justify-items: end; gap: 7px; text-align: right; }
 .syllabus-family-actions span { color: var(--muted); font-size: .78rem; font-weight: 700; }
 .syllabus-family-actions a { color: var(--syllabus-accent); font-size: .86rem; font-weight: 800; text-underline-offset: 3px; }
+.card-alignment-legend { display: flex; flex-wrap: wrap; gap: 8px; margin: -5px 0 20px; }
+.card-alignment-legend span { padding: 6px 9px; border: 1px solid transparent; border-radius: 8px; font-size: .73rem; font-weight: 800; }
 .master-program-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 420px), 1fr)); gap: 22px; margin-bottom: 22px; }
 .program-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 22px; }
 .program-card { position: relative; display: flex; min-width: 0; min-height: 345px; flex-direction: column; overflow: hidden; border: 1px solid var(--line); border-radius: var(--radius); background: var(--paper); box-shadow: 0 8px 26px rgba(24,51,42,.07); }
 .program-card::before { content: ""; height: 7px; background: var(--syllabus-accent, var(--forest)); }
+.program-card[data-alignment-state="primary"]::before { background: #176046; }
+.program-card[data-alignment-state="reinforcing"]::before { background: #75a889; }
+.program-card[data-alignment-state="conditional"]::before { background: #c08a1a; }
+.program-card[data-alignment-state="gap"]::before { background: #858d89; }
 .program-card.is-master { min-height: 0; border-color: var(--syllabus-accent); background: linear-gradient(132deg, var(--syllabus-soft), white 48%); box-shadow: 0 14px 36px rgba(24,51,42,.12); }
 .syllabus-family--industrial .program-card[data-family="Timber"] { --syllabus-accent: #8a531f; --syllabus-soft: #f8ead8; border-color: #ddc3a3; background: linear-gradient(180deg, #fff9f2 0, white 42%); box-shadow: 0 9px 28px rgba(111,63,18,.1); }
 .syllabus-family--industrial .program-card[data-family="Metalwork"] { --syllabus-accent: #2f6079; --syllabus-soft: #e4f0f5; border-color: #abc5d2; background: linear-gradient(180deg, #f4fafc 0, white 42%); box-shadow: 0 9px 28px rgba(32,78,101,.11); }
@@ -99,10 +105,10 @@ h1 span { color: #f0d49f; }
 .status.ready { color: #245f42; background: #dff2e6; }
 .status.pending { color: #726344; background: #f4eedf; }
 .program-card h4 { margin: 19px 0 7px; font-family: Manrope, sans-serif; font-size: 1.45rem; line-height: 1.12; letter-spacing: -.025em; }
-.program-details .alignment-detail--primary { color: #175d40; border-color: #b9d8c6; background: #e4f3e9; }
-.program-details .alignment-detail--reinforcing { color: #315d48; border-color: #c7ddcf; background: #eff7f1; }
-.program-details .alignment-detail--conditional { color: #775d15; border-color: #e1ca7a; background: #fff1bd; }
-.program-details .alignment-detail--gap { color: #6a6f6d; border-color: #cfd4d1; background: #ecefed; }
+.program-details .alignment-detail--primary, .card-alignment-legend .alignment-detail--primary { color: #175d40; border-color: #b9d8c6; background: #e4f3e9; }
+.program-details .alignment-detail--reinforcing, .card-alignment-legend .alignment-detail--reinforcing { color: #315d48; border-color: #c7ddcf; background: #eff7f1; }
+.program-details .alignment-detail--conditional, .card-alignment-legend .alignment-detail--conditional { color: #775d15; border-color: #e1ca7a; background: #fff1bd; }
+.program-details .alignment-detail--gap, .card-alignment-legend .alignment-detail--gap { color: #6a6f6d; border-color: #cfd4d1; background: #ecefed; }
 .course-meta { margin: 0; color: var(--muted); font-size: .9rem; }
 .program-details { display: flex; flex-wrap: wrap; gap: 7px; margin: 19px 0 0; }
 .program-details span { padding: 5px 8px; border: 1px solid transparent; border-radius: 8px; color: #4e5e57; background: #f3f5f3; font-size: .75rem; font-weight: 700; }
