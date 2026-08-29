@@ -1,0 +1,2056 @@
+[
+  {
+    "content_item_id": "cieeb66c5a",
+    "focus_area": "Plant production",
+    "content_group": "Plants and their environment",
+    "exact_official_content": "Identify and select plants for agricultural production",
+    "outcome_codes": [
+      "AGT5-APG-01",
+      "AGT5-USE-01"
+    ],
+    "coverage_state": "mapped-existing-route",
+    "primary_unit": "year-9-agriculture",
+    "primary_destination": {
+      "unit": "year-9-agriculture",
+      "learning_id": "M06-S01",
+      "label": "Vegetable production as a managed enterprise",
+      "url": "https://stevencowell.github.io/Year-9-Agriculture-Guided-Course/module.html?module=6#theory-6-1",
+      "route": "module.html?module=6#theory-6-1",
+      "period_numbers": [
+        24
+      ]
+    },
+    "assurance_period": null,
+    "master_action": "Use the named course section and retain its evidence checkpoint."
+  },
+  {
+    "content_item_id": "cia3e8a21b",
+    "focus_area": "Plant production",
+    "content_group": "Plants and their environment",
+    "exact_official_content": "Explore Aboriginal and Torres Strait Islander Peoples’ plant-based enterprises",
+    "outcome_codes": [
+      "AGT5-APG-01"
+    ],
+    "coverage_state": "planned-master-overlay",
+    "primary_unit": "year-9-agriculture",
+    "primary_destination": {
+      "unit": "year-9-agriculture",
+      "learning_id": "M10-S03",
+      "label": "Respectful learning from Indigenous agricultural knowledge",
+      "url": "https://stevencowell.github.io/Year-9-Agriculture-Guided-Course/module.html?module=10#theory-10-3",
+      "route": "module.html?module=10#theory-10-3",
+      "period_numbers": [
+        42
+      ]
+    },
+    "assurance_period": null,
+    "master_action": "Use the named existing destination, but explicitly teach and collect evidence for the exact 2024 content statement through this master overlay."
+  },
+  {
+    "content_item_id": "cidc3acbf3",
+    "focus_area": "Plant production",
+    "content_group": "Plants and their environment",
+    "exact_official_content": "Explain suitable plant species for specific enterprises, climates and markets",
+    "outcome_codes": [
+      "AGT5-APG-01",
+      "AGT5-PRA-01",
+      "AGT5-COM-01"
+    ],
+    "coverage_state": "planned-master-overlay",
+    "primary_unit": "year-9-agriculture",
+    "primary_destination": {
+      "unit": "year-9-agriculture",
+      "learning_id": "M02-S01",
+      "label": "Climate factors that influence agricultural production",
+      "url": "https://stevencowell.github.io/Year-9-Agriculture-Guided-Course/module.html?module=2#theory-2-1",
+      "route": "module.html?module=2#theory-2-1",
+      "period_numbers": [
+        6
+      ]
+    },
+    "assurance_period": null,
+    "master_action": "Use the named existing destination, but explicitly teach and collect evidence for the exact 2024 content statement through this master overlay."
+  },
+  {
+    "content_item_id": "ci9ccc28c4",
+    "focus_area": "Plant production",
+    "content_group": "Plants and their environment",
+    "exact_official_content": "Describe the structure of plants and explain their function in relation to an agricultural plant enterprise",
+    "outcome_codes": [
+      "AGT5-APG-01",
+      "AGT5-COM-01"
+    ],
+    "coverage_state": "mapped-existing-route",
+    "primary_unit": "year-9-agriculture",
+    "primary_destination": {
+      "unit": "year-9-agriculture",
+      "learning_id": "M06-S02",
+      "label": "Plant structures and their functions",
+      "url": "https://stevencowell.github.io/Year-9-Agriculture-Guided-Course/module.html?module=6#theory-6-2",
+      "route": "module.html?module=6#theory-6-2",
+      "period_numbers": [
+        24
+      ]
+    },
+    "assurance_period": null,
+    "master_action": "Use the named course section and retain its evidence checkpoint."
+  },
+  {
+    "content_item_id": "cib8de61ea",
+    "focus_area": "Plant production",
+    "content_group": "Plants and their environment",
+    "exact_official_content": "Investigate and describe soil quality indicators including abiotic and biotic properties",
+    "outcome_codes": [
+      "AGT5-APG-01",
+      "AGT5-COM-01"
+    ],
+    "coverage_state": "mapped-existing-route",
+    "primary_unit": "year-9-agriculture",
+    "primary_destination": {
+      "unit": "year-9-agriculture",
+      "learning_id": "M08-S01",
+      "label": "Soil as a living production resource",
+      "url": "https://stevencowell.github.io/Year-9-Agriculture-Guided-Course/module.html?module=8#theory-8-1",
+      "route": "module.html?module=8#theory-8-1",
+      "period_numbers": [
+        33
+      ]
+    },
+    "assurance_period": null,
+    "master_action": "Use the named course section and retain its evidence checkpoint."
+  },
+  {
+    "content_item_id": "ci5f79a655",
+    "focus_area": "Plant production",
+    "content_group": "Plants and their environment",
+    "exact_official_content": "Implement soil management operations for plant-based enterprises",
+    "outcome_codes": [
+      "AGT5-APG-01",
+      "AGT5-IVT-01",
+      "AGT5-USE-01"
+    ],
+    "coverage_state": "mapped-existing-route",
+    "primary_unit": "year-9-agriculture",
+    "primary_destination": {
+      "unit": "year-9-agriculture",
+      "learning_id": "M08-S01",
+      "label": "Soil as a living production resource",
+      "url": "https://stevencowell.github.io/Year-9-Agriculture-Guided-Course/module.html?module=8#theory-8-1",
+      "route": "module.html?module=8#theory-8-1",
+      "period_numbers": [
+        33
+      ]
+    },
+    "assurance_period": null,
+    "master_action": "Use the named course section and retain its evidence checkpoint."
+  },
+  {
+    "content_item_id": "cif525647b",
+    "focus_area": "Plant production",
+    "content_group": "Production",
+    "exact_official_content": "Investigate and describe the calendar of operations for a plant production cycle",
+    "outcome_codes": [
+      "AGT5-APG-01",
+      "AGT5-USE-01",
+      "AGT5-COM-01"
+    ],
+    "coverage_state": "planned-master-overlay",
+    "primary_unit": "year-9-agriculture",
+    "primary_destination": {
+      "unit": "year-9-agriculture",
+      "learning_id": "M06-S01",
+      "label": "Vegetable production as a managed enterprise",
+      "url": "https://stevencowell.github.io/Year-9-Agriculture-Guided-Course/module.html?module=6#theory-6-1",
+      "route": "module.html?module=6#theory-6-1",
+      "period_numbers": [
+        24
+      ]
+    },
+    "assurance_period": null,
+    "master_action": "Use the named existing destination, but explicitly teach and collect evidence for the exact 2024 content statement through this master overlay."
+  },
+  {
+    "content_item_id": "ci56c10985",
+    "focus_area": "Plant production",
+    "content_group": "Production",
+    "exact_official_content": "Evaluate and explain the timing and impact of operations in a plant production cycle",
+    "outcome_codes": [
+      "AGT5-APG-01",
+      "AGT5-USE-01",
+      "AGT5-COM-01"
+    ],
+    "coverage_state": "planned-master-overlay",
+    "primary_unit": "year-9-agriculture",
+    "primary_destination": {
+      "unit": "year-9-agriculture",
+      "learning_id": "M10-S02",
+      "label": "Planning vegetable production under water constraints",
+      "url": "https://stevencowell.github.io/Year-9-Agriculture-Guided-Course/module.html?module=10#theory-10-2",
+      "route": "module.html?module=10#theory-10-2",
+      "period_numbers": [
+        42
+      ]
+    },
+    "assurance_period": null,
+    "master_action": "Use the named existing destination, but explicitly teach and collect evidence for the exact 2024 content statement through this master overlay."
+  },
+  {
+    "content_item_id": "ci4fc6616b",
+    "focus_area": "Plant production",
+    "content_group": "Production",
+    "exact_official_content": "Identify risks and demonstrate safe work practices in the management of plant enterprises",
+    "outcome_codes": [
+      "AGT5-SAF-01",
+      "AGT5-APG-01",
+      "AGT5-PRA-01",
+      "AGT5-IVT-01"
+    ],
+    "coverage_state": "mapped-existing-route",
+    "primary_unit": "year-9-agriculture",
+    "primary_destination": {
+      "unit": "year-9-agriculture",
+      "learning_id": "M05-S03",
+      "label": "Risk controls and evidence-based decisions",
+      "url": "https://stevencowell.github.io/Year-9-Agriculture-Guided-Course/module.html?module=5#theory-5-3",
+      "route": "module.html?module=5#theory-5-3",
+      "period_numbers": [
+        20
+      ]
+    },
+    "assurance_period": null,
+    "master_action": "Use the named course section and retain its evidence checkpoint."
+  },
+  {
+    "content_item_id": "ci8a68ea5d",
+    "focus_area": "Plant production",
+    "content_group": "Production",
+    "exact_official_content": "Identify and describe resources required to establish plant enterprises",
+    "outcome_codes": [
+      "AGT5-APG-01",
+      "AGT5-COM-01"
+    ],
+    "coverage_state": "planned-master-overlay",
+    "primary_unit": "year-9-agriculture",
+    "primary_destination": {
+      "unit": "year-9-agriculture",
+      "learning_id": "M06-S01",
+      "label": "Vegetable production as a managed enterprise",
+      "url": "https://stevencowell.github.io/Year-9-Agriculture-Guided-Course/module.html?module=6#theory-6-1",
+      "route": "module.html?module=6#theory-6-1",
+      "period_numbers": [
+        24
+      ]
+    },
+    "assurance_period": null,
+    "master_action": "Use the named existing destination, but explicitly teach and collect evidence for the exact 2024 content statement through this master overlay."
+  },
+  {
+    "content_item_id": "cic44e9062",
+    "focus_area": "Plant production",
+    "content_group": "Production",
+    "exact_official_content": "Investigate and apply a range of propagation techniques",
+    "outcome_codes": [
+      "AGT5-APG-01"
+    ],
+    "coverage_state": "planned-master-overlay",
+    "primary_unit": "year-9-agriculture",
+    "primary_destination": {
+      "unit": "year-9-agriculture",
+      "learning_id": "M07-S02",
+      "label": "Flower structures and reproductive functions",
+      "url": "https://stevencowell.github.io/Year-9-Agriculture-Guided-Course/module.html?module=7#theory-7-2",
+      "route": "module.html?module=7#theory-7-2",
+      "period_numbers": [
+        29
+      ]
+    },
+    "assurance_period": null,
+    "master_action": "Use the named existing destination, but explicitly teach and collect evidence for the exact 2024 content statement through this master overlay."
+  },
+  {
+    "content_item_id": "ci7f866f0e",
+    "focus_area": "Plant production",
+    "content_group": "Production",
+    "exact_official_content": "Select and apply technologies and processes to establish a plant enterprise",
+    "outcome_codes": [
+      "AGT5-APG-01",
+      "AGT5-USE-01"
+    ],
+    "coverage_state": "planned-master-overlay",
+    "primary_unit": "year-9-agriculture",
+    "primary_destination": {
+      "unit": "year-9-agriculture",
+      "learning_id": "M06-S01",
+      "label": "Vegetable production as a managed enterprise",
+      "url": "https://stevencowell.github.io/Year-9-Agriculture-Guided-Course/module.html?module=6#theory-6-1",
+      "route": "module.html?module=6#theory-6-1",
+      "period_numbers": [
+        24
+      ]
+    },
+    "assurance_period": null,
+    "master_action": "Use the named existing destination, but explicitly teach and collect evidence for the exact 2024 content statement through this master overlay."
+  },
+  {
+    "content_item_id": "cif4313de7",
+    "focus_area": "Plant production",
+    "content_group": "Production",
+    "exact_official_content": "Manage and monitor growth and development of agricultural plants",
+    "outcome_codes": [
+      "AGT5-APG-01"
+    ],
+    "coverage_state": "mapped-existing-route",
+    "primary_unit": "year-9-agriculture",
+    "primary_destination": {
+      "unit": "year-9-agriculture",
+      "learning_id": "M07-S01",
+      "label": "Water uptake and transport in plants",
+      "url": "https://stevencowell.github.io/Year-9-Agriculture-Guided-Course/module.html?module=7#theory-7-1",
+      "route": "module.html?module=7#theory-7-1",
+      "period_numbers": [
+        29
+      ]
+    },
+    "assurance_period": null,
+    "master_action": "Use the named course section and retain its evidence checkpoint."
+  },
+  {
+    "content_item_id": "ci08d00d27",
+    "focus_area": "Plant production",
+    "content_group": "Production",
+    "exact_official_content": "Identify and describe common plant pests and diseases",
+    "outcome_codes": [
+      "AGT5-APG-01",
+      "AGT5-COM-01"
+    ],
+    "coverage_state": "mapped-existing-route",
+    "primary_unit": "year-9-agriculture",
+    "primary_destination": {
+      "unit": "year-9-agriculture",
+      "learning_id": "M08-S02",
+      "label": "Soil texture, structure and plant growth",
+      "url": "https://stevencowell.github.io/Year-9-Agriculture-Guided-Course/module.html?module=8#theory-8-2",
+      "route": "module.html?module=8#theory-8-2",
+      "period_numbers": [
+        33
+      ]
+    },
+    "assurance_period": null,
+    "master_action": "Use the named course section and retain its evidence checkpoint."
+  },
+  {
+    "content_item_id": "ciac027cdb",
+    "focus_area": "Plant production",
+    "content_group": "Production",
+    "exact_official_content": "Evaluate the role of microorganisms and invertebrates and their effect on plant production",
+    "outcome_codes": [
+      "AGT5-APG-01",
+      "AGT5-USE-01"
+    ],
+    "coverage_state": "mapped-existing-route",
+    "primary_unit": "year-10-agriculture",
+    "primary_destination": {
+      "unit": "year-10-agriculture",
+      "learning_id": "M02-S01",
+      "label": "Beneficial and harmful organisms in production",
+      "url": "https://stevencowell.github.io/Year-10-Agriculture-Guided-Course/module.html?module=2#theory-2-1",
+      "route": "module.html?module=2#theory-2-1",
+      "period_numbers": [
+        6
+      ]
+    },
+    "assurance_period": null,
+    "master_action": "Use the named course section and retain its evidence checkpoint."
+  },
+  {
+    "content_item_id": "ci67526700",
+    "focus_area": "Plant production",
+    "content_group": "Production",
+    "exact_official_content": "Investigate strategies for the management and control of plant pests and diseases",
+    "outcome_codes": [
+      "AGT5-APG-01",
+      "AGT5-IVT-01"
+    ],
+    "coverage_state": "mapped-existing-route",
+    "primary_unit": "year-9-agriculture",
+    "primary_destination": {
+      "unit": "year-9-agriculture",
+      "learning_id": "M08-S02",
+      "label": "Soil texture, structure and plant growth",
+      "url": "https://stevencowell.github.io/Year-9-Agriculture-Guided-Course/module.html?module=8#theory-8-2",
+      "route": "module.html?module=8#theory-8-2",
+      "period_numbers": [
+        33
+      ]
+    },
+    "assurance_period": null,
+    "master_action": "Use the named course section and retain its evidence checkpoint."
+  },
+  {
+    "content_item_id": "ci0fc8c475",
+    "focus_area": "Plant production",
+    "content_group": "Production",
+    "exact_official_content": "Justify the selection of technologies and processes used to collect and manage data during plant production",
+    "outcome_codes": [
+      "AGT5-APG-01",
+      "AGT5-USE-01"
+    ],
+    "coverage_state": "mapped-existing-route",
+    "primary_unit": "year-10-agriculture",
+    "primary_destination": {
+      "unit": "year-10-agriculture",
+      "learning_id": "M07-S02",
+      "label": "Crop monitoring tools and data",
+      "url": "https://stevencowell.github.io/Year-10-Agriculture-Guided-Course/module.html?module=7#theory-7-2",
+      "route": "module.html?module=7#theory-7-2",
+      "period_numbers": [
+        28
+      ]
+    },
+    "assurance_period": null,
+    "master_action": "Use the named course section and retain its evidence checkpoint."
+  },
+  {
+    "content_item_id": "ci8d1aff5a",
+    "focus_area": "Plant production",
+    "content_group": "Production",
+    "exact_official_content": "Investigate and describe how emerging technologies influence changes to industry practices",
+    "outcome_codes": [
+      "AGT5-APG-01",
+      "AGT5-PRA-01",
+      "AGT5-IVT-01",
+      "AGT5-USE-01",
+      "AGT5-COM-01"
+    ],
+    "coverage_state": "planned-master-overlay",
+    "primary_unit": "year-10-agriculture",
+    "primary_destination": {
+      "unit": "year-10-agriculture",
+      "learning_id": "M20-S02",
+      "label": "Emerging dairy technologies and evidence-based selection",
+      "url": "https://stevencowell.github.io/Year-10-Agriculture-Guided-Course/module.html?module=20#theory-20-2",
+      "route": "module.html?module=20#theory-20-2",
+      "period_numbers": [
+        96
+      ]
+    },
+    "assurance_period": null,
+    "master_action": "Use the named existing destination, but explicitly teach and collect evidence for the exact 2024 content statement through this master overlay."
+  },
+  {
+    "content_item_id": "ci6a901108",
+    "focus_area": "Plant production",
+    "content_group": "Production",
+    "exact_official_content": "Create written texts to explain and evaluate factors that influence plant production processes and practices",
+    "outcome_codes": [
+      "AGT5-APG-01",
+      "AGT5-PRA-01",
+      "AGT5-USE-01",
+      "AGT5-COM-01"
+    ],
+    "coverage_state": "planned-master-overlay",
+    "primary_unit": "year-9-agriculture",
+    "primary_destination": {
+      "unit": "year-9-agriculture",
+      "learning_id": "FOLIO",
+      "label": "Course folio and evidence record",
+      "url": "https://stevencowell.github.io/Year-9-Agriculture-Guided-Course/folio.html",
+      "route": "folio.html",
+      "period_numbers": [
+        1
+      ]
+    },
+    "assurance_period": null,
+    "master_action": "Use the named existing destination, but explicitly teach and collect evidence for the exact 2024 content statement through this master overlay."
+  },
+  {
+    "content_item_id": "ci6b7c3b73",
+    "focus_area": "Plant production",
+    "content_group": "Post-harvest and marketing",
+    "exact_official_content": "Explain the steps from the farm gate to the consumer for selected agricultural plant products",
+    "outcome_codes": [
+      "AGT5-APG-01",
+      "AGT5-PRA-01",
+      "AGT5-ENV-01",
+      "AGT5-COM-01"
+    ],
+    "coverage_state": "mapped-existing-route",
+    "primary_unit": "year-9-agriculture",
+    "primary_destination": {
+      "unit": "year-9-agriculture",
+      "learning_id": "M03-S02",
+      "label": "Commodity chains from production to market",
+      "url": "https://stevencowell.github.io/Year-9-Agriculture-Guided-Course/module.html?module=3#theory-3-2",
+      "route": "module.html?module=3#theory-3-2",
+      "period_numbers": [
+        11
+      ]
+    },
+    "assurance_period": null,
+    "master_action": "Use the named course section and retain its evidence checkpoint."
+  },
+  {
+    "content_item_id": "cib5939f0a",
+    "focus_area": "Plant production",
+    "content_group": "Post-harvest and marketing",
+    "exact_official_content": "Describe current and emerging technologies used in traceability for plants and plant products",
+    "outcome_codes": [
+      "AGT5-APG-01",
+      "AGT5-IVT-01",
+      "AGT5-USE-01",
+      "AGT5-COM-01"
+    ],
+    "coverage_state": "planned-master-overlay",
+    "primary_unit": "year-10-agriculture",
+    "primary_destination": {
+      "unit": "year-10-agriculture",
+      "learning_id": "M20-S02",
+      "label": "Emerging dairy technologies and evidence-based selection",
+      "url": "https://stevencowell.github.io/Year-10-Agriculture-Guided-Course/module.html?module=20#theory-20-2",
+      "route": "module.html?module=20#theory-20-2",
+      "period_numbers": [
+        96
+      ]
+    },
+    "assurance_period": null,
+    "master_action": "Use the named existing destination, but explicitly teach and collect evidence for the exact 2024 content statement through this master overlay."
+  },
+  {
+    "content_item_id": "ci04c297a9",
+    "focus_area": "Plant production",
+    "content_group": "Post-harvest and marketing",
+    "exact_official_content": "Evaluate the need for traceability of plants and plant products, including disease prevention, market access and ethical considerations",
+    "outcome_codes": [
+      "AGT5-APG-01",
+      "AGT5-PRA-01"
+    ],
+    "coverage_state": "planned-master-overlay",
+    "primary_unit": "year-9-agriculture",
+    "primary_destination": {
+      "unit": "year-9-agriculture",
+      "learning_id": "M14-S01",
+      "label": "Traceability in cattle enterprises",
+      "url": "https://stevencowell.github.io/Year-9-Agriculture-Guided-Course/module.html?module=14#theory-14-1",
+      "route": "module.html?module=14#theory-14-1",
+      "period_numbers": [
+        60
+      ]
+    },
+    "assurance_period": null,
+    "master_action": "Use the named existing destination, but explicitly teach and collect evidence for the exact 2024 content statement through this master overlay."
+  },
+  {
+    "content_item_id": "ci2fb27d9a",
+    "focus_area": "Plant production",
+    "content_group": "Post-harvest and marketing",
+    "exact_official_content": "Investigate market specifications and availability for seasonal agricultural plant products",
+    "outcome_codes": [
+      "AGT5-APG-01",
+      "AGT5-PRA-01"
+    ],
+    "coverage_state": "mapped-existing-route",
+    "primary_unit": "year-10-agriculture",
+    "primary_destination": {
+      "unit": "year-10-agriculture",
+      "learning_id": "M04-S01",
+      "label": "Clear and unbiased agricultural market surveys",
+      "url": "https://stevencowell.github.io/Year-10-Agriculture-Guided-Course/module.html?module=4#theory-4-1",
+      "route": "module.html?module=4#theory-4-1",
+      "period_numbers": [
+        15
+      ]
+    },
+    "assurance_period": null,
+    "master_action": "Use the named course section and retain its evidence checkpoint."
+  },
+  {
+    "content_item_id": "ci80429cfa",
+    "focus_area": "Plant production",
+    "content_group": "Post-harvest and marketing",
+    "exact_official_content": "Assess the quality of plant products based on identified market specifications",
+    "outcome_codes": [
+      "AGT5-APG-01",
+      "AGT5-PRA-01"
+    ],
+    "coverage_state": "mapped-existing-route",
+    "primary_unit": "year-10-agriculture",
+    "primary_destination": {
+      "unit": "year-10-agriculture",
+      "learning_id": "M04-S01",
+      "label": "Clear and unbiased agricultural market surveys",
+      "url": "https://stevencowell.github.io/Year-10-Agriculture-Guided-Course/module.html?module=4#theory-4-1",
+      "route": "module.html?module=4#theory-4-1",
+      "period_numbers": [
+        15
+      ]
+    },
+    "assurance_period": null,
+    "master_action": "Use the named course section and retain its evidence checkpoint."
+  },
+  {
+    "content_item_id": "ci54d80b9d",
+    "focus_area": "Plant production",
+    "content_group": "Post-harvest and marketing",
+    "exact_official_content": "Analyse ways that consumers can influence change in plant production and distribution practices to improve sustainability, increase food security and minimise waste",
+    "outcome_codes": [
+      "AGT5-APG-01",
+      "AGT5-PRA-01",
+      "AGT5-ENV-01",
+      "AGT5-USE-01"
+    ],
+    "coverage_state": "planned-master-overlay",
+    "primary_unit": "year-10-agriculture",
+    "primary_destination": {
+      "unit": "year-10-agriculture",
+      "learning_id": "M01-S03",
+      "label": "Diversification, markets and sustainability decisions",
+      "url": "https://stevencowell.github.io/Year-10-Agriculture-Guided-Course/module.html?module=1#theory-1-3",
+      "route": "module.html?module=1#theory-1-3",
+      "period_numbers": [
+        1
+      ]
+    },
+    "assurance_period": null,
+    "master_action": "Use the named existing destination, but explicitly teach and collect evidence for the exact 2024 content statement through this master overlay."
+  },
+  {
+    "content_item_id": "ci007c07ca",
+    "focus_area": "Animal production",
+    "content_group": "Animals and their environment",
+    "exact_official_content": "Identify animals used in agricultural production",
+    "outcome_codes": [
+      "AGT5-APG-01",
+      "AGT5-USE-01"
+    ],
+    "coverage_state": "mapped-existing-route",
+    "primary_unit": "year-9-agriculture",
+    "primary_destination": {
+      "unit": "year-9-agriculture",
+      "learning_id": "M01-S02",
+      "label": "Classifying plants and animals by agricultural purpose",
+      "url": "https://stevencowell.github.io/Year-9-Agriculture-Guided-Course/module.html?module=1#theory-1-2",
+      "route": "module.html?module=1#theory-1-2",
+      "period_numbers": [
+        1
+      ]
+    },
+    "assurance_period": null,
+    "master_action": "Use the named course section and retain its evidence checkpoint."
+  },
+  {
+    "content_item_id": "ci89f33eae",
+    "focus_area": "Animal production",
+    "content_group": "Animals and their environment",
+    "exact_official_content": "Explore sustainable wildlife conservation Practices developed by Aboriginal and Torres Strait Islander Peoples",
+    "outcome_codes": [
+      "AGT5-APG-01",
+      "AGT5-PRA-01",
+      "AGT5-ENV-01"
+    ],
+    "coverage_state": "master-assurance-required",
+    "primary_unit": "master-assurance",
+    "primary_destination": null,
+    "assurance_period": 197,
+    "master_action": "Complete the approved-source Cultural practices assurance activity; local Community and ICIP protocols remain Teacher to confirm."
+  },
+  {
+    "content_item_id": "ci035d7ff6",
+    "focus_area": "Animal production",
+    "content_group": "Animals and their environment",
+    "exact_official_content": "Explain the suitability of breeds for specific animal enterprises, climates and markets",
+    "outcome_codes": [
+      "AGT5-APG-01",
+      "AGT5-PRA-01",
+      "AGT5-COM-01"
+    ],
+    "coverage_state": "mapped-existing-route",
+    "primary_unit": "year-9-agriculture",
+    "primary_destination": {
+      "unit": "year-9-agriculture",
+      "learning_id": "M12-S01",
+      "label": "Comparing cattle breed groups and suitability",
+      "url": "https://stevencowell.github.io/Year-9-Agriculture-Guided-Course/module.html?module=12#theory-12-1",
+      "route": "module.html?module=12#theory-12-1",
+      "period_numbers": [
+        51
+      ]
+    },
+    "assurance_period": null,
+    "master_action": "Use the named course section and retain its evidence checkpoint."
+  },
+  {
+    "content_item_id": "cia6295156",
+    "focus_area": "Animal production",
+    "content_group": "Animals and their environment",
+    "exact_official_content": "Describe the structure and function of the digestive and reproductive systems of a range of animals",
+    "outcome_codes": [
+      "AGT5-APG-01",
+      "AGT5-COM-01"
+    ],
+    "coverage_state": "planned-master-overlay",
+    "primary_unit": "year-9-agriculture",
+    "primary_destination": {
+      "unit": "year-9-agriculture",
+      "learning_id": "M12-S02",
+      "label": "How the ruminant digestive system works",
+      "url": "https://stevencowell.github.io/Year-9-Agriculture-Guided-Course/module.html?module=12#theory-12-2",
+      "route": "module.html?module=12#theory-12-2",
+      "period_numbers": [
+        51
+      ]
+    },
+    "assurance_period": null,
+    "master_action": "Use the named existing destination, but explicitly teach and collect evidence for the exact 2024 content statement through this master overlay."
+  },
+  {
+    "content_item_id": "ci7d4f27f5",
+    "focus_area": "Animal production",
+    "content_group": "Production",
+    "exact_official_content": "Investigate and describe the calendar of operations for an animal production cycle",
+    "outcome_codes": [
+      "AGT5-APG-01",
+      "AGT5-USE-01",
+      "AGT5-COM-01"
+    ],
+    "coverage_state": "mapped-existing-route",
+    "primary_unit": "year-10-agriculture",
+    "primary_destination": {
+      "unit": "year-10-agriculture",
+      "learning_id": "M13-S01",
+      "label": "A management calendar as a planning tool",
+      "url": "https://stevencowell.github.io/Year-10-Agriculture-Guided-Course/module.html?module=13#theory-13-1",
+      "route": "module.html?module=13#theory-13-1",
+      "period_numbers": [
+        55
+      ]
+    },
+    "assurance_period": null,
+    "master_action": "Use the named course section and retain its evidence checkpoint."
+  },
+  {
+    "content_item_id": "cifab09cdc",
+    "focus_area": "Animal production",
+    "content_group": "Production",
+    "exact_official_content": "Evaluate and explain the timing and impact of operations in an animal production cycle",
+    "outcome_codes": [
+      "AGT5-APG-01",
+      "AGT5-USE-01",
+      "AGT5-COM-01"
+    ],
+    "coverage_state": "mapped-existing-route",
+    "primary_unit": "year-10-agriculture",
+    "primary_destination": {
+      "unit": "year-10-agriculture",
+      "learning_id": "M13-S02",
+      "label": "Linking management decisions across the production cycle",
+      "url": "https://stevencowell.github.io/Year-10-Agriculture-Guided-Course/module.html?module=13#theory-13-2",
+      "route": "module.html?module=13#theory-13-2",
+      "period_numbers": [
+        55
+      ]
+    },
+    "assurance_period": null,
+    "master_action": "Use the named course section and retain its evidence checkpoint."
+  },
+  {
+    "content_item_id": "ci63a688f4",
+    "focus_area": "Animal production",
+    "content_group": "Production",
+    "exact_official_content": "Identify risks and demonstrate safe work practices in the management of animal enterprises",
+    "outcome_codes": [
+      "AGT5-SAF-01",
+      "AGT5-APG-01",
+      "AGT5-PRA-01",
+      "AGT5-IVT-01"
+    ],
+    "coverage_state": "mapped-existing-route",
+    "primary_unit": "year-10-agriculture",
+    "primary_destination": {
+      "unit": "year-10-agriculture",
+      "learning_id": "M15-S01",
+      "label": "Hazards, risks and the hierarchy of controls",
+      "url": "https://stevencowell.github.io/Year-10-Agriculture-Guided-Course/module.html?module=15#theory-15-1",
+      "route": "module.html?module=15#theory-15-1",
+      "period_numbers": [
+        64
+      ]
+    },
+    "assurance_period": null,
+    "master_action": "Use the named course section and retain its evidence checkpoint."
+  },
+  {
+    "content_item_id": "ci4d26f0b6",
+    "focus_area": "Animal production",
+    "content_group": "Production",
+    "exact_official_content": "Identify and describe resources required to establish animal enterprises",
+    "outcome_codes": [
+      "AGT5-APG-01",
+      "AGT5-COM-01"
+    ],
+    "coverage_state": "planned-master-overlay",
+    "primary_unit": "year-9-agriculture",
+    "primary_destination": {
+      "unit": "year-9-agriculture",
+      "learning_id": "M11-S01",
+      "label": "The beef enterprise as a production system",
+      "url": "https://stevencowell.github.io/Year-9-Agriculture-Guided-Course/module.html?module=11#theory-11-1",
+      "route": "module.html?module=11#theory-11-1",
+      "period_numbers": [
+        47
+      ]
+    },
+    "assurance_period": null,
+    "master_action": "Use the named existing destination, but explicitly teach and collect evidence for the exact 2024 content statement through this master overlay."
+  },
+  {
+    "content_item_id": "cicb0e5fd2",
+    "focus_area": "Animal production",
+    "content_group": "Production",
+    "exact_official_content": "Select and apply technologies and processes in the management of animal enterprises",
+    "outcome_codes": [
+      "AGT5-APG-01",
+      "AGT5-IVT-01",
+      "AGT5-USE-01"
+    ],
+    "coverage_state": "mapped-existing-route",
+    "primary_unit": "year-10-agriculture",
+    "primary_destination": {
+      "unit": "year-10-agriculture",
+      "learning_id": "M13-S03",
+      "label": "Technology for identification, monitoring and decisions",
+      "url": "https://stevencowell.github.io/Year-10-Agriculture-Guided-Course/module.html?module=13#theory-13-3",
+      "route": "module.html?module=13#theory-13-3",
+      "period_numbers": [
+        55
+      ]
+    },
+    "assurance_period": null,
+    "master_action": "Use the named course section and retain its evidence checkpoint."
+  },
+  {
+    "content_item_id": "ci47a532a3",
+    "focus_area": "Animal production",
+    "content_group": "Production",
+    "exact_official_content": "Apply animal welfare guidelines and regulations in the management of animal enterprises",
+    "outcome_codes": [
+      "AGT5-APG-01",
+      "AGT5-IVT-01"
+    ],
+    "coverage_state": "mapped-existing-route",
+    "primary_unit": "year-9-agriculture",
+    "primary_destination": {
+      "unit": "year-9-agriculture",
+      "learning_id": "M13-S02",
+      "label": "Animal welfare and ethical decision-making",
+      "url": "https://stevencowell.github.io/Year-9-Agriculture-Guided-Course/module.html?module=13#theory-13-2",
+      "route": "module.html?module=13#theory-13-2",
+      "period_numbers": [
+        56
+      ]
+    },
+    "assurance_period": null,
+    "master_action": "Use the named course section and retain its evidence checkpoint."
+  },
+  {
+    "content_item_id": "ci289aceb1",
+    "focus_area": "Animal production",
+    "content_group": "Production",
+    "exact_official_content": "Communicate the planning and management of animal enterprises",
+    "outcome_codes": [
+      "AGT5-APG-01",
+      "AGT5-IVT-01",
+      "AGT5-COM-01"
+    ],
+    "coverage_state": "mapped-existing-route",
+    "primary_unit": "year-10-agriculture",
+    "primary_destination": {
+      "unit": "year-10-agriculture",
+      "learning_id": "M13-S01",
+      "label": "A management calendar as a planning tool",
+      "url": "https://stevencowell.github.io/Year-10-Agriculture-Guided-Course/module.html?module=13#theory-13-1",
+      "route": "module.html?module=13#theory-13-1",
+      "period_numbers": [
+        55
+      ]
+    },
+    "assurance_period": null,
+    "master_action": "Use the named course section and retain its evidence checkpoint."
+  },
+  {
+    "content_item_id": "ci03304f52",
+    "focus_area": "Animal production",
+    "content_group": "Production",
+    "exact_official_content": "Investigate and explain nutritional requirements for different stages of animal production",
+    "outcome_codes": [
+      "AGT5-APG-01",
+      "AGT5-USE-01",
+      "AGT5-COM-01"
+    ],
+    "coverage_state": "mapped-existing-route",
+    "primary_unit": "year-10-agriculture",
+    "primary_destination": {
+      "unit": "year-10-agriculture",
+      "learning_id": "M12-S02",
+      "label": "Matching feed to changing requirements",
+      "url": "https://stevencowell.github.io/Year-10-Agriculture-Guided-Course/module.html?module=12#theory-12-2",
+      "route": "module.html?module=12#theory-12-2",
+      "period_numbers": [
+        51
+      ]
+    },
+    "assurance_period": null,
+    "master_action": "Use the named course section and retain its evidence checkpoint."
+  },
+  {
+    "content_item_id": "cib429c11c",
+    "focus_area": "Animal production",
+    "content_group": "Production",
+    "exact_official_content": "Apply a range of animal management skills and maintain appropriate records when engaging in animal enterprises",
+    "outcome_codes": [
+      "AGT5-APG-01",
+      "AGT5-IVT-01"
+    ],
+    "coverage_state": "mapped-existing-route",
+    "primary_unit": "year-10-agriculture",
+    "primary_destination": {
+      "unit": "year-10-agriculture",
+      "learning_id": "M14-S03",
+      "label": "Welfare-focused husbandry: needs, observations and records",
+      "url": "https://stevencowell.github.io/Year-10-Agriculture-Guided-Course/module.html?module=14#theory-14-3",
+      "route": "module.html?module=14#theory-14-3",
+      "period_numbers": [
+        60
+      ]
+    },
+    "assurance_period": null,
+    "master_action": "Use the named course section and retain its evidence checkpoint."
+  },
+  {
+    "content_item_id": "ci2c265636",
+    "focus_area": "Animal production",
+    "content_group": "Production",
+    "exact_official_content": "Investigate and evaluate technologies for data collection and monitoring of animal enterprises and their performance",
+    "outcome_codes": [
+      "AGT5-APG-01",
+      "AGT5-USE-01"
+    ],
+    "coverage_state": "mapped-existing-route",
+    "primary_unit": "year-10-agriculture",
+    "primary_destination": {
+      "unit": "year-10-agriculture",
+      "learning_id": "M13-S03",
+      "label": "Technology for identification, monitoring and decisions",
+      "url": "https://stevencowell.github.io/Year-10-Agriculture-Guided-Course/module.html?module=13#theory-13-3",
+      "route": "module.html?module=13#theory-13-3",
+      "period_numbers": [
+        55
+      ]
+    },
+    "assurance_period": null,
+    "master_action": "Use the named course section and retain its evidence checkpoint."
+  },
+  {
+    "content_item_id": "ci8b76ef8e",
+    "focus_area": "Animal production",
+    "content_group": "Production",
+    "exact_official_content": "Identify and explain effects of common pests and diseases on animal production",
+    "outcome_codes": [
+      "AGT5-APG-01",
+      "AGT5-USE-01",
+      "AGT5-COM-01"
+    ],
+    "coverage_state": "planned-master-overlay",
+    "primary_unit": "year-9-agriculture",
+    "primary_destination": {
+      "unit": "year-9-agriculture",
+      "learning_id": "M18-S02",
+      "label": "Biosecurity pathways in poultry systems",
+      "url": "https://stevencowell.github.io/Year-9-Agriculture-Guided-Course/module.html?module=18#theory-18-2",
+      "route": "module.html?module=18#theory-18-2",
+      "period_numbers": [
+        85
+      ]
+    },
+    "assurance_period": null,
+    "master_action": "Use the named existing destination, but explicitly teach and collect evidence for the exact 2024 content statement through this master overlay."
+  },
+  {
+    "content_item_id": "ci4d30ef39",
+    "focus_area": "Animal production",
+    "content_group": "Production",
+    "exact_official_content": "Evaluate effects of microorganisms and invertebrates on animal production",
+    "outcome_codes": [
+      "AGT5-APG-01",
+      "AGT5-USE-01"
+    ],
+    "coverage_state": "mapped-existing-route",
+    "primary_unit": "year-10-agriculture",
+    "primary_destination": {
+      "unit": "year-10-agriculture",
+      "learning_id": "M02-S01",
+      "label": "Beneficial and harmful organisms in production",
+      "url": "https://stevencowell.github.io/Year-10-Agriculture-Guided-Course/module.html?module=2#theory-2-1",
+      "route": "module.html?module=2#theory-2-1",
+      "period_numbers": [
+        6
+      ]
+    },
+    "assurance_period": null,
+    "master_action": "Use the named course section and retain its evidence checkpoint."
+  },
+  {
+    "content_item_id": "cif7b8bf81",
+    "focus_area": "Animal production",
+    "content_group": "Production",
+    "exact_official_content": "Identify programs, techniques and technologies used in animal breeding",
+    "outcome_codes": [
+      "AGT5-APG-01",
+      "AGT5-USE-01"
+    ],
+    "coverage_state": "mapped-existing-route",
+    "primary_unit": "year-10-agriculture",
+    "primary_destination": {
+      "unit": "year-10-agriculture",
+      "learning_id": "M11-S03",
+      "label": "Reproductive technologies: concepts, benefits and limits",
+      "url": "https://stevencowell.github.io/Year-10-Agriculture-Guided-Course/module.html?module=11#theory-11-3",
+      "route": "module.html?module=11#theory-11-3",
+      "period_numbers": [
+        46
+      ]
+    },
+    "assurance_period": null,
+    "master_action": "Use the named course section and retain its evidence checkpoint."
+  },
+  {
+    "content_item_id": "ci86011ec0",
+    "focus_area": "Animal production",
+    "content_group": "Production",
+    "exact_official_content": "Explain the impact of animal breeding processes on production",
+    "outcome_codes": [
+      "AGT5-APG-01",
+      "AGT5-USE-01",
+      "AGT5-COM-01"
+    ],
+    "coverage_state": "mapped-existing-route",
+    "primary_unit": "year-10-agriculture",
+    "primary_destination": {
+      "unit": "year-10-agriculture",
+      "learning_id": "M11-S03",
+      "label": "Reproductive technologies: concepts, benefits and limits",
+      "url": "https://stevencowell.github.io/Year-10-Agriculture-Guided-Course/module.html?module=11#theory-11-3",
+      "route": "module.html?module=11#theory-11-3",
+      "period_numbers": [
+        46
+      ]
+    },
+    "assurance_period": null,
+    "master_action": "Use the named course section and retain its evidence checkpoint."
+  },
+  {
+    "content_item_id": "cif44bb799",
+    "focus_area": "Animal production",
+    "content_group": "Production",
+    "exact_official_content": "Create written texts to explain and evaluate factors that influence animal production processes and practices",
+    "outcome_codes": [
+      "AGT5-APG-01",
+      "AGT5-PRA-01",
+      "AGT5-USE-01",
+      "AGT5-COM-01"
+    ],
+    "coverage_state": "planned-master-overlay",
+    "primary_unit": "year-10-agriculture",
+    "primary_destination": {
+      "unit": "year-10-agriculture",
+      "learning_id": "FOLIO",
+      "label": "Course folio and evidence record",
+      "url": "https://stevencowell.github.io/Year-10-Agriculture-Guided-Course/folio.html",
+      "route": "folio.html",
+      "period_numbers": [
+        96
+      ]
+    },
+    "assurance_period": null,
+    "master_action": "Use the named existing destination, but explicitly teach and collect evidence for the exact 2024 content statement through this master overlay."
+  },
+  {
+    "content_item_id": "ci402588fe",
+    "focus_area": "Animal production",
+    "content_group": "Processing and marketing",
+    "exact_official_content": "Explain the steps from the farm gate to the consumer in animal production enterprises",
+    "outcome_codes": [
+      "AGT5-APG-01",
+      "AGT5-PRA-01",
+      "AGT5-ENV-01",
+      "AGT5-USE-01",
+      "AGT5-COM-01"
+    ],
+    "coverage_state": "mapped-existing-route",
+    "primary_unit": "year-10-agriculture",
+    "primary_destination": {
+      "unit": "year-10-agriculture",
+      "learning_id": "M17-S01",
+      "label": "From raw milk to a consistent product",
+      "url": "https://stevencowell.github.io/Year-10-Agriculture-Guided-Course/module.html?module=17#theory-17-1",
+      "route": "module.html?module=17#theory-17-1",
+      "period_numbers": [
+        75
+      ]
+    },
+    "assurance_period": null,
+    "master_action": "Use the named course section and retain its evidence checkpoint."
+  },
+  {
+    "content_item_id": "cidaa03937",
+    "focus_area": "Animal production",
+    "content_group": "Processing and marketing",
+    "exact_official_content": "Describe current and emerging technologies used for traceability of animals and animal products",
+    "outcome_codes": [
+      "AGT5-APG-01",
+      "AGT5-IVT-01",
+      "AGT5-USE-01",
+      "AGT5-COM-01"
+    ],
+    "coverage_state": "mapped-existing-route",
+    "primary_unit": "year-9-agriculture",
+    "primary_destination": {
+      "unit": "year-9-agriculture",
+      "learning_id": "M14-S01",
+      "label": "Traceability in cattle enterprises",
+      "url": "https://stevencowell.github.io/Year-9-Agriculture-Guided-Course/module.html?module=14#theory-14-1",
+      "route": "module.html?module=14#theory-14-1",
+      "period_numbers": [
+        60
+      ]
+    },
+    "assurance_period": null,
+    "master_action": "Use the named course section and retain its evidence checkpoint."
+  },
+  {
+    "content_item_id": "ci730ced25",
+    "focus_area": "Animal production",
+    "content_group": "Processing and marketing",
+    "exact_official_content": "Evaluate the need for traceability of animals and animal products, including for disease prevention, market access and animal welfare",
+    "outcome_codes": [
+      "AGT5-APG-01",
+      "AGT5-PRA-01"
+    ],
+    "coverage_state": "mapped-existing-route",
+    "primary_unit": "year-9-agriculture",
+    "primary_destination": {
+      "unit": "year-9-agriculture",
+      "learning_id": "M13-S02",
+      "label": "Animal welfare and ethical decision-making",
+      "url": "https://stevencowell.github.io/Year-9-Agriculture-Guided-Course/module.html?module=13#theory-13-2",
+      "route": "module.html?module=13#theory-13-2",
+      "period_numbers": [
+        56
+      ]
+    },
+    "assurance_period": null,
+    "master_action": "Use the named course section and retain its evidence checkpoint."
+  },
+  {
+    "content_item_id": "ci8b9c28db",
+    "focus_area": "Animal production",
+    "content_group": "Processing and marketing",
+    "exact_official_content": "Analyse how emerging agricultural animal technologies and practices may influence consumers, society and the environment",
+    "outcome_codes": [
+      "AGT5-APG-01",
+      "AGT5-PRA-01",
+      "AGT5-ENV-01",
+      "AGT5-IVT-01",
+      "AGT5-USE-01"
+    ],
+    "coverage_state": "planned-master-overlay",
+    "primary_unit": "year-10-agriculture",
+    "primary_destination": {
+      "unit": "year-10-agriculture",
+      "learning_id": "M20-S02",
+      "label": "Emerging dairy technologies and evidence-based selection",
+      "url": "https://stevencowell.github.io/Year-10-Agriculture-Guided-Course/module.html?module=20#theory-20-2",
+      "route": "module.html?module=20#theory-20-2",
+      "period_numbers": [
+        96
+      ]
+    },
+    "assurance_period": null,
+    "master_action": "Use the named existing destination, but explicitly teach and collect evidence for the exact 2024 content statement through this master overlay."
+  },
+  {
+    "content_item_id": "ci3cf7b796",
+    "focus_area": "Animal production",
+    "content_group": "Processing and marketing",
+    "exact_official_content": "Investigate market specifications and availability for a range of agricultural animal products",
+    "outcome_codes": [
+      "AGT5-APG-01",
+      "AGT5-PRA-01"
+    ],
+    "coverage_state": "mapped-existing-route",
+    "primary_unit": "year-9-agriculture",
+    "primary_destination": {
+      "unit": "year-9-agriculture",
+      "learning_id": "M14-S02",
+      "label": "Understanding beef market specifications",
+      "url": "https://stevencowell.github.io/Year-9-Agriculture-Guided-Course/module.html?module=14#theory-14-2",
+      "route": "module.html?module=14#theory-14-2",
+      "period_numbers": [
+        60
+      ]
+    },
+    "assurance_period": null,
+    "master_action": "Use the named course section and retain its evidence checkpoint."
+  },
+  {
+    "content_item_id": "ci984265c1",
+    "focus_area": "Animal production",
+    "content_group": "Processing and marketing",
+    "exact_official_content": "Assess the quality of agricultural animal products based on identified markets and their specifications",
+    "outcome_codes": [
+      "AGT5-APG-01",
+      "AGT5-PRA-01"
+    ],
+    "coverage_state": "planned-master-overlay",
+    "primary_unit": "year-10-agriculture",
+    "primary_destination": {
+      "unit": "year-10-agriculture",
+      "learning_id": "M17-S01",
+      "label": "From raw milk to a consistent product",
+      "url": "https://stevencowell.github.io/Year-10-Agriculture-Guided-Course/module.html?module=17#theory-17-1",
+      "route": "module.html?module=17#theory-17-1",
+      "period_numbers": [
+        75
+      ]
+    },
+    "assurance_period": null,
+    "master_action": "Use the named existing destination, but explicitly teach and collect evidence for the exact 2024 content statement through this master overlay."
+  },
+  {
+    "content_item_id": "ci15f23988",
+    "focus_area": "Agriculture systems and practice",
+    "content_group": "Land and enterprise management practices",
+    "exact_official_content": "Investigate land management systems and practices developed by Aboriginal and Torres Strait Islander Peoples",
+    "outcome_codes": [
+      "AGT5-PRA-01",
+      "AGT5-IVT-01"
+    ],
+    "coverage_state": "planned-master-overlay",
+    "primary_unit": "year-9-agriculture",
+    "primary_destination": {
+      "unit": "year-9-agriculture",
+      "learning_id": "M10-S03",
+      "label": "Respectful learning from Indigenous agricultural knowledge",
+      "url": "https://stevencowell.github.io/Year-9-Agriculture-Guided-Course/module.html?module=10#theory-10-3",
+      "route": "module.html?module=10#theory-10-3",
+      "period_numbers": [
+        42
+      ]
+    },
+    "assurance_period": null,
+    "master_action": "Use the named existing destination, but explicitly teach and collect evidence for the exact 2024 content statement through this master overlay."
+  },
+  {
+    "content_item_id": "cib1ae85c3",
+    "focus_area": "Agriculture systems and practice",
+    "content_group": "Land and enterprise management practices",
+    "exact_official_content": "Explore early European farming practices to determine their influence on agricultural production, environmental sustainability and society",
+    "outcome_codes": [
+      "AGT5-PRA-01",
+      "AGT5-ENV-01",
+      "AGT5-USE-01"
+    ],
+    "coverage_state": "master-assurance-required",
+    "primary_unit": "master-assurance",
+    "primary_destination": null,
+    "assurance_period": 198,
+    "master_action": "Complete the Master Assurance activity at period 198; retain teacher approval and evidence sign-off."
+  },
+  {
+    "content_item_id": "ciaa543e3c",
+    "focus_area": "Agriculture systems and practice",
+    "content_group": "Land and enterprise management practices",
+    "exact_official_content": "Explain the transformation of agricultural systems and industries in Australia from early European practices to current practices",
+    "outcome_codes": [
+      "AGT5-PRA-01",
+      "AGT5-COM-01"
+    ],
+    "coverage_state": "master-assurance-required",
+    "primary_unit": "master-assurance",
+    "primary_destination": null,
+    "assurance_period": 198,
+    "master_action": "Complete the Master Assurance activity at period 198; retain teacher approval and evidence sign-off."
+  },
+  {
+    "content_item_id": "ci08b25de9",
+    "focus_area": "Agriculture systems and practice",
+    "content_group": "Land and enterprise management practices",
+    "exact_official_content": "Evaluate agricultural management practices to determine their impact on the environment and production",
+    "outcome_codes": [
+      "AGT5-PRA-01",
+      "AGT5-ENV-01",
+      "AGT5-IVT-01",
+      "AGT5-USE-01"
+    ],
+    "coverage_state": "mapped-existing-route",
+    "primary_unit": "year-10-agriculture",
+    "primary_destination": {
+      "unit": "year-10-agriculture",
+      "learning_id": "M09-S01",
+      "label": "Meaning of sustainability and environmental risks",
+      "url": "https://stevencowell.github.io/Year-10-Agriculture-Guided-Course/module.html?module=9#theory-9-1",
+      "route": "module.html?module=9#theory-9-1",
+      "period_numbers": [
+        37
+      ]
+    },
+    "assurance_period": null,
+    "master_action": "Use the named course section and retain its evidence checkpoint."
+  },
+  {
+    "content_item_id": "cied32c043",
+    "focus_area": "Agriculture systems and practice",
+    "content_group": "Land and enterprise management practices",
+    "exact_official_content": "Compare short-term and long-term effects of agricultural production systems on sustainability",
+    "outcome_codes": [
+      "AGT5-ENV-01",
+      "AGT5-USE-01"
+    ],
+    "coverage_state": "mapped-existing-route",
+    "primary_unit": "year-10-agriculture",
+    "primary_destination": {
+      "unit": "year-10-agriculture",
+      "learning_id": "M09-S01",
+      "label": "Meaning of sustainability and environmental risks",
+      "url": "https://stevencowell.github.io/Year-10-Agriculture-Guided-Course/module.html?module=9#theory-9-1",
+      "route": "module.html?module=9#theory-9-1",
+      "period_numbers": [
+        37
+      ]
+    },
+    "assurance_period": null,
+    "master_action": "Use the named course section and retain its evidence checkpoint."
+  },
+  {
+    "content_item_id": "ci132acc09",
+    "focus_area": "Agriculture systems and practice",
+    "content_group": "Land and enterprise management practices",
+    "exact_official_content": "Describe how agricultural systems contribute to and are affected by climate change",
+    "outcome_codes": [
+      "AGT5-ENV-01",
+      "AGT5-COM-01"
+    ],
+    "coverage_state": "planned-master-overlay",
+    "primary_unit": "year-9-agriculture",
+    "primary_destination": {
+      "unit": "year-9-agriculture",
+      "learning_id": "M10-S01",
+      "label": "Drought as an agricultural production challenge",
+      "url": "https://stevencowell.github.io/Year-9-Agriculture-Guided-Course/module.html?module=10#theory-10-1",
+      "route": "module.html?module=10#theory-10-1",
+      "period_numbers": [
+        42
+      ]
+    },
+    "assurance_period": null,
+    "master_action": "Use the named existing destination, but explicitly teach and collect evidence for the exact 2024 content statement through this master overlay."
+  },
+  {
+    "content_item_id": "ci5565579d",
+    "focus_area": "Agriculture systems and practice",
+    "content_group": "Land and enterprise management practices",
+    "exact_official_content": "Identify and evaluate mitigation strategies to address the effects of climate change on agricultural production",
+    "outcome_codes": [
+      "AGT5-ENV-01",
+      "AGT5-USE-01"
+    ],
+    "coverage_state": "planned-master-overlay",
+    "primary_unit": "year-9-agriculture",
+    "primary_destination": {
+      "unit": "year-9-agriculture",
+      "learning_id": "M10-S01",
+      "label": "Drought as an agricultural production challenge",
+      "url": "https://stevencowell.github.io/Year-9-Agriculture-Guided-Course/module.html?module=10#theory-10-1",
+      "route": "module.html?module=10#theory-10-1",
+      "period_numbers": [
+        42
+      ]
+    },
+    "assurance_period": null,
+    "master_action": "Use the named existing destination, but explicitly teach and collect evidence for the exact 2024 content statement through this master overlay."
+  },
+  {
+    "content_item_id": "ci9501a6c3",
+    "focus_area": "Agriculture systems and practice",
+    "content_group": "Land and enterprise management practices",
+    "exact_official_content": "Compare intensive and extensive production systems",
+    "outcome_codes": [
+      "AGT5-USE-01"
+    ],
+    "coverage_state": "mapped-existing-route",
+    "primary_unit": "year-9-agriculture",
+    "primary_destination": {
+      "unit": "year-9-agriculture",
+      "learning_id": "M04-S02",
+      "label": "Intensive and extensive production systems",
+      "url": "https://stevencowell.github.io/Year-9-Agriculture-Guided-Course/module.html?module=4#theory-4-2",
+      "route": "module.html?module=4#theory-4-2",
+      "period_numbers": [
+        15
+      ]
+    },
+    "assurance_period": null,
+    "master_action": "Use the named course section and retain its evidence checkpoint."
+  },
+  {
+    "content_item_id": "ci18424e63",
+    "focus_area": "Agriculture systems and practice",
+    "content_group": "Land and enterprise management practices",
+    "exact_official_content": "Explain different production techniques for identified agricultural systems and enterprises",
+    "outcome_codes": [
+      "AGT5-USE-01",
+      "AGT5-COM-01"
+    ],
+    "coverage_state": "planned-master-overlay",
+    "primary_unit": "year-10-agriculture",
+    "primary_destination": {
+      "unit": "year-10-agriculture",
+      "learning_id": "M05-S01",
+      "label": "Comparing plant production systems",
+      "url": "https://stevencowell.github.io/Year-10-Agriculture-Guided-Course/module.html?module=5#theory-5-1",
+      "route": "module.html?module=5#theory-5-1",
+      "period_numbers": [
+        19
+      ]
+    },
+    "assurance_period": null,
+    "master_action": "Use the named existing destination, but explicitly teach and collect evidence for the exact 2024 content statement through this master overlay."
+  },
+  {
+    "content_item_id": "ci353ff821",
+    "focus_area": "Agriculture systems and practice",
+    "content_group": "Land and enterprise management practices",
+    "exact_official_content": "Evaluate the impact of Australian innovation on agricultural production and management practices",
+    "outcome_codes": [
+      "AGT5-PRA-01",
+      "AGT5-IVT-01",
+      "AGT5-USE-01"
+    ],
+    "coverage_state": "planned-master-overlay",
+    "primary_unit": "year-10-agriculture",
+    "primary_destination": {
+      "unit": "year-10-agriculture",
+      "learning_id": "M20-S02",
+      "label": "Emerging dairy technologies and evidence-based selection",
+      "url": "https://stevencowell.github.io/Year-10-Agriculture-Guided-Course/module.html?module=20#theory-20-2",
+      "route": "module.html?module=20#theory-20-2",
+      "period_numbers": [
+        96
+      ]
+    },
+    "assurance_period": null,
+    "master_action": "Use the named existing destination, but explicitly teach and collect evidence for the exact 2024 content statement through this master overlay."
+  },
+  {
+    "content_item_id": "ci41511262",
+    "focus_area": "Agriculture systems and practice",
+    "content_group": "Land and enterprise management practices",
+    "exact_official_content": "Compare emerging agricultural production methods in regional and urban environments",
+    "outcome_codes": [
+      "AGT5-ENV-01",
+      "AGT5-IVT-01",
+      "AGT5-USE-01"
+    ],
+    "coverage_state": "mapped-existing-route",
+    "primary_unit": "year-10-agriculture",
+    "primary_destination": {
+      "unit": "year-10-agriculture",
+      "learning_id": "M09-S01",
+      "label": "Meaning of sustainability and environmental risks",
+      "url": "https://stevencowell.github.io/Year-10-Agriculture-Guided-Course/module.html?module=9#theory-9-1",
+      "route": "module.html?module=9#theory-9-1",
+      "period_numbers": [
+        37
+      ]
+    },
+    "assurance_period": null,
+    "master_action": "Use the named course section and retain its evidence checkpoint."
+  },
+  {
+    "content_item_id": "ci51a6aa23",
+    "focus_area": "Agriculture systems and practice",
+    "content_group": "Land and enterprise management practices",
+    "exact_official_content": "Investigate and evaluate the impact of environmental, social and political factors on food security",
+    "outcome_codes": [
+      "AGT5-ENV-01"
+    ],
+    "coverage_state": "mapped-existing-route",
+    "primary_unit": "year-10-agriculture",
+    "primary_destination": {
+      "unit": "year-10-agriculture",
+      "learning_id": "M09-S01",
+      "label": "Meaning of sustainability and environmental risks",
+      "url": "https://stevencowell.github.io/Year-10-Agriculture-Guided-Course/module.html?module=9#theory-9-1",
+      "route": "module.html?module=9#theory-9-1",
+      "period_numbers": [
+        37
+      ]
+    },
+    "assurance_period": null,
+    "master_action": "Use the named course section and retain its evidence checkpoint."
+  },
+  {
+    "content_item_id": "cide982df7",
+    "focus_area": "Agriculture systems and practice",
+    "content_group": "Land and enterprise management practices",
+    "exact_official_content": "Explain the need for national-level and farm-level biosecurity measures",
+    "outcome_codes": [
+      "AGT5-COM-01"
+    ],
+    "coverage_state": "mapped-existing-route",
+    "primary_unit": "year-9-agriculture",
+    "primary_destination": {
+      "unit": "year-9-agriculture",
+      "learning_id": "M18-S02",
+      "label": "Biosecurity pathways in poultry systems",
+      "url": "https://stevencowell.github.io/Year-9-Agriculture-Guided-Course/module.html?module=18#theory-18-2",
+      "route": "module.html?module=18#theory-18-2",
+      "period_numbers": [
+        85
+      ]
+    },
+    "assurance_period": null,
+    "master_action": "Use the named course section and retain its evidence checkpoint."
+  },
+  {
+    "content_item_id": "ci9a4ea458",
+    "focus_area": "Agriculture systems and practice",
+    "content_group": "Land and enterprise management practices",
+    "exact_official_content": "Demonstrate safe practices when selecting and using technologies and production processes",
+    "outcome_codes": [
+      "AGT5-SAF-01",
+      "AGT5-PRA-01",
+      "AGT5-USE-01"
+    ],
+    "coverage_state": "mapped-existing-route",
+    "primary_unit": "year-9-agriculture",
+    "primary_destination": {
+      "unit": "year-9-agriculture",
+      "learning_id": "M05-S03",
+      "label": "Risk controls and evidence-based decisions",
+      "url": "https://stevencowell.github.io/Year-9-Agriculture-Guided-Course/module.html?module=5#theory-5-3",
+      "route": "module.html?module=5#theory-5-3",
+      "period_numbers": [
+        20
+      ]
+    },
+    "assurance_period": null,
+    "master_action": "Use the named course section and retain its evidence checkpoint."
+  },
+  {
+    "content_item_id": "ci94659695",
+    "focus_area": "Agriculture systems and practice",
+    "content_group": "Land and enterprise management practices",
+    "exact_official_content": "Create written texts to explain and evaluate processes, challenges and solutions in agriculture systems and practice.",
+    "outcome_codes": [
+      "AGT5-PRA-01",
+      "AGT5-USE-01",
+      "AGT5-COM-01"
+    ],
+    "coverage_state": "planned-master-overlay",
+    "primary_unit": "year-10-agriculture",
+    "primary_destination": {
+      "unit": "year-10-agriculture",
+      "learning_id": "FOLIO",
+      "label": "Course folio and evidence record",
+      "url": "https://stevencowell.github.io/Year-10-Agriculture-Guided-Course/folio.html",
+      "route": "folio.html",
+      "period_numbers": [
+        96
+      ]
+    },
+    "assurance_period": null,
+    "master_action": "Use the named existing destination, but explicitly teach and collect evidence for the exact 2024 content statement through this master overlay."
+  },
+  {
+    "content_item_id": "ciba5b5e8a",
+    "focus_area": "Agriculture systems and practice",
+    "content_group": "Agricultural systems and solutions",
+    "exact_official_content": "Investigate opportunities to design agricultural systems and solutions",
+    "outcome_codes": [
+      "AGT5-PRA-01"
+    ],
+    "coverage_state": "master-assurance-required",
+    "primary_unit": "master-assurance",
+    "primary_destination": null,
+    "assurance_period": 200,
+    "master_action": "Complete the Master Assurance activity at period 200; retain teacher approval and evidence sign-off."
+  },
+  {
+    "content_item_id": "ci2bc21486",
+    "focus_area": "Agriculture systems and practice",
+    "content_group": "Agricultural systems and solutions",
+    "exact_official_content": "Generate ideas to develop and manage solutions to identified agricultural needs",
+    "outcome_codes": [
+      "AGT5-PRA-01"
+    ],
+    "coverage_state": "master-assurance-required",
+    "primary_unit": "master-assurance",
+    "primary_destination": null,
+    "assurance_period": 200,
+    "master_action": "Complete the Master Assurance activity at period 200; retain teacher approval and evidence sign-off."
+  },
+  {
+    "content_item_id": "ci7865c6c7",
+    "focus_area": "Agriculture systems and practice",
+    "content_group": "Agricultural systems and solutions",
+    "exact_official_content": "Design and conduct experiments and tests to formulate, modify and document solutions",
+    "outcome_codes": [
+      "AGT5-USE-01"
+    ],
+    "coverage_state": "master-assurance-required",
+    "primary_unit": "master-assurance",
+    "primary_destination": null,
+    "assurance_period": 200,
+    "master_action": "Complete the Master Assurance activity at period 200; retain teacher approval and evidence sign-off."
+  },
+  {
+    "content_item_id": "cia54fafa7",
+    "focus_area": "Agriculture systems and practice",
+    "content_group": "Agricultural systems and solutions",
+    "exact_official_content": "Select and use technologies to record observations, manage data and develop solutions",
+    "outcome_codes": [
+      "AGT5-USE-01"
+    ],
+    "coverage_state": "mapped-existing-route",
+    "primary_unit": "year-10-agriculture",
+    "primary_destination": {
+      "unit": "year-10-agriculture",
+      "learning_id": "M07-S02",
+      "label": "Crop monitoring tools and data",
+      "url": "https://stevencowell.github.io/Year-10-Agriculture-Guided-Course/module.html?module=7#theory-7-2",
+      "route": "module.html?module=7#theory-7-2",
+      "period_numbers": [
+        28
+      ]
+    },
+    "assurance_period": null,
+    "master_action": "Use the named course section and retain its evidence checkpoint."
+  },
+  {
+    "content_item_id": "ci7cff52ec",
+    "focus_area": "Agriculture systems and practice",
+    "content_group": "Agricultural systems and solutions",
+    "exact_official_content": "Use a range of digital and communication technologies to present observations, data and solutions",
+    "outcome_codes": [
+      "AGT5-USE-01",
+      "AGT5-COM-01"
+    ],
+    "coverage_state": "planned-master-overlay",
+    "primary_unit": "year-10-agriculture",
+    "primary_destination": {
+      "unit": "year-10-agriculture",
+      "learning_id": "M07-S02",
+      "label": "Crop monitoring tools and data",
+      "url": "https://stevencowell.github.io/Year-10-Agriculture-Guided-Course/module.html?module=7#theory-7-2",
+      "route": "module.html?module=7#theory-7-2",
+      "period_numbers": [
+        28
+      ]
+    },
+    "assurance_period": null,
+    "master_action": "Use the named existing destination, but explicitly teach and collect evidence for the exact 2024 content statement through this master overlay."
+  },
+  {
+    "content_item_id": "ci6450ec68",
+    "focus_area": "Agriculture systems and practice",
+    "content_group": "Agricultural systems and solutions",
+    "exact_official_content": "Synthesise conclusions from experimentation, testing and data analysis",
+    "outcome_codes": [
+      "AGT5-USE-01"
+    ],
+    "coverage_state": "master-assurance-required",
+    "primary_unit": "master-assurance",
+    "primary_destination": null,
+    "assurance_period": 200,
+    "master_action": "Complete the Master Assurance activity at period 200; retain teacher approval and evidence sign-off."
+  },
+  {
+    "content_item_id": "ci27df6e82",
+    "focus_area": "Agriculture systems and practice",
+    "content_group": "Agricultural systems and solutions",
+    "exact_official_content": "Create written texts to explain and evaluate agricultural solutions and production processes",
+    "outcome_codes": [
+      "AGT5-USE-01",
+      "AGT5-COM-01"
+    ],
+    "coverage_state": "planned-master-overlay",
+    "primary_unit": "year-10-agriculture",
+    "primary_destination": {
+      "unit": "year-10-agriculture",
+      "learning_id": "FOLIO",
+      "label": "Course folio and evidence record",
+      "url": "https://stevencowell.github.io/Year-10-Agriculture-Guided-Course/folio.html",
+      "route": "folio.html",
+      "period_numbers": [
+        96
+      ]
+    },
+    "assurance_period": null,
+    "master_action": "Use the named existing destination, but explicitly teach and collect evidence for the exact 2024 content statement through this master overlay."
+  },
+  {
+    "content_item_id": "cia81fc0e0",
+    "focus_area": "Agriculture systems and practice",
+    "content_group": "Innovation and industry practices",
+    "exact_official_content": "Investigate and describe Australian agricultural production and industry trends",
+    "outcome_codes": [
+      "AGT5-PRA-01",
+      "AGT5-USE-01",
+      "AGT5-COM-01"
+    ],
+    "coverage_state": "mapped-existing-route",
+    "primary_unit": "year-10-agriculture",
+    "primary_destination": {
+      "unit": "year-10-agriculture",
+      "learning_id": "M03-S01",
+      "label": "Reading livestock graphs and identifying trends",
+      "url": "https://stevencowell.github.io/Year-10-Agriculture-Guided-Course/module.html?module=3#theory-3-1",
+      "route": "module.html?module=3#theory-3-1",
+      "period_numbers": [
+        10
+      ]
+    },
+    "assurance_period": null,
+    "master_action": "Use the named course section and retain its evidence checkpoint."
+  },
+  {
+    "content_item_id": "ci400c0385",
+    "focus_area": "Agriculture systems and practice",
+    "content_group": "Innovation and industry practices",
+    "exact_official_content": "Explore agricultural innovations developed by Aboriginal and Torres Strait Islander Peoples",
+    "outcome_codes": [
+      "AGT5-IVT-01"
+    ],
+    "coverage_state": "master-assurance-required",
+    "primary_unit": "master-assurance",
+    "primary_destination": null,
+    "assurance_period": 197,
+    "master_action": "Complete the Master Assurance activity at period 197; retain teacher approval and evidence sign-off."
+  },
+  {
+    "content_item_id": "ci13e5588f",
+    "focus_area": "Agriculture systems and practice",
+    "content_group": "Innovation and industry practices",
+    "exact_official_content": "Assess factors affecting the economic viability of current and emerging agricultural industries by analysing data",
+    "outcome_codes": [
+      "AGT5-IVT-01",
+      "AGT5-USE-01"
+    ],
+    "coverage_state": "mapped-existing-route",
+    "primary_unit": "year-10-agriculture",
+    "primary_destination": {
+      "unit": "year-10-agriculture",
+      "learning_id": "M06-S01",
+      "label": "Fixed costs, variable costs and income",
+      "url": "https://stevencowell.github.io/Year-10-Agriculture-Guided-Course/module.html?module=6#theory-6-1",
+      "route": "module.html?module=6#theory-6-1",
+      "period_numbers": [
+        24
+      ]
+    },
+    "assurance_period": null,
+    "master_action": "Use the named course section and retain its evidence checkpoint."
+  },
+  {
+    "content_item_id": "cib97e4d73",
+    "focus_area": "Agriculture systems and practice",
+    "content_group": "Innovation and industry practices",
+    "exact_official_content": "Evaluate how research and innovation influence the development of agricultural practices and industries",
+    "outcome_codes": [
+      "AGT5-PRA-01",
+      "AGT5-IVT-01"
+    ],
+    "coverage_state": "planned-master-overlay",
+    "primary_unit": "year-10-agriculture",
+    "primary_destination": {
+      "unit": "year-10-agriculture",
+      "learning_id": "M20-S02",
+      "label": "Emerging dairy technologies and evidence-based selection",
+      "url": "https://stevencowell.github.io/Year-10-Agriculture-Guided-Course/module.html?module=20#theory-20-2",
+      "route": "module.html?module=20#theory-20-2",
+      "period_numbers": [
+        96
+      ]
+    },
+    "assurance_period": null,
+    "master_action": "Use the named existing destination, but explicitly teach and collect evidence for the exact 2024 content statement through this master overlay."
+  },
+  {
+    "content_item_id": "ci7e1ba471",
+    "focus_area": "Agriculture systems and practice",
+    "content_group": "Innovation and industry practices",
+    "exact_official_content": "Investigate the role of Agtech startups in developing agricultural systems and solutions",
+    "outcome_codes": [
+      "AGT5-IVT-01"
+    ],
+    "coverage_state": "master-assurance-required",
+    "primary_unit": "master-assurance",
+    "primary_destination": null,
+    "assurance_period": 199,
+    "master_action": "Complete the Master Assurance activity at period 199; retain teacher approval and evidence sign-off."
+  },
+  {
+    "content_item_id": "ci0bff10a0",
+    "focus_area": "Agriculture systems and practice",
+    "content_group": "Innovation and industry practices",
+    "exact_official_content": "Describe factors affecting the implementation of innovative agricultural technologies and processes",
+    "outcome_codes": [
+      "AGT5-USE-01",
+      "AGT5-COM-01"
+    ],
+    "coverage_state": "planned-master-overlay",
+    "primary_unit": "year-10-agriculture",
+    "primary_destination": {
+      "unit": "year-10-agriculture",
+      "learning_id": "M20-S02",
+      "label": "Emerging dairy technologies and evidence-based selection",
+      "url": "https://stevencowell.github.io/Year-10-Agriculture-Guided-Course/module.html?module=20#theory-20-2",
+      "route": "module.html?module=20#theory-20-2",
+      "period_numbers": [
+        96
+      ]
+    },
+    "assurance_period": null,
+    "master_action": "Use the named existing destination, but explicitly teach and collect evidence for the exact 2024 content statement through this master overlay."
+  },
+  {
+    "content_item_id": "ci4e589475",
+    "focus_area": "Agriculture systems and practice",
+    "content_group": "Innovation and industry practices",
+    "exact_official_content": "Outline marketing strategies used in agricultural production",
+    "outcome_codes": [
+      "AGT5-PRA-01",
+      "AGT5-USE-01"
+    ],
+    "coverage_state": "mapped-existing-route",
+    "primary_unit": "year-10-agriculture",
+    "primary_destination": {
+      "unit": "year-10-agriculture",
+      "learning_id": "M03-S02",
+      "label": "Comparing agricultural marketing strategies",
+      "url": "https://stevencowell.github.io/Year-10-Agriculture-Guided-Course/module.html?module=3#theory-3-2",
+      "route": "module.html?module=3#theory-3-2",
+      "period_numbers": [
+        10
+      ]
+    },
+    "assurance_period": null,
+    "master_action": "Use the named course section and retain its evidence checkpoint."
+  },
+  {
+    "content_item_id": "cib6725df2",
+    "focus_area": "Agriculture systems and practice",
+    "content_group": "Innovation and industry practices",
+    "exact_official_content": "Explain factors that determine how agricultural products are marketed to consumers",
+    "outcome_codes": [
+      "AGT5-PRA-01",
+      "AGT5-ENV-01",
+      "AGT5-COM-01"
+    ],
+    "coverage_state": "mapped-existing-route",
+    "primary_unit": "year-10-agriculture",
+    "primary_destination": {
+      "unit": "year-10-agriculture",
+      "learning_id": "M04-S03",
+      "label": "Using consumer evidence to shape promotion and value",
+      "url": "https://stevencowell.github.io/Year-10-Agriculture-Guided-Course/module.html?module=4#theory-4-3",
+      "route": "module.html?module=4#theory-4-3",
+      "period_numbers": [
+        15
+      ]
+    },
+    "assurance_period": null,
+    "master_action": "Use the named course section and retain its evidence checkpoint."
+  },
+  {
+    "content_item_id": "cief49b3a7",
+    "focus_area": "Agriculture systems and practice",
+    "content_group": "Innovation and industry practices",
+    "exact_official_content": "Apply market research strategies to develop innovative agricultural products",
+    "outcome_codes": [
+      "AGT5-PRA-01"
+    ],
+    "coverage_state": "mapped-existing-route",
+    "primary_unit": "year-10-agriculture",
+    "primary_destination": {
+      "unit": "year-10-agriculture",
+      "learning_id": "M04-S01",
+      "label": "Clear and unbiased agricultural market surveys",
+      "url": "https://stevencowell.github.io/Year-10-Agriculture-Guided-Course/module.html?module=4#theory-4-1",
+      "route": "module.html?module=4#theory-4-1",
+      "period_numbers": [
+        15
+      ]
+    },
+    "assurance_period": null,
+    "master_action": "Use the named course section and retain its evidence checkpoint."
+  },
+  {
+    "content_item_id": "ci6ab5efbf",
+    "focus_area": "Agriculture systems and practice",
+    "content_group": "Innovation and industry practices",
+    "exact_official_content": "Evaluate effects of value-adding when marketing agricultural products",
+    "outcome_codes": [
+      "AGT5-PRA-01"
+    ],
+    "coverage_state": "mapped-existing-route",
+    "primary_unit": "year-10-agriculture",
+    "primary_destination": {
+      "unit": "year-10-agriculture",
+      "learning_id": "M04-S02",
+      "label": "Value adding agricultural products",
+      "url": "https://stevencowell.github.io/Year-10-Agriculture-Guided-Course/module.html?module=4#theory-4-2",
+      "route": "module.html?module=4#theory-4-2",
+      "period_numbers": [
+        15
+      ]
+    },
+    "assurance_period": null,
+    "master_action": "Use the named course section and retain its evidence checkpoint."
+  },
+  {
+    "content_item_id": "ci34d15210",
+    "focus_area": "Agriculture systems and practice",
+    "content_group": "Innovation and industry practices",
+    "exact_official_content": "Develop and communicate promotional materials to inform consumers of agricultural products and industries",
+    "outcome_codes": [
+      "AGT5-ENV-01",
+      "AGT5-COM-01"
+    ],
+    "coverage_state": "planned-master-overlay",
+    "primary_unit": "year-10-agriculture",
+    "primary_destination": {
+      "unit": "year-10-agriculture",
+      "learning_id": "M04-S03",
+      "label": "Using consumer evidence to shape promotion and value",
+      "url": "https://stevencowell.github.io/Year-10-Agriculture-Guided-Course/module.html?module=4#theory-4-3",
+      "route": "module.html?module=4#theory-4-3",
+      "period_numbers": [
+        15
+      ]
+    },
+    "assurance_period": null,
+    "master_action": "Use the named existing destination, but explicitly teach and collect evidence for the exact 2024 content statement through this master overlay."
+  },
+  {
+    "content_item_id": "ci3269df41",
+    "focus_area": "Agriculture systems and practice",
+    "content_group": "Innovation and industry practices",
+    "exact_official_content": "Describe how cultural diversity in Australian society has influenced agricultural production",
+    "outcome_codes": [
+      "AGT5-USE-01",
+      "AGT5-COM-01"
+    ],
+    "coverage_state": "master-assurance-required",
+    "primary_unit": "master-assurance",
+    "primary_destination": null,
+    "assurance_period": 199,
+    "master_action": "Complete the Master Assurance activity at period 199; retain teacher approval and evidence sign-off."
+  },
+  {
+    "content_item_id": "ci953de9ed",
+    "focus_area": "Agriculture systems and practice",
+    "content_group": "Innovation and industry practices",
+    "exact_official_content": "Analyse how agricultural industries may influence consumers and society",
+    "outcome_codes": [
+      "AGT5-ENV-01"
+    ],
+    "coverage_state": "mapped-existing-route",
+    "primary_unit": "year-10-agriculture",
+    "primary_destination": {
+      "unit": "year-10-agriculture",
+      "learning_id": "M01-S03",
+      "label": "Diversification, markets and sustainability decisions",
+      "url": "https://stevencowell.github.io/Year-10-Agriculture-Guided-Course/module.html?module=1#theory-1-3",
+      "route": "module.html?module=1#theory-1-3",
+      "period_numbers": [
+        1
+      ]
+    },
+    "assurance_period": null,
+    "master_action": "Use the named course section and retain its evidence checkpoint."
+  },
+  {
+    "content_item_id": "cidd032c96",
+    "focus_area": "Agriculture systems and practice",
+    "content_group": "Innovation and industry practices",
+    "exact_official_content": "Investigate career opportunities in current and emerging agricultural industries",
+    "outcome_codes": [
+      "AGT5-PRA-01",
+      "AGT5-IVT-01"
+    ],
+    "coverage_state": "planned-master-overlay",
+    "primary_unit": "year-9-agriculture",
+    "primary_destination": {
+      "unit": "year-9-agriculture",
+      "learning_id": "M05-S01",
+      "label": "Investigating an agricultural problem",
+      "url": "https://stevencowell.github.io/Year-9-Agriculture-Guided-Course/module.html?module=5#theory-5-1",
+      "route": "module.html?module=5#theory-5-1",
+      "period_numbers": [
+        20
+      ]
+    },
+    "assurance_period": null,
+    "master_action": "Use the named existing destination, but explicitly teach and collect evidence for the exact 2024 content statement through this master overlay."
+  },
+  {
+    "content_item_id": "cib1e56c0e",
+    "focus_area": "Agriculture systems and practice",
+    "content_group": "Innovation and industry practices",
+    "exact_official_content": "Use subject-specific terminology to describe agricultural technologies, processes and industries",
+    "outcome_codes": [
+      "AGT5-USE-01",
+      "AGT5-COM-01"
+    ],
+    "coverage_state": "planned-master-overlay",
+    "primary_unit": "year-10-agriculture",
+    "primary_destination": {
+      "unit": "year-10-agriculture",
+      "learning_id": "FOLIO",
+      "label": "Course folio and evidence record",
+      "url": "https://stevencowell.github.io/Year-10-Agriculture-Guided-Course/folio.html",
+      "route": "folio.html",
+      "period_numbers": [
+        96
+      ]
+    },
+    "assurance_period": null,
+    "master_action": "Use the named existing destination, but explicitly teach and collect evidence for the exact 2024 content statement through this master overlay."
+  },
+  {
+    "content_item_id": "ci4511cffe",
+    "focus_area": "Agriculture systems and practice",
+    "content_group": "Innovation and industry practices",
+    "exact_official_content": "Create written texts to describe relationships between society, innovation and agricultural production",
+    "outcome_codes": [
+      "AGT5-IVT-01",
+      "AGT5-USE-01",
+      "AGT5-COM-01"
+    ],
+    "coverage_state": "planned-master-overlay",
+    "primary_unit": "year-10-agriculture",
+    "primary_destination": {
+      "unit": "year-10-agriculture",
+      "learning_id": "FOLIO",
+      "label": "Course folio and evidence record",
+      "url": "https://stevencowell.github.io/Year-10-Agriculture-Guided-Course/folio.html",
+      "route": "folio.html",
+      "period_numbers": [
+        96
+      ]
+    },
+    "assurance_period": null,
+    "master_action": "Use the named existing destination, but explicitly teach and collect evidence for the exact 2024 content statement through this master overlay."
+  }
+]

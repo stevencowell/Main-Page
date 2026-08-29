@@ -3,14 +3,14 @@
   "program_id": "programmable-light",
   "version": "v2.0",
   "teacher_facing_display": {
-    "course_identity": "Stage 4 Technology Mandatory",
+    "course_identity": "Stage 4 Technology",
     "specific_year_group_visible": false,
     "official_outcomes_complete": true,
     "outcome_code_placement": "Beneath the plain-English syllabus alignment statement"
   },
   "course": {
-    "title": "Stage 4 Technology Mandatory",
-    "classification": "Technology Mandatory",
+    "title": "Stage 4 Technology",
+    "classification": "Stage 4 Technology",
     "stage_or_year": "Stage 4",
     "delivery_year": 2027,
     "project": "Programmable Light"
@@ -1118,13 +1118,13 @@
       "path": "resources/teacher/Programmable-Light-25-Period-Teaching-Program-v2.0-Network-Benchmark.docx",
       "purpose": "editable-program",
       "version": "v2.0",
-      "sha256": "19DFDFCD3E83BDF359AA879C2496C332DF65D6126B3CF059CB722020D9BECA43"
+      "sha256": "3536FD8EA800E57F5BD379C19843600D8F147861D429D5F9E2B016493F75F7B7"
     },
     {
       "path": "resources/teacher/Programmable-Light-25-Period-Teaching-Program-v2.0-Network-Benchmark.pdf",
       "purpose": "rendered-program",
       "version": "v2.0",
-      "sha256": "90549BA13ED4AD5A374E08782B7F24A95A23725EEC845834437582DAB3C19BF3"
+      "sha256": "C6060D0EFB8C235700F221F72A3FECE5020A76FFF7822E3BC754A3E2C0DAAEF0"
     },
     {
       "path": "resources/teacher/Programmable-Light-25-Period-Alignment-Manifest-v2.0.json",

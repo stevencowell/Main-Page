@@ -1,0 +1,3298 @@
+{
+  "schema_version": "1.1",
+  "program_id": "year-11-preliminary-textiles-program",
+  "version": "2.0",
+  "build_id": "TAD-Y11-PRELIM-2026-08-29-v2",
+  "course": {
+    "title": "Year 11 Preliminary Textiles and Design",
+    "classification": "Board Developed Course, 2-unit Preliminary, non-VET",
+    "stage_or_year": "Stage 6 / Year 11 Preliminary",
+    "delivery_year": 2026,
+    "project": "Two Preliminary textile projects: Project 1 Design; Project 2 Properties and Performance"
+  },
+  "site": {
+    "name": "Year 11 Preliminary Textiles and Design",
+    "reference": "https://stevencowell.github.io/Year-11-Preliminary-Textiles-and-Design/",
+    "inspection_date": "2026-08-29",
+    "state": "mixed"
+  },
+  "syllabus": {
+    "title": "Textiles and Design Stage 6 Syllabus",
+    "version": "2013",
+    "official_url": "https://www.nsw.gov.au/education-and-training/nesa/curriculum/tas/textiles-and-design-stage-6-2013",
+    "verified_date": "2026-08-29",
+    "mandatory_from": "Current syllabus for 2026; replacement in development",
+    "early_implementation": "not-applicable",
+    "steve_decision": "use-current",
+    "implementation_status": "current"
+  },
+  "timetable": {
+    "weeks": 30,
+    "period_minutes": 120,
+    "periods_per_fortnight": 4,
+    "total_periods": 60,
+    "representation": "Indicative two-hour planning blocks; local timetable conversion TTC-01"
+  },
+  "area_hours": {
+    "Design": 48,
+    "Properties and Performance of Textiles": 60,
+    "ATCFAI": 12
+  },
+  "outcomes": [
+    {
+      "code": "P1.1",
+      "statement": "describes the elements and principles of design and uses them in a variety of applications",
+      "source_id": "SRC-NESA-SYL-2013-LIVE",
+      "official_url": "https://www.nsw.gov.au/education-and-training/nesa/curriculum/tas/textiles-and-design-stage-6-2013"
+    },
+    {
+      "code": "P1.2",
+      "statement": "identifies the functional and aesthetic requirements and features of a range of textile items",
+      "source_id": "SRC-NESA-SYL-2013-LIVE",
+      "official_url": "https://www.nsw.gov.au/education-and-training/nesa/curriculum/tas/textiles-and-design-stage-6-2013"
+    },
+    {
+      "code": "P2.1",
+      "statement": "demonstrates the use of a variety of communication skills, including computer-based technology",
+      "source_id": "SRC-NESA-SYL-2013-LIVE",
+      "official_url": "https://www.nsw.gov.au/education-and-training/nesa/curriculum/tas/textiles-and-design-stage-6-2013"
+    },
+    {
+      "code": "P2.2",
+      "statement": "develops competence in the selection and use of appropriate manufacturing techniques and equipment",
+      "source_id": "SRC-NESA-SYL-2013-LIVE",
+      "official_url": "https://www.nsw.gov.au/education-and-training/nesa/curriculum/tas/textiles-and-design-stage-6-2013"
+    },
+    {
+      "code": "P2.3",
+      "statement": "manages the design and manufacture of textile projects",
+      "source_id": "SRC-NESA-SYL-2013-LIVE",
+      "official_url": "https://www.nsw.gov.au/education-and-training/nesa/curriculum/tas/textiles-and-design-stage-6-2013"
+    },
+    {
+      "code": "P3.1",
+      "statement": "identifies properties of a variety of fabrics, yarns and fibres",
+      "source_id": "SRC-NESA-SYL-2013-LIVE",
+      "official_url": "https://www.nsw.gov.au/education-and-training/nesa/curriculum/tas/textiles-and-design-stage-6-2013"
+    },
+    {
+      "code": "P3.2",
+      "statement": "justifies the selection of fabrics, yarns and fibres for end-uses",
+      "source_id": "SRC-NESA-SYL-2013-LIVE",
+      "official_url": "https://www.nsw.gov.au/education-and-training/nesa/curriculum/tas/textiles-and-design-stage-6-2013"
+    },
+    {
+      "code": "P4.1",
+      "statement": "identifies and selects textiles for specific end-uses based on analysis of experimentation",
+      "source_id": "SRC-NESA-SYL-2013-LIVE",
+      "official_url": "https://www.nsw.gov.au/education-and-training/nesa/curriculum/tas/textiles-and-design-stage-6-2013"
+    },
+    {
+      "code": "P5.1",
+      "statement": "examines the status of the Australian Textile, Clothing, Footwear and Allied Industries within the global context",
+      "source_id": "SRC-NESA-SYL-2013-LIVE",
+      "official_url": "https://www.nsw.gov.au/education-and-training/nesa/curriculum/tas/textiles-and-design-stage-6-2013"
+    },
+    {
+      "code": "P5.2",
+      "statement": "investigates the range of career options in design, consumerism, manufacturing and retail sectors of the Australian Textile, Clothing, Footwear and Allied Industries",
+      "source_id": "SRC-NESA-SYL-2013-LIVE",
+      "official_url": "https://www.nsw.gov.au/education-and-training/nesa/curriculum/tas/textiles-and-design-stage-6-2013"
+    },
+    {
+      "code": "P6.1",
+      "statement": "identifies and appreciates the factors that contribute to the quality and value of textiles in society",
+      "source_id": "SRC-NESA-SYL-2013-LIVE",
+      "official_url": "https://www.nsw.gov.au/education-and-training/nesa/curriculum/tas/textiles-and-design-stage-6-2013"
+    }
+  ],
+  "source_register": [
+    {
+      "id": "SRC-NESA-SYL-2013-LIVE",
+      "title": "Textiles and Design Stage 6 Syllabus (2013)",
+      "authority": "official-syllabus",
+      "location": "C:\\Users\\scowell1\\Documents\\Codex\\2026-08-18\\activate-and-use-these-skills-1-3\\work\\teaching-program\\source\\Textiles-and-Design-Stage-6-Syllabus-2013.docx",
+      "revision": "Live official DOCX downloaded 2026-08-18",
+      "use": "Course requirements, outcomes and Preliminary content",
+      "sha256": "a6857174ef68d819a9a92935b9d4a87493b3b05959123c3bdd40f32a6d0638de"
+    },
+    {
+      "id": "SRC-NESA-STATUS-20260818",
+      "title": "NSW Curriculum senior syllabus status",
+      "authority": "official-syllabus",
+      "location": "https://curriculum.nsw.edu.au/stages/senior",
+      "revision": "Verified 2026-08-18",
+      "use": "Confirms the 2013 syllabus is current and replacement is in development"
+    },
+    {
+      "id": "SRC-LOCAL-SCOPE-2023",
+      "title": "2023 Preliminary scope and sequence",
+      "authority": "local-program",
+      "location": "Indexed in source contract",
+      "revision": "Historical local source; current dates excluded",
+      "use": "Three-unit sequence and named theory topics"
+    },
+    {
+      "id": "SRC-SOURCE-CONTRACT",
+      "title": "Year 11 Preliminary Textiles source contract",
+      "authority": "local-program",
+      "location": "C:\\Users\\scowell1\\Documents\\Codex\\2026-08-18\\activate-and-use-these-skills-1-3\\work\\source-contract\\source-contract-TAD-Y11-PRELIM-2026-08-18-v1.md",
+      "revision": "Frozen 2026-08-18-v1; authority boundary retained",
+      "use": "Authority boundaries, 15-module map and unresolved decisions",
+      "sha256": "6eb217541bb1c10f2076d50fae78e03e37c253921a62b45a5ccfec0536e1fbd3"
+    },
+    {
+      "id": "SRC-SITE-COURSE-DATA",
+      "title": "Local student-course module data",
+      "authority": "website",
+      "location": "C:\\Users\\scowell1\\Documents\\Codex\\2026-08-18\\activate-and-use-these-skills-1-3\\work\\student-course-foundation\\course-data.js",
+      "revision": "Inspected 2026-08-18",
+      "use": "Visible module/section titles and Module 1 checks",
+      "sha256": "a31dcb5fe9168c40cb1ec0d269227572e0c5038949268be8c4a9f8d61ece277d"
+    },
+    {
+      "id": "SRC-FOLIO-MANIFEST",
+      "title": "Folio build manifest v1",
+      "authority": "website",
+      "location": "C:\\Users\\scowell1\\Documents\\Codex\\2026-08-18\\activate-and-use-these-skills-1-3\\work\\student-course-foundation\\FOLIO-BUILD-MANIFEST-v1.json",
+      "revision": "2026-08-18",
+      "use": "Ten student evidence cards and route states",
+      "sha256": "1f08c954356f04b2b357a0d98de32a061f521a02837f0b9945353720a16ec574"
+    },
+    {
+      "id": "SRC-YOUTUBE-MANIFEST",
+      "title": "YouTube learning manifest v1",
+      "authority": "website",
+      "location": "C:\\Users\\scowell1\\Documents\\Codex\\2026-08-18\\activate-and-use-these-skills-1-3\\work\\student-course-foundation\\YOUTUBE-MANIFEST-v1.json",
+      "revision": "2026-08-18",
+      "use": "Three accepted Module 1 video mappings",
+      "sha256": "c67faf9b6bdd2c925c307595edc7a6605fb0603859445fcc202dfe0b767c3269"
+    },
+    {
+      "id": "SRC-ASSESSMENT-MANIFEST",
+      "title": "Assessment build manifest v1",
+      "authority": "assessment",
+      "location": "C:\\Users\\scowell1\\Documents\\Codex\\2026-08-18\\activate-and-use-these-skills-1-3\\work\\student-course-foundation\\ASSESSMENT-BUILD-MANIFEST-v1.json",
+      "revision": "2026-08-18; BLOCKED",
+      "use": "Current assessment gap and historical conflicts",
+      "sha256": "1892f812f66eeed7ba6dd5f4d903477bd7cb1e7b7f4a619c0000dbe0319e4168"
+    }
+  ],
+  "website_learning_inventory": [
+    {
+      "id": "m01-s01",
+      "route": "modules/module-01.html#m01-s01",
+      "theory_section": "Design purpose, users and requirements",
+      "quiz_or_check": "Design purpose, users and requirements knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        1
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m01-s02",
+      "route": "modules/module-01.html#m01-s02",
+      "theory_section": "Elements of design",
+      "quiz_or_check": "Elements of design knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        2
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m01-s03",
+      "route": "modules/module-01.html#m01-s03",
+      "theory_section": "Principles of design",
+      "quiz_or_check": "Principles of design knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        3
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m02-s01",
+      "route": "modules/module-02.html#m02-s01",
+      "theory_section": "Focus areas and design types",
+      "quiz_or_check": "Focus areas and design types knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        5
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m02-s02",
+      "route": "modules/module-02.html#m02-s02",
+      "theory_section": "Factors affecting design",
+      "quiz_or_check": "Factors affecting design knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        6
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m02-s03",
+      "route": "modules/module-02.html#m02-s03",
+      "theory_section": "Inspiration and design development",
+      "quiz_or_check": "Inspiration and design development knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        7
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m03-s01",
+      "route": "modules/module-03.html#m03-s01",
+      "theory_section": "Manufacturing methods",
+      "quiz_or_check": "Manufacturing methods knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        9
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m03-s02",
+      "route": "modules/module-03.html#m03-s02",
+      "theory_section": "Commercial pattern information",
+      "quiz_or_check": "Commercial pattern information knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        10
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m03-s03",
+      "route": "modules/module-03.html#m03-s03",
+      "theory_section": "Planning and quality checkpoints",
+      "quiz_or_check": "Planning and quality checkpoints knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        11
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m04-s01",
+      "route": "modules/module-04.html#m04-s01",
+      "theory_section": "Drawing and annotation",
+      "quiz_or_check": "Drawing and annotation knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        13
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m04-s02",
+      "route": "modules/module-04.html#m04-s02",
+      "theory_section": "Production communication",
+      "quiz_or_check": "Production communication knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        14
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m04-s03",
+      "route": "modules/module-04.html#m04-s03",
+      "theory_section": "Digital and presentation methods",
+      "quiz_or_check": "Digital and presentation methods knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        15
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m05-s01",
+      "route": "modules/module-05.html#m05-s01",
+      "theory_section": "Design refinement",
+      "quiz_or_check": "Design refinement knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        17
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m05-s02",
+      "route": "modules/module-05.html#m05-s02",
+      "theory_section": "Project management",
+      "quiz_or_check": "Project management knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        18
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m05-s03",
+      "route": "modules/module-05.html#m05-s03",
+      "theory_section": "Evaluation and folio evidence",
+      "quiz_or_check": "Evaluation and folio evidence knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        19
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m06-s01",
+      "route": "modules/module-06.html#m06-s01",
+      "theory_section": "Fibre classification",
+      "quiz_or_check": "Fibre classification knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        23
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m06-s02",
+      "route": "modules/module-06.html#m06-s02",
+      "theory_section": "Molecular and morphological structure",
+      "quiz_or_check": "Molecular and morphological structure knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        24
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m06-s03",
+      "route": "modules/module-06.html#m06-s03",
+      "theory_section": "From fibre to textile",
+      "quiz_or_check": "From fibre to textile knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        25
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m07-s01",
+      "route": "modules/module-07.html#m07-s01",
+      "theory_section": "Natural cellulosic fibres",
+      "quiz_or_check": "Natural cellulosic fibres knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        27
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m07-s02",
+      "route": "modules/module-07.html#m07-s02",
+      "theory_section": "Natural protein fibres",
+      "quiz_or_check": "Natural protein fibres knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        28
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m07-s03",
+      "route": "modules/module-07.html#m07-s03",
+      "theory_section": "Regenerated, synthetic and blended fibres",
+      "quiz_or_check": "Regenerated, synthetic and blended fibres knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        29
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m08-s01",
+      "route": "modules/module-08.html#m08-s01",
+      "theory_section": "Staple-spun and filament yarns",
+      "quiz_or_check": "Staple-spun and filament yarns knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        31
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m08-s02",
+      "route": "modules/module-08.html#m08-s02",
+      "theory_section": "Twist and spinning systems",
+      "quiz_or_check": "Twist and spinning systems knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        32
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m08-s03",
+      "route": "modules/module-08.html#m08-s03",
+      "theory_section": "Textured and novelty yarns",
+      "quiz_or_check": "Textured and novelty yarns knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        33
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m09-s01",
+      "route": "modules/module-09.html#m09-s01",
+      "theory_section": "Yarn characteristics",
+      "quiz_or_check": "Yarn characteristics knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        35
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m09-s02",
+      "route": "modules/module-09.html#m09-s02",
+      "theory_section": "Structure-property relationships",
+      "quiz_or_check": "Structure-property relationships knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        36
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m09-s03",
+      "route": "modules/module-09.html#m09-s03",
+      "theory_section": "End-use justification",
+      "quiz_or_check": "End-use justification knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        37
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m10-s01",
+      "route": "modules/module-10.html#m10-s01",
+      "theory_section": "Woven structures",
+      "quiz_or_check": "Woven structures knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        39
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m10-s02",
+      "route": "modules/module-10.html#m10-s02",
+      "theory_section": "Knitted structures",
+      "quiz_or_check": "Knitted structures knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        40
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m10-s03",
+      "route": "modules/module-10.html#m10-s03",
+      "theory_section": "Non-woven structures",
+      "quiz_or_check": "Non-woven structures knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        41
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m11-s01",
+      "route": "modules/module-11.html#m11-s01",
+      "theory_section": "Properties and end use",
+      "quiz_or_check": "Properties and end use knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        43
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m11-s02",
+      "route": "modules/module-11.html#m11-s02",
+      "theory_section": "Planning a fair textile test",
+      "quiz_or_check": "Planning a fair textile test knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        44
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m11-s03",
+      "route": "modules/module-11.html#m11-s03",
+      "theory_section": "Recording and interpreting results",
+      "quiz_or_check": "Recording and interpreting results knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        45
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m12-s01",
+      "route": "modules/module-12.html#m12-s01",
+      "theory_section": "Analysing experimental evidence",
+      "quiz_or_check": "Analysing experimental evidence knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        47
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m12-s02",
+      "route": "modules/module-12.html#m12-s02",
+      "theory_section": "Fabric selection and design",
+      "quiz_or_check": "Fabric selection and design knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        48
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m12-s03",
+      "route": "modules/module-12.html#m12-s03",
+      "theory_section": "Project evidence and evaluation",
+      "quiz_or_check": "Project evidence and evaluation knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        49
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m13-s01",
+      "route": "modules/module-13.html#m13-s01",
+      "theory_section": "Industry development and sectors",
+      "quiz_or_check": "Industry development and sectors knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        51
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m13-s02",
+      "route": "modules/module-13.html#m13-s02",
+      "theory_section": "Local and global context",
+      "quiz_or_check": "Local and global context knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        52
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m13-s03",
+      "route": "modules/module-13.html#m13-s03",
+      "theory_section": "Careers and training",
+      "quiz_or_check": "Careers and training knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        53
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m14-s01",
+      "route": "modules/module-14.html#m14-s01",
+      "theory_section": "Quality assurance and control",
+      "quiz_or_check": "Quality assurance and control knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        54
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m14-s02",
+      "route": "modules/module-14.html#m14-s02",
+      "theory_section": "Manufacturer and consumer roles",
+      "quiz_or_check": "Manufacturer and consumer roles knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        55
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m14-s03",
+      "route": "modules/module-14.html#m14-s03",
+      "theory_section": "Perceived, cultural and economic value",
+      "quiz_or_check": "Perceived, cultural and economic value knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        56
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m15-s01",
+      "route": "modules/module-15.html#m15-s01",
+      "theory_section": "Knowledge retrieval",
+      "quiz_or_check": "Knowledge retrieval knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        57
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m15-s02",
+      "route": "modules/module-15.html#m15-s02",
+      "theory_section": "Command terms and response planning",
+      "quiz_or_check": "Command terms and response planning knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        58
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m15-s03",
+      "route": "modules/module-15.html#m15-s03",
+      "theory_section": "Course synthesis",
+      "quiz_or_check": "Course synthesis knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        59
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Ten-question check, saved written response and linked practice evidence.",
+      "teacher_to_confirm_ids": []
+    }
+  ],
+  "periods": [
+    {
+      "number": 1,
+      "type": "Site/theory",
+      "focus": "Design brief and requirements",
+      "student_work": "Teach Module 1 section 'Design purpose, users and requirements'; students view the design lens and complete the 10-question check.",
+      "evidence": "Saved written response and Folio Card 1; P1.2",
+      "syllabus_content": [
+        "Functional and aesthetic design; user, purpose, context and factors determining appropriate design."
+      ],
+      "outcome_codes": [
+        "P1.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-SYL-2013-LIVE",
+        "SRC-SOURCE-CONTRACT",
+        "SRC-SITE-COURSE-DATA",
+        "SRC-YOUTUBE-MANIFEST",
+        "SRC-FOLIO-MANIFEST"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-01.html#m01-s01",
+        "folio.html#folio-u1-01"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "m01-s01"
+      ]
+    },
+    {
+      "number": 2,
+      "type": "Site/theory",
+      "focus": "Elements of design",
+      "student_work": "Teach 'Elements of design'; model evidence-based analysis; students complete the video prompt and 10-question check.",
+      "evidence": "Written analysis and Folio Card 2; P1.1",
+      "syllabus_content": [
+        "Line/direction, shape/size, texture, colour/value applied across textile applications."
+      ],
+      "outcome_codes": [
+        "P1.1"
+      ],
+      "source_ids": [
+        "SRC-NESA-SYL-2013-LIVE",
+        "SRC-SOURCE-CONTRACT",
+        "SRC-SITE-COURSE-DATA",
+        "SRC-YOUTUBE-MANIFEST",
+        "SRC-FOLIO-MANIFEST"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-01.html#m01-s02",
+        "folio.html#folio-u1-02"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "m01-s02"
+      ]
+    },
+    {
+      "number": 3,
+      "type": "Site/theory",
+      "focus": "Principles of design",
+      "student_work": "Teach 'Principles of design'; compare examples; students complete the video prompt and 10-question check.",
+      "evidence": "Supported judgement and Folio Card 2; P1.1",
+      "syllabus_content": [
+        "Proportion, balance, rhythm, emphasis, contrast/harmony and unity."
+      ],
+      "outcome_codes": [
+        "P1.1"
+      ],
+      "source_ids": [
+        "SRC-NESA-SYL-2013-LIVE",
+        "SRC-SOURCE-CONTRACT",
+        "SRC-SITE-COURSE-DATA",
+        "SRC-YOUTUBE-MANIFEST",
+        "SRC-FOLIO-MANIFEST"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-01.html#m01-s03",
+        "folio.html#folio-u1-02"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "m01-s03"
+      ]
+    },
+    {
+      "number": 4,
+      "type": "Project/folio",
+      "focus": "Applied design analysis",
+      "student_work": "Model the Design-analysis studio. Students analyse one textile item, improve the response and save the evidence.",
+      "evidence": "Completed activity plus Folio Cards 1-2; P1.1, P1.2",
+      "syllabus_content": [
+        "Describe and analyse elements and principles; identify functional and aesthetic requirements."
+      ],
+      "outcome_codes": [
+        "P1.1",
+        "P1.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-SYL-2013-LIVE",
+        "SRC-SOURCE-CONTRACT",
+        "SRC-SITE-COURSE-DATA",
+        "SRC-YOUTUBE-MANIFEST",
+        "SRC-FOLIO-MANIFEST"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "activities/module-01-design-analysis.html",
+        "folio.html#folio-u1-01",
+        "folio.html#folio-u1-02"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": []
+    },
+    {
+      "number": 5,
+      "type": "Site/theory",
+      "focus": "Focus areas and design types",
+      "student_work": "Teach with the completed Module 2 theory, checks and applied-practice activity.",
+      "evidence": "Comparison notes; P1.1, P1.2",
+      "syllabus_content": [
+        "Functional and aesthetic design across apparel, furnishings, costume, textile arts and non-apparel."
+      ],
+      "outcome_codes": [
+        "P1.1",
+        "P1.2",
+        "P2.1"
+      ],
+      "source_ids": [
+        "SRC-NESA-SYL-2013-LIVE",
+        "SRC-SOURCE-CONTRACT"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-02.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "m02-s01"
+      ]
+    },
+    {
+      "number": 6,
+      "type": "Site/theory",
+      "focus": "Factors affecting design",
+      "student_work": "Model how environmental sustainability and manufacturing techniques shape a design response.",
+      "evidence": "Evidence-based factor analysis; P1.2",
+      "syllabus_content": [
+        "Factors determining appropriate design; role of design in meeting functional and aesthetic requirements."
+      ],
+      "outcome_codes": [
+        "P1.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-SYL-2013-LIVE",
+        "SRC-SOURCE-CONTRACT"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-02.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "m02-s02"
+      ]
+    },
+    {
+      "number": 7,
+      "type": "Site/theory",
+      "focus": "Inspiration and development",
+      "student_work": "Students compare inspiration sources and explain how a concept changes through feedback and constraints.",
+      "evidence": "Annotated idea sequence; P1.1, P2.1",
+      "syllabus_content": [
+        "Generate, communicate, select and evaluate design ideas for a Preliminary textile project."
+      ],
+      "outcome_codes": [
+        "P1.1",
+        "P2.1"
+      ],
+      "source_ids": [
+        "SRC-NESA-SYL-2013-LIVE",
+        "SRC-SOURCE-CONTRACT"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-02.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "m02-s03"
+      ]
+    },
+    {
+      "number": 8,
+      "type": "Project/folio",
+      "focus": "Project 1 design direction",
+      "student_work": "Students record the user, purpose, requirements and one developed design direction in Folio Card 3.",
+      "evidence": "Folio Card 3 checkpoint; P1.1, P1.2, P2.1",
+      "syllabus_content": [
+        "Apply elements and principles; select, analyse and record design idea development."
+      ],
+      "outcome_codes": [
+        "P1.1",
+        "P1.2",
+        "P2.1"
+      ],
+      "source_ids": [
+        "SRC-NESA-SYL-2013-LIVE",
+        "SRC-SOURCE-CONTRACT",
+        "SRC-FOLIO-MANIFEST"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-02.html",
+        "folio.html#folio-u1-03"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": []
+    },
+    {
+      "number": 9,
+      "type": "Site/theory",
+      "focus": "Manufacturing and pattern information",
+      "student_work": "Teacher explains approved pattern information, symbols, measurements and quality checkpoints; use the completed site module.",
+      "evidence": "Pattern-reading check; P2.1, P2.2",
+      "syllabus_content": [
+        "Manufacturing methods; interpret, use and modify patterns for specific end-uses."
+      ],
+      "outcome_codes": [
+        "P2.1",
+        "P2.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-SYL-2013-LIVE",
+        "SRC-SOURCE-CONTRACT"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-03.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-02"
+      ],
+      "website_learning_ids": [
+        "m03-s01"
+      ]
+    },
+    {
+      "number": 10,
+      "type": "Project/folio",
+      "focus": "Manufacturing plan",
+      "student_work": "Students prepare a teacher-approved order of work and quality checkpoints without inventing technical details.",
+      "evidence": "Approved plan and Folio Card 3; P2.1, P2.3",
+      "syllabus_content": [
+        "Outline and justify project development and management steps; communicate production information."
+      ],
+      "outcome_codes": [
+        "P2.1",
+        "P2.3"
+      ],
+      "source_ids": [
+        "SRC-NESA-SYL-2013-LIVE",
+        "SRC-SOURCE-CONTRACT",
+        "SRC-FOLIO-MANIFEST"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-03.html",
+        "folio.html#folio-u1-03"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-02"
+      ],
+      "website_learning_ids": [
+        "m03-s02"
+      ]
+    },
+    {
+      "number": 11,
+      "type": "Practical",
+      "focus": "Approved technique sample 1",
+      "student_work": "Teacher demonstrates the authorised technique and controls. Students practise under supervision and retain one labelled sample.",
+      "evidence": "Teacher-observed sample; P2.2",
+      "syllabus_content": [
+        "Select and use manufacturing techniques appropriate to fabric and end-use."
+      ],
+      "outcome_codes": [
+        "P2.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-SYL-2013-LIVE",
+        "SRC-SOURCE-CONTRACT",
+        "SRC-FOLIO-MANIFEST"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "folio.html#folio-u1-04"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-02"
+      ],
+      "website_learning_ids": [
+        "m03-s03"
+      ]
+    },
+    {
+      "number": 12,
+      "type": "Practical",
+      "focus": "Approved technique sample 2",
+      "student_work": "Students repeat or extend an authorised technique, check quality and record one improvement.",
+      "evidence": "Improved sample and feedback record; P2.2, P2.3",
+      "syllabus_content": [
+        "Develop competence with appropriate manufacturing techniques and equipment."
+      ],
+      "outcome_codes": [
+        "P2.2",
+        "P2.3"
+      ],
+      "source_ids": [
+        "SRC-NESA-SYL-2013-LIVE",
+        "SRC-SOURCE-CONTRACT",
+        "SRC-FOLIO-MANIFEST"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "folio.html#folio-u1-04"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-02"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 13,
+      "type": "Site/theory",
+      "focus": "Drawing and annotation",
+      "student_work": "Teacher models object, fashion and production drawing conventions from authorised course sources.",
+      "evidence": "Annotated communication sample; P2.1",
+      "syllabus_content": [
+        "Graphical communication: object, fashion and industry production drawing specifications."
+      ],
+      "outcome_codes": [
+        "P2.1"
+      ],
+      "source_ids": [
+        "SRC-NESA-SYL-2013-LIVE",
+        "SRC-SOURCE-CONTRACT"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-04.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "m04-s01"
+      ]
+    },
+    {
+      "number": 14,
+      "type": "Site/theory",
+      "focus": "Audience, purpose and medium",
+      "student_work": "Compare verbal, written, graphical and digital methods; students select a method for a defined audience.",
+      "evidence": "Method selection explanation; P2.1",
+      "syllabus_content": [
+        "Criteria for effective verbal and written communication; communication-based technologies."
+      ],
+      "outcome_codes": [
+        "P2.1"
+      ],
+      "source_ids": [
+        "SRC-NESA-SYL-2013-LIVE",
+        "SRC-SOURCE-CONTRACT"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-04.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "m04-s02"
+      ]
+    },
+    {
+      "number": 15,
+      "type": "Project/folio",
+      "focus": "Production communication",
+      "student_work": "Students create a teacher-approved drawing or annotated specification for Project 1.",
+      "evidence": "Communication evidence in Folio Card 3; P2.1",
+      "syllabus_content": [
+        "Develop competence in graphically communicating design ideas using appropriate media."
+      ],
+      "outcome_codes": [
+        "P2.1"
+      ],
+      "source_ids": [
+        "SRC-NESA-SYL-2013-LIVE",
+        "SRC-SOURCE-CONTRACT",
+        "SRC-FOLIO-MANIFEST"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-04.html",
+        "folio.html#folio-u1-03"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-02"
+      ],
+      "website_learning_ids": [
+        "m04-s03"
+      ]
+    },
+    {
+      "number": 16,
+      "type": "Project/folio",
+      "focus": "Design review",
+      "student_work": "Run a short peer/teacher review. Students document one supported change and update their project plan.",
+      "evidence": "Approved change record; P2.1, P2.3",
+      "syllabus_content": [
+        "Communicate, evaluate and modify design ideas; manage time and resources."
+      ],
+      "outcome_codes": [
+        "P2.1",
+        "P2.3"
+      ],
+      "source_ids": [
+        "SRC-NESA-SYL-2013-LIVE",
+        "SRC-SOURCE-CONTRACT",
+        "SRC-FOLIO-MANIFEST"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-04.html",
+        "folio.html#folio-u1-03"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-02"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 17,
+      "type": "Project/folio",
+      "focus": "Project 1 readiness",
+      "student_work": "Check approved brief, design evidence, pattern, resources and sequence. Students identify the next authorised action.",
+      "evidence": "Readiness checkpoint; P2.1, P2.3",
+      "syllabus_content": [
+        "Manage project development; evaluate ideas; plan time and resources."
+      ],
+      "outcome_codes": [
+        "P2.1",
+        "P2.3"
+      ],
+      "source_ids": [
+        "SRC-NESA-SYL-2013-LIVE",
+        "SRC-SOURCE-CONTRACT",
+        "SRC-FOLIO-MANIFEST"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-05.html",
+        "folio.html#folio-u1-03"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-02"
+      ],
+      "website_learning_ids": [
+        "m05-s01"
+      ]
+    },
+    {
+      "number": 18,
+      "type": "Practical",
+      "focus": "Project 1 manufacture - stage 1",
+      "student_work": "Teacher demonstrates the approved stage. Students manufacture under supervision and complete clean-down.",
+      "evidence": "Progress photo/sample and teacher checkpoint; P2.2, P2.3",
+      "syllabus_content": [
+        "Project construction using appropriate methods, techniques and equipment."
+      ],
+      "outcome_codes": [
+        "P2.2",
+        "P2.3"
+      ],
+      "source_ids": [
+        "SRC-NESA-SYL-2013-LIVE",
+        "SRC-SOURCE-CONTRACT",
+        "SRC-FOLIO-MANIFEST"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "folio.html#folio-u1-04"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-02"
+      ],
+      "website_learning_ids": [
+        "m05-s02"
+      ]
+    },
+    {
+      "number": 19,
+      "type": "Practical",
+      "focus": "Project 1 manufacture - stage 2",
+      "student_work": "Students continue the approved sequence, check accuracy and respond to feedback.",
+      "evidence": "Technique evidence in Folio Card 4; P2.2, P2.3",
+      "syllabus_content": [
+        "Apply manipulative skills and manage the textile project."
+      ],
+      "outcome_codes": [
+        "P2.2",
+        "P2.3"
+      ],
+      "source_ids": [
+        "SRC-NESA-SYL-2013-LIVE",
+        "SRC-SOURCE-CONTRACT",
+        "SRC-FOLIO-MANIFEST"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "folio.html#folio-u1-04"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-02"
+      ],
+      "website_learning_ids": [
+        "m05-s03"
+      ]
+    },
+    {
+      "number": 20,
+      "type": "Practical",
+      "focus": "Project 1 manufacture - stage 3",
+      "student_work": "Students continue the approved sequence and record one quality issue or decision.",
+      "evidence": "Folio Card 5 change/checkpoint; P2.2, P2.3",
+      "syllabus_content": [
+        "Use appropriate manufacturing techniques; manage time and resources."
+      ],
+      "outcome_codes": [
+        "P2.2",
+        "P2.3"
+      ],
+      "source_ids": [
+        "SRC-NESA-SYL-2013-LIVE",
+        "SRC-SOURCE-CONTRACT",
+        "SRC-FOLIO-MANIFEST"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "folio.html#folio-u1-05"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-02"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 21,
+      "type": "Practical",
+      "focus": "Project 1 manufacture - completion",
+      "student_work": "Students complete the approved construction sequence and carry out teacher-directed quality checks.",
+      "evidence": "Completed product evidence; P2.2, P2.3",
+      "syllabus_content": [
+        "Complete and evaluate a Preliminary textile project using appropriate methods."
+      ],
+      "outcome_codes": [
+        "P2.2",
+        "P2.3"
+      ],
+      "source_ids": [
+        "SRC-NESA-SYL-2013-LIVE",
+        "SRC-SOURCE-CONTRACT",
+        "SRC-FOLIO-MANIFEST"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "folio.html#folio-u1-06"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-02"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 22,
+      "type": "Practical",
+      "focus": "Project 1 evaluation evidence",
+      "student_work": "Students photograph the authorised result, compare it with requirements and record a realistic improvement.",
+      "evidence": "Folio Card 6 evaluation; P1.2, P2.3, P4.1",
+      "syllabus_content": [
+        "Evaluate ideas and project; substantiate conclusions with factual evidence."
+      ],
+      "outcome_codes": [
+        "P1.2",
+        "P2.3",
+        "P4.1"
+      ],
+      "source_ids": [
+        "SRC-NESA-SYL-2013-LIVE",
+        "SRC-SOURCE-CONTRACT",
+        "SRC-FOLIO-MANIFEST"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "folio.html#folio-u1-06"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-02"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 23,
+      "type": "Site/theory",
+      "focus": "Fibre classification",
+      "student_work": "Teacher-led classification lesson using the approved properties booklet; use the completed site module.",
+      "evidence": "Classification map; P3.1",
+      "syllabus_content": [
+        "Natural, regenerated and synthetic fibre types and classifications."
+      ],
+      "outcome_codes": [
+        "P3.1"
+      ],
+      "source_ids": [
+        "SRC-NESA-SYL-2013-LIVE",
+        "SRC-SOURCE-CONTRACT"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-06.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "m06-s01"
+      ]
+    },
+    {
+      "number": 24,
+      "type": "Site/theory",
+      "focus": "Molecular fibre structure",
+      "student_work": "Explain monomer, polymer, amorphous and crystalline regions with verified diagrams.",
+      "evidence": "Labelled explanation; P3.1",
+      "syllabus_content": [
+        "Molecular structure and its contribution to fibre properties."
+      ],
+      "outcome_codes": [
+        "P3.1"
+      ],
+      "source_ids": [
+        "SRC-NESA-SYL-2013-LIVE",
+        "SRC-SOURCE-CONTRACT"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-06.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-07"
+      ],
+      "website_learning_ids": [
+        "m06-s02"
+      ]
+    },
+    {
+      "number": 25,
+      "type": "Site/theory",
+      "focus": "Morphological fibre structure",
+      "student_work": "Compare surface and cross-sectional features, staple, filament and multifilament forms.",
+      "evidence": "Structure-property notes; P3.1, P3.2",
+      "syllabus_content": [
+        "Morphological structure and its contribution to fibre properties."
+      ],
+      "outcome_codes": [
+        "P3.1",
+        "P3.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-SYL-2013-LIVE",
+        "SRC-SOURCE-CONTRACT"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-06.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "m06-s03"
+      ]
+    },
+    {
+      "number": 26,
+      "type": "Project/folio",
+      "focus": "Fibre-to-end-use reasoning",
+      "student_work": "Students choose one verified fibre example and justify an end use using structure and properties.",
+      "evidence": "Folio Card 7 rationale; P3.1, P3.2",
+      "syllabus_content": [
+        "Select fibres for specific end-uses using evidence about properties."
+      ],
+      "outcome_codes": [
+        "P3.1",
+        "P3.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-SYL-2013-LIVE",
+        "SRC-SOURCE-CONTRACT",
+        "SRC-FOLIO-MANIFEST"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-06.html",
+        "folio.html#folio-u2-01"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": []
+    },
+    {
+      "number": 27,
+      "type": "Site/theory",
+      "focus": "Natural cellulosic fibres",
+      "student_work": "Teach cotton origin, structure, processing, properties and end-use from approved sources.",
+      "evidence": "Cotton evidence table; P3.1",
+      "syllabus_content": [
+        "Properties of natural cellulosic fibre; cotton classification and performance."
+      ],
+      "outcome_codes": [
+        "P3.1"
+      ],
+      "source_ids": [
+        "SRC-NESA-SYL-2013-LIVE",
+        "SRC-SOURCE-CONTRACT"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-07.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "m07-s01"
+      ]
+    },
+    {
+      "number": 28,
+      "type": "Site/theory",
+      "focus": "Natural protein fibres",
+      "student_work": "Teach wool origin, structure, processing, properties and end-use from approved sources.",
+      "evidence": "Wool evidence table; P3.1",
+      "syllabus_content": [
+        "Properties of natural protein fibre; wool classification and performance."
+      ],
+      "outcome_codes": [
+        "P3.1"
+      ],
+      "source_ids": [
+        "SRC-NESA-SYL-2013-LIVE",
+        "SRC-SOURCE-CONTRACT"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-07.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "m07-s02"
+      ]
+    },
+    {
+      "number": 29,
+      "type": "Site/theory",
+      "focus": "Manufactured fibres and blends",
+      "student_work": "Compare viscose rayon, polyester, nylon, elastomeric and the required blends.",
+      "evidence": "Comparison check; P3.1, P3.2",
+      "syllabus_content": [
+        "At least one regenerated, three synthetic fibres and two fibre blends."
+      ],
+      "outcome_codes": [
+        "P3.1",
+        "P3.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-SYL-2013-LIVE",
+        "SRC-SOURCE-CONTRACT"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-07.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "m07-s03"
+      ]
+    },
+    {
+      "number": 30,
+      "type": "Project/folio",
+      "focus": "Fibre selection",
+      "student_work": "Students justify one natural and one manufactured fibre or blend for contrasting end uses.",
+      "evidence": "Folio Card 7 comparison; P3.1, P3.2",
+      "syllabus_content": [
+        "Describe fibre properties and justify fibre selection for end-use."
+      ],
+      "outcome_codes": [
+        "P3.1",
+        "P3.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-SYL-2013-LIVE",
+        "SRC-SOURCE-CONTRACT",
+        "SRC-FOLIO-MANIFEST"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-07.html",
+        "folio.html#folio-u2-01"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": []
+    },
+    {
+      "number": 31,
+      "type": "Site/theory",
+      "focus": "Staple-spun and filament yarns",
+      "student_work": "Compare staple-spun and filament construction and apply correct terminology.",
+      "evidence": "Yarn classification notes; P3.1",
+      "syllabus_content": [
+        "Spun staple and filament yarn structure and characteristics."
+      ],
+      "outcome_codes": [
+        "P3.1"
+      ],
+      "source_ids": [
+        "SRC-NESA-SYL-2013-LIVE",
+        "SRC-SOURCE-CONTRACT"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-08.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "m08-s01"
+      ]
+    },
+    {
+      "number": 32,
+      "type": "Site/theory",
+      "focus": "Twist and spinning systems",
+      "student_work": "Explain low/high twist and carded/combed or woollen/worsted distinctions.",
+      "evidence": "Structure-property explanation; P3.1",
+      "syllabus_content": [
+        "Twist level and spinning systems that affect yarn and fabric properties."
+      ],
+      "outcome_codes": [
+        "P3.1"
+      ],
+      "source_ids": [
+        "SRC-NESA-SYL-2013-LIVE",
+        "SRC-SOURCE-CONTRACT"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-08.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "m08-s02"
+      ]
+    },
+    {
+      "number": 33,
+      "type": "Site/theory",
+      "focus": "Textured and novelty yarns",
+      "student_work": "Identify textured, slub, boucle and core-spun examples from verified sources or teacher samples.",
+      "evidence": "Identification evidence; P3.1",
+      "syllabus_content": [
+        "Textured and novelty yarn structures and characteristics."
+      ],
+      "outcome_codes": [
+        "P3.1"
+      ],
+      "source_ids": [
+        "SRC-NESA-SYL-2013-LIVE",
+        "SRC-SOURCE-CONTRACT"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-08.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-07"
+      ],
+      "website_learning_ids": [
+        "m08-s03"
+      ]
+    },
+    {
+      "number": 34,
+      "type": "Project/folio",
+      "focus": "Yarn structure evidence",
+      "student_work": "Students select one yarn structure and explain how it contributes to fabric behaviour.",
+      "evidence": "Folio Card 7 yarn record; P3.1, P3.2",
+      "syllabus_content": [
+        "Identify yarn characteristics that affect fabric properties."
+      ],
+      "outcome_codes": [
+        "P3.1",
+        "P3.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-SYL-2013-LIVE",
+        "SRC-SOURCE-CONTRACT",
+        "SRC-FOLIO-MANIFEST"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-08.html",
+        "folio.html#folio-u2-01"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": []
+    },
+    {
+      "number": 35,
+      "type": "Site/theory",
+      "focus": "Yarn aesthetic and comfort properties",
+      "student_work": "Teach how yarn structure affects appearance, handle and comfort.",
+      "evidence": "Cause-effect notes; P3.1",
+      "syllabus_content": [
+        "Yarn aesthetic and comfort properties and their effect on fabric performance."
+      ],
+      "outcome_codes": [
+        "P3.1"
+      ],
+      "source_ids": [
+        "SRC-NESA-SYL-2013-LIVE",
+        "SRC-SOURCE-CONTRACT"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-09.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "m09-s01"
+      ]
+    },
+    {
+      "number": 36,
+      "type": "Site/theory",
+      "focus": "Yarn durability, strength and care",
+      "student_work": "Compare durability, strength and care demands using verified examples.",
+      "evidence": "Comparison response; P3.1",
+      "syllabus_content": [
+        "Yarn durability, strength and care properties."
+      ],
+      "outcome_codes": [
+        "P3.1"
+      ],
+      "source_ids": [
+        "SRC-NESA-SYL-2013-LIVE",
+        "SRC-SOURCE-CONTRACT"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-09.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "m09-s02"
+      ]
+    },
+    {
+      "number": 37,
+      "type": "Site/theory",
+      "focus": "Structure-property relationships",
+      "student_work": "Model a chain from fibre to yarn structure to fabric performance and end use.",
+      "evidence": "Completed reasoning chain; P3.1, P3.2",
+      "syllabus_content": [
+        "Interrelationship of yarn structure, yarn properties and fabric performance."
+      ],
+      "outcome_codes": [
+        "P3.1",
+        "P3.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-SYL-2013-LIVE",
+        "SRC-SOURCE-CONTRACT"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-09.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "m09-s03"
+      ]
+    },
+    {
+      "number": 38,
+      "type": "Project/folio",
+      "focus": "Yarn end-use justification",
+      "student_work": "Students justify a yarn selection for a specific textile end use using evidence.",
+      "evidence": "Folio Card 7 justification; P3.2",
+      "syllabus_content": [
+        "Demonstrate understanding of yarn properties when selecting fabrics for end-use."
+      ],
+      "outcome_codes": [
+        "P3.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-SYL-2013-LIVE",
+        "SRC-SOURCE-CONTRACT",
+        "SRC-FOLIO-MANIFEST"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-09.html",
+        "folio.html#folio-u2-01"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": []
+    },
+    {
+      "number": 39,
+      "type": "Site/theory",
+      "focus": "Woven structures",
+      "student_work": "Teach warp, weft and selvedge, then compare plain, twill, satin, Jacquard, crepe and pile weaves.",
+      "evidence": "Woven comparison; P3.1",
+      "syllabus_content": [
+        "Woven fabric structure, terminology, types and classification."
+      ],
+      "outcome_codes": [
+        "P3.1"
+      ],
+      "source_ids": [
+        "SRC-NESA-SYL-2013-LIVE",
+        "SRC-SOURCE-CONTRACT"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-10.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "m10-s01"
+      ]
+    },
+    {
+      "number": 40,
+      "type": "Site/theory",
+      "focus": "Knitted structures",
+      "student_work": "Teach course and wale, then compare the required knitted fabric types.",
+      "evidence": "Knitted comparison; P3.1",
+      "syllabus_content": [
+        "Single, double, tricot, pile, lace and net knitted structures."
+      ],
+      "outcome_codes": [
+        "P3.1"
+      ],
+      "source_ids": [
+        "SRC-NESA-SYL-2013-LIVE",
+        "SRC-SOURCE-CONTRACT"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-10.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "m10-s02"
+      ]
+    },
+    {
+      "number": 41,
+      "type": "Site/theory",
+      "focus": "Non-woven structures",
+      "student_work": "Compare felt, web and film structures and link construction to likely performance.",
+      "evidence": "Non-woven analysis; P3.1, P3.2",
+      "syllabus_content": [
+        "Non-woven fabric structures, classification and properties."
+      ],
+      "outcome_codes": [
+        "P3.1",
+        "P3.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-SYL-2013-LIVE",
+        "SRC-SOURCE-CONTRACT"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-10.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "m10-s03"
+      ]
+    },
+    {
+      "number": 42,
+      "type": "Practical",
+      "focus": "Fabric structure identification",
+      "student_work": "Using teacher-approved samples and method, students identify structure and record evidence rather than appearance alone.",
+      "evidence": "Folio Card 7 sample record; P3.1, P3.2",
+      "syllabus_content": [
+        "Identify fabric structures and describe properties affected by structure."
+      ],
+      "outcome_codes": [
+        "P3.1",
+        "P3.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-SYL-2013-LIVE",
+        "SRC-SOURCE-CONTRACT",
+        "SRC-FOLIO-MANIFEST"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "folio.html#folio-u2-01"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-04"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 43,
+      "type": "Site/theory",
+      "focus": "Properties and end use",
+      "student_work": "Compare aesthetic, durability, comfort, dimensional stability and care properties.",
+      "evidence": "Property-to-end-use table; P3.1, P3.2",
+      "syllabus_content": [
+        "Fabric and fibre properties used when selecting fabrics for specific end-uses."
+      ],
+      "outcome_codes": [
+        "P3.1",
+        "P3.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-SYL-2013-LIVE",
+        "SRC-SOURCE-CONTRACT"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-11.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "m11-s01"
+      ]
+    },
+    {
+      "number": 44,
+      "type": "Site/theory",
+      "focus": "Planning a fair textile test",
+      "student_work": "Model an aim, variables, consistent method, results table and evidence-based conclusion without supplying an unapproved method.",
+      "evidence": "Fair-test plan; P4.1",
+      "syllabus_content": [
+        "Use functional and aesthetic tests to record and evaluate results."
+      ],
+      "outcome_codes": [
+        "P4.1"
+      ],
+      "source_ids": [
+        "SRC-NESA-SYL-2013-LIVE",
+        "SRC-SOURCE-CONTRACT"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-11.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-04"
+      ],
+      "website_learning_ids": [
+        "m11-s02"
+      ]
+    },
+    {
+      "number": 45,
+      "type": "Project/folio",
+      "focus": "Test plan and results structure",
+      "student_work": "Students prepare Folio Card 8 fields and a teacher-approved recording format before testing.",
+      "evidence": "Approved aim/variables/results table; P2.1, P4.1",
+      "syllabus_content": [
+        "Plan experimental procedures; communicate and record information."
+      ],
+      "outcome_codes": [
+        "P2.1",
+        "P4.1"
+      ],
+      "source_ids": [
+        "SRC-NESA-SYL-2013-LIVE",
+        "SRC-SOURCE-CONTRACT",
+        "SRC-FOLIO-MANIFEST"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-11.html",
+        "folio.html#folio-u2-tests-01"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-04"
+      ],
+      "website_learning_ids": [
+        "m11-s03"
+      ]
+    },
+    {
+      "number": 46,
+      "type": "Practical",
+      "focus": "Authorised comparative textile test",
+      "student_work": "Teacher demonstrates the approved method and controls. Students test, record results and clean down under supervision.",
+      "evidence": "Results and observations in Folio Card 8; P3.1, P4.1",
+      "syllabus_content": [
+        "Evaluate fabric properties using classroom testing procedures."
+      ],
+      "outcome_codes": [
+        "P3.1",
+        "P4.1"
+      ],
+      "source_ids": [
+        "SRC-NESA-SYL-2013-LIVE",
+        "SRC-SOURCE-CONTRACT",
+        "SRC-FOLIO-MANIFEST"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "folio.html#folio-u2-tests-01"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-04"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 47,
+      "type": "Project/folio",
+      "focus": "Evidence-based Project 2 choice",
+      "student_work": "Students analyse authorised test results and justify one fabric, yarn or fibre selection for the confirmed project.",
+      "evidence": "Folio Cards 8-9; P3.2, P4.1",
+      "syllabus_content": [
+        "Make decisions about textiles using analysis of properties and experimental evidence."
+      ],
+      "outcome_codes": [
+        "P3.2",
+        "P4.1"
+      ],
+      "source_ids": [
+        "SRC-NESA-SYL-2013-LIVE",
+        "SRC-SOURCE-CONTRACT",
+        "SRC-FOLIO-MANIFEST"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-12.html",
+        "folio.html#folio-u2-tests-01",
+        "folio.html#folio-u2-02"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-03"
+      ],
+      "website_learning_ids": [
+        "m12-s01"
+      ]
+    },
+    {
+      "number": 48,
+      "type": "Practical",
+      "focus": "Project 2 manufacture - stage 1",
+      "student_work": "Teacher demonstrates the approved Bustier/Vest stage. Students work under supervision and complete clean-down.",
+      "evidence": "Progress evidence; P2.2, P2.3",
+      "syllabus_content": [
+        "Project 2 construction using techniques appropriate to fabric and end-use."
+      ],
+      "outcome_codes": [
+        "P2.2",
+        "P2.3"
+      ],
+      "source_ids": [
+        "SRC-NESA-SYL-2013-LIVE",
+        "SRC-SOURCE-CONTRACT",
+        "SRC-FOLIO-MANIFEST"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "folio.html#folio-u2-02"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-03"
+      ],
+      "website_learning_ids": [
+        "m12-s02"
+      ]
+    },
+    {
+      "number": 49,
+      "type": "Practical",
+      "focus": "Project 2 manufacture - stage 2",
+      "student_work": "Students continue the approved sequence, check quality and record a supported decision.",
+      "evidence": "Teacher checkpoint and Folio Card 9; P2.1, P2.2, P2.3",
+      "syllabus_content": [
+        "Apply manipulative and management skills; communicate and record information."
+      ],
+      "outcome_codes": [
+        "P2.1",
+        "P2.2",
+        "P2.3"
+      ],
+      "source_ids": [
+        "SRC-NESA-SYL-2013-LIVE",
+        "SRC-SOURCE-CONTRACT",
+        "SRC-FOLIO-MANIFEST"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "folio.html#folio-u2-02"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-03"
+      ],
+      "website_learning_ids": [
+        "m12-s03"
+      ]
+    },
+    {
+      "number": 50,
+      "type": "Practical",
+      "focus": "Project 2 completion and evaluation",
+      "student_work": "Students complete the authorised item, collect product evidence and evaluate design, selection and manufacture.",
+      "evidence": "Completed Folio Card 9; P2.3, P3.2, P4.1",
+      "syllabus_content": [
+        "Evaluate textile selection and project outcomes using factual evidence."
+      ],
+      "outcome_codes": [
+        "P2.3",
+        "P3.2",
+        "P4.1"
+      ],
+      "source_ids": [
+        "SRC-NESA-SYL-2013-LIVE",
+        "SRC-SOURCE-CONTRACT",
+        "SRC-FOLIO-MANIFEST"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "folio.html#folio-u2-02"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-03"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 51,
+      "type": "Site/theory",
+      "focus": "Industry development and sectors",
+      "student_work": "Use current primary evidence to outline one ATCFAI sector and its development; use the completed site module.",
+      "evidence": "Verified sector timeline; P5.1",
+      "syllabus_content": [
+        "Role of textiles; sectors; development across the 19th, 20th and 21st centuries."
+      ],
+      "outcome_codes": [
+        "P5.1"
+      ],
+      "source_ids": [
+        "SRC-NESA-SYL-2013-LIVE",
+        "SRC-SOURCE-CONTRACT"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-13.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-07"
+      ],
+      "website_learning_ids": [
+        "m13-s01"
+      ]
+    },
+    {
+      "number": 52,
+      "type": "Site/theory",
+      "focus": "Local and global context",
+      "student_work": "Compare Australian industry participation with global markets and identify one current issue using dated sources.",
+      "evidence": "Source-based comparison; P5.1",
+      "syllabus_content": [
+        "Contribution to local/global markets; issues, trends and future opportunities."
+      ],
+      "outcome_codes": [
+        "P5.1"
+      ],
+      "source_ids": [
+        "SRC-NESA-SYL-2013-LIVE",
+        "SRC-SOURCE-CONTRACT"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-13.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-07"
+      ],
+      "website_learning_ids": [
+        "m13-s02"
+      ]
+    },
+    {
+      "number": 53,
+      "type": "Site/theory",
+      "focus": "Careers and training",
+      "student_work": "Students investigate one current career pathway, required training and changing work context.",
+      "evidence": "Career profile for Folio Card 10; P5.2",
+      "syllabus_content": [
+        "Current and future employment and training opportunities across ATCFAI sectors."
+      ],
+      "outcome_codes": [
+        "P5.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-SYL-2013-LIVE",
+        "SRC-SOURCE-CONTRACT",
+        "SRC-FOLIO-MANIFEST"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-13.html",
+        "folio.html#folio-u3-01"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-07"
+      ],
+      "website_learning_ids": [
+        "m13-s03"
+      ]
+    },
+    {
+      "number": 54,
+      "type": "Site/theory",
+      "focus": "Quality assurance and control",
+      "student_work": "Compare design, trademarks, fabric quality, legislation, assurance checks and control measures.",
+      "evidence": "Quality case notes; P6.1",
+      "syllabus_content": [
+        "Influences on quality; methods of quality assurance in the marketplace."
+      ],
+      "outcome_codes": [
+        "P6.1"
+      ],
+      "source_ids": [
+        "SRC-NESA-SYL-2013-LIVE",
+        "SRC-SOURCE-CONTRACT"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-14.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "m14-s01"
+      ]
+    },
+    {
+      "number": 55,
+      "type": "Site/theory",
+      "focus": "Roles and value",
+      "student_work": "Examine manufacturer/consumer roles and perceived, cultural and economic value.",
+      "evidence": "Comparative value analysis; P6.1",
+      "syllabus_content": [
+        "Factors contributing to quality and value across textile end-uses."
+      ],
+      "outcome_codes": [
+        "P6.1"
+      ],
+      "source_ids": [
+        "SRC-NESA-SYL-2013-LIVE",
+        "SRC-SOURCE-CONTRACT"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-14.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "m14-s02"
+      ]
+    },
+    {
+      "number": 56,
+      "type": "Project/folio",
+      "focus": "Industry quality/value case",
+      "student_work": "Students build one sourced case analysis and record title, organisation, date and location.",
+      "evidence": "Completed Folio Card 10; P6.1",
+      "syllabus_content": [
+        "Investigate quality assurance and discuss factors contributing to textile value."
+      ],
+      "outcome_codes": [
+        "P6.1"
+      ],
+      "source_ids": [
+        "SRC-NESA-SYL-2013-LIVE",
+        "SRC-SOURCE-CONTRACT",
+        "SRC-FOLIO-MANIFEST"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-14.html",
+        "folio.html#folio-u3-01"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-07"
+      ],
+      "website_learning_ids": [
+        "m14-s03"
+      ]
+    },
+    {
+      "number": 57,
+      "type": "Site/theory",
+      "focus": "Design retrieval and response planning",
+      "student_work": "Retrieve Design concepts, diagnose gaps and plan one supported response using command terms.",
+      "evidence": "Low-stakes check and response plan; P1.1-P2.3",
+      "syllabus_content": [
+        "Design content from elements/principles through communication, manufacture and Project 1."
+      ],
+      "outcome_codes": [
+        "P1.1",
+        "P1.2",
+        "P2.1",
+        "P2.2",
+        "P2.3"
+      ],
+      "source_ids": [
+        "SRC-NESA-SYL-2013-LIVE",
+        "SRC-SOURCE-CONTRACT",
+        "SRC-ASSESSMENT-MANIFEST"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-15.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-05"
+      ],
+      "website_learning_ids": [
+        "m15-s01"
+      ]
+    },
+    {
+      "number": 58,
+      "type": "Site/theory",
+      "focus": "Properties retrieval and response planning",
+      "student_work": "Retrieve fibre, yarn, fabric, testing and selection concepts; correct misconceptions.",
+      "evidence": "Low-stakes check and response plan; P3.1, P3.2, P4.1",
+      "syllabus_content": [
+        "Properties and Performance content; experimentation and end-use selection."
+      ],
+      "outcome_codes": [
+        "P3.1",
+        "P3.2",
+        "P4.1"
+      ],
+      "source_ids": [
+        "SRC-NESA-SYL-2013-LIVE",
+        "SRC-SOURCE-CONTRACT",
+        "SRC-ASSESSMENT-MANIFEST"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-15.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-05"
+      ],
+      "website_learning_ids": [
+        "m15-s02"
+      ]
+    },
+    {
+      "number": 59,
+      "type": "Site/theory",
+      "focus": "Course synthesis",
+      "student_work": "Students connect design, textile performance and industry/value in unfamiliar examples.",
+      "evidence": "Timed practice and feedback; P1.1-P6.1",
+      "syllabus_content": [
+        "Integrated application of the three Preliminary areas of study."
+      ],
+      "outcome_codes": [
+        "P1.1",
+        "P1.2",
+        "P2.1",
+        "P2.2",
+        "P2.3",
+        "P3.1",
+        "P3.2",
+        "P4.1",
+        "P5.1",
+        "P5.2",
+        "P6.1"
+      ],
+      "source_ids": [
+        "SRC-NESA-SYL-2013-LIVE",
+        "SRC-SOURCE-CONTRACT",
+        "SRC-ASSESSMENT-MANIFEST"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-15.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-05"
+      ],
+      "website_learning_ids": [
+        "m15-s03"
+      ]
+    },
+    {
+      "number": 60,
+      "type": "Project/folio",
+      "focus": "Evidence and course review",
+      "student_work": "Students check Folio Cards 1-10, identify incomplete evidence and prepare a personal revision priority list.",
+      "evidence": "Folio completeness record and next-step plan; P1.1-P6.1",
+      "syllabus_content": [
+        "Evaluate and communicate project, experimental and industry evidence across the course."
+      ],
+      "outcome_codes": [
+        "P1.1",
+        "P1.2",
+        "P2.1",
+        "P2.2",
+        "P2.3",
+        "P3.1",
+        "P3.2",
+        "P4.1",
+        "P5.1",
+        "P5.2",
+        "P6.1"
+      ],
+      "source_ids": [
+        "SRC-NESA-SYL-2013-LIVE",
+        "SRC-SOURCE-CONTRACT",
+        "SRC-FOLIO-MANIFEST",
+        "SRC-ASSESSMENT-MANIFEST"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-15.html",
+        "folio.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-05"
+      ],
+      "website_learning_ids": []
+    }
+  ],
+  "site_route_map": [
+    {
+      "destination": "activities/module-01-design-analysis.html",
+      "purpose": "Module 1 design-analysis activity",
+      "audience": "student",
+      "period_numbers": [
+        4
+      ]
+    },
+    {
+      "destination": "folio.html",
+      "purpose": "Student folio and course evidence",
+      "audience": "student",
+      "period_numbers": [
+        60
+      ]
+    },
+    {
+      "destination": "folio.html#folio-u1-01",
+      "purpose": "Folio Card 1",
+      "audience": "student",
+      "period_numbers": [
+        1,
+        4
+      ]
+    },
+    {
+      "destination": "folio.html#folio-u1-02",
+      "purpose": "Folio Card 2",
+      "audience": "student",
+      "period_numbers": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "destination": "folio.html#folio-u1-03",
+      "purpose": "Folio Card 3",
+      "audience": "student",
+      "period_numbers": [
+        8,
+        10,
+        15,
+        16,
+        17
+      ]
+    },
+    {
+      "destination": "folio.html#folio-u1-04",
+      "purpose": "Folio Card 4",
+      "audience": "student",
+      "period_numbers": [
+        11,
+        12,
+        18,
+        19
+      ]
+    },
+    {
+      "destination": "folio.html#folio-u1-05",
+      "purpose": "Folio Card 5",
+      "audience": "student",
+      "period_numbers": [
+        20
+      ]
+    },
+    {
+      "destination": "folio.html#folio-u1-06",
+      "purpose": "Folio Card 6",
+      "audience": "student",
+      "period_numbers": [
+        21,
+        22
+      ]
+    },
+    {
+      "destination": "folio.html#folio-u2-01",
+      "purpose": "Folio Card 7",
+      "audience": "student",
+      "period_numbers": [
+        26,
+        30,
+        34,
+        38,
+        42
+      ]
+    },
+    {
+      "destination": "folio.html#folio-u2-02",
+      "purpose": "Folio Card 9",
+      "audience": "student",
+      "period_numbers": [
+        47,
+        48,
+        49,
+        50
+      ]
+    },
+    {
+      "destination": "folio.html#folio-u2-tests-01",
+      "purpose": "Folio Card 8",
+      "audience": "student",
+      "period_numbers": [
+        45,
+        46,
+        47
+      ]
+    },
+    {
+      "destination": "folio.html#folio-u3-01",
+      "purpose": "Folio Card 10",
+      "audience": "student",
+      "period_numbers": [
+        53,
+        56
+      ]
+    },
+    {
+      "destination": "modules/module-01.html",
+      "purpose": "Module 1 learning route",
+      "audience": "student",
+      "period_numbers": [
+        1
+      ]
+    },
+    {
+      "destination": "modules/module-01.html#m01-s01",
+      "purpose": "Module 1 design requirements section",
+      "audience": "student",
+      "period_numbers": [
+        1
+      ]
+    },
+    {
+      "destination": "modules/module-01.html#m01-s02",
+      "purpose": "Module 1 elements section",
+      "audience": "student",
+      "period_numbers": [
+        2
+      ]
+    },
+    {
+      "destination": "modules/module-01.html#m01-s03",
+      "purpose": "Module 1 principles section",
+      "audience": "student",
+      "period_numbers": [
+        3
+      ]
+    },
+    {
+      "destination": "modules/module-02.html",
+      "purpose": "Module 2 learning route",
+      "audience": "student",
+      "period_numbers": [
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "destination": "modules/module-02.html#m02-s01",
+      "purpose": "Focus areas and design types learning section",
+      "audience": "student",
+      "period_numbers": [
+        5
+      ]
+    },
+    {
+      "destination": "modules/module-02.html#m02-s02",
+      "purpose": "Factors affecting design learning section",
+      "audience": "student",
+      "period_numbers": [
+        6
+      ]
+    },
+    {
+      "destination": "modules/module-02.html#m02-s03",
+      "purpose": "Inspiration and design development learning section",
+      "audience": "student",
+      "period_numbers": [
+        7
+      ]
+    },
+    {
+      "destination": "modules/module-03.html",
+      "purpose": "Module 3 learning route",
+      "audience": "student",
+      "period_numbers": [
+        9,
+        10
+      ]
+    },
+    {
+      "destination": "modules/module-03.html#m03-s01",
+      "purpose": "Manufacturing methods learning section",
+      "audience": "student",
+      "period_numbers": [
+        9
+      ]
+    },
+    {
+      "destination": "modules/module-03.html#m03-s02",
+      "purpose": "Commercial pattern information learning section",
+      "audience": "student",
+      "period_numbers": [
+        10
+      ]
+    },
+    {
+      "destination": "modules/module-03.html#m03-s03",
+      "purpose": "Planning and quality checkpoints learning section",
+      "audience": "student",
+      "period_numbers": [
+        11
+      ]
+    },
+    {
+      "destination": "modules/module-04.html",
+      "purpose": "Module 4 learning route",
+      "audience": "student",
+      "period_numbers": [
+        13,
+        14,
+        15,
+        16
+      ]
+    },
+    {
+      "destination": "modules/module-04.html#m04-s01",
+      "purpose": "Drawing and annotation learning section",
+      "audience": "student",
+      "period_numbers": [
+        13
+      ]
+    },
+    {
+      "destination": "modules/module-04.html#m04-s02",
+      "purpose": "Production communication learning section",
+      "audience": "student",
+      "period_numbers": [
+        14
+      ]
+    },
+    {
+      "destination": "modules/module-04.html#m04-s03",
+      "purpose": "Digital and presentation methods learning section",
+      "audience": "student",
+      "period_numbers": [
+        15
+      ]
+    },
+    {
+      "destination": "modules/module-05.html",
+      "purpose": "Module 5 learning route",
+      "audience": "student",
+      "period_numbers": [
+        17
+      ]
+    },
+    {
+      "destination": "modules/module-05.html#m05-s01",
+      "purpose": "Design refinement learning section",
+      "audience": "student",
+      "period_numbers": [
+        17
+      ]
+    },
+    {
+      "destination": "modules/module-05.html#m05-s02",
+      "purpose": "Project management learning section",
+      "audience": "student",
+      "period_numbers": [
+        18
+      ]
+    },
+    {
+      "destination": "modules/module-05.html#m05-s03",
+      "purpose": "Evaluation and folio evidence learning section",
+      "audience": "student",
+      "period_numbers": [
+        19
+      ]
+    },
+    {
+      "destination": "modules/module-06.html",
+      "purpose": "Module 6 learning route",
+      "audience": "student",
+      "period_numbers": [
+        23,
+        24,
+        25,
+        26
+      ]
+    },
+    {
+      "destination": "modules/module-06.html#m06-s01",
+      "purpose": "Fibre classification learning section",
+      "audience": "student",
+      "period_numbers": [
+        23
+      ]
+    },
+    {
+      "destination": "modules/module-06.html#m06-s02",
+      "purpose": "Molecular and morphological structure learning section",
+      "audience": "student",
+      "period_numbers": [
+        24
+      ]
+    },
+    {
+      "destination": "modules/module-06.html#m06-s03",
+      "purpose": "From fibre to textile learning section",
+      "audience": "student",
+      "period_numbers": [
+        25
+      ]
+    },
+    {
+      "destination": "modules/module-07.html",
+      "purpose": "Module 7 learning route",
+      "audience": "student",
+      "period_numbers": [
+        27,
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "destination": "modules/module-07.html#m07-s01",
+      "purpose": "Natural cellulosic fibres learning section",
+      "audience": "student",
+      "period_numbers": [
+        27
+      ]
+    },
+    {
+      "destination": "modules/module-07.html#m07-s02",
+      "purpose": "Natural protein fibres learning section",
+      "audience": "student",
+      "period_numbers": [
+        28
+      ]
+    },
+    {
+      "destination": "modules/module-07.html#m07-s03",
+      "purpose": "Regenerated, synthetic and blended fibres learning section",
+      "audience": "student",
+      "period_numbers": [
+        29
+      ]
+    },
+    {
+      "destination": "modules/module-08.html",
+      "purpose": "Module 8 learning route",
+      "audience": "student",
+      "period_numbers": [
+        31,
+        32,
+        33,
+        34
+      ]
+    },
+    {
+      "destination": "modules/module-08.html#m08-s01",
+      "purpose": "Staple-spun and filament yarns learning section",
+      "audience": "student",
+      "period_numbers": [
+        31
+      ]
+    },
+    {
+      "destination": "modules/module-08.html#m08-s02",
+      "purpose": "Twist and spinning systems learning section",
+      "audience": "student",
+      "period_numbers": [
+        32
+      ]
+    },
+    {
+      "destination": "modules/module-08.html#m08-s03",
+      "purpose": "Textured and novelty yarns learning section",
+      "audience": "student",
+      "period_numbers": [
+        33
+      ]
+    },
+    {
+      "destination": "modules/module-09.html",
+      "purpose": "Module 9 learning route",
+      "audience": "student",
+      "period_numbers": [
+        35,
+        36,
+        37,
+        38
+      ]
+    },
+    {
+      "destination": "modules/module-09.html#m09-s01",
+      "purpose": "Yarn characteristics learning section",
+      "audience": "student",
+      "period_numbers": [
+        35
+      ]
+    },
+    {
+      "destination": "modules/module-09.html#m09-s02",
+      "purpose": "Structure-property relationships learning section",
+      "audience": "student",
+      "period_numbers": [
+        36
+      ]
+    },
+    {
+      "destination": "modules/module-09.html#m09-s03",
+      "purpose": "End-use justification learning section",
+      "audience": "student",
+      "period_numbers": [
+        37
+      ]
+    },
+    {
+      "destination": "modules/module-10.html",
+      "purpose": "Module 10 learning route",
+      "audience": "student",
+      "period_numbers": [
+        39,
+        40,
+        41
+      ]
+    },
+    {
+      "destination": "modules/module-10.html#m10-s01",
+      "purpose": "Woven structures learning section",
+      "audience": "student",
+      "period_numbers": [
+        39
+      ]
+    },
+    {
+      "destination": "modules/module-10.html#m10-s02",
+      "purpose": "Knitted structures learning section",
+      "audience": "student",
+      "period_numbers": [
+        40
+      ]
+    },
+    {
+      "destination": "modules/module-10.html#m10-s03",
+      "purpose": "Non-woven structures learning section",
+      "audience": "student",
+      "period_numbers": [
+        41
+      ]
+    },
+    {
+      "destination": "modules/module-11.html",
+      "purpose": "Module 11 learning route",
+      "audience": "student",
+      "period_numbers": [
+        43,
+        44,
+        45
+      ]
+    },
+    {
+      "destination": "modules/module-11.html#m11-s01",
+      "purpose": "Properties and end use learning section",
+      "audience": "student",
+      "period_numbers": [
+        43
+      ]
+    },
+    {
+      "destination": "modules/module-11.html#m11-s02",
+      "purpose": "Planning a fair textile test learning section",
+      "audience": "student",
+      "period_numbers": [
+        44
+      ]
+    },
+    {
+      "destination": "modules/module-11.html#m11-s03",
+      "purpose": "Recording and interpreting results learning section",
+      "audience": "student",
+      "period_numbers": [
+        45
+      ]
+    },
+    {
+      "destination": "modules/module-12.html",
+      "purpose": "Module 12 learning route",
+      "audience": "student",
+      "period_numbers": [
+        47
+      ]
+    },
+    {
+      "destination": "modules/module-12.html#m12-s01",
+      "purpose": "Analysing experimental evidence learning section",
+      "audience": "student",
+      "period_numbers": [
+        47
+      ]
+    },
+    {
+      "destination": "modules/module-12.html#m12-s02",
+      "purpose": "Fabric selection and design learning section",
+      "audience": "student",
+      "period_numbers": [
+        48
+      ]
+    },
+    {
+      "destination": "modules/module-12.html#m12-s03",
+      "purpose": "Project evidence and evaluation learning section",
+      "audience": "student",
+      "period_numbers": [
+        49
+      ]
+    },
+    {
+      "destination": "modules/module-13.html",
+      "purpose": "Module 13 learning route",
+      "audience": "student",
+      "period_numbers": [
+        51,
+        52,
+        53
+      ]
+    },
+    {
+      "destination": "modules/module-13.html#m13-s01",
+      "purpose": "Industry development and sectors learning section",
+      "audience": "student",
+      "period_numbers": [
+        51
+      ]
+    },
+    {
+      "destination": "modules/module-13.html#m13-s02",
+      "purpose": "Local and global context learning section",
+      "audience": "student",
+      "period_numbers": [
+        52
+      ]
+    },
+    {
+      "destination": "modules/module-13.html#m13-s03",
+      "purpose": "Careers and training learning section",
+      "audience": "student",
+      "period_numbers": [
+        53
+      ]
+    },
+    {
+      "destination": "modules/module-14.html",
+      "purpose": "Module 14 learning route",
+      "audience": "student",
+      "period_numbers": [
+        54,
+        55,
+        56
+      ]
+    },
+    {
+      "destination": "modules/module-14.html#m14-s01",
+      "purpose": "Quality assurance and control learning section",
+      "audience": "student",
+      "period_numbers": [
+        54
+      ]
+    },
+    {
+      "destination": "modules/module-14.html#m14-s02",
+      "purpose": "Manufacturer and consumer roles learning section",
+      "audience": "student",
+      "period_numbers": [
+        55
+      ]
+    },
+    {
+      "destination": "modules/module-14.html#m14-s03",
+      "purpose": "Perceived, cultural and economic value learning section",
+      "audience": "student",
+      "period_numbers": [
+        56
+      ]
+    },
+    {
+      "destination": "modules/module-15.html",
+      "purpose": "Module 15 learning route",
+      "audience": "student",
+      "period_numbers": [
+        57,
+        58,
+        59,
+        60
+      ]
+    },
+    {
+      "destination": "modules/module-15.html#m15-s01",
+      "purpose": "Knowledge retrieval learning section",
+      "audience": "student",
+      "period_numbers": [
+        57
+      ]
+    },
+    {
+      "destination": "modules/module-15.html#m15-s02",
+      "purpose": "Command terms and response planning learning section",
+      "audience": "student",
+      "period_numbers": [
+        58
+      ]
+    },
+    {
+      "destination": "modules/module-15.html#m15-s03",
+      "purpose": "Course synthesis learning section",
+      "audience": "student",
+      "period_numbers": [
+        59
+      ]
+    }
+  ],
+  "teacher_to_confirm": [
+    {
+      "id": "TTC-01",
+      "item": "Convert the 60 two-hour planning blocks to the school's actual period length and periods per fortnight.",
+      "owner": "Head Teacher / class teacher",
+      "due_before": "Program issue and timetable entry",
+      "affected_periods": []
+    },
+    {
+      "id": "TTC-02",
+      "item": "Approve the Project 1 brief, pattern, materials, manufacturing sequence, equipment and local WHS controls.",
+      "owner": "Textiles teacher / Head Teacher",
+      "due_before": "Block 11",
+      "affected_periods": [
+        9,
+        10,
+        11,
+        12,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22
+      ]
+    },
+    {
+      "id": "TTC-03",
+      "item": "Approve the Project 2 Bustier/Vest brief, pattern, materials, manufacturing sequence, equipment and local WHS controls.",
+      "owner": "Textiles teacher / Head Teacher",
+      "due_before": "Block 45",
+      "affected_periods": [
+        47,
+        48,
+        49,
+        50
+      ]
+    },
+    {
+      "id": "TTC-04",
+      "item": "Approve each fabric-identification or textile-testing method, equipment, risk controls and supervision.",
+      "owner": "Textiles teacher / WHS owner",
+      "due_before": "Blocks 41 and 45",
+      "affected_periods": [
+        42,
+        44,
+        45,
+        46
+      ]
+    },
+    {
+      "id": "TTC-05",
+      "item": "Supply the current Textiles assessment schedule and approved issue-ready notifications; the 2026 Year 11 booklet omits this course.",
+      "owner": "Head Teacher / assessment coordinator",
+      "due_before": "Formal assessment preparation or issue",
+      "affected_periods": [
+        57,
+        58,
+        59,
+        60
+      ]
+    },
+    {
+      "id": "TTC-07",
+      "item": "Confirm current resources, copying permissions, student adjustments and access arrangements for this cohort.",
+      "owner": "Class teacher / Learning and Support",
+      "due_before": "Course commencement and each affected activity",
+      "affected_periods": [
+        24,
+        33,
+        51,
+        52,
+        53,
+        56
+      ]
+    },
+    {
+      "id": "TTC-08",
+      "item": "Approve this school-developed program and its local adaptations before implementation.",
+      "owner": "Head Teacher / class teacher",
+      "due_before": "Program implementation",
+      "affected_periods": []
+    }
+  ],
+  "files": [
+    {
+      "path": "Year-11-Preliminary-Textiles-and-Design-120-Hour-Teaching-Program-v2.0-Network-Benchmark.docx",
+      "purpose": "editable-program",
+      "version": "v2.0",
+      "sha256": "AB4A9746C67559A9969045CA57C1B9975CF9660AB29E8F7F6591AAB8EEC441A8"
+    },
+    {
+      "path": "Year-11-Preliminary-Textiles-and-Design-120-Hour-Teaching-Program-v2.0-Network-Benchmark.pdf",
+      "purpose": "rendered-program",
+      "version": "v2.0",
+      "sha256": "34A87B27EA08C7778530D6559EF2AE7E562852F8EF33FE790F51928E74DF4F08"
+    },
+    {
+      "path": "Year-11-Preliminary-Textiles-and-Design-120-Hour-Alignment-Manifest-v2.0.json",
+      "purpose": "alignment-manifest",
+      "version": "v2.0",
+      "sha256": "14624094920C3AAD58765D73E3DFD91FC42F10EFB7169DF14C883DC3D8BD7B99"
+    }
+  ],
+  "review_state": {
+    "status": "local-network-candidate",
+    "render_validation": "passed",
+    "authority_boundary": "Preserves v1.1 source facts and official Stage 6 mapping; local approval remains required."
+  },
+  "producer_qa": {
+    "period_count": 60,
+    "numbering_complete": true,
+    "outcome_family": [
+      "P1.1",
+      "P1.2",
+      "P2.1",
+      "P2.2",
+      "P2.3",
+      "P3.1",
+      "P3.2",
+      "P4.1",
+      "P5.1",
+      "P5.2",
+      "P6.1"
+    ],
+    "raw_urls_visible": false,
+    "link_style": "bold English labels",
+    "rows_per_teaching_page": 8
+  },
+  "network_profile_version": "1.2",
+  "render_validation": {
+    "status": "PASS",
+    "pdf_page_count": 9,
+    "expected_compact_page_count": 9,
+    "page_count_pass": true,
+    "visual_inspection": "passed: every rendered PDF page inspected; no clipping, spill, broken tables or blank pages",
+    "inspection_method": "Poppler PNG rendering at 120 dpi with contact-sheet and original-page inspection",
+    "docx_sha256": "AB4A9746C67559A9969045CA57C1B9975CF9660AB29E8F7F6591AAB8EEC441A8",
+    "pdf_sha256": "34A87B27EA08C7778530D6559EF2AE7E562852F8EF33FE790F51928E74DF4F08"
+  }
+}

@@ -1,0 +1,1026 @@
+{
+  "schema_version": "1.2",
+  "retrieved_at_utc": "2026-08-29T13:22:17+00:00",
+  "authority": {
+    "publisher": "NSW Education Standards Authority",
+    "platform": "NSW Curriculum",
+    "syllabus_title": "Agriculture Technology 7–10 Syllabus (2024)",
+    "syllabus_version": "2024",
+    "course": "Agriculture Technology 200-hour elective",
+    "stage": "Stage 5"
+  },
+  "implementation": {
+    "implementation_from": 2027,
+    "planning_and_preparation_year": 2026,
+    "early_implementation_permitted": true,
+    "planned_use": "planned 2027 implementation",
+    "outgoing_syllabus": "Agricultural Technology 7–10 Syllabus (2019)",
+    "outgoing_unavailable_after": "December 2028",
+    "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/overview/course"
+  },
+  "course_requirements": {
+    "enterprises": "at least 4 enterprises",
+    "focus_areas": "content from all focus areas",
+    "production_systems": "one intensive and one extensive enterprise",
+    "plant_and_animal": "at least one plant and one animal enterprise",
+    "collaboration": "at least one collaborative activity",
+    "practical_majority": "Practical experiences must make up the majority of the course and should be designed to be accessible to all students.",
+    "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/overview/course"
+  },
+  "outcomes": [
+    {
+      "code": "AGT5-SAF-01",
+      "statement": "applies production processes and safe work practices in agricultural contexts",
+      "stable_id": "oc9b32ca27",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/outcomes"
+    },
+    {
+      "code": "AGT5-APG-01",
+      "statement": "explains factors that influence animal and plant selection, growth and development in agricultural enterprises and systems",
+      "stable_id": "oc6f34b784",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/outcomes"
+    },
+    {
+      "code": "AGT5-PRA-01",
+      "statement": "explains industry practices in agricultural enterprises and systems",
+      "stable_id": "ocd3d37d5f",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/outcomes"
+    },
+    {
+      "code": "AGT5-ENV-01",
+      "statement": "analyses relationships between agricultural production, sustainability and consumers",
+      "stable_id": "oc644c2f29",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/outcomes"
+    },
+    {
+      "code": "AGT5-IVT-01",
+      "statement": "investigates and assesses the influence of innovation and management practices on agricultural enterprises and systems",
+      "stable_id": "ocf976a8c2",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/outcomes"
+    },
+    {
+      "code": "AGT5-USE-01",
+      "statement": "selects and justifies the use of technologies and processes in agricultural production and systems",
+      "stable_id": "oc7504aa4d",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/outcomes"
+    },
+    {
+      "code": "AGT5-COM-01",
+      "statement": "communicates ideas and concepts in agricultural technology contexts",
+      "stable_id": "oc0bff330f",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/outcomes"
+    }
+  ],
+  "focus_areas": [
+    {
+      "key": "plant-production",
+      "stable_id": "fa1b886033",
+      "title": "Plant production",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa1b886033",
+      "groups": [
+        {
+          "stable_id": "cg0d745242",
+          "title": "Plants and their environment",
+          "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa1b886033",
+          "statements": [
+            {
+              "stable_id": "cieeb66c5a",
+              "statement": "Identify and select plants for agricultural production",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa1b886033"
+            },
+            {
+              "stable_id": "cia3e8a21b",
+              "statement": "Explore Aboriginal and Torres Strait Islander Peoples’ plant-based enterprises",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa1b886033"
+            },
+            {
+              "stable_id": "cidc3acbf3",
+              "statement": "Explain suitable plant species for specific enterprises, climates and markets",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa1b886033"
+            },
+            {
+              "stable_id": "ci9ccc28c4",
+              "statement": "Describe the structure of plants and explain their function in relation to an agricultural plant enterprise",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa1b886033"
+            },
+            {
+              "stable_id": "cib8de61ea",
+              "statement": "Investigate and describe soil quality indicators including abiotic and biotic properties",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa1b886033"
+            },
+            {
+              "stable_id": "ci5f79a655",
+              "statement": "Implement soil management operations for plant-based enterprises",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa1b886033"
+            }
+          ]
+        },
+        {
+          "stable_id": "cg78f13bcb",
+          "title": "Production",
+          "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa1b886033",
+          "statements": [
+            {
+              "stable_id": "cif525647b",
+              "statement": "Investigate and describe the calendar of operations for a plant production cycle",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa1b886033"
+            },
+            {
+              "stable_id": "ci56c10985",
+              "statement": "Evaluate and explain the timing and impact of operations in a plant production cycle",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa1b886033"
+            },
+            {
+              "stable_id": "ci4fc6616b",
+              "statement": "Identify risks and demonstrate safe work practices in the management of plant enterprises",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa1b886033"
+            },
+            {
+              "stable_id": "ci8a68ea5d",
+              "statement": "Identify and describe resources required to establish plant enterprises",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa1b886033"
+            },
+            {
+              "stable_id": "cic44e9062",
+              "statement": "Investigate and apply a range of propagation techniques",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa1b886033"
+            },
+            {
+              "stable_id": "ci7f866f0e",
+              "statement": "Select and apply technologies and processes to establish a plant enterprise",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa1b886033"
+            },
+            {
+              "stable_id": "cif4313de7",
+              "statement": "Manage and monitor growth and development of agricultural plants",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa1b886033"
+            },
+            {
+              "stable_id": "ci08d00d27",
+              "statement": "Identify and describe common plant pests and diseases",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa1b886033"
+            },
+            {
+              "stable_id": "ciac027cdb",
+              "statement": "Evaluate the role of microorganisms and invertebrates and their effect on plant production",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa1b886033"
+            },
+            {
+              "stable_id": "ci67526700",
+              "statement": "Investigate strategies for the management and control of plant pests and diseases",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa1b886033"
+            },
+            {
+              "stable_id": "ci0fc8c475",
+              "statement": "Justify the selection of technologies and processes used to collect and manage data during plant production",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa1b886033"
+            },
+            {
+              "stable_id": "ci8d1aff5a",
+              "statement": "Investigate and describe how emerging technologies influence changes to industry practices",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa1b886033"
+            },
+            {
+              "stable_id": "ci6a901108",
+              "statement": "Create written texts to explain and evaluate factors that influence plant production processes and practices",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa1b886033"
+            }
+          ]
+        },
+        {
+          "stable_id": "cg5aba7240",
+          "title": "Post-harvest and marketing",
+          "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa1b886033",
+          "statements": [
+            {
+              "stable_id": "ci6b7c3b73",
+              "statement": "Explain the steps from the farm gate to the consumer for selected agricultural plant products",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa1b886033"
+            },
+            {
+              "stable_id": "cib5939f0a",
+              "statement": "Describe current and emerging technologies used in traceability for plants and plant products",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa1b886033"
+            },
+            {
+              "stable_id": "ci04c297a9",
+              "statement": "Evaluate the need for traceability of plants and plant products, including disease prevention, market access and ethical considerations",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa1b886033"
+            },
+            {
+              "stable_id": "ci2fb27d9a",
+              "statement": "Investigate market specifications and availability for seasonal agricultural plant products",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa1b886033"
+            },
+            {
+              "stable_id": "ci80429cfa",
+              "statement": "Assess the quality of plant products based on identified market specifications",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa1b886033"
+            },
+            {
+              "stable_id": "ci54d80b9d",
+              "statement": "Analyse ways that consumers can influence change in plant production and distribution practices to improve sustainability, increase food security and minimise waste",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa1b886033"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "animal-production",
+      "stable_id": "fa84e43857",
+      "title": "Animal production",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa84e43857",
+      "groups": [
+        {
+          "stable_id": "cg1d14dcc7",
+          "title": "Animals and their environment",
+          "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa84e43857",
+          "statements": [
+            {
+              "stable_id": "ci007c07ca",
+              "statement": "Identify animals used in agricultural production",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa84e43857"
+            },
+            {
+              "stable_id": "ci89f33eae",
+              "statement": "Explore sustainable wildlife conservation Practices developed by Aboriginal and Torres Strait Islander Peoples",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa84e43857"
+            },
+            {
+              "stable_id": "ci035d7ff6",
+              "statement": "Explain the suitability of breeds for specific animal enterprises, climates and markets",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa84e43857"
+            },
+            {
+              "stable_id": "cia6295156",
+              "statement": "Describe the structure and function of the digestive and reproductive systems of a range of animals",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa84e43857"
+            }
+          ]
+        },
+        {
+          "stable_id": "cg4e72d942",
+          "title": "Production",
+          "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa84e43857",
+          "statements": [
+            {
+              "stable_id": "ci7d4f27f5",
+              "statement": "Investigate and describe the calendar of operations for an animal production cycle",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa84e43857"
+            },
+            {
+              "stable_id": "cifab09cdc",
+              "statement": "Evaluate and explain the timing and impact of operations in an animal production cycle",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa84e43857"
+            },
+            {
+              "stable_id": "ci63a688f4",
+              "statement": "Identify risks and demonstrate safe work practices in the management of animal enterprises",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa84e43857"
+            },
+            {
+              "stable_id": "ci4d26f0b6",
+              "statement": "Identify and describe resources required to establish animal enterprises",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa84e43857"
+            },
+            {
+              "stable_id": "cicb0e5fd2",
+              "statement": "Select and apply technologies and processes in the management of animal enterprises",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa84e43857"
+            },
+            {
+              "stable_id": "ci47a532a3",
+              "statement": "Apply animal welfare guidelines and regulations in the management of animal enterprises",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa84e43857"
+            },
+            {
+              "stable_id": "ci289aceb1",
+              "statement": "Communicate the planning and management of animal enterprises",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa84e43857"
+            },
+            {
+              "stable_id": "ci03304f52",
+              "statement": "Investigate and explain nutritional requirements for different stages of animal production",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa84e43857"
+            },
+            {
+              "stable_id": "cib429c11c",
+              "statement": "Apply a range of animal management skills and maintain appropriate records when engaging in animal enterprises",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa84e43857"
+            },
+            {
+              "stable_id": "ci2c265636",
+              "statement": "Investigate and evaluate technologies for data collection and monitoring of animal enterprises and their performance",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa84e43857"
+            },
+            {
+              "stable_id": "ci8b76ef8e",
+              "statement": "Identify and explain effects of common pests and diseases on animal production",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa84e43857"
+            },
+            {
+              "stable_id": "ci4d30ef39",
+              "statement": "Evaluate effects of microorganisms and invertebrates on animal production",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa84e43857"
+            },
+            {
+              "stable_id": "cif7b8bf81",
+              "statement": "Identify programs, techniques and technologies used in animal breeding",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa84e43857"
+            },
+            {
+              "stable_id": "ci86011ec0",
+              "statement": "Explain the impact of animal breeding processes on production",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa84e43857"
+            },
+            {
+              "stable_id": "cif44bb799",
+              "statement": "Create written texts to explain and evaluate factors that influence animal production processes and practices",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa84e43857"
+            }
+          ]
+        },
+        {
+          "stable_id": "cgb2afc4f5",
+          "title": "Processing and marketing",
+          "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa84e43857",
+          "statements": [
+            {
+              "stable_id": "ci402588fe",
+              "statement": "Explain the steps from the farm gate to the consumer in animal production enterprises",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa84e43857"
+            },
+            {
+              "stable_id": "cidaa03937",
+              "statement": "Describe current and emerging technologies used for traceability of animals and animal products",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa84e43857"
+            },
+            {
+              "stable_id": "ci730ced25",
+              "statement": "Evaluate the need for traceability of animals and animal products, including for disease prevention, market access and animal welfare",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa84e43857"
+            },
+            {
+              "stable_id": "ci8b9c28db",
+              "statement": "Analyse how emerging agricultural animal technologies and practices may influence consumers, society and the environment",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa84e43857"
+            },
+            {
+              "stable_id": "ci3cf7b796",
+              "statement": "Investigate market specifications and availability for a range of agricultural animal products",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa84e43857"
+            },
+            {
+              "stable_id": "ci984265c1",
+              "statement": "Assess the quality of agricultural animal products based on identified markets and their specifications",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa84e43857"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "agriculture-systems-and-practice",
+      "stable_id": "fa51218d9b",
+      "title": "Agriculture systems and practice",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa51218d9b",
+      "groups": [
+        {
+          "stable_id": "cg817ed3ca",
+          "title": "Land and enterprise management practices",
+          "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa51218d9b",
+          "statements": [
+            {
+              "stable_id": "ci15f23988",
+              "statement": "Investigate land management systems and practices developed by Aboriginal and Torres Strait Islander Peoples",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa51218d9b"
+            },
+            {
+              "stable_id": "cib1ae85c3",
+              "statement": "Explore early European farming practices to determine their influence on agricultural production, environmental sustainability and society",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa51218d9b"
+            },
+            {
+              "stable_id": "ciaa543e3c",
+              "statement": "Explain the transformation of agricultural systems and industries in Australia from early European practices to current practices",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa51218d9b"
+            },
+            {
+              "stable_id": "ci08b25de9",
+              "statement": "Evaluate agricultural management practices to determine their impact on the environment and production",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa51218d9b"
+            },
+            {
+              "stable_id": "cied32c043",
+              "statement": "Compare short-term and long-term effects of agricultural production systems on sustainability",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa51218d9b"
+            },
+            {
+              "stable_id": "ci132acc09",
+              "statement": "Describe how agricultural systems contribute to and are affected by climate change",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa51218d9b"
+            },
+            {
+              "stable_id": "ci5565579d",
+              "statement": "Identify and evaluate mitigation strategies to address the effects of climate change on agricultural production",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa51218d9b"
+            },
+            {
+              "stable_id": "ci9501a6c3",
+              "statement": "Compare intensive and extensive production systems",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa51218d9b"
+            },
+            {
+              "stable_id": "ci18424e63",
+              "statement": "Explain different production techniques for identified agricultural systems and enterprises",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa51218d9b"
+            },
+            {
+              "stable_id": "ci353ff821",
+              "statement": "Evaluate the impact of Australian innovation on agricultural production and management practices",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa51218d9b"
+            },
+            {
+              "stable_id": "ci41511262",
+              "statement": "Compare emerging agricultural production methods in regional and urban environments",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa51218d9b"
+            },
+            {
+              "stable_id": "ci51a6aa23",
+              "statement": "Investigate and evaluate the impact of environmental, social and political factors on food security",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa51218d9b"
+            },
+            {
+              "stable_id": "cide982df7",
+              "statement": "Explain the need for national-level and farm-level biosecurity measures",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa51218d9b"
+            },
+            {
+              "stable_id": "ci9a4ea458",
+              "statement": "Demonstrate safe practices when selecting and using technologies and production processes",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa51218d9b"
+            },
+            {
+              "stable_id": "ci94659695",
+              "statement": "Create written texts to explain and evaluate processes, challenges and solutions in agriculture systems and practice.",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa51218d9b"
+            }
+          ]
+        },
+        {
+          "stable_id": "cg9040a2f8",
+          "title": "Agricultural systems and solutions",
+          "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa51218d9b",
+          "statements": [
+            {
+              "stable_id": "ciba5b5e8a",
+              "statement": "Investigate opportunities to design agricultural systems and solutions",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa51218d9b"
+            },
+            {
+              "stable_id": "ci2bc21486",
+              "statement": "Generate ideas to develop and manage solutions to identified agricultural needs",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa51218d9b"
+            },
+            {
+              "stable_id": "ci7865c6c7",
+              "statement": "Design and conduct experiments and tests to formulate, modify and document solutions",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa51218d9b"
+            },
+            {
+              "stable_id": "cia54fafa7",
+              "statement": "Select and use technologies to record observations, manage data and develop solutions",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa51218d9b"
+            },
+            {
+              "stable_id": "ci7cff52ec",
+              "statement": "Use a range of digital and communication technologies to present observations, data and solutions",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa51218d9b"
+            },
+            {
+              "stable_id": "ci6450ec68",
+              "statement": "Synthesise conclusions from experimentation, testing and data analysis",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa51218d9b"
+            },
+            {
+              "stable_id": "ci27df6e82",
+              "statement": "Create written texts to explain and evaluate agricultural solutions and production processes",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa51218d9b"
+            }
+          ]
+        },
+        {
+          "stable_id": "cg22d759eb",
+          "title": "Innovation and industry practices",
+          "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa51218d9b",
+          "statements": [
+            {
+              "stable_id": "cia81fc0e0",
+              "statement": "Investigate and describe Australian agricultural production and industry trends",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa51218d9b"
+            },
+            {
+              "stable_id": "ci400c0385",
+              "statement": "Explore agricultural innovations developed by Aboriginal and Torres Strait Islander Peoples",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa51218d9b"
+            },
+            {
+              "stable_id": "ci13e5588f",
+              "statement": "Assess factors affecting the economic viability of current and emerging agricultural industries by analysing data",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa51218d9b"
+            },
+            {
+              "stable_id": "cib97e4d73",
+              "statement": "Evaluate how research and innovation influence the development of agricultural practices and industries",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa51218d9b"
+            },
+            {
+              "stable_id": "ci7e1ba471",
+              "statement": "Investigate the role of Agtech startups in developing agricultural systems and solutions",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa51218d9b"
+            },
+            {
+              "stable_id": "ci0bff10a0",
+              "statement": "Describe factors affecting the implementation of innovative agricultural technologies and processes",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa51218d9b"
+            },
+            {
+              "stable_id": "ci4e589475",
+              "statement": "Outline marketing strategies used in agricultural production",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa51218d9b"
+            },
+            {
+              "stable_id": "cib6725df2",
+              "statement": "Explain factors that determine how agricultural products are marketed to consumers",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa51218d9b"
+            },
+            {
+              "stable_id": "cief49b3a7",
+              "statement": "Apply market research strategies to develop innovative agricultural products",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa51218d9b"
+            },
+            {
+              "stable_id": "ci6ab5efbf",
+              "statement": "Evaluate effects of value-adding when marketing agricultural products",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa51218d9b"
+            },
+            {
+              "stable_id": "ci34d15210",
+              "statement": "Develop and communicate promotional materials to inform consumers of agricultural products and industries",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa51218d9b"
+            },
+            {
+              "stable_id": "ci3269df41",
+              "statement": "Describe how cultural diversity in Australian society has influenced agricultural production",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa51218d9b"
+            },
+            {
+              "stable_id": "ci953de9ed",
+              "statement": "Analyse how agricultural industries may influence consumers and society",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa51218d9b"
+            },
+            {
+              "stable_id": "cidd032c96",
+              "statement": "Investigate career opportunities in current and emerging agricultural industries",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa51218d9b"
+            },
+            {
+              "stable_id": "cib1e56c0e",
+              "statement": "Use subject-specific terminology to describe agricultural technologies, processes and industries",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa51218d9b"
+            },
+            {
+              "stable_id": "ci4511cffe",
+              "statement": "Create written texts to describe relationships between society, innovation and agricultural production",
+              "stages": [
+                "Stage 5",
+                "Stage 4"
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa51218d9b"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "counts": {
+    "stage_5_outcomes": 7,
+    "focus_areas": 3,
+    "content_groups": 9,
+    "content_statements": 88
+  },
+  "sources": [
+    {
+      "source_id": "AG-COURSE",
+      "authority": "official-nsw-curriculum-nesa",
+      "requested_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/overview/course",
+      "final_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/overview/course",
+      "http_status": 200,
+      "sha256": "073419607F0D885DBFCA2A5CB1BC244C398F13233948E0D420B9278DBE5C0793",
+      "bytes": 1430359
+    },
+    {
+      "source_id": "AG-OVERVIEW",
+      "authority": "official-nsw-curriculum-nesa",
+      "requested_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/overview",
+      "final_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/overview",
+      "http_status": 200,
+      "sha256": "4FDC7C1C57C1CB5891945A999A9A824DA3D19FCF72DFA2D36F72DF2F57E137AF",
+      "bytes": 1425856
+    },
+    {
+      "source_id": "AG-OUTCOMES",
+      "authority": "official-nsw-curriculum-nesa",
+      "requested_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/outcomes",
+      "final_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/outcomes",
+      "http_status": 200,
+      "sha256": "249AEFA43C44F133651C53E4E1EC299A56744BAA8294DE5E54A884B55D2C0A37",
+      "bytes": 1461210
+    },
+    {
+      "source_id": "AG-CONTENT",
+      "authority": "official-nsw-curriculum-nesa",
+      "requested_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content",
+      "final_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content",
+      "http_status": 200,
+      "sha256": "8A9CF718EF29C89D024F0A6BCC553BF16384D58C18EF597E9F2323FF648ACC7D",
+      "bytes": 1375989
+    },
+    {
+      "source_id": "plant-production",
+      "authority": "official-nsw-curriculum-nesa",
+      "requested_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa1b886033",
+      "final_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa1b886033",
+      "http_status": 200,
+      "sha256": "DE565FC6E9D5C5196F30EAF1E6397794B589AB622F60168AB43F1D992292D228",
+      "bytes": 2183593
+    },
+    {
+      "source_id": "animal-production",
+      "authority": "official-nsw-curriculum-nesa",
+      "requested_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa84e43857",
+      "final_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa84e43857",
+      "http_status": 200,
+      "sha256": "D6266C8A0DC9E353E7BB3C7611E3D0DB1BF183042609C283A78ABF0AA922098D",
+      "bytes": 2185846
+    },
+    {
+      "source_id": "agriculture-systems-and-practice",
+      "authority": "official-nsw-curriculum-nesa",
+      "requested_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa51218d9b",
+      "final_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa51218d9b",
+      "http_status": 200,
+      "sha256": "6ED13E4F056F347FB2A4061BFEA5B9C5D30828C4BA6626CCDFBD0D012DF3F799",
+      "bytes": 2269797
+    }
+  ]
+}

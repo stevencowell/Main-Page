@@ -1,0 +1,2393 @@
+{
+  "schema_version": "1.1",
+  "program_id": "stage5-food-specific-needs",
+  "version": "v2.0",
+  "teacher_facing_display": {
+    "course_identity": "Stage 5 Food Technology",
+    "specific_year_group_visible": false,
+    "official_outcomes_complete": true,
+    "official_content_wording_location": "syllabus content fields and this manifest",
+    "practical_authority_visible": true
+  },
+  "course": {
+    "title": "Stage 5 Food Technology",
+    "classification": "Food Technology 7-10 elective",
+    "stage_or_year": "Stage 5",
+    "delivery_year": 2027,
+    "project": "Food for Specific Needs"
+  },
+  "site": {
+    "name": "Food for Specific Needs",
+    "reference": "https://stevencowell.github.io/Food-for-Specific-Needs/",
+    "inspection_date": "2026-08-29",
+    "state": "repository"
+  },
+  "syllabus": {
+    "title": "Food Technology 7-10 Syllabus",
+    "version": "2025",
+    "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/food-technology-7-10-2025/overview/course",
+    "verified_date": "2026-08-29",
+    "mandatory_from": "2028",
+    "early_implementation": "permitted",
+    "steve_decision": "use-new-early",
+    "implementation_status": "early-adoption-confirmed"
+  },
+  "timetable": {
+    "weeks": 10,
+    "period_minutes": 60,
+    "periods_per_fortnight": 4,
+    "total_periods": 20,
+    "planning_basis": "Schema planning conversion only: 20 one-hour periods across the site's ten-week/module sequence; the actual local timetable remains Teacher to confirm."
+  },
+  "outcomes": [
+    {
+      "code": "FT5-SAF-01",
+      "statement": "applies safe work and management practices through food design and production processes",
+      "stable_id": "oc8ed04fc1",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/food-technology-7-10-2025/outcomes",
+      "source_id": "S2"
+    },
+    {
+      "code": "FT5-COM-01",
+      "statement": "communicates ideas, concepts and solutions in food design and production contexts",
+      "stable_id": "oc2be4b053",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/food-technology-7-10-2025/outcomes",
+      "source_id": "S2"
+    },
+    {
+      "code": "FT5-FPP-01",
+      "statement": "selects and justifies the use of food preparation and presentation practices",
+      "stable_id": "oc3137218f",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/food-technology-7-10-2025/outcomes",
+      "source_id": "S2"
+    },
+    {
+      "code": "FT5-USE-01",
+      "statement": "selects and applies ingredients, techniques and equipment in food design and production contexts",
+      "stable_id": "oc54191072",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/food-technology-7-10-2025/outcomes",
+      "source_id": "S2"
+    },
+    {
+      "code": "FT5-IET-01",
+      "statement": "explains industry practices and emerging technologies used in food design and production",
+      "stable_id": "ocb9bf1b4c",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/food-technology-7-10-2025/outcomes",
+      "source_id": "S2"
+    },
+    {
+      "code": "FT5-NSA-01",
+      "statement": "assesses how nutrition, food selection and availability influence individuals and communities",
+      "stable_id": "oc98c78104",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/food-technology-7-10-2025/outcomes",
+      "source_id": "S2"
+    },
+    {
+      "code": "FT5-ENV-01",
+      "statement": "analyses relationships between food production systems, sustainability and society",
+      "stable_id": "ocec219bce",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/food-technology-7-10-2025/outcomes",
+      "source_id": "S2"
+    }
+  ],
+  "source_register": [
+    {
+      "id": "S1",
+      "title": "Food Technology 7-10 Syllabus (2025) - course requirements",
+      "authority": "official-syllabus",
+      "location": "https://curriculum.nsw.edu.au/learning-areas/tas/food-technology-7-10-2025/overview/course",
+      "revision": "verified 2026-08-29",
+      "use": "Course identity, early-implementation setting and 200-hour requirements"
+    },
+    {
+      "id": "S2",
+      "title": "Food Technology 7-10 Syllabus (2025) - outcomes and Stage 5 content",
+      "authority": "official-syllabus",
+      "location": "https://curriculum.nsw.edu.au/learning-areas/tas/food-technology-7-10-2025/outcomes",
+      "revision": "07349BEF7C1B6CCC0570924404B5C5867A8DF52D486617CBA7D8B3946826F90B",
+      "use": "Exact outcomes, exact official content statements and stable IDs"
+    },
+    {
+      "id": "S3",
+      "title": "Existing Food for Specific Needs teacher program",
+      "authority": "local-program",
+      "location": "C:\\Users\\scowell1\\Documents\\Codex\\2026-08-28\\okay-so-with-the-all-the\\work\\library-completion\\repositories\\food-specific-needs\\resources\\teacher\\food-for-specific-needs-teacher-program.docx",
+      "revision": "CC9445067C03C9926A754506973DA2626AA07C197A9743CB73C7344A5DE2A272",
+      "use": "Ten-week local sequence split into 20 planning periods; local timetable and practical placement remain unverified."
+    },
+    {
+      "id": "S4",
+      "title": "Food for Specific Needs course website repository",
+      "authority": "website",
+      "location": "https://stevencowell.github.io/Food-for-Specific-Needs/",
+      "revision": "repository inspection 2026-08-29",
+      "use": "Named site theory, checks, activities, formative evidence and route destinations"
+    },
+    {
+      "id": "S5",
+      "title": "Footstool network program benchmark",
+      "authority": "quality-reference",
+      "location": "C:\\Users\\scowell1\\Documents\\Codex\\2026-08-28\\okay-so-with-the-all-the\\work\\year8-elective-alignment\\intro-timber\\resources\\teacher\\Footstool-50-Period-Teaching-Program-v2.0-Network-Benchmark.docx",
+      "revision": "E214012B73C376A1B6931CD04F4FDDFDCCAE7735E96216EAC4A6A098D69AD81D",
+      "use": "Network page structure and table pattern only"
+    }
+  ],
+  "website_learning_inventory": [
+    {
+      "id": "WL-P001",
+      "route": "https://stevencowell.github.io/Food-for-Specific-Needs/module-1.html#m1s1",
+      "theory_section": "Circumstances that create specific food needs",
+      "quiz_or_check": "Named site knowledge checks and connected saved response",
+      "coverage_state": "scheduled",
+      "evidence": "Saved activity and written explanation using a supplied or fictional scenario.",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        1
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-TIME",
+        "TTC-COHORT"
+      ]
+    },
+    {
+      "id": "WL-P002",
+      "route": "https://stevencowell.github.io/Food-for-Specific-Needs/module-1.html#m1s1",
+      "theory_section": "Circumstances that create specific food needs",
+      "quiz_or_check": "Named site knowledge checks and connected saved response",
+      "coverage_state": "scheduled",
+      "evidence": "Brief checkpoint without private medical details.",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        2
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-TIME"
+      ]
+    },
+    {
+      "id": "WL-P003",
+      "route": "https://stevencowell.github.io/Food-for-Specific-Needs/module-1.html#m1s2",
+      "theory_section": "Factors that shape food choices",
+      "quiz_or_check": "Named site knowledge checks and connected saved response",
+      "coverage_state": "scheduled",
+      "evidence": "Choice-factor matrix and reasoned trade-off.",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        3
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-TIME"
+      ]
+    },
+    {
+      "id": "WL-P004",
+      "route": "https://stevencowell.github.io/Food-for-Specific-Needs/module-1.html#m1s3",
+      "theory_section": "Meal planning for a specific circumstance",
+      "quiz_or_check": "Named site knowledge checks and connected saved response",
+      "coverage_state": "scheduled",
+      "evidence": "One-day meal-plan rationale; proposal only, not a medical guarantee.",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        4
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-TIME",
+        "TTC-MEDICAL"
+      ]
+    },
+    {
+      "id": "WL-P005",
+      "route": "https://stevencowell.github.io/Food-for-Specific-Needs/module-2.html#m2s1",
+      "theory_section": "Food taboos and cultural patterns",
+      "quiz_or_check": "Named site knowledge checks and connected saved response",
+      "coverage_state": "scheduled",
+      "evidence": "Respectful claim and stereotype correction.",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        5
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-LOCAL-AUTHORITY"
+      ]
+    },
+    {
+      "id": "WL-P006",
+      "route": "https://stevencowell.github.io/Food-for-Specific-Needs/module-2.html#m2s2",
+      "theory_section": "Religious and ethical food choices",
+      "quiz_or_check": "Named site knowledge checks and connected saved response",
+      "coverage_state": "scheduled",
+      "evidence": "Ingredient/process audit and qualified recommendation.",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        6
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-LOCAL-AUTHORITY"
+      ]
+    },
+    {
+      "id": "WL-P007",
+      "route": "https://stevencowell.github.io/Food-for-Specific-Needs/module-2.html#m2s3",
+      "theory_section": "Respectful investigation and evidence",
+      "quiz_or_check": "Named site knowledge checks and connected saved response",
+      "coverage_state": "scheduled",
+      "evidence": "Source evaluation with uncertainty visible.",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        7
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-AUTHORISED-SOURCES"
+      ]
+    },
+    {
+      "id": "WL-P008",
+      "route": "https://stevencowell.github.io/Food-for-Specific-Needs/module-3.html#m3s1",
+      "theory_section": "How needs change across life stages",
+      "quiz_or_check": "Named site knowledge checks and connected saved response",
+      "coverage_state": "scheduled",
+      "evidence": "Lifecycle map and evidence-based explanation.",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        8
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-MEDICAL"
+      ]
+    },
+    {
+      "id": "WL-P009",
+      "route": "https://stevencowell.github.io/Food-for-Specific-Needs/module-3.html#m3s2",
+      "theory_section": "Adolescent nutrition and growth",
+      "quiz_or_check": "Named site knowledge checks and connected saved response",
+      "coverage_state": "scheduled",
+      "evidence": "Pattern analysis using population guidance only.",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        9
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-MEDICAL"
+      ]
+    },
+    {
+      "id": "WL-P010",
+      "route": "https://stevencowell.github.io/Food-for-Specific-Needs/module-3.html#m3s3",
+      "theory_section": "Designing a lifecycle meal",
+      "quiz_or_check": "Named site knowledge checks and connected saved response",
+      "coverage_state": "scheduled",
+      "evidence": "Meal concept, criteria and justification.",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        10
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-MEDICAL"
+      ]
+    },
+    {
+      "id": "WL-P011",
+      "route": "https://stevencowell.github.io/Food-for-Specific-Needs/module-4.html#m4s1",
+      "theory_section": "Allergy versus intolerance",
+      "quiz_or_check": "Named site knowledge checks and connected saved response",
+      "coverage_state": "scheduled",
+      "evidence": "Scenario decisions; no disclosure of personal health information.",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        11
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-MEDICAL",
+        "TTC-ALLERGY"
+      ]
+    },
+    {
+      "id": "WL-P012",
+      "route": "https://stevencowell.github.io/Food-for-Specific-Needs/module-4.html#m4s1",
+      "theory_section": "Allergy versus intolerance",
+      "quiz_or_check": "Named site knowledge checks and connected saved response",
+      "coverage_state": "scheduled",
+      "evidence": "Recorded stop points and authority pathway.",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        12
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-MEDICAL",
+        "TTC-ALLERGY"
+      ]
+    },
+    {
+      "id": "WL-P013",
+      "route": "https://stevencowell.github.io/Food-for-Specific-Needs/module-4.html#m4s2",
+      "theory_section": "Labels, allergen risk and cross-contact",
+      "quiz_or_check": "Named site knowledge checks and connected saved response",
+      "coverage_state": "scheduled",
+      "evidence": "Label and workflow audit using current evidence.",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        13
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-LABELS",
+        "TTC-ALLERGY"
+      ]
+    },
+    {
+      "id": "WL-P014",
+      "route": "https://stevencowell.github.io/Food-for-Specific-Needs/module-4.html#m4s3",
+      "theory_section": "Planning food for a person with a diagnosed need",
+      "quiz_or_check": "Named site knowledge checks and connected saved response",
+      "coverage_state": "scheduled",
+      "evidence": "Planning evidence; teacher observation only if an approved practical occurs.",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        14
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-PRACTICAL",
+        "TTC-ALLERGY",
+        "TTC-LABELS"
+      ]
+    },
+    {
+      "id": "WL-P015",
+      "route": "https://stevencowell.github.io/Food-for-Specific-Needs/module-5.html#m5s1",
+      "theory_section": "Nutritionally modified and fortified foods",
+      "quiz_or_check": "Named site knowledge checks and connected saved response",
+      "coverage_state": "scheduled",
+      "evidence": "Claim-versus-evidence product comparison.",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        15
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-LABELS"
+      ]
+    },
+    {
+      "id": "WL-P016",
+      "route": "https://stevencowell.github.io/Food-for-Specific-Needs/module-5.html#m5s1",
+      "theory_section": "Nutritionally modified and fortified foods",
+      "quiz_or_check": "Named site knowledge checks and connected saved response",
+      "coverage_state": "scheduled",
+      "evidence": "Qualified product evaluation using current label evidence.",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        16
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-LABELS"
+      ]
+    },
+    {
+      "id": "WL-P017",
+      "route": "https://stevencowell.github.io/Food-for-Specific-Needs/module-5.html#m5s2",
+      "theory_section": "Dietary fibre and adolescent needs",
+      "quiz_or_check": "Named site knowledge checks and connected saved response",
+      "coverage_state": "scheduled",
+      "evidence": "Pattern improvement justified with population guidance.",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        17
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-MEDICAL"
+      ]
+    },
+    {
+      "id": "WL-P018",
+      "route": "https://stevencowell.github.io/Food-for-Specific-Needs/module-5.html#m5s3",
+      "theory_section": "Support networks and evaluating reliable help",
+      "quiz_or_check": "Named site knowledge checks and connected saved response",
+      "coverage_state": "scheduled",
+      "evidence": "Support-network evaluation and referral boundary.",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        18
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-MEDICAL"
+      ]
+    },
+    {
+      "id": "WL-P019",
+      "route": "https://stevencowell.github.io/Food-for-Specific-Needs/module-4.html#m4s3",
+      "theory_section": "Planning food for a person with a diagnosed need; Dietary fibre and adolescent needs",
+      "quiz_or_check": "Named site knowledge checks and connected saved response",
+      "coverage_state": "scheduled",
+      "evidence": "Teacher observation if approved; otherwise planning and evaluation evidence only.",
+      "question_count": 20,
+      "scaffolded_response_count": 2,
+      "period_numbers": [
+        19
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-PRACTICAL",
+        "TTC-ALLERGY",
+        "TTC-LABELS"
+      ]
+    },
+    {
+      "id": "WL-P020",
+      "route": "https://stevencowell.github.io/Food-for-Specific-Needs/module-5.html#m5s3",
+      "theory_section": "Support networks and evaluating reliable help",
+      "quiz_or_check": "Named site knowledge checks and connected saved response",
+      "coverage_state": "scheduled",
+      "evidence": "Completed folio export and improvement statement; formal task authority remains separate.",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        20
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-ASSESSMENT",
+        "TTC-TIME"
+      ]
+    }
+  ],
+  "periods": [
+    {
+      "number": 1,
+      "type": "Site/theory",
+      "focus": "Launch specific food needs",
+      "section_ids": [
+        "m1s1"
+      ],
+      "teaching_and_learning": "Learn the circumstances that create specific food needs; complete the scenario sorter, ten checks and written response.",
+      "syllabus_content_display": "Supports: Examine physiological, psychological, social and economic factors that influence food selection",
+      "syllabus_alignment": [
+        "cid30998cd"
+      ],
+      "syllabus_alignment_states": {
+        "cid30998cd": "supported-current-site"
+      },
+      "outcomes": [
+        "FT5-SAF-01",
+        "FT5-NSA-01",
+        "FT5-ENV-01"
+      ],
+      "evidence": "Saved activity and written explanation using a supplied or fictional scenario.",
+      "site_destinations": [
+        "https://stevencowell.github.io/Food-for-Specific-Needs/module-1.html#m1s1",
+        "https://stevencowell.github.io/Food-for-Specific-Needs/module-1.html#m1s1-check",
+        "https://stevencowell.github.io/Food-for-Specific-Needs/activity.html?section=m1s1"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-TIME",
+        "TTC-COHORT"
+      ],
+      "student_work": "Learn the circumstances that create specific food needs; complete the scenario sorter, ten checks and written response.",
+      "syllabus_content": [
+        "Examine physiological, psychological, social and economic factors that influence food selection"
+      ],
+      "outcome_codes": [
+        "FT5-SAF-01",
+        "FT5-NSA-01",
+        "FT5-ENV-01"
+      ],
+      "source_ids": [
+        "S2",
+        "S3",
+        "S4"
+      ],
+      "site_destination_records": [
+        {
+          "label": "M1S1 theory",
+          "url": "https://stevencowell.github.io/Food-for-Specific-Needs/module-1.html#m1s1",
+          "purpose": "Circumstances that create specific food needs"
+        },
+        {
+          "label": "M1S1 checks and response",
+          "url": "https://stevencowell.github.io/Food-for-Specific-Needs/module-1.html#m1s1-check",
+          "purpose": "10 knowledge checks and saved response"
+        },
+        {
+          "label": "Open applied activity",
+          "url": "https://stevencowell.github.io/Food-for-Specific-Needs/activity.html?section=m1s1",
+          "purpose": "Specific-needs sorter"
+        }
+      ],
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "website_learning_ids": [
+        "WL-P001"
+      ]
+    },
+    {
+      "number": 2,
+      "type": "Project/folio",
+      "focus": "Specific-needs brief",
+      "section_ids": [
+        "m1s1"
+      ],
+      "teaching_and_learning": "Turn the verified circumstance into a person-first design brief. Record facts, assumptions and items still requiring authority.",
+      "syllabus_content_display": "Supports: Examine physiological, psychological, social and economic factors that influence food selection",
+      "syllabus_alignment": [
+        "cid30998cd"
+      ],
+      "syllabus_alignment_states": {
+        "cid30998cd": "supported-current-site"
+      },
+      "outcomes": [
+        "FT5-SAF-01",
+        "FT5-NSA-01",
+        "FT5-ENV-01"
+      ],
+      "evidence": "Brief checkpoint without private medical details.",
+      "site_destinations": [
+        "https://stevencowell.github.io/Food-for-Specific-Needs/module-1.html#m1s1",
+        "https://stevencowell.github.io/Food-for-Specific-Needs/module-1.html#m1s1-check",
+        "https://stevencowell.github.io/Food-for-Specific-Needs/folio.html",
+        "https://stevencowell.github.io/Food-for-Specific-Needs/activity.html?section=m1s1"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-TIME"
+      ],
+      "student_work": "Turn the verified circumstance into a person-first design brief. Record facts, assumptions and items still requiring authority.",
+      "syllabus_content": [
+        "Examine physiological, psychological, social and economic factors that influence food selection"
+      ],
+      "outcome_codes": [
+        "FT5-SAF-01",
+        "FT5-NSA-01",
+        "FT5-ENV-01"
+      ],
+      "source_ids": [
+        "S2",
+        "S3",
+        "S4"
+      ],
+      "site_destination_records": [
+        {
+          "label": "M1S1 theory",
+          "url": "https://stevencowell.github.io/Food-for-Specific-Needs/module-1.html#m1s1",
+          "purpose": "Circumstances that create specific food needs"
+        },
+        {
+          "label": "M1S1 checks and response",
+          "url": "https://stevencowell.github.io/Food-for-Specific-Needs/module-1.html#m1s1-check",
+          "purpose": "10 knowledge checks and saved response"
+        },
+        {
+          "label": "Open folio",
+          "url": "https://stevencowell.github.io/Food-for-Specific-Needs/folio.html",
+          "purpose": "Save or export the named formative evidence"
+        },
+        {
+          "label": "Open applied activity",
+          "url": "https://stevencowell.github.io/Food-for-Specific-Needs/activity.html?section=m1s1",
+          "purpose": "Specific-needs sorter"
+        }
+      ],
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "website_learning_ids": [
+        "WL-P002"
+      ]
+    },
+    {
+      "number": 3,
+      "type": "Site/theory",
+      "focus": "Factors shaping food choices",
+      "section_ids": [
+        "m1s2"
+      ],
+      "teaching_and_learning": "Analyse interacting personal, social, economic and environmental food-choice factors; complete checks and response.",
+      "syllabus_content_display": "Supports: Examine physiological, psychological, social and economic factors that influence food selection",
+      "syllabus_alignment": [
+        "cid30998cd"
+      ],
+      "syllabus_alignment_states": {
+        "cid30998cd": "supported-current-site"
+      },
+      "outcomes": [
+        "FT5-FPP-01",
+        "FT5-USE-01",
+        "FT5-NSA-01"
+      ],
+      "evidence": "Choice-factor matrix and reasoned trade-off.",
+      "site_destinations": [
+        "https://stevencowell.github.io/Food-for-Specific-Needs/module-1.html#m1s2",
+        "https://stevencowell.github.io/Food-for-Specific-Needs/module-1.html#m1s2-check",
+        "https://stevencowell.github.io/Food-for-Specific-Needs/activity.html?section=m1s2"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-TIME"
+      ],
+      "student_work": "Analyse interacting personal, social, economic and environmental food-choice factors; complete checks and response.",
+      "syllabus_content": [
+        "Examine physiological, psychological, social and economic factors that influence food selection"
+      ],
+      "outcome_codes": [
+        "FT5-FPP-01",
+        "FT5-USE-01",
+        "FT5-NSA-01"
+      ],
+      "source_ids": [
+        "S2",
+        "S3",
+        "S4"
+      ],
+      "site_destination_records": [
+        {
+          "label": "M1S2 theory",
+          "url": "https://stevencowell.github.io/Food-for-Specific-Needs/module-1.html#m1s2",
+          "purpose": "Factors that shape food choices"
+        },
+        {
+          "label": "M1S2 checks and response",
+          "url": "https://stevencowell.github.io/Food-for-Specific-Needs/module-1.html#m1s2-check",
+          "purpose": "10 knowledge checks and saved response"
+        },
+        {
+          "label": "Open applied activity",
+          "url": "https://stevencowell.github.io/Food-for-Specific-Needs/activity.html?section=m1s2",
+          "purpose": "Choice-factor matrix"
+        }
+      ],
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "website_learning_ids": [
+        "WL-P003"
+      ]
+    },
+    {
+      "number": 4,
+      "type": "Project/folio",
+      "focus": "Meal planning for a circumstance",
+      "section_ids": [
+        "m1s3"
+      ],
+      "teaching_and_learning": "Develop and justify the site meal-plan proposal against the supplied need, occasion and constraints; record current checks required.",
+      "syllabus_content_display": "Contributes to: Design and create meals using alternative ingredients to meet specific dietary needs",
+      "syllabus_alignment": [
+        "ci5ef08618"
+      ],
+      "syllabus_alignment_states": {
+        "ci5ef08618": "partial-current-site"
+      },
+      "outcomes": [
+        "FT5-SAF-01",
+        "FT5-FPP-01",
+        "FT5-USE-01"
+      ],
+      "evidence": "One-day meal-plan rationale; proposal only, not a medical guarantee.",
+      "site_destinations": [
+        "https://stevencowell.github.io/Food-for-Specific-Needs/module-1.html#m1s3",
+        "https://stevencowell.github.io/Food-for-Specific-Needs/module-1.html#m1s3-check",
+        "https://stevencowell.github.io/Food-for-Specific-Needs/folio.html",
+        "https://stevencowell.github.io/Food-for-Specific-Needs/activity.html?section=m1s3"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-TIME",
+        "TTC-MEDICAL"
+      ],
+      "student_work": "Develop and justify the site meal-plan proposal against the supplied need, occasion and constraints; record current checks required.",
+      "syllabus_content": [
+        "Design and create meals using alternative ingredients to meet specific dietary needs"
+      ],
+      "outcome_codes": [
+        "FT5-SAF-01",
+        "FT5-FPP-01",
+        "FT5-USE-01"
+      ],
+      "source_ids": [
+        "S2",
+        "S3",
+        "S4"
+      ],
+      "site_destination_records": [
+        {
+          "label": "M1S3 theory",
+          "url": "https://stevencowell.github.io/Food-for-Specific-Needs/module-1.html#m1s3",
+          "purpose": "Meal planning for a specific circumstance"
+        },
+        {
+          "label": "M1S3 checks and response",
+          "url": "https://stevencowell.github.io/Food-for-Specific-Needs/module-1.html#m1s3-check",
+          "purpose": "10 knowledge checks and saved response"
+        },
+        {
+          "label": "Open folio",
+          "url": "https://stevencowell.github.io/Food-for-Specific-Needs/folio.html",
+          "purpose": "Save or export the named formative evidence"
+        },
+        {
+          "label": "Open applied activity",
+          "url": "https://stevencowell.github.io/Food-for-Specific-Needs/activity.html?section=m1s3",
+          "purpose": "Circumstance meal planner"
+        }
+      ],
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "website_learning_ids": [
+        "WL-P004"
+      ]
+    },
+    {
+      "number": 5,
+      "type": "Site/theory",
+      "focus": "Culture, belief and taboos",
+      "section_ids": [
+        "m2s1"
+      ],
+      "teaching_and_learning": "Learn how taboos and food practices require respectful, source-bounded investigation; complete checks and response.",
+      "syllabus_content_display": "Supports: Investigate food customs and practices of a specific culture",
+      "syllabus_alignment": [
+        "cid4ba826a"
+      ],
+      "syllabus_alignment_states": {
+        "cid4ba826a": "supported-current-site"
+      },
+      "outcomes": [
+        "FT5-SAF-01",
+        "FT5-ENV-01",
+        "FT5-COM-01"
+      ],
+      "evidence": "Respectful claim and stereotype correction.",
+      "site_destinations": [
+        "https://stevencowell.github.io/Food-for-Specific-Needs/module-2.html#m2s1",
+        "https://stevencowell.github.io/Food-for-Specific-Needs/module-2.html#m2s1-check",
+        "https://stevencowell.github.io/Food-for-Specific-Needs/activity.html?section=m2s1"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-LOCAL-AUTHORITY"
+      ],
+      "student_work": "Learn how taboos and food practices require respectful, source-bounded investigation; complete checks and response.",
+      "syllabus_content": [
+        "Investigate food customs and practices of a specific culture"
+      ],
+      "outcome_codes": [
+        "FT5-SAF-01",
+        "FT5-ENV-01",
+        "FT5-COM-01"
+      ],
+      "source_ids": [
+        "S2",
+        "S3",
+        "S4"
+      ],
+      "site_destination_records": [
+        {
+          "label": "M2S1 theory",
+          "url": "https://stevencowell.github.io/Food-for-Specific-Needs/module-2.html#m2s1",
+          "purpose": "Food taboos and cultural patterns"
+        },
+        {
+          "label": "M2S1 checks and response",
+          "url": "https://stevencowell.github.io/Food-for-Specific-Needs/module-2.html#m2s1-check",
+          "purpose": "10 knowledge checks and saved response"
+        },
+        {
+          "label": "Open applied activity",
+          "url": "https://stevencowell.github.io/Food-for-Specific-Needs/activity.html?section=m2s1",
+          "purpose": "Context before conclusion"
+        }
+      ],
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "website_learning_ids": [
+        "WL-P005"
+      ]
+    },
+    {
+      "number": 6,
+      "type": "Project/folio",
+      "focus": "Religious and ethical choices",
+      "section_ids": [
+        "m2s2"
+      ],
+      "teaching_and_learning": "Compare a supplied food choice with verified religious or ethical boundaries and explain what remains person-specific.",
+      "syllabus_content_display": "Contributes to: Discuss the influence of food safety, sustainability and ethical production on consumer food choices and practices",
+      "syllabus_alignment": [
+        "cia284889c"
+      ],
+      "syllabus_alignment_states": {
+        "cia284889c": "partial-current-site"
+      },
+      "outcomes": [
+        "FT5-SAF-01",
+        "FT5-FPP-01",
+        "FT5-USE-01"
+      ],
+      "evidence": "Ingredient/process audit and qualified recommendation.",
+      "site_destinations": [
+        "https://stevencowell.github.io/Food-for-Specific-Needs/module-2.html#m2s2",
+        "https://stevencowell.github.io/Food-for-Specific-Needs/module-2.html#m2s2-check",
+        "https://stevencowell.github.io/Food-for-Specific-Needs/folio.html",
+        "https://stevencowell.github.io/Food-for-Specific-Needs/activity.html?section=m2s2"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-LOCAL-AUTHORITY"
+      ],
+      "student_work": "Compare a supplied food choice with verified religious or ethical boundaries and explain what remains person-specific.",
+      "syllabus_content": [
+        "Discuss the influence of food safety, sustainability and ethical production on consumer food choices and practices"
+      ],
+      "outcome_codes": [
+        "FT5-SAF-01",
+        "FT5-FPP-01",
+        "FT5-USE-01"
+      ],
+      "source_ids": [
+        "S2",
+        "S3",
+        "S4"
+      ],
+      "site_destination_records": [
+        {
+          "label": "M2S2 theory",
+          "url": "https://stevencowell.github.io/Food-for-Specific-Needs/module-2.html#m2s2",
+          "purpose": "Religious and ethical food choices"
+        },
+        {
+          "label": "M2S2 checks and response",
+          "url": "https://stevencowell.github.io/Food-for-Specific-Needs/module-2.html#m2s2-check",
+          "purpose": "10 knowledge checks and saved response"
+        },
+        {
+          "label": "Open folio",
+          "url": "https://stevencowell.github.io/Food-for-Specific-Needs/folio.html",
+          "purpose": "Save or export the named formative evidence"
+        },
+        {
+          "label": "Open applied activity",
+          "url": "https://stevencowell.github.io/Food-for-Specific-Needs/activity.html?section=m2s2",
+          "purpose": "Ingredient and process check"
+        }
+      ],
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "website_learning_ids": [
+        "WL-P006"
+      ]
+    },
+    {
+      "number": 7,
+      "type": "Site/theory",
+      "focus": "Evidence for respectful investigation",
+      "section_ids": [
+        "m2s3"
+      ],
+      "teaching_and_learning": "Use the source ladder to separate authority, evidence, inference and missing knowledge; complete checks and response.",
+      "syllabus_content_display": "Supports: Create written texts to explain how food practices are influenced by their historical and cultural contexts",
+      "syllabus_alignment": [
+        "cif5819d10"
+      ],
+      "syllabus_alignment_states": {
+        "cif5819d10": "supported-current-site"
+      },
+      "outcomes": [
+        "FT5-COM-01"
+      ],
+      "evidence": "Source evaluation with uncertainty visible.",
+      "site_destinations": [
+        "https://stevencowell.github.io/Food-for-Specific-Needs/module-2.html#m2s3",
+        "https://stevencowell.github.io/Food-for-Specific-Needs/module-2.html#m2s3-check",
+        "https://stevencowell.github.io/Food-for-Specific-Needs/activity.html?section=m2s3"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-AUTHORISED-SOURCES"
+      ],
+      "student_work": "Use the source ladder to separate authority, evidence, inference and missing knowledge; complete checks and response.",
+      "syllabus_content": [
+        "Create written texts to explain how food practices are influenced by their historical and cultural contexts"
+      ],
+      "outcome_codes": [
+        "FT5-COM-01"
+      ],
+      "source_ids": [
+        "S2",
+        "S3",
+        "S4"
+      ],
+      "site_destination_records": [
+        {
+          "label": "M2S3 theory",
+          "url": "https://stevencowell.github.io/Food-for-Specific-Needs/module-2.html#m2s3",
+          "purpose": "Respectful investigation and evidence"
+        },
+        {
+          "label": "M2S3 checks and response",
+          "url": "https://stevencowell.github.io/Food-for-Specific-Needs/module-2.html#m2s3-check",
+          "purpose": "10 knowledge checks and saved response"
+        },
+        {
+          "label": "Open applied activity",
+          "url": "https://stevencowell.github.io/Food-for-Specific-Needs/activity.html?section=m2s3",
+          "purpose": "Source reliability ladder"
+        }
+      ],
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "website_learning_ids": [
+        "WL-P007"
+      ]
+    },
+    {
+      "number": 8,
+      "type": "Site/theory",
+      "focus": "Nutrition changes through life",
+      "section_ids": [
+        "m3s1"
+      ],
+      "teaching_and_learning": "Learn how nutritional priorities can change across lifecycle stages without personal diagnosis; complete checks and response.",
+      "syllabus_content_display": "Supports: Outline the nutritional needs of individuals and groups of people at each stage of life",
+      "syllabus_alignment": [
+        "ciffdedf76"
+      ],
+      "syllabus_alignment_states": {
+        "ciffdedf76": "supported-current-site"
+      },
+      "outcomes": [
+        "FT5-NSA-01",
+        "FT5-ENV-01",
+        "FT5-COM-01"
+      ],
+      "evidence": "Lifecycle map and evidence-based explanation.",
+      "site_destinations": [
+        "https://stevencowell.github.io/Food-for-Specific-Needs/module-3.html#m3s1",
+        "https://stevencowell.github.io/Food-for-Specific-Needs/module-3.html#m3s1-check",
+        "https://stevencowell.github.io/Food-for-Specific-Needs/activity.html?section=m3s1"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-MEDICAL"
+      ],
+      "student_work": "Learn how nutritional priorities can change across lifecycle stages without personal diagnosis; complete checks and response.",
+      "syllabus_content": [
+        "Outline the nutritional needs of individuals and groups of people at each stage of life"
+      ],
+      "outcome_codes": [
+        "FT5-NSA-01",
+        "FT5-ENV-01",
+        "FT5-COM-01"
+      ],
+      "source_ids": [
+        "S2",
+        "S3",
+        "S4"
+      ],
+      "site_destination_records": [
+        {
+          "label": "M3S1 theory",
+          "url": "https://stevencowell.github.io/Food-for-Specific-Needs/module-3.html#m3s1",
+          "purpose": "How needs change across life stages"
+        },
+        {
+          "label": "M3S1 checks and response",
+          "url": "https://stevencowell.github.io/Food-for-Specific-Needs/module-3.html#m3s1-check",
+          "purpose": "10 knowledge checks and saved response"
+        },
+        {
+          "label": "Open applied activity",
+          "url": "https://stevencowell.github.io/Food-for-Specific-Needs/activity.html?section=m3s1",
+          "purpose": "Lifecycle needs map"
+        }
+      ],
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "website_learning_ids": [
+        "WL-P008"
+      ]
+    },
+    {
+      "number": 9,
+      "type": "Site/theory",
+      "focus": "Adolescent nutrition",
+      "section_ids": [
+        "m3s2"
+      ],
+      "teaching_and_learning": "Use population guidance to analyse a supplied school-day pattern; complete checks and written response.",
+      "syllabus_content_display": "Supports: Outline the nutritional needs of individuals and groups of people at each stage of life",
+      "syllabus_alignment": [
+        "ciffdedf76"
+      ],
+      "syllabus_alignment_states": {
+        "ciffdedf76": "supported-current-site"
+      },
+      "outcomes": [
+        "FT5-SAF-01",
+        "FT5-NSA-01",
+        "FT5-ENV-01"
+      ],
+      "evidence": "Pattern analysis using population guidance only.",
+      "site_destinations": [
+        "https://stevencowell.github.io/Food-for-Specific-Needs/module-3.html#m3s2",
+        "https://stevencowell.github.io/Food-for-Specific-Needs/module-3.html#m3s2-check",
+        "https://stevencowell.github.io/Food-for-Specific-Needs/activity.html?section=m3s2"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-MEDICAL"
+      ],
+      "student_work": "Use population guidance to analyse a supplied school-day pattern; complete checks and written response.",
+      "syllabus_content": [
+        "Outline the nutritional needs of individuals and groups of people at each stage of life"
+      ],
+      "outcome_codes": [
+        "FT5-SAF-01",
+        "FT5-NSA-01",
+        "FT5-ENV-01"
+      ],
+      "source_ids": [
+        "S2",
+        "S3",
+        "S4"
+      ],
+      "site_destination_records": [
+        {
+          "label": "M3S2 theory",
+          "url": "https://stevencowell.github.io/Food-for-Specific-Needs/module-3.html#m3s2",
+          "purpose": "Adolescent nutrition and growth"
+        },
+        {
+          "label": "M3S2 checks and response",
+          "url": "https://stevencowell.github.io/Food-for-Specific-Needs/module-3.html#m3s2-check",
+          "purpose": "10 knowledge checks and saved response"
+        },
+        {
+          "label": "Open applied activity",
+          "url": "https://stevencowell.github.io/Food-for-Specific-Needs/activity.html?section=m3s2",
+          "purpose": "School-day pattern planner"
+        }
+      ],
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "website_learning_ids": [
+        "WL-P009"
+      ]
+    },
+    {
+      "number": 10,
+      "type": "Project/folio",
+      "focus": "Lifecycle meal design",
+      "section_ids": [
+        "m3s3"
+      ],
+      "teaching_and_learning": "Develop criteria and a meal concept for a supplied lifecycle brief; justify choices and record uncertainties.",
+      "syllabus_content_display": "Contributes to: Plan and safely prepare nutritious foods to meet the needs of individuals and groups of people",
+      "syllabus_alignment": [
+        "cieb71b951"
+      ],
+      "syllabus_alignment_states": {
+        "cieb71b951": "partial-current-site"
+      },
+      "outcomes": [
+        "FT5-SAF-01",
+        "FT5-FPP-01",
+        "FT5-USE-01"
+      ],
+      "evidence": "Meal concept, criteria and justification.",
+      "site_destinations": [
+        "https://stevencowell.github.io/Food-for-Specific-Needs/module-3.html#m3s3",
+        "https://stevencowell.github.io/Food-for-Specific-Needs/module-3.html#m3s3-check",
+        "https://stevencowell.github.io/Food-for-Specific-Needs/folio.html",
+        "https://stevencowell.github.io/Food-for-Specific-Needs/activity.html?section=m3s3"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-MEDICAL"
+      ],
+      "student_work": "Develop criteria and a meal concept for a supplied lifecycle brief; justify choices and record uncertainties.",
+      "syllabus_content": [
+        "Plan and safely prepare nutritious foods to meet the needs of individuals and groups of people"
+      ],
+      "outcome_codes": [
+        "FT5-SAF-01",
+        "FT5-FPP-01",
+        "FT5-USE-01"
+      ],
+      "source_ids": [
+        "S2",
+        "S3",
+        "S4"
+      ],
+      "site_destination_records": [
+        {
+          "label": "M3S3 theory",
+          "url": "https://stevencowell.github.io/Food-for-Specific-Needs/module-3.html#m3s3",
+          "purpose": "Designing a lifecycle meal"
+        },
+        {
+          "label": "M3S3 checks and response",
+          "url": "https://stevencowell.github.io/Food-for-Specific-Needs/module-3.html#m3s3-check",
+          "purpose": "10 knowledge checks and saved response"
+        },
+        {
+          "label": "Open folio",
+          "url": "https://stevencowell.github.io/Food-for-Specific-Needs/folio.html",
+          "purpose": "Save or export the named formative evidence"
+        },
+        {
+          "label": "Open applied activity",
+          "url": "https://stevencowell.github.io/Food-for-Specific-Needs/activity.html?section=m3s3",
+          "purpose": "Lifecycle meal design"
+        }
+      ],
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "website_learning_ids": [
+        "WL-P010"
+      ]
+    },
+    {
+      "number": 11,
+      "type": "Site/theory",
+      "focus": "Allergy and intolerance",
+      "section_ids": [
+        "m4s1"
+      ],
+      "teaching_and_learning": "Distinguish allergy, intolerance and preference using supplied scenarios; follow the site's verified-management boundary.",
+      "syllabus_content_display": "Contributes to: Compare food allergies and intolerances to determine suitable food selection for individuals",
+      "syllabus_alignment": [
+        "ci5493a3bb"
+      ],
+      "syllabus_alignment_states": {
+        "ci5493a3bb": "partial-current-site"
+      },
+      "outcomes": [
+        "FT5-SAF-01",
+        "FT5-NSA-01",
+        "FT5-COM-01"
+      ],
+      "evidence": "Scenario decisions; no disclosure of personal health information.",
+      "site_destinations": [
+        "https://stevencowell.github.io/Food-for-Specific-Needs/module-4.html#m4s1",
+        "https://stevencowell.github.io/Food-for-Specific-Needs/module-4.html#m4s1-check",
+        "https://stevencowell.github.io/Food-for-Specific-Needs/activity.html?section=m4s1"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-MEDICAL",
+        "TTC-ALLERGY"
+      ],
+      "student_work": "Distinguish allergy, intolerance and preference using supplied scenarios; follow the site's verified-management boundary.",
+      "syllabus_content": [
+        "Compare food allergies and intolerances to determine suitable food selection for individuals"
+      ],
+      "outcome_codes": [
+        "FT5-SAF-01",
+        "FT5-NSA-01",
+        "FT5-COM-01"
+      ],
+      "source_ids": [
+        "S2",
+        "S3",
+        "S4"
+      ],
+      "site_destination_records": [
+        {
+          "label": "M4S1 theory",
+          "url": "https://stevencowell.github.io/Food-for-Specific-Needs/module-4.html#m4s1",
+          "purpose": "Allergy versus intolerance"
+        },
+        {
+          "label": "M4S1 checks and response",
+          "url": "https://stevencowell.github.io/Food-for-Specific-Needs/module-4.html#m4s1-check",
+          "purpose": "10 knowledge checks and saved response"
+        },
+        {
+          "label": "Open applied activity",
+          "url": "https://stevencowell.github.io/Food-for-Specific-Needs/activity.html?section=m4s1",
+          "purpose": "Allergy or intolerance?"
+        }
+      ],
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "website_learning_ids": [
+        "WL-P011"
+      ]
+    },
+    {
+      "number": 12,
+      "type": "Project/folio",
+      "focus": "Verified-management boundary",
+      "section_ids": [
+        "m4s1"
+      ],
+      "teaching_and_learning": "Apply the distinction to a fictional planning scenario and identify the current plan or professional authority required.",
+      "syllabus_content_display": "Contributes to: Compare food allergies and intolerances to determine suitable food selection for individuals",
+      "syllabus_alignment": [
+        "ci5493a3bb"
+      ],
+      "syllabus_alignment_states": {
+        "ci5493a3bb": "partial-current-site"
+      },
+      "outcomes": [
+        "FT5-SAF-01",
+        "FT5-NSA-01",
+        "FT5-COM-01"
+      ],
+      "evidence": "Recorded stop points and authority pathway.",
+      "site_destinations": [
+        "https://stevencowell.github.io/Food-for-Specific-Needs/module-4.html#m4s1",
+        "https://stevencowell.github.io/Food-for-Specific-Needs/module-4.html#m4s1-check",
+        "https://stevencowell.github.io/Food-for-Specific-Needs/folio.html",
+        "https://stevencowell.github.io/Food-for-Specific-Needs/activity.html?section=m4s1"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-MEDICAL",
+        "TTC-ALLERGY"
+      ],
+      "student_work": "Apply the distinction to a fictional planning scenario and identify the current plan or professional authority required.",
+      "syllabus_content": [
+        "Compare food allergies and intolerances to determine suitable food selection for individuals"
+      ],
+      "outcome_codes": [
+        "FT5-SAF-01",
+        "FT5-NSA-01",
+        "FT5-COM-01"
+      ],
+      "source_ids": [
+        "S2",
+        "S3",
+        "S4"
+      ],
+      "site_destination_records": [
+        {
+          "label": "M4S1 theory",
+          "url": "https://stevencowell.github.io/Food-for-Specific-Needs/module-4.html#m4s1",
+          "purpose": "Allergy versus intolerance"
+        },
+        {
+          "label": "M4S1 checks and response",
+          "url": "https://stevencowell.github.io/Food-for-Specific-Needs/module-4.html#m4s1-check",
+          "purpose": "10 knowledge checks and saved response"
+        },
+        {
+          "label": "Open folio",
+          "url": "https://stevencowell.github.io/Food-for-Specific-Needs/folio.html",
+          "purpose": "Save or export the named formative evidence"
+        },
+        {
+          "label": "Open applied activity",
+          "url": "https://stevencowell.github.io/Food-for-Specific-Needs/activity.html?section=m4s1",
+          "purpose": "Allergy or intolerance?"
+        }
+      ],
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "website_learning_ids": [
+        "WL-P012"
+      ]
+    },
+    {
+      "number": 13,
+      "type": "Site/theory",
+      "focus": "Labels and cross-contact",
+      "section_ids": [
+        "m4s2"
+      ],
+      "teaching_and_learning": "Audit a current Australian mock or teacher-supplied label and map possible cross-contact points; complete checks and response.",
+      "syllabus_content_display": "Contributes to: Outline legislative food labelling requirements",
+      "syllabus_alignment": [
+        "cib5e4b375"
+      ],
+      "syllabus_alignment_states": {
+        "cib5e4b375": "gap-recorded"
+      },
+      "outcomes": [
+        "FT5-SAF-01",
+        "FT5-FPP-01",
+        "FT5-USE-01"
+      ],
+      "evidence": "Label and workflow audit using current evidence.",
+      "site_destinations": [
+        "https://stevencowell.github.io/Food-for-Specific-Needs/module-4.html#m4s2",
+        "https://stevencowell.github.io/Food-for-Specific-Needs/module-4.html#m4s2-check",
+        "https://stevencowell.github.io/Food-for-Specific-Needs/activity.html?section=m4s2"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-LABELS",
+        "TTC-ALLERGY"
+      ],
+      "student_work": "Audit a current Australian mock or teacher-supplied label and map possible cross-contact points; complete checks and response.",
+      "syllabus_content": [
+        "Outline legislative food labelling requirements"
+      ],
+      "outcome_codes": [
+        "FT5-SAF-01",
+        "FT5-FPP-01",
+        "FT5-USE-01"
+      ],
+      "source_ids": [
+        "S2",
+        "S3",
+        "S4"
+      ],
+      "site_destination_records": [
+        {
+          "label": "M4S2 theory",
+          "url": "https://stevencowell.github.io/Food-for-Specific-Needs/module-4.html#m4s2",
+          "purpose": "Labels, allergen risk and cross-contact"
+        },
+        {
+          "label": "M4S2 checks and response",
+          "url": "https://stevencowell.github.io/Food-for-Specific-Needs/module-4.html#m4s2-check",
+          "purpose": "10 knowledge checks and saved response"
+        },
+        {
+          "label": "Open applied activity",
+          "url": "https://stevencowell.github.io/Food-for-Specific-Needs/activity.html?section=m4s2",
+          "purpose": "Allergen label and workflow audit"
+        }
+      ],
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "website_learning_ids": [
+        "WL-P013"
+      ]
+    },
+    {
+      "number": 14,
+      "type": "Practical",
+      "focus": "Diagnosed-need planning",
+      "section_ids": [
+        "m4s3"
+      ],
+      "teaching_and_learning": "Complete the site planning package. Practical work occurs only if the teacher confirms the current recipe, labels, individual plans, room controls and emergency procedures.",
+      "syllabus_content_display": "Contributes to: Design and create meals using alternative ingredients to meet specific dietary needs",
+      "syllabus_alignment": [
+        "ci5ef08618"
+      ],
+      "syllabus_alignment_states": {
+        "ci5ef08618": "partial-current-site"
+      },
+      "outcomes": [
+        "FT5-SAF-01",
+        "FT5-FPP-01",
+        "FT5-USE-01"
+      ],
+      "evidence": "Planning evidence; teacher observation only if an approved practical occurs.",
+      "site_destinations": [
+        "https://stevencowell.github.io/Food-for-Specific-Needs/module-4.html#m4s3",
+        "https://stevencowell.github.io/Food-for-Specific-Needs/module-4.html#m4s3-check",
+        "https://stevencowell.github.io/Food-for-Specific-Needs/activity.html?section=m4s3"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-PRACTICAL",
+        "TTC-ALLERGY",
+        "TTC-LABELS"
+      ],
+      "student_work": "Complete the site planning package. Practical work occurs only if the teacher confirms the current recipe, labels, individual plans, room controls and emergency procedures.",
+      "syllabus_content": [
+        "Design and create meals using alternative ingredients to meet specific dietary needs"
+      ],
+      "outcome_codes": [
+        "FT5-SAF-01",
+        "FT5-FPP-01",
+        "FT5-USE-01"
+      ],
+      "source_ids": [
+        "S2",
+        "S3",
+        "S4"
+      ],
+      "site_destination_records": [
+        {
+          "label": "M4S3 theory",
+          "url": "https://stevencowell.github.io/Food-for-Specific-Needs/module-4.html#m4s3",
+          "purpose": "Planning food for a person with a diagnosed need"
+        },
+        {
+          "label": "M4S3 checks and response",
+          "url": "https://stevencowell.github.io/Food-for-Specific-Needs/module-4.html#m4s3-check",
+          "purpose": "10 knowledge checks and saved response"
+        },
+        {
+          "label": "Open applied activity",
+          "url": "https://stevencowell.github.io/Food-for-Specific-Needs/activity.html?section=m4s3",
+          "purpose": "Safer preparation pathway"
+        }
+      ],
+      "site_alignment": "mapped",
+      "practical_authority": "teacher-to-confirm",
+      "website_learning_ids": [
+        "WL-P014"
+      ]
+    },
+    {
+      "number": 15,
+      "type": "Site/theory",
+      "focus": "Modified and fortified foods",
+      "section_ids": [
+        "m5s1"
+      ],
+      "teaching_and_learning": "Compare a current Australian product claim with its label evidence; complete checks and response.",
+      "syllabus_content_display": "Supports: Assess nutritional claims used to influence consumer choice",
+      "syllabus_alignment": [
+        "ci8b1c20f1"
+      ],
+      "syllabus_alignment_states": {
+        "ci8b1c20f1": "supported-current-site"
+      },
+      "outcomes": [
+        "FT5-USE-01",
+        "FT5-NSA-01",
+        "FT5-COM-01"
+      ],
+      "evidence": "Claim-versus-evidence product comparison.",
+      "site_destinations": [
+        "https://stevencowell.github.io/Food-for-Specific-Needs/module-5.html#m5s1",
+        "https://stevencowell.github.io/Food-for-Specific-Needs/module-5.html#m5s1-check",
+        "https://stevencowell.github.io/Food-for-Specific-Needs/activity.html?section=m5s1"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-LABELS"
+      ],
+      "student_work": "Compare a current Australian product claim with its label evidence; complete checks and response.",
+      "syllabus_content": [
+        "Assess nutritional claims used to influence consumer choice"
+      ],
+      "outcome_codes": [
+        "FT5-USE-01",
+        "FT5-NSA-01",
+        "FT5-COM-01"
+      ],
+      "source_ids": [
+        "S2",
+        "S3",
+        "S4"
+      ],
+      "site_destination_records": [
+        {
+          "label": "M5S1 theory",
+          "url": "https://stevencowell.github.io/Food-for-Specific-Needs/module-5.html#m5s1",
+          "purpose": "Nutritionally modified and fortified foods"
+        },
+        {
+          "label": "M5S1 checks and response",
+          "url": "https://stevencowell.github.io/Food-for-Specific-Needs/module-5.html#m5s1-check",
+          "purpose": "10 knowledge checks and saved response"
+        },
+        {
+          "label": "Open applied activity",
+          "url": "https://stevencowell.github.io/Food-for-Specific-Needs/activity.html?section=m5s1",
+          "purpose": "Claim versus evidence"
+        }
+      ],
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "website_learning_ids": [
+        "WL-P015"
+      ]
+    },
+    {
+      "number": 16,
+      "type": "Project/folio",
+      "focus": "Evaluate modified-food claims",
+      "section_ids": [
+        "m5s1"
+      ],
+      "teaching_and_learning": "Evaluate the limits of the selected claim and explain which consumer need it may or may not support.",
+      "syllabus_content_display": "Supports: Assess nutritional claims used to influence consumer choice",
+      "syllabus_alignment": [
+        "ci8b1c20f1"
+      ],
+      "syllabus_alignment_states": {
+        "ci8b1c20f1": "supported-current-site"
+      },
+      "outcomes": [
+        "FT5-USE-01",
+        "FT5-NSA-01",
+        "FT5-COM-01"
+      ],
+      "evidence": "Qualified product evaluation using current label evidence.",
+      "site_destinations": [
+        "https://stevencowell.github.io/Food-for-Specific-Needs/module-5.html#m5s1",
+        "https://stevencowell.github.io/Food-for-Specific-Needs/module-5.html#m5s1-check",
+        "https://stevencowell.github.io/Food-for-Specific-Needs/folio.html",
+        "https://stevencowell.github.io/Food-for-Specific-Needs/activity.html?section=m5s1"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-LABELS"
+      ],
+      "student_work": "Evaluate the limits of the selected claim and explain which consumer need it may or may not support.",
+      "syllabus_content": [
+        "Assess nutritional claims used to influence consumer choice"
+      ],
+      "outcome_codes": [
+        "FT5-USE-01",
+        "FT5-NSA-01",
+        "FT5-COM-01"
+      ],
+      "source_ids": [
+        "S2",
+        "S3",
+        "S4"
+      ],
+      "site_destination_records": [
+        {
+          "label": "M5S1 theory",
+          "url": "https://stevencowell.github.io/Food-for-Specific-Needs/module-5.html#m5s1",
+          "purpose": "Nutritionally modified and fortified foods"
+        },
+        {
+          "label": "M5S1 checks and response",
+          "url": "https://stevencowell.github.io/Food-for-Specific-Needs/module-5.html#m5s1-check",
+          "purpose": "10 knowledge checks and saved response"
+        },
+        {
+          "label": "Open folio",
+          "url": "https://stevencowell.github.io/Food-for-Specific-Needs/folio.html",
+          "purpose": "Save or export the named formative evidence"
+        },
+        {
+          "label": "Open applied activity",
+          "url": "https://stevencowell.github.io/Food-for-Specific-Needs/activity.html?section=m5s1",
+          "purpose": "Claim versus evidence"
+        }
+      ],
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "website_learning_ids": [
+        "WL-P016"
+      ]
+    },
+    {
+      "number": 17,
+      "type": "Site/theory",
+      "focus": "Dietary fibre",
+      "section_ids": [
+        "m5s2"
+      ],
+      "teaching_and_learning": "Use population guidance to explain fibre and improve a supplied food pattern without personal diagnosis; complete checks and response.",
+      "syllabus_content_display": "Contributes to: Investigate types and food sources of dietary fibre and its role in supporting health and wellbeing",
+      "syllabus_alignment": [
+        "cib076410a"
+      ],
+      "syllabus_alignment_states": {
+        "cib076410a": "partial-current-site"
+      },
+      "outcomes": [
+        "FT5-NSA-01",
+        "FT5-COM-01"
+      ],
+      "evidence": "Pattern improvement justified with population guidance.",
+      "site_destinations": [
+        "https://stevencowell.github.io/Food-for-Specific-Needs/module-5.html#m5s2",
+        "https://stevencowell.github.io/Food-for-Specific-Needs/module-5.html#m5s2-check",
+        "https://stevencowell.github.io/Food-for-Specific-Needs/activity.html?section=m5s2"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-MEDICAL"
+      ],
+      "student_work": "Use population guidance to explain fibre and improve a supplied food pattern without personal diagnosis; complete checks and response.",
+      "syllabus_content": [
+        "Investigate types and food sources of dietary fibre and its role in supporting health and wellbeing"
+      ],
+      "outcome_codes": [
+        "FT5-NSA-01",
+        "FT5-COM-01"
+      ],
+      "source_ids": [
+        "S2",
+        "S3",
+        "S4"
+      ],
+      "site_destination_records": [
+        {
+          "label": "M5S2 theory",
+          "url": "https://stevencowell.github.io/Food-for-Specific-Needs/module-5.html#m5s2",
+          "purpose": "Dietary fibre and adolescent needs"
+        },
+        {
+          "label": "M5S2 checks and response",
+          "url": "https://stevencowell.github.io/Food-for-Specific-Needs/module-5.html#m5s2-check",
+          "purpose": "10 knowledge checks and saved response"
+        },
+        {
+          "label": "Open applied activity",
+          "url": "https://stevencowell.github.io/Food-for-Specific-Needs/activity.html?section=m5s2",
+          "purpose": "Fibre pattern planner"
+        }
+      ],
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "website_learning_ids": [
+        "WL-P017"
+      ]
+    },
+    {
+      "number": 18,
+      "type": "Project/folio",
+      "focus": "Support networks",
+      "section_ids": [
+        "m5s3"
+      ],
+      "teaching_and_learning": "Map the roles and limits of family, school, health professionals, labels and trusted organisations in supporting a food need.",
+      "syllabus_content_display": "Contributes to: Create written texts to explain how food selection supports nutrition and dietary needs",
+      "syllabus_alignment": [
+        "cide2dc849"
+      ],
+      "syllabus_alignment_states": {
+        "cide2dc849": "partial-current-site"
+      },
+      "outcomes": [
+        "FT5-SAF-01",
+        "FT5-NSA-01",
+        "FT5-ENV-01"
+      ],
+      "evidence": "Support-network evaluation and referral boundary.",
+      "site_destinations": [
+        "https://stevencowell.github.io/Food-for-Specific-Needs/module-5.html#m5s3",
+        "https://stevencowell.github.io/Food-for-Specific-Needs/module-5.html#m5s3-check",
+        "https://stevencowell.github.io/Food-for-Specific-Needs/folio.html",
+        "https://stevencowell.github.io/Food-for-Specific-Needs/activity.html?section=m5s3"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-MEDICAL"
+      ],
+      "student_work": "Map the roles and limits of family, school, health professionals, labels and trusted organisations in supporting a food need.",
+      "syllabus_content": [
+        "Create written texts to explain how food selection supports nutrition and dietary needs"
+      ],
+      "outcome_codes": [
+        "FT5-SAF-01",
+        "FT5-NSA-01",
+        "FT5-ENV-01"
+      ],
+      "source_ids": [
+        "S2",
+        "S3",
+        "S4"
+      ],
+      "site_destination_records": [
+        {
+          "label": "M5S3 theory",
+          "url": "https://stevencowell.github.io/Food-for-Specific-Needs/module-5.html#m5s3",
+          "purpose": "Support networks and evaluating reliable help"
+        },
+        {
+          "label": "M5S3 checks and response",
+          "url": "https://stevencowell.github.io/Food-for-Specific-Needs/module-5.html#m5s3-check",
+          "purpose": "10 knowledge checks and saved response"
+        },
+        {
+          "label": "Open folio",
+          "url": "https://stevencowell.github.io/Food-for-Specific-Needs/folio.html",
+          "purpose": "Save or export the named formative evidence"
+        },
+        {
+          "label": "Open applied activity",
+          "url": "https://stevencowell.github.io/Food-for-Specific-Needs/activity.html?section=m5s3",
+          "purpose": "Support network map"
+        }
+      ],
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "website_learning_ids": [
+        "WL-P018"
+      ]
+    },
+    {
+      "number": 19,
+      "type": "Practical",
+      "focus": "Teacher-approved application",
+      "section_ids": [
+        "m4s3",
+        "m5s2"
+      ],
+      "teaching_and_learning": "Apply the confirmed brief only if the teacher has approved the current recipe, labels, controls and equipment. Otherwise use the equivalent site planning pathway.",
+      "syllabus_content_display": "Contributes to: Design and create meals using alternative ingredients to meet specific dietary needs",
+      "syllabus_alignment": [
+        "ci5ef08618",
+        "cib076410a"
+      ],
+      "syllabus_alignment_states": {
+        "ci5ef08618": "partial-current-site",
+        "cib076410a": "partial-current-site"
+      },
+      "outcomes": [
+        "FT5-SAF-01",
+        "FT5-FPP-01",
+        "FT5-USE-01"
+      ],
+      "evidence": "Teacher observation if approved; otherwise planning and evaluation evidence only.",
+      "site_destinations": [
+        "https://stevencowell.github.io/Food-for-Specific-Needs/module-4.html#m4s3",
+        "https://stevencowell.github.io/Food-for-Specific-Needs/module-4.html#m4s3-check",
+        "https://stevencowell.github.io/Food-for-Specific-Needs/module-5.html#m5s2",
+        "https://stevencowell.github.io/Food-for-Specific-Needs/module-5.html#m5s2-check",
+        "https://stevencowell.github.io/Food-for-Specific-Needs/activity.html?section=m5s2"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-PRACTICAL",
+        "TTC-ALLERGY",
+        "TTC-LABELS"
+      ],
+      "student_work": "Apply the confirmed brief only if the teacher has approved the current recipe, labels, controls and equipment. Otherwise use the equivalent site planning pathway.",
+      "syllabus_content": [
+        "Design and create meals using alternative ingredients to meet specific dietary needs",
+        "Investigate types and food sources of dietary fibre and its role in supporting health and wellbeing"
+      ],
+      "outcome_codes": [
+        "FT5-SAF-01",
+        "FT5-FPP-01",
+        "FT5-USE-01"
+      ],
+      "source_ids": [
+        "S2",
+        "S3",
+        "S4"
+      ],
+      "site_destination_records": [
+        {
+          "label": "M4S3 theory",
+          "url": "https://stevencowell.github.io/Food-for-Specific-Needs/module-4.html#m4s3",
+          "purpose": "Planning food for a person with a diagnosed need"
+        },
+        {
+          "label": "M4S3 checks and response",
+          "url": "https://stevencowell.github.io/Food-for-Specific-Needs/module-4.html#m4s3-check",
+          "purpose": "10 knowledge checks and saved response"
+        },
+        {
+          "label": "M5S2 theory",
+          "url": "https://stevencowell.github.io/Food-for-Specific-Needs/module-5.html#m5s2",
+          "purpose": "Dietary fibre and adolescent needs"
+        },
+        {
+          "label": "M5S2 checks and response",
+          "url": "https://stevencowell.github.io/Food-for-Specific-Needs/module-5.html#m5s2-check",
+          "purpose": "10 knowledge checks and saved response"
+        },
+        {
+          "label": "Open applied activity",
+          "url": "https://stevencowell.github.io/Food-for-Specific-Needs/activity.html?section=m5s2",
+          "purpose": "Fibre pattern planner"
+        }
+      ],
+      "site_alignment": "mapped",
+      "practical_authority": "teacher-to-confirm",
+      "website_learning_ids": [
+        "WL-P019"
+      ]
+    },
+    {
+      "number": 20,
+      "type": "Project/folio",
+      "focus": "Folio synthesis and review",
+      "section_ids": [
+        "m5s3"
+      ],
+      "teaching_and_learning": "Select the strongest site evidence, evaluate it against the brief and export a backup. The website export is not proof of formal submission.",
+      "syllabus_content_display": "Contributes to: Create written texts to explain how food selection supports nutrition and dietary needs",
+      "syllabus_alignment": [
+        "cide2dc849"
+      ],
+      "syllabus_alignment_states": {
+        "cide2dc849": "partial-current-site"
+      },
+      "outcomes": [
+        "FT5-SAF-01",
+        "FT5-NSA-01",
+        "FT5-ENV-01"
+      ],
+      "evidence": "Completed folio export and improvement statement; formal task authority remains separate.",
+      "site_destinations": [
+        "https://stevencowell.github.io/Food-for-Specific-Needs/module-5.html#m5s3",
+        "https://stevencowell.github.io/Food-for-Specific-Needs/module-5.html#m5s3-check",
+        "https://stevencowell.github.io/Food-for-Specific-Needs/folio.html",
+        "https://stevencowell.github.io/Food-for-Specific-Needs/activity.html?section=m5s3"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-ASSESSMENT",
+        "TTC-TIME"
+      ],
+      "student_work": "Select the strongest site evidence, evaluate it against the brief and export a backup. The website export is not proof of formal submission.",
+      "syllabus_content": [
+        "Create written texts to explain how food selection supports nutrition and dietary needs"
+      ],
+      "outcome_codes": [
+        "FT5-SAF-01",
+        "FT5-NSA-01",
+        "FT5-ENV-01"
+      ],
+      "source_ids": [
+        "S2",
+        "S3",
+        "S4"
+      ],
+      "site_destination_records": [
+        {
+          "label": "M5S3 theory",
+          "url": "https://stevencowell.github.io/Food-for-Specific-Needs/module-5.html#m5s3",
+          "purpose": "Support networks and evaluating reliable help"
+        },
+        {
+          "label": "M5S3 checks and response",
+          "url": "https://stevencowell.github.io/Food-for-Specific-Needs/module-5.html#m5s3-check",
+          "purpose": "10 knowledge checks and saved response"
+        },
+        {
+          "label": "Open folio",
+          "url": "https://stevencowell.github.io/Food-for-Specific-Needs/folio.html",
+          "purpose": "Save or export the named formative evidence"
+        },
+        {
+          "label": "Open applied activity",
+          "url": "https://stevencowell.github.io/Food-for-Specific-Needs/activity.html?section=m5s3",
+          "purpose": "Support network map"
+        }
+      ],
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "website_learning_ids": [
+        "WL-P020"
+      ]
+    }
+  ],
+  "site_route_map": [
+    {
+      "destination": "https://stevencowell.github.io/Food-for-Specific-Needs/module-1.html#m1s1",
+      "purpose": "Circumstances that create specific food needs",
+      "audience": "student",
+      "period_numbers": [
+        1,
+        2
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-for-Specific-Needs/module-1.html#m1s1-check",
+      "purpose": "10 knowledge checks and saved response",
+      "audience": "student",
+      "period_numbers": [
+        1,
+        2
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-for-Specific-Needs/activity.html?section=m1s1",
+      "purpose": "Specific-needs sorter",
+      "audience": "student",
+      "period_numbers": [
+        1,
+        2
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-for-Specific-Needs/folio.html",
+      "purpose": "Save or export the named formative evidence",
+      "audience": "student",
+      "period_numbers": [
+        2,
+        4,
+        6,
+        10,
+        12,
+        16,
+        18,
+        20
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-for-Specific-Needs/module-1.html#m1s2",
+      "purpose": "Factors that shape food choices",
+      "audience": "student",
+      "period_numbers": [
+        3
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-for-Specific-Needs/module-1.html#m1s2-check",
+      "purpose": "10 knowledge checks and saved response",
+      "audience": "student",
+      "period_numbers": [
+        3
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-for-Specific-Needs/activity.html?section=m1s2",
+      "purpose": "Choice-factor matrix",
+      "audience": "student",
+      "period_numbers": [
+        3
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-for-Specific-Needs/module-1.html#m1s3",
+      "purpose": "Meal planning for a specific circumstance",
+      "audience": "student",
+      "period_numbers": [
+        4
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-for-Specific-Needs/module-1.html#m1s3-check",
+      "purpose": "10 knowledge checks and saved response",
+      "audience": "student",
+      "period_numbers": [
+        4
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-for-Specific-Needs/activity.html?section=m1s3",
+      "purpose": "Circumstance meal planner",
+      "audience": "student",
+      "period_numbers": [
+        4
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-for-Specific-Needs/module-2.html#m2s1",
+      "purpose": "Food taboos and cultural patterns",
+      "audience": "student",
+      "period_numbers": [
+        5
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-for-Specific-Needs/module-2.html#m2s1-check",
+      "purpose": "10 knowledge checks and saved response",
+      "audience": "student",
+      "period_numbers": [
+        5
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-for-Specific-Needs/activity.html?section=m2s1",
+      "purpose": "Context before conclusion",
+      "audience": "student",
+      "period_numbers": [
+        5
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-for-Specific-Needs/module-2.html#m2s2",
+      "purpose": "Religious and ethical food choices",
+      "audience": "student",
+      "period_numbers": [
+        6
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-for-Specific-Needs/module-2.html#m2s2-check",
+      "purpose": "10 knowledge checks and saved response",
+      "audience": "student",
+      "period_numbers": [
+        6
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-for-Specific-Needs/activity.html?section=m2s2",
+      "purpose": "Ingredient and process check",
+      "audience": "student",
+      "period_numbers": [
+        6
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-for-Specific-Needs/module-2.html#m2s3",
+      "purpose": "Respectful investigation and evidence",
+      "audience": "student",
+      "period_numbers": [
+        7
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-for-Specific-Needs/module-2.html#m2s3-check",
+      "purpose": "10 knowledge checks and saved response",
+      "audience": "student",
+      "period_numbers": [
+        7
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-for-Specific-Needs/activity.html?section=m2s3",
+      "purpose": "Source reliability ladder",
+      "audience": "student",
+      "period_numbers": [
+        7
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-for-Specific-Needs/module-3.html#m3s1",
+      "purpose": "How needs change across life stages",
+      "audience": "student",
+      "period_numbers": [
+        8
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-for-Specific-Needs/module-3.html#m3s1-check",
+      "purpose": "10 knowledge checks and saved response",
+      "audience": "student",
+      "period_numbers": [
+        8
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-for-Specific-Needs/activity.html?section=m3s1",
+      "purpose": "Lifecycle needs map",
+      "audience": "student",
+      "period_numbers": [
+        8
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-for-Specific-Needs/module-3.html#m3s2",
+      "purpose": "Adolescent nutrition and growth",
+      "audience": "student",
+      "period_numbers": [
+        9
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-for-Specific-Needs/module-3.html#m3s2-check",
+      "purpose": "10 knowledge checks and saved response",
+      "audience": "student",
+      "period_numbers": [
+        9
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-for-Specific-Needs/activity.html?section=m3s2",
+      "purpose": "School-day pattern planner",
+      "audience": "student",
+      "period_numbers": [
+        9
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-for-Specific-Needs/module-3.html#m3s3",
+      "purpose": "Designing a lifecycle meal",
+      "audience": "student",
+      "period_numbers": [
+        10
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-for-Specific-Needs/module-3.html#m3s3-check",
+      "purpose": "10 knowledge checks and saved response",
+      "audience": "student",
+      "period_numbers": [
+        10
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-for-Specific-Needs/activity.html?section=m3s3",
+      "purpose": "Lifecycle meal design",
+      "audience": "student",
+      "period_numbers": [
+        10
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-for-Specific-Needs/module-4.html#m4s1",
+      "purpose": "Allergy versus intolerance",
+      "audience": "student",
+      "period_numbers": [
+        11,
+        12
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-for-Specific-Needs/module-4.html#m4s1-check",
+      "purpose": "10 knowledge checks and saved response",
+      "audience": "student",
+      "period_numbers": [
+        11,
+        12
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-for-Specific-Needs/activity.html?section=m4s1",
+      "purpose": "Allergy or intolerance?",
+      "audience": "student",
+      "period_numbers": [
+        11,
+        12
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-for-Specific-Needs/module-4.html#m4s2",
+      "purpose": "Labels, allergen risk and cross-contact",
+      "audience": "student",
+      "period_numbers": [
+        13
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-for-Specific-Needs/module-4.html#m4s2-check",
+      "purpose": "10 knowledge checks and saved response",
+      "audience": "student",
+      "period_numbers": [
+        13
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-for-Specific-Needs/activity.html?section=m4s2",
+      "purpose": "Allergen label and workflow audit",
+      "audience": "student",
+      "period_numbers": [
+        13
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-for-Specific-Needs/module-4.html#m4s3",
+      "purpose": "Planning food for a person with a diagnosed need",
+      "audience": "student",
+      "period_numbers": [
+        14,
+        19
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-for-Specific-Needs/module-4.html#m4s3-check",
+      "purpose": "10 knowledge checks and saved response",
+      "audience": "student",
+      "period_numbers": [
+        14,
+        19
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-for-Specific-Needs/activity.html?section=m4s3",
+      "purpose": "Safer preparation pathway",
+      "audience": "student",
+      "period_numbers": [
+        14
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-for-Specific-Needs/module-5.html#m5s1",
+      "purpose": "Nutritionally modified and fortified foods",
+      "audience": "student",
+      "period_numbers": [
+        15,
+        16
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-for-Specific-Needs/module-5.html#m5s1-check",
+      "purpose": "10 knowledge checks and saved response",
+      "audience": "student",
+      "period_numbers": [
+        15,
+        16
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-for-Specific-Needs/activity.html?section=m5s1",
+      "purpose": "Claim versus evidence",
+      "audience": "student",
+      "period_numbers": [
+        15,
+        16
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-for-Specific-Needs/module-5.html#m5s2",
+      "purpose": "Dietary fibre and adolescent needs",
+      "audience": "student",
+      "period_numbers": [
+        17,
+        19
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-for-Specific-Needs/module-5.html#m5s2-check",
+      "purpose": "10 knowledge checks and saved response",
+      "audience": "student",
+      "period_numbers": [
+        17,
+        19
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-for-Specific-Needs/activity.html?section=m5s2",
+      "purpose": "Fibre pattern planner",
+      "audience": "student",
+      "period_numbers": [
+        17,
+        19
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-for-Specific-Needs/module-5.html#m5s3",
+      "purpose": "Support networks and evaluating reliable help",
+      "audience": "student",
+      "period_numbers": [
+        18,
+        20
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-for-Specific-Needs/module-5.html#m5s3-check",
+      "purpose": "10 knowledge checks and saved response",
+      "audience": "student",
+      "period_numbers": [
+        18,
+        20
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-for-Specific-Needs/activity.html?section=m5s3",
+      "purpose": "Support network map",
+      "audience": "student",
+      "period_numbers": [
+        18,
+        20
+      ]
+    }
+  ],
+  "content_coverage": {
+    "official_content_total": 125,
+    "content_points_referenced_by_this_program": 12,
+    "referenced_point_states": {
+      "partial-current-site": 6,
+      "supported-current-site": 5,
+      "gap-recorded": 1
+    },
+    "claim_boundary": "A point is not complete merely because it is referenced. Only supported-current-site points have explicit site theory and formative evidence; partial and gap states remain open in the master gap register."
+  },
+  "teacher_to_confirm": [
+    {
+      "id": "TTC-TIME",
+      "item": "Confirm how the local timetable converts the site's ten-week/module sequence into 20 one-hour planning periods.",
+      "owner": "Teacher/course coordinator",
+      "due_before": "Before the first affected period is delivered",
+      "affected_periods": [
+        1,
+        2,
+        3,
+        4,
+        20
+      ],
+      "state": "Teacher to confirm before delivery"
+    },
+    {
+      "id": "TTC-COHORT",
+      "item": "Confirm the local class/cohort placement; this Stage 5 program does not prescribe a specific year group.",
+      "owner": "Teacher/course coordinator",
+      "due_before": "Before the first affected period is delivered",
+      "affected_periods": [
+        1
+      ],
+      "state": "Teacher to confirm before delivery"
+    },
+    {
+      "id": "TTC-MEDICAL",
+      "item": "Use supplied or fictional scenarios; do not request diagnoses or personal health disclosure. Confirm medical advice boundaries locally.",
+      "owner": "Teacher/course coordinator",
+      "due_before": "Before the first affected period is delivered",
+      "affected_periods": [
+        4,
+        8,
+        9,
+        10,
+        11,
+        12,
+        17,
+        18
+      ],
+      "state": "Teacher to confirm before delivery"
+    },
+    {
+      "id": "TTC-LOCAL-AUTHORITY",
+      "item": "Use locally authorised sources and community authority for local Aboriginal Cultural Knowledge; do not infer permission from public access.",
+      "owner": "Teacher/course coordinator",
+      "due_before": "Before the first affected period is delivered",
+      "affected_periods": [
+        5,
+        6
+      ],
+      "state": "Teacher to confirm before delivery"
+    },
+    {
+      "id": "TTC-AUTHORISED-SOURCES",
+      "item": "Teacher selects current authorised sources before students make local cultural or health claims.",
+      "owner": "Teacher/course coordinator",
+      "due_before": "Before the first affected period is delivered",
+      "affected_periods": [
+        7
+      ],
+      "state": "Teacher to confirm before delivery"
+    },
+    {
+      "id": "TTC-ALLERGY",
+      "item": "Apply current school emergency procedures and individual health plans. The website cannot authorise allergy management or independent service.",
+      "owner": "Teacher/course coordinator",
+      "due_before": "Before the first affected period is delivered",
+      "affected_periods": [
+        11,
+        12,
+        13,
+        14,
+        19
+      ],
+      "state": "Teacher to confirm before delivery"
+    },
+    {
+      "id": "TTC-LABELS",
+      "item": "Confirm current Australian labels at purchase and use; formulations and cross-contact statements can change.",
+      "owner": "Teacher/course coordinator",
+      "due_before": "Before the first affected period is delivered",
+      "affected_periods": [
+        13,
+        14,
+        15,
+        16,
+        19
+      ],
+      "state": "Teacher to confirm before delivery"
+    },
+    {
+      "id": "TTC-PRACTICAL",
+      "item": "Confirm the current approved recipe or activity, equipment, ingredients, room controls, risk controls and supervision before practical work.",
+      "owner": "Teacher/course coordinator",
+      "due_before": "Before the first affected period is delivered",
+      "affected_periods": [
+        14,
+        19
+      ],
+      "state": "Teacher to confirm before delivery"
+    },
+    {
+      "id": "TTC-ASSESSMENT",
+      "item": "Confirm the current formal assessment notification, due date, weighting, submission route and marking authority; site exports are not submission proof.",
+      "owner": "Teacher/course coordinator",
+      "due_before": "Before the first affected period is delivered",
+      "affected_periods": [
+        20
+      ],
+      "state": "Teacher to confirm before delivery"
+    }
+  ],
+  "files": [
+    {
+      "path": "Food-for-Specific-Needs-20-Period-Teaching-Program-v2.0-Network-Benchmark.docx",
+      "purpose": "editable-program",
+      "version": "v2.0",
+      "sha256": "9A43C27EE1F6BBDCC3C87FF950B2E970CE0CD8EAB5D8651E844B7F8D221DC8DE"
+    },
+    {
+      "path": "Food-for-Specific-Needs-20-Period-Teaching-Program-v2.0-Network-Benchmark.pdf",
+      "purpose": "rendered-program",
+      "version": "v2.0",
+      "sha256": "9A19777451C64D932C5513BE11154AE577C3AFFC0377ABAB7EF4A332B6D90FFA"
+    },
+    {
+      "path": "Food-for-Specific-Needs-20-Period-Alignment-Manifest-v2.0.json",
+      "purpose": "alignment-manifest",
+      "version": "v2.0"
+    }
+  ]
+}

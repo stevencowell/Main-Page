@@ -73,8 +73,12 @@ h1 span { color: #f0d49f; }
 .syllabus-family { --syllabus-accent: var(--forest); --syllabus-soft: #edf5f1; min-width: 0; }
 .syllabus-family--technology { --syllabus-accent: #176046; --syllabus-soft: #e8f3ed; }
 .syllabus-family--industrial { --syllabus-accent: #355f78; --syllabus-soft: #eaf1f5; }
-.syllabus-family--food { --syllabus-accent: #a86624; --syllabus-soft: #faf0e2; }
-.syllabus-family--textiles { --syllabus-accent: #83506f; --syllabus-soft: #f5ebf1; }
+.syllabus-family--engineering { --syllabus-accent: #005a9c; --syllabus-soft: #e5f2fb; }
+.syllabus-family--food { --syllabus-accent: #b24a00; --syllabus-soft: #fff0df; }
+.syllabus-family--textiles { --syllabus-accent: #9b1463; --syllabus-soft: #fbe8f3; }
+.syllabus-family--agriculture { --syllabus-accent: #617400; --syllabus-soft: #f1f6d8; }
+.syllabus-family--senior-textiles { --syllabus-accent: #5b2387; --syllabus-soft: #f1e8fa; }
+.syllabus-family--science { --syllabus-accent: #5946a8; --syllabus-soft: #eeebfb; }
 .syllabus-family--pending { --syllabus-accent: #69736f; --syllabus-soft: #eef1ef; }
 .syllabus-family-header { display: flex; align-items: end; justify-content: space-between; gap: 24px; margin-bottom: 20px; padding: 22px 24px; border: 1px solid var(--line); border-left: 8px solid var(--syllabus-accent); border-radius: 16px; background: linear-gradient(115deg, var(--syllabus-soft), white 72%); }
 .syllabus-family-kicker { margin: 0 0 5px; color: var(--syllabus-accent); font-size: .7rem; font-weight: 800; letter-spacing: .1em; text-transform: uppercase; }

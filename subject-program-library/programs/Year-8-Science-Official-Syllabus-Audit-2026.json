@@ -1,0 +1,160 @@
+{
+  "schema_version": "1.0",
+  "verified_at_utc": "2026-08-29T13:22:18+00:00",
+  "syllabus": {
+    "title": "Science 7–10 Syllabus (2023)",
+    "official_course_url": "https://curriculum.nsw.edu.au/learning-areas/science/science-7-10-2023/overview/course",
+    "official_outcomes_url": "https://curriculum.nsw.edu.au/learning-areas/science/science-7-10-2023/outcomes",
+    "implementation_status": "current; teaching commenced in 2026",
+    "implementation_from": 2026,
+    "outgoing_syllabus": "Science 7–10 Syllabus (2018)",
+    "outgoing_unavailable_after": "December 2027",
+    "outcome_family": "SC4-* for this Stage 4 program"
+  },
+  "stage_4_official_outcomes": [
+    {
+      "code": "SC4-WS-01",
+      "statement": "uses scientific tools and instruments for observations",
+      "stable_id": "ocb7c79ee2",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/science/science-7-10-2023/outcomes"
+    },
+    {
+      "code": "SC4-WS-02",
+      "statement": "identifies questions and makes predictions to guide scientific investigations",
+      "stable_id": "ocaa876a71",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/science/science-7-10-2023/outcomes"
+    },
+    {
+      "code": "SC4-WS-03",
+      "statement": "plans safe and valid investigations",
+      "stable_id": "oc7ecb1e2e",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/science/science-7-10-2023/outcomes"
+    },
+    {
+      "code": "SC4-WS-04",
+      "statement": "follows a planned procedure to undertake safe and valid investigations",
+      "stable_id": "oca41bc668",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/science/science-7-10-2023/outcomes"
+    },
+    {
+      "code": "SC4-WS-05",
+      "statement": "uses a variety of ways to process and represent data",
+      "stable_id": "oc10037f8e",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/science/science-7-10-2023/outcomes"
+    },
+    {
+      "code": "SC4-WS-06",
+      "statement": "uses data to identify trends, patterns and relationships, and draw conclusions",
+      "stable_id": "oc40783aa4",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/science/science-7-10-2023/outcomes"
+    },
+    {
+      "code": "SC4-WS-07",
+      "statement": "identifies problem-solving strategies and proposes solutions",
+      "stable_id": "occ0772266",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/science/science-7-10-2023/outcomes"
+    },
+    {
+      "code": "SC4-WS-08",
+      "statement": "communicates scientific concepts and ideas using a range of communication forms",
+      "stable_id": "oc86d6da8d",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/science/science-7-10-2023/outcomes"
+    },
+    {
+      "code": "SC4-OTU-01",
+      "statement": "explains how observations are used by scientists to increase knowledge and understanding of the Universe",
+      "stable_id": "oc5539f276",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/science/science-7-10-2023/outcomes"
+    },
+    {
+      "code": "SC4-FOR-01",
+      "statement": "describes the effects of forces in everyday contexts",
+      "stable_id": "ocbe42fac4",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/science/science-7-10-2023/outcomes"
+    },
+    {
+      "code": "SC4-CLS-01",
+      "statement": "describes the unique features of cells in living things and how structural features can be used to classify organisms",
+      "stable_id": "oc4bfa8023",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/science/science-7-10-2023/outcomes"
+    },
+    {
+      "code": "SC4-SOL-01",
+      "statement": "explains how the properties of substances enable separation in a range of techniques",
+      "stable_id": "oc96efc001",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/science/science-7-10-2023/outcomes"
+    },
+    {
+      "code": "SC4-LIV-01",
+      "statement": "describes the role, structure and function of a range of living systems and their components",
+      "stable_id": "oc2ebf2c2c",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/science/science-7-10-2023/outcomes"
+    },
+    {
+      "code": "SC4-PRT-01",
+      "statement": "explains how uses of elements and compounds are influenced by scientific understanding and discoveries relating to their properties",
+      "stable_id": "oc197866ce",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/science/science-7-10-2023/outcomes"
+    },
+    {
+      "code": "SC4-CHG-01",
+      "statement": "explains how energy causes geological and chemical change",
+      "stable_id": "oced5267c5",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/science/science-7-10-2023/outcomes"
+    },
+    {
+      "code": "SC4-DA1-01",
+      "statement": "explains how data is used by scientists to model and predict scientific phenomena",
+      "stable_id": "oc651d2af4",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/science/science-7-10-2023/outcomes"
+    }
+  ],
+  "program_selected_outcome_codes": [
+    "SC4-CHG-01",
+    "SC4-DA1-01",
+    "SC4-LIV-01",
+    "SC4-PRT-01",
+    "SC4-WS-01",
+    "SC4-WS-02",
+    "SC4-WS-03",
+    "SC4-WS-04",
+    "SC4-WS-05",
+    "SC4-WS-06",
+    "SC4-WS-07",
+    "SC4-WS-08"
+  ],
+  "program_selected_outcome_count": 12,
+  "official_stage_4_outcome_count": 16,
+  "official_stage_4_outcomes_not_selected_in_this_year_8_program": [
+    "SC4-OTU-01",
+    "SC4-FOR-01",
+    "SC4-CLS-01",
+    "SC4-SOL-01"
+  ],
+  "classification_note": "This is a Year 8 component of the Stage 4 mandatory Science course. The four Stage 4 outcomes not selected in this program are a stage-level coverage question, not evidence that the Year 8 unit pair is defective. Check them against the Year 7 program before making a whole-stage claim.",
+  "course_requirements": {
+    "investigations": "At least 50% of course time should be allocated to scientific investigations, including depth studies.",
+    "depth_studies": "At least one depth study every year across Stage 4 and Stage 5; 5 hours recommended per year; at least one practical depth study per stage.",
+    "official_url": "https://curriculum.nsw.edu.au/learning-areas/science/science-7-10-2023/overview/course"
+  },
+  "sources": [
+    {
+      "source_id": "SCI-COURSE",
+      "authority": "official-nsw-curriculum-nesa",
+      "requested_url": "https://curriculum.nsw.edu.au/learning-areas/science/science-7-10-2023/overview/course",
+      "final_url": "https://curriculum.nsw.edu.au/learning-areas/science/science-7-10-2023/overview/course",
+      "http_status": 200,
+      "sha256": "CA5C249FDD9D30FE053FC3DAD4A84E4C44CDD21D18DB598B729DB67D30FC51E3",
+      "bytes": 1457377
+    },
+    {
+      "source_id": "SCI-OUTCOMES",
+      "authority": "official-nsw-curriculum-nesa",
+      "requested_url": "https://curriculum.nsw.edu.au/learning-areas/science/science-7-10-2023/outcomes",
+      "final_url": "https://curriculum.nsw.edu.au/learning-areas/science/science-7-10-2023/outcomes",
+      "http_status": 200,
+      "sha256": "DEEC262FE70692718C1E6AD0676D54654C23ED194179125ECEAE3ABD5E24FE04",
+      "bytes": 1707144
+    }
+  ]
+}

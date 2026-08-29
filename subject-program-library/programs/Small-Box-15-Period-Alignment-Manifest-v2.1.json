@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.2",
+  "schema_version": "1.1",
   "program_id": "small-box",
   "version": "v2.1",
   "teacher_facing_display": {
@@ -156,7 +156,7 @@
     {
       "id": "F1",
       "title": "Stage 5 Timber 200-hour family coverage record v2.0",
-      "authority": "local-alignment-record",
+      "authority": "quality-reference",
       "location": "Stage-5-Timber-200-Hour-Family-Coverage-Record-v2.0.json",
       "revision": "verified 2026-08-29",
       "sha256": "A9B20D2D2A988A1946A2DBE38F8B69F08A13854AA5708B6F34C433E9895B3027",
@@ -165,7 +165,7 @@
     {
       "id": "A1",
       "title": "Stage 5 Timber content allocation v2.1",
-      "authority": "master-program-allocation",
+      "authority": "local-program",
       "location": "stage5-timber-content-allocation-v2.1.json",
       "revision": "v2.1 scheduled-core allocation",
       "sha256": "4AFE8DF97F021946D6EA63ACC1C23738AF683AC11FEAC9B4CFAAA14C4F3A0888",
@@ -1498,13 +1498,13 @@
       "path": "resources/teacher/Small-Box-15-Period-Teaching-Program-v2.1-Network-Benchmark.docx",
       "purpose": "editable-program",
       "version": "v2.1",
-      "sha256": "BF7434ED537E7E855637F131769760656E1F20ABA5D5547F9EF8DD402EFF6040"
+      "sha256": "A0BFD5A61EA0C0ACDC75776C6D4F67E5470B4AA2B618CF0723674D741C3E5AA6"
     },
     {
       "path": "resources/teacher/Small-Box-15-Period-Teaching-Program-v2.1-Network-Benchmark.pdf",
       "purpose": "rendered-program",
       "version": "v2.1",
-      "sha256": "CDAC140BF61DEFB233606C0AF370ABF14D80141888C6F78DDF78F4DEB9F100D5"
+      "sha256": "E9C0142625977F95AD15BD675CDC4B8ED8686122DBB00DE439C2862DEDC400E4"
     },
     {
       "path": "resources/teacher/Small-Box-15-Period-Alignment-Manifest-v2.1.json",

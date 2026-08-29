@@ -3,14 +3,14 @@
   "program_id": "multimedia",
   "version": "v2.0",
   "teacher_facing_display": {
-    "course_identity": "Stage 4 Technology Mandatory",
+    "course_identity": "Stage 4 Technology",
     "specific_year_group_visible": false,
     "official_outcomes_complete": true,
     "outcome_code_placement": "Beneath the plain-English syllabus alignment statement"
   },
   "course": {
-    "title": "Stage 4 Technology Mandatory",
-    "classification": "Technology Mandatory",
+    "title": "Stage 4 Technology",
+    "classification": "Stage 4 Technology",
     "stage_or_year": "Stage 4",
     "delivery_year": 2027,
     "project": "Multimedia"
@@ -1003,13 +1003,13 @@
       "path": "resources/teacher/Multimedia-20-Period-Teaching-Program-v2.0-Network-Benchmark.docx",
       "purpose": "editable-program",
       "version": "v2.0",
-      "sha256": "216B1B7087EC91655779F03854AF0864909D11C2D39751FE3C03B5A40AB6A2BE"
+      "sha256": "EAD5C2A58CB30939D4ECF4C723E113828195FC369FCF318AAB80558891CA006C"
     },
     {
       "path": "resources/teacher/Multimedia-20-Period-Teaching-Program-v2.0-Network-Benchmark.pdf",
       "purpose": "rendered-program",
       "version": "v2.0",
-      "sha256": "ED98149B4EA5C939553B9511F0C8E3C4DDF653C7EB2BBD5BA1B134C77D8FD33B"
+      "sha256": "C189D19E7DCC5F44F4632D863BEC72013DCD3C9DB636984CDEC56C8BD761AF48"
     },
     {
       "path": "resources/teacher/Multimedia-20-Period-Alignment-Manifest-v2.0.json",

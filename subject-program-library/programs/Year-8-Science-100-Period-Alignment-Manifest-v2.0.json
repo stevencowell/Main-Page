@@ -1,0 +1,3998 @@
+{
+  "schema_version": "1.1",
+  "program_id": "year-8-science",
+  "version": "2.0",
+  "course": {
+    "title": "Year 8 Science",
+    "classification": "Year 8 component of Stage 4 mandatory Science",
+    "stage_or_year": "Stage 4",
+    "delivery_year": 2026,
+    "project": "Year 8 Science"
+  },
+  "site": {
+    "name": "Year 8 Science",
+    "reference": "https://stevencowell.github.io/Year-8-Science-Guided-Course/",
+    "inspection_date": "2026-08-29",
+    "state": "live"
+  },
+  "syllabus": {
+    "title": "Science 7–10 Syllabus (2023)",
+    "version": "2023",
+    "official_url": "https://curriculum.nsw.edu.au/learning-areas/science/science-7-10-2023/overview/course",
+    "verified_date": "2026-08-29",
+    "mandatory_from": "2026",
+    "early_implementation": "not-applicable",
+    "steve_decision": "use-new-mandatory",
+    "implementation_status": "current"
+  },
+  "timetable": {
+    "weeks": 40,
+    "period_minutes": 60,
+    "periods_per_fortnight": 5,
+    "total_periods": 100,
+    "status": "Provisional — Teacher to confirm"
+  },
+  "outcomes": [
+    {
+      "code": "SC4-WS-01",
+      "statement": "uses scientific tools and instruments for observations",
+      "source_id": "SYL-01",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/science/science-7-10-2023/outcomes"
+    },
+    {
+      "code": "SC4-WS-02",
+      "statement": "identifies questions and makes predictions to guide scientific investigations",
+      "source_id": "SYL-01",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/science/science-7-10-2023/outcomes"
+    },
+    {
+      "code": "SC4-WS-03",
+      "statement": "plans safe and valid investigations",
+      "source_id": "SYL-01",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/science/science-7-10-2023/outcomes"
+    },
+    {
+      "code": "SC4-WS-04",
+      "statement": "follows a planned procedure to undertake safe and valid investigations",
+      "source_id": "SYL-01",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/science/science-7-10-2023/outcomes"
+    },
+    {
+      "code": "SC4-WS-05",
+      "statement": "uses a variety of ways to process and represent data",
+      "source_id": "SYL-01",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/science/science-7-10-2023/outcomes"
+    },
+    {
+      "code": "SC4-WS-06",
+      "statement": "uses data to identify trends, patterns and relationships, and draw conclusions",
+      "source_id": "SYL-01",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/science/science-7-10-2023/outcomes"
+    },
+    {
+      "code": "SC4-WS-07",
+      "statement": "identifies problem-solving strategies and proposes solutions",
+      "source_id": "SYL-01",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/science/science-7-10-2023/outcomes"
+    },
+    {
+      "code": "SC4-WS-08",
+      "statement": "communicates scientific concepts and ideas using a range of communication forms",
+      "source_id": "SYL-01",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/science/science-7-10-2023/outcomes"
+    },
+    {
+      "code": "SC4-OTU-01",
+      "statement": "explains how observations are used by scientists to increase knowledge and understanding of the Universe",
+      "source_id": "SYL-01",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/science/science-7-10-2023/outcomes"
+    },
+    {
+      "code": "SC4-FOR-01",
+      "statement": "describes the effects of forces in everyday contexts",
+      "source_id": "SYL-01",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/science/science-7-10-2023/outcomes"
+    },
+    {
+      "code": "SC4-CLS-01",
+      "statement": "describes the unique features of cells in living things and how structural features can be used to classify organisms",
+      "source_id": "SYL-01",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/science/science-7-10-2023/outcomes"
+    },
+    {
+      "code": "SC4-SOL-01",
+      "statement": "explains how the properties of substances enable separation in a range of techniques",
+      "source_id": "SYL-01",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/science/science-7-10-2023/outcomes"
+    },
+    {
+      "code": "SC4-LIV-01",
+      "statement": "describes the role, structure and function of a range of living systems and their components",
+      "source_id": "SYL-01",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/science/science-7-10-2023/outcomes"
+    },
+    {
+      "code": "SC4-PRT-01",
+      "statement": "explains how uses of elements and compounds are influenced by scientific understanding and discoveries relating to their properties",
+      "source_id": "SYL-01",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/science/science-7-10-2023/outcomes"
+    },
+    {
+      "code": "SC4-CHG-01",
+      "statement": "explains how energy causes geological and chemical change",
+      "source_id": "SYL-01",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/science/science-7-10-2023/outcomes"
+    },
+    {
+      "code": "SC4-DA1-01",
+      "statement": "explains how data is used by scientists to model and predict scientific phenomena",
+      "source_id": "SYL-01",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/science/science-7-10-2023/outcomes"
+    }
+  ],
+  "source_register": [
+    {
+      "id": "SYL-01",
+      "title": "Science 7–10 Syllabus (2023)",
+      "authority": "official-syllabus",
+      "location": "https://curriculum.nsw.edu.au/learning-areas/science/science-7-10-2023/overview/course",
+      "revision": "Verified 2026-08-29",
+      "use": "Current syllabus, exact outcomes and program alignment"
+    },
+    {
+      "id": "SITE-01",
+      "title": "Year 8 Science guided-course website",
+      "authority": "website",
+      "location": "https://stevencowell.github.io/Year-8-Science-Guided-Course/",
+      "revision": "Inspected 2026-08-29",
+      "use": "Named theory, checks, responses, folio and evidence routes"
+    }
+  ],
+  "website_learning_inventory": [
+    {
+      "id": "M01-S01",
+      "route": "https://stevencowell.github.io/Year-8-Science-Guided-Course/modules/y8s-m01/index.html#section-m01-s01",
+      "theory_section": "Data sources, digital traces and safe engagement",
+      "quiz_or_check": "10-question knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        1
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Completed check feedback and saved scaffolded response",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "M01-S02",
+      "route": "https://stevencowell.github.io/Year-8-Science-Guided-Course/modules/y8s-m01/index.html#section-m01-s02",
+      "theory_section": "Scientific questions and collecting datasets",
+      "quiz_or_check": "10-question knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        2
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Completed check feedback and saved scaffolded response",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "M01-S03",
+      "route": "https://stevencowell.github.io/Year-8-Science-Guided-Course/modules/y8s-m01/index.html#section-m01-s03",
+      "theory_section": "Analysing datasets, patterns and solutions",
+      "quiz_or_check": "10-question knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        3
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Completed check feedback and saved scaffolded response",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "M02-S01",
+      "route": "https://stevencowell.github.io/Year-8-Science-Guided-Course/modules/y8s-m02/index.html#section-m02-s01",
+      "theory_section": "Human body systems",
+      "quiz_or_check": "10-question knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        21
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Completed check feedback and saved scaffolded response",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "M02-S02",
+      "route": "https://stevencowell.github.io/Year-8-Science-Guided-Course/modules/y8s-m02/index.html#section-m02-s02",
+      "theory_section": "Plant systems",
+      "quiz_or_check": "10-question knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        22
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Completed check feedback and saved scaffolded response",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "M02-S03",
+      "route": "https://stevencowell.github.io/Year-8-Science-Guided-Course/modules/y8s-m02/index.html#section-m02-s03",
+      "theory_section": "Ecosystems, energy, populations and extinction",
+      "quiz_or_check": "10-question knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        23
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Completed check feedback and saved scaffolded response",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "M03-S01",
+      "route": "https://stevencowell.github.io/Year-8-Science-Guided-Course/modules/y8s-m03/index.html#section-m03-s01",
+      "theory_section": "Classification, properties and uses of matter",
+      "quiz_or_check": "10-question knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        41
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Completed check feedback and saved scaffolded response",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "M03-S02",
+      "route": "https://stevencowell.github.io/Year-8-Science-Guided-Course/modules/y8s-m03/index.html#section-m03-s02",
+      "theory_section": "Atomic structure and changing models",
+      "quiz_or_check": "10-question knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        42
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Completed check feedback and saved scaffolded response",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "M03-S03",
+      "route": "https://stevencowell.github.io/Year-8-Science-Guided-Course/modules/y8s-m03/index.html#section-m03-s03",
+      "theory_section": "Periodic patterns, symbols and the first 18 elements",
+      "quiz_or_check": "10-question knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        43
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Completed check feedback and saved scaffolded response",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "M04-S01",
+      "route": "https://stevencowell.github.io/Year-8-Science-Guided-Course/modules/y8s-m04/index.html#section-m04-s01",
+      "theory_section": "Energy transfers, stores and systems",
+      "quiz_or_check": "10-question knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        61
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Completed check feedback and saved scaffolded response",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "M04-S02",
+      "route": "https://stevencowell.github.io/Year-8-Science-Guided-Course/modules/y8s-m04/index.html#section-m04-s02",
+      "theory_section": "Physical and chemical change",
+      "quiz_or_check": "10-question knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        62
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Completed check feedback and saved scaffolded response",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "M04-S03",
+      "route": "https://stevencowell.github.io/Year-8-Science-Guided-Course/modules/y8s-m04/index.html#section-m04-s03",
+      "theory_section": "Geological change, rocks, fossils and plate evidence",
+      "quiz_or_check": "10-question knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        63
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Completed check feedback and saved scaffolded response",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "M05-S01",
+      "route": "https://stevencowell.github.io/Year-8-Science-Guided-Course/modules/y8s-m05/index.html#section-m05-s01",
+      "theory_section": "Scientific models and evidence",
+      "quiz_or_check": "10-question knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        81
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Completed check feedback and saved scaffolded response",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "M05-S02",
+      "route": "https://stevencowell.github.io/Year-8-Science-Guided-Course/modules/y8s-m05/index.html#section-m05-s02",
+      "theory_section": "Simulations, predictions and applications of models",
+      "quiz_or_check": "10-question knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        82
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Completed check feedback and saved scaffolded response",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "M05-S03",
+      "route": "https://stevencowell.github.io/Year-8-Science-Guided-Course/modules/y8s-m05/index.html#section-m05-s03",
+      "theory_section": "Five-hour depth-study portfolio",
+      "quiz_or_check": "10-question knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        83
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Completed check feedback and saved scaffolded response",
+      "teacher_to_confirm_ids": []
+    }
+  ],
+  "periods": [
+    {
+      "type": "Site/theory",
+      "focus": "Module 1: Data sources, digital traces and safe engagement",
+      "student_work": "Read the linked learning section; complete each 10-question check and saved response.",
+      "evidence": "Check feedback and response evidence: M01-S01.",
+      "syllabus_content": [
+        "Collect, process and represent data; identify patterns, limitations and evidence-based conclusions."
+      ],
+      "outcome_codes": [
+        "SC4-DA1-01",
+        "SC4-WS-06",
+        "SC4-WS-07"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-8-Science-Guided-Course/modules/y8s-m01/index.html#section-m01-s01"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "M01-S01"
+      ],
+      "number": 1
+    },
+    {
+      "type": "Site/theory",
+      "focus": "Module 1: Scientific questions and collecting datasets",
+      "student_work": "Read the linked learning section; complete each 10-question check and saved response.",
+      "evidence": "Check feedback and response evidence: M01-S02.",
+      "syllabus_content": [
+        "Collect, process and represent data; identify patterns, limitations and evidence-based conclusions."
+      ],
+      "outcome_codes": [
+        "SC4-DA1-01",
+        "SC4-WS-06",
+        "SC4-WS-07"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-8-Science-Guided-Course/modules/y8s-m01/index.html#section-m01-s02"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "M01-S02"
+      ],
+      "number": 2
+    },
+    {
+      "type": "Site/theory",
+      "focus": "Module 1: Analysing datasets, patterns and solutions",
+      "student_work": "Read the linked learning section; complete each 10-question check and saved response.",
+      "evidence": "Check feedback and response evidence: M01-S03.",
+      "syllabus_content": [
+        "Collect, process and represent data; identify patterns, limitations and evidence-based conclusions."
+      ],
+      "outcome_codes": [
+        "SC4-DA1-01",
+        "SC4-WS-06",
+        "SC4-WS-07"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-8-Science-Guided-Course/modules/y8s-m01/index.html#section-m01-s03"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "M01-S03"
+      ],
+      "number": 3
+    },
+    {
+      "type": "Project/folio",
+      "focus": "Module 1: consolidate folio and project evidence",
+      "student_work": "Review saved responses; organise evidence, feedback and evaluation against the current teacher direction.",
+      "evidence": "Folio entry, source record, planning/evaluation note or depth-study evidence as applicable.",
+      "syllabus_content": [
+        "Collect, process and represent data; identify patterns, limitations and evidence-based conclusions."
+      ],
+      "outcome_codes": [
+        "SC4-DA1-01",
+        "SC4-WS-06",
+        "SC4-WS-07"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-8-Science-Guided-Course/modules/y8s-m01/index.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-SCI-05"
+      ],
+      "website_learning_ids": [],
+      "number": 4
+    },
+    {
+      "type": "Project/folio",
+      "focus": "Module 1: consolidate folio and project evidence",
+      "student_work": "Review saved responses; organise evidence, feedback and evaluation against the current teacher direction.",
+      "evidence": "Folio entry, source record, planning/evaluation note or depth-study evidence as applicable.",
+      "syllabus_content": [
+        "Collect, process and represent data; identify patterns, limitations and evidence-based conclusions."
+      ],
+      "outcome_codes": [
+        "SC4-DA1-01",
+        "SC4-WS-06",
+        "SC4-WS-07"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-8-Science-Guided-Course/modules/y8s-m01/index.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-SCI-05"
+      ],
+      "website_learning_ids": [],
+      "number": 5
+    },
+    {
+      "type": "Project/folio",
+      "focus": "Module 1: consolidate folio and project evidence",
+      "student_work": "Review saved responses; organise evidence, feedback and evaluation against the current teacher direction.",
+      "evidence": "Folio entry, source record, planning/evaluation note or depth-study evidence as applicable.",
+      "syllabus_content": [
+        "Collect, process and represent data; identify patterns, limitations and evidence-based conclusions."
+      ],
+      "outcome_codes": [
+        "SC4-DA1-01",
+        "SC4-WS-06",
+        "SC4-WS-07"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-8-Science-Guided-Course/modules/y8s-m01/index.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-SCI-05"
+      ],
+      "website_learning_ids": [],
+      "number": 6
+    },
+    {
+      "type": "Project/folio",
+      "focus": "Module 1: consolidate folio and project evidence",
+      "student_work": "Review saved responses; organise evidence, feedback and evaluation against the current teacher direction.",
+      "evidence": "Folio entry, source record, planning/evaluation note or depth-study evidence as applicable.",
+      "syllabus_content": [
+        "Collect, process and represent data; identify patterns, limitations and evidence-based conclusions."
+      ],
+      "outcome_codes": [
+        "SC4-DA1-01",
+        "SC4-WS-06",
+        "SC4-WS-07"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-8-Science-Guided-Course/modules/y8s-m01/index.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-SCI-05"
+      ],
+      "website_learning_ids": [],
+      "number": 7
+    },
+    {
+      "type": "Project/folio",
+      "focus": "Module 1: consolidate folio and project evidence",
+      "student_work": "Review saved responses; organise evidence, feedback and evaluation against the current teacher direction.",
+      "evidence": "Folio entry, source record, planning/evaluation note or depth-study evidence as applicable.",
+      "syllabus_content": [
+        "Collect, process and represent data; identify patterns, limitations and evidence-based conclusions."
+      ],
+      "outcome_codes": [
+        "SC4-DA1-01",
+        "SC4-WS-06",
+        "SC4-WS-07"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-8-Science-Guided-Course/modules/y8s-m01/index.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-SCI-05"
+      ],
+      "website_learning_ids": [],
+      "number": 8
+    },
+    {
+      "type": "Project/folio",
+      "focus": "Module 1: consolidate folio and project evidence",
+      "student_work": "Review saved responses; organise evidence, feedback and evaluation against the current teacher direction.",
+      "evidence": "Folio entry, source record, planning/evaluation note or depth-study evidence as applicable.",
+      "syllabus_content": [
+        "Collect, process and represent data; identify patterns, limitations and evidence-based conclusions."
+      ],
+      "outcome_codes": [
+        "SC4-DA1-01",
+        "SC4-WS-06",
+        "SC4-WS-07"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-8-Science-Guided-Course/modules/y8s-m01/index.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-SCI-05"
+      ],
+      "website_learning_ids": [],
+      "number": 9
+    },
+    {
+      "type": "Project/folio",
+      "focus": "Module 1: consolidate folio and project evidence",
+      "student_work": "Review saved responses; organise evidence, feedback and evaluation against the current teacher direction.",
+      "evidence": "Folio entry, source record, planning/evaluation note or depth-study evidence as applicable.",
+      "syllabus_content": [
+        "Collect, process and represent data; identify patterns, limitations and evidence-based conclusions."
+      ],
+      "outcome_codes": [
+        "SC4-DA1-01",
+        "SC4-WS-06",
+        "SC4-WS-07"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-8-Science-Guided-Course/modules/y8s-m01/index.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-SCI-05"
+      ],
+      "website_learning_ids": [],
+      "number": 10
+    },
+    {
+      "type": "Practical",
+      "focus": "Module 1: teacher-authorised practical, investigation or production block",
+      "student_work": "Follow the current teacher demonstration and local procedure; record genuine observations, progress or test evidence.",
+      "evidence": "Teacher observation and authentic practical/production record; exact method and checkpoint Teacher to confirm.",
+      "syllabus_content": [
+        "Plan and undertake safe, valid investigations; collect and record observations and data."
+      ],
+      "outcome_codes": [
+        "SC4-DA1-01",
+        "SC4-WS-06",
+        "SC4-WS-07"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-SCI-02"
+      ],
+      "website_learning_ids": [],
+      "number": 11
+    },
+    {
+      "type": "Practical",
+      "focus": "Module 1: teacher-authorised practical, investigation or production block",
+      "student_work": "Follow the current teacher demonstration and local procedure; record genuine observations, progress or test evidence.",
+      "evidence": "Teacher observation and authentic practical/production record; exact method and checkpoint Teacher to confirm.",
+      "syllabus_content": [
+        "Plan and undertake safe, valid investigations; collect and record observations and data."
+      ],
+      "outcome_codes": [
+        "SC4-DA1-01",
+        "SC4-WS-06",
+        "SC4-WS-07"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-SCI-02"
+      ],
+      "website_learning_ids": [],
+      "number": 12
+    },
+    {
+      "type": "Practical",
+      "focus": "Module 1: teacher-authorised practical, investigation or production block",
+      "student_work": "Follow the current teacher demonstration and local procedure; record genuine observations, progress or test evidence.",
+      "evidence": "Teacher observation and authentic practical/production record; exact method and checkpoint Teacher to confirm.",
+      "syllabus_content": [
+        "Plan and undertake safe, valid investigations; collect and record observations and data."
+      ],
+      "outcome_codes": [
+        "SC4-DA1-01",
+        "SC4-WS-06",
+        "SC4-WS-07"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-SCI-02"
+      ],
+      "website_learning_ids": [],
+      "number": 13
+    },
+    {
+      "type": "Practical",
+      "focus": "Module 1: teacher-authorised practical, investigation or production block",
+      "student_work": "Follow the current teacher demonstration and local procedure; record genuine observations, progress or test evidence.",
+      "evidence": "Teacher observation and authentic practical/production record; exact method and checkpoint Teacher to confirm.",
+      "syllabus_content": [
+        "Plan and undertake safe, valid investigations; collect and record observations and data."
+      ],
+      "outcome_codes": [
+        "SC4-DA1-01",
+        "SC4-WS-06",
+        "SC4-WS-07"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-SCI-02"
+      ],
+      "website_learning_ids": [],
+      "number": 14
+    },
+    {
+      "type": "Practical",
+      "focus": "Module 1: teacher-authorised practical, investigation or production block",
+      "student_work": "Follow the current teacher demonstration and local procedure; record genuine observations, progress or test evidence.",
+      "evidence": "Teacher observation and authentic practical/production record; exact method and checkpoint Teacher to confirm.",
+      "syllabus_content": [
+        "Plan and undertake safe, valid investigations; collect and record observations and data."
+      ],
+      "outcome_codes": [
+        "SC4-DA1-01",
+        "SC4-WS-06",
+        "SC4-WS-07"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-SCI-02"
+      ],
+      "website_learning_ids": [],
+      "number": 15
+    },
+    {
+      "type": "Practical",
+      "focus": "Module 1: teacher-authorised practical, investigation or production block",
+      "student_work": "Follow the current teacher demonstration and local procedure; record genuine observations, progress or test evidence.",
+      "evidence": "Teacher observation and authentic practical/production record; exact method and checkpoint Teacher to confirm.",
+      "syllabus_content": [
+        "Plan and undertake safe, valid investigations; collect and record observations and data."
+      ],
+      "outcome_codes": [
+        "SC4-DA1-01",
+        "SC4-WS-06",
+        "SC4-WS-07"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-SCI-02"
+      ],
+      "website_learning_ids": [],
+      "number": 16
+    },
+    {
+      "type": "Practical",
+      "focus": "Module 1: teacher-authorised practical, investigation or production block",
+      "student_work": "Follow the current teacher demonstration and local procedure; record genuine observations, progress or test evidence.",
+      "evidence": "Teacher observation and authentic practical/production record; exact method and checkpoint Teacher to confirm.",
+      "syllabus_content": [
+        "Plan and undertake safe, valid investigations; collect and record observations and data."
+      ],
+      "outcome_codes": [
+        "SC4-DA1-01",
+        "SC4-WS-06",
+        "SC4-WS-07"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-SCI-02"
+      ],
+      "website_learning_ids": [],
+      "number": 17
+    },
+    {
+      "type": "Practical",
+      "focus": "Module 1: teacher-authorised practical, investigation or production block",
+      "student_work": "Follow the current teacher demonstration and local procedure; record genuine observations, progress or test evidence.",
+      "evidence": "Teacher observation and authentic practical/production record; exact method and checkpoint Teacher to confirm.",
+      "syllabus_content": [
+        "Plan and undertake safe, valid investigations; collect and record observations and data."
+      ],
+      "outcome_codes": [
+        "SC4-DA1-01",
+        "SC4-WS-06",
+        "SC4-WS-07"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-SCI-02"
+      ],
+      "website_learning_ids": [],
+      "number": 18
+    },
+    {
+      "type": "Practical",
+      "focus": "Module 1: teacher-authorised practical, investigation or production block",
+      "student_work": "Follow the current teacher demonstration and local procedure; record genuine observations, progress or test evidence.",
+      "evidence": "Teacher observation and authentic practical/production record; exact method and checkpoint Teacher to confirm.",
+      "syllabus_content": [
+        "Plan and undertake safe, valid investigations; collect and record observations and data."
+      ],
+      "outcome_codes": [
+        "SC4-DA1-01",
+        "SC4-WS-06",
+        "SC4-WS-07"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-SCI-02"
+      ],
+      "website_learning_ids": [],
+      "number": 19
+    },
+    {
+      "type": "Practical",
+      "focus": "Module 1: teacher-authorised practical, investigation or production block",
+      "student_work": "Follow the current teacher demonstration and local procedure; record genuine observations, progress or test evidence.",
+      "evidence": "Teacher observation and authentic practical/production record; exact method and checkpoint Teacher to confirm.",
+      "syllabus_content": [
+        "Plan and undertake safe, valid investigations; collect and record observations and data."
+      ],
+      "outcome_codes": [
+        "SC4-DA1-01",
+        "SC4-WS-06",
+        "SC4-WS-07"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-SCI-02"
+      ],
+      "website_learning_ids": [],
+      "number": 20
+    },
+    {
+      "type": "Site/theory",
+      "focus": "Module 2: Human body systems",
+      "student_work": "Read the linked learning section; complete each 10-question check and saved response.",
+      "evidence": "Check feedback and response evidence: M02-S01.",
+      "syllabus_content": [
+        "Explain structures, functions and interactions in living systems using scientific evidence."
+      ],
+      "outcome_codes": [
+        "SC4-LIV-01",
+        "SC4-WS-02",
+        "SC4-WS-05",
+        "SC4-WS-08"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-8-Science-Guided-Course/modules/y8s-m02/index.html#section-m02-s01"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "M02-S01"
+      ],
+      "number": 21
+    },
+    {
+      "type": "Site/theory",
+      "focus": "Module 2: Plant systems",
+      "student_work": "Read the linked learning section; complete each 10-question check and saved response.",
+      "evidence": "Check feedback and response evidence: M02-S02.",
+      "syllabus_content": [
+        "Explain structures, functions and interactions in living systems using scientific evidence."
+      ],
+      "outcome_codes": [
+        "SC4-LIV-01",
+        "SC4-WS-02",
+        "SC4-WS-05",
+        "SC4-WS-08"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-8-Science-Guided-Course/modules/y8s-m02/index.html#section-m02-s02"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "M02-S02"
+      ],
+      "number": 22
+    },
+    {
+      "type": "Site/theory",
+      "focus": "Module 2: Ecosystems, energy, populations and extinction",
+      "student_work": "Read the linked learning section; complete each 10-question check and saved response.",
+      "evidence": "Check feedback and response evidence: M02-S03.",
+      "syllabus_content": [
+        "Explain structures, functions and interactions in living systems using scientific evidence."
+      ],
+      "outcome_codes": [
+        "SC4-LIV-01",
+        "SC4-WS-02",
+        "SC4-WS-05",
+        "SC4-WS-08"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-8-Science-Guided-Course/modules/y8s-m02/index.html#section-m02-s03"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "M02-S03"
+      ],
+      "number": 23
+    },
+    {
+      "type": "Project/folio",
+      "focus": "Module 2: consolidate folio and project evidence",
+      "student_work": "Review saved responses; organise evidence, feedback and evaluation against the current teacher direction.",
+      "evidence": "Folio entry, source record, planning/evaluation note or depth-study evidence as applicable.",
+      "syllabus_content": [
+        "Explain structures, functions and interactions in living systems using scientific evidence."
+      ],
+      "outcome_codes": [
+        "SC4-LIV-01",
+        "SC4-WS-02",
+        "SC4-WS-05",
+        "SC4-WS-08"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-8-Science-Guided-Course/modules/y8s-m02/index.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-SCI-05"
+      ],
+      "website_learning_ids": [],
+      "number": 24
+    },
+    {
+      "type": "Project/folio",
+      "focus": "Module 2: consolidate folio and project evidence",
+      "student_work": "Review saved responses; organise evidence, feedback and evaluation against the current teacher direction.",
+      "evidence": "Folio entry, source record, planning/evaluation note or depth-study evidence as applicable.",
+      "syllabus_content": [
+        "Explain structures, functions and interactions in living systems using scientific evidence."
+      ],
+      "outcome_codes": [
+        "SC4-LIV-01",
+        "SC4-WS-02",
+        "SC4-WS-05",
+        "SC4-WS-08"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-8-Science-Guided-Course/modules/y8s-m02/index.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-SCI-05"
+      ],
+      "website_learning_ids": [],
+      "number": 25
+    },
+    {
+      "type": "Project/folio",
+      "focus": "Module 2: consolidate folio and project evidence",
+      "student_work": "Review saved responses; organise evidence, feedback and evaluation against the current teacher direction.",
+      "evidence": "Folio entry, source record, planning/evaluation note or depth-study evidence as applicable.",
+      "syllabus_content": [
+        "Explain structures, functions and interactions in living systems using scientific evidence."
+      ],
+      "outcome_codes": [
+        "SC4-LIV-01",
+        "SC4-WS-02",
+        "SC4-WS-05",
+        "SC4-WS-08"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-8-Science-Guided-Course/modules/y8s-m02/index.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-SCI-05"
+      ],
+      "website_learning_ids": [],
+      "number": 26
+    },
+    {
+      "type": "Project/folio",
+      "focus": "Module 2: consolidate folio and project evidence",
+      "student_work": "Review saved responses; organise evidence, feedback and evaluation against the current teacher direction.",
+      "evidence": "Folio entry, source record, planning/evaluation note or depth-study evidence as applicable.",
+      "syllabus_content": [
+        "Explain structures, functions and interactions in living systems using scientific evidence."
+      ],
+      "outcome_codes": [
+        "SC4-LIV-01",
+        "SC4-WS-02",
+        "SC4-WS-05",
+        "SC4-WS-08"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-8-Science-Guided-Course/modules/y8s-m02/index.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-SCI-05"
+      ],
+      "website_learning_ids": [],
+      "number": 27
+    },
+    {
+      "type": "Project/folio",
+      "focus": "Module 2: consolidate folio and project evidence",
+      "student_work": "Review saved responses; organise evidence, feedback and evaluation against the current teacher direction.",
+      "evidence": "Folio entry, source record, planning/evaluation note or depth-study evidence as applicable.",
+      "syllabus_content": [
+        "Explain structures, functions and interactions in living systems using scientific evidence."
+      ],
+      "outcome_codes": [
+        "SC4-LIV-01",
+        "SC4-WS-02",
+        "SC4-WS-05",
+        "SC4-WS-08"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-8-Science-Guided-Course/modules/y8s-m02/index.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-SCI-05"
+      ],
+      "website_learning_ids": [],
+      "number": 28
+    },
+    {
+      "type": "Project/folio",
+      "focus": "Module 2: consolidate folio and project evidence",
+      "student_work": "Review saved responses; organise evidence, feedback and evaluation against the current teacher direction.",
+      "evidence": "Folio entry, source record, planning/evaluation note or depth-study evidence as applicable.",
+      "syllabus_content": [
+        "Explain structures, functions and interactions in living systems using scientific evidence."
+      ],
+      "outcome_codes": [
+        "SC4-LIV-01",
+        "SC4-WS-02",
+        "SC4-WS-05",
+        "SC4-WS-08"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-8-Science-Guided-Course/modules/y8s-m02/index.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-SCI-05"
+      ],
+      "website_learning_ids": [],
+      "number": 29
+    },
+    {
+      "type": "Project/folio",
+      "focus": "Module 2: consolidate folio and project evidence",
+      "student_work": "Review saved responses; organise evidence, feedback and evaluation against the current teacher direction.",
+      "evidence": "Folio entry, source record, planning/evaluation note or depth-study evidence as applicable.",
+      "syllabus_content": [
+        "Explain structures, functions and interactions in living systems using scientific evidence."
+      ],
+      "outcome_codes": [
+        "SC4-LIV-01",
+        "SC4-WS-02",
+        "SC4-WS-05",
+        "SC4-WS-08"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-8-Science-Guided-Course/modules/y8s-m02/index.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-SCI-05"
+      ],
+      "website_learning_ids": [],
+      "number": 30
+    },
+    {
+      "type": "Practical",
+      "focus": "Module 2: teacher-authorised practical, investigation or production block",
+      "student_work": "Follow the current teacher demonstration and local procedure; record genuine observations, progress or test evidence.",
+      "evidence": "Teacher observation and authentic practical/production record; exact method and checkpoint Teacher to confirm.",
+      "syllabus_content": [
+        "Plan and undertake safe, valid investigations; collect and record observations and data."
+      ],
+      "outcome_codes": [
+        "SC4-LIV-01",
+        "SC4-WS-02",
+        "SC4-WS-05",
+        "SC4-WS-08"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-SCI-02"
+      ],
+      "website_learning_ids": [],
+      "number": 31
+    },
+    {
+      "type": "Practical",
+      "focus": "Module 2: teacher-authorised practical, investigation or production block",
+      "student_work": "Follow the current teacher demonstration and local procedure; record genuine observations, progress or test evidence.",
+      "evidence": "Teacher observation and authentic practical/production record; exact method and checkpoint Teacher to confirm.",
+      "syllabus_content": [
+        "Plan and undertake safe, valid investigations; collect and record observations and data."
+      ],
+      "outcome_codes": [
+        "SC4-LIV-01",
+        "SC4-WS-02",
+        "SC4-WS-05",
+        "SC4-WS-08"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-SCI-02"
+      ],
+      "website_learning_ids": [],
+      "number": 32
+    },
+    {
+      "type": "Practical",
+      "focus": "Module 2: teacher-authorised practical, investigation or production block",
+      "student_work": "Follow the current teacher demonstration and local procedure; record genuine observations, progress or test evidence.",
+      "evidence": "Teacher observation and authentic practical/production record; exact method and checkpoint Teacher to confirm.",
+      "syllabus_content": [
+        "Plan and undertake safe, valid investigations; collect and record observations and data."
+      ],
+      "outcome_codes": [
+        "SC4-LIV-01",
+        "SC4-WS-02",
+        "SC4-WS-05",
+        "SC4-WS-08"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-SCI-02"
+      ],
+      "website_learning_ids": [],
+      "number": 33
+    },
+    {
+      "type": "Practical",
+      "focus": "Module 2: teacher-authorised practical, investigation or production block",
+      "student_work": "Follow the current teacher demonstration and local procedure; record genuine observations, progress or test evidence.",
+      "evidence": "Teacher observation and authentic practical/production record; exact method and checkpoint Teacher to confirm.",
+      "syllabus_content": [
+        "Plan and undertake safe, valid investigations; collect and record observations and data."
+      ],
+      "outcome_codes": [
+        "SC4-LIV-01",
+        "SC4-WS-02",
+        "SC4-WS-05",
+        "SC4-WS-08"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-SCI-02"
+      ],
+      "website_learning_ids": [],
+      "number": 34
+    },
+    {
+      "type": "Practical",
+      "focus": "Module 2: teacher-authorised practical, investigation or production block",
+      "student_work": "Follow the current teacher demonstration and local procedure; record genuine observations, progress or test evidence.",
+      "evidence": "Teacher observation and authentic practical/production record; exact method and checkpoint Teacher to confirm.",
+      "syllabus_content": [
+        "Plan and undertake safe, valid investigations; collect and record observations and data."
+      ],
+      "outcome_codes": [
+        "SC4-LIV-01",
+        "SC4-WS-02",
+        "SC4-WS-05",
+        "SC4-WS-08"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-SCI-02"
+      ],
+      "website_learning_ids": [],
+      "number": 35
+    },
+    {
+      "type": "Practical",
+      "focus": "Module 2: teacher-authorised practical, investigation or production block",
+      "student_work": "Follow the current teacher demonstration and local procedure; record genuine observations, progress or test evidence.",
+      "evidence": "Teacher observation and authentic practical/production record; exact method and checkpoint Teacher to confirm.",
+      "syllabus_content": [
+        "Plan and undertake safe, valid investigations; collect and record observations and data."
+      ],
+      "outcome_codes": [
+        "SC4-LIV-01",
+        "SC4-WS-02",
+        "SC4-WS-05",
+        "SC4-WS-08"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-SCI-02"
+      ],
+      "website_learning_ids": [],
+      "number": 36
+    },
+    {
+      "type": "Practical",
+      "focus": "Module 2: teacher-authorised practical, investigation or production block",
+      "student_work": "Follow the current teacher demonstration and local procedure; record genuine observations, progress or test evidence.",
+      "evidence": "Teacher observation and authentic practical/production record; exact method and checkpoint Teacher to confirm.",
+      "syllabus_content": [
+        "Plan and undertake safe, valid investigations; collect and record observations and data."
+      ],
+      "outcome_codes": [
+        "SC4-LIV-01",
+        "SC4-WS-02",
+        "SC4-WS-05",
+        "SC4-WS-08"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-SCI-02"
+      ],
+      "website_learning_ids": [],
+      "number": 37
+    },
+    {
+      "type": "Practical",
+      "focus": "Module 2: teacher-authorised practical, investigation or production block",
+      "student_work": "Follow the current teacher demonstration and local procedure; record genuine observations, progress or test evidence.",
+      "evidence": "Teacher observation and authentic practical/production record; exact method and checkpoint Teacher to confirm.",
+      "syllabus_content": [
+        "Plan and undertake safe, valid investigations; collect and record observations and data."
+      ],
+      "outcome_codes": [
+        "SC4-LIV-01",
+        "SC4-WS-02",
+        "SC4-WS-05",
+        "SC4-WS-08"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-SCI-02"
+      ],
+      "website_learning_ids": [],
+      "number": 38
+    },
+    {
+      "type": "Practical",
+      "focus": "Module 2: teacher-authorised practical, investigation or production block",
+      "student_work": "Follow the current teacher demonstration and local procedure; record genuine observations, progress or test evidence.",
+      "evidence": "Teacher observation and authentic practical/production record; exact method and checkpoint Teacher to confirm.",
+      "syllabus_content": [
+        "Plan and undertake safe, valid investigations; collect and record observations and data."
+      ],
+      "outcome_codes": [
+        "SC4-LIV-01",
+        "SC4-WS-02",
+        "SC4-WS-05",
+        "SC4-WS-08"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-SCI-02"
+      ],
+      "website_learning_ids": [],
+      "number": 39
+    },
+    {
+      "type": "Practical",
+      "focus": "Module 2: teacher-authorised practical, investigation or production block",
+      "student_work": "Follow the current teacher demonstration and local procedure; record genuine observations, progress or test evidence.",
+      "evidence": "Teacher observation and authentic practical/production record; exact method and checkpoint Teacher to confirm.",
+      "syllabus_content": [
+        "Plan and undertake safe, valid investigations; collect and record observations and data."
+      ],
+      "outcome_codes": [
+        "SC4-LIV-01",
+        "SC4-WS-02",
+        "SC4-WS-05",
+        "SC4-WS-08"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-SCI-02"
+      ],
+      "website_learning_ids": [],
+      "number": 40
+    },
+    {
+      "type": "Site/theory",
+      "focus": "Module 3: Classification, properties and uses of matter",
+      "student_work": "Read the linked learning section; complete each 10-question check and saved response.",
+      "evidence": "Check feedback and response evidence: M03-S01.",
+      "syllabus_content": [
+        "Use properties, atomic structure and scientific models to classify and explain matter."
+      ],
+      "outcome_codes": [
+        "SC4-PRT-01",
+        "SC4-WS-05",
+        "SC4-WS-06"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-8-Science-Guided-Course/modules/y8s-m03/index.html#section-m03-s01"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "M03-S01"
+      ],
+      "number": 41
+    },
+    {
+      "type": "Site/theory",
+      "focus": "Module 3: Atomic structure and changing models",
+      "student_work": "Read the linked learning section; complete each 10-question check and saved response.",
+      "evidence": "Check feedback and response evidence: M03-S02.",
+      "syllabus_content": [
+        "Collect, process and represent data; identify patterns, limitations and evidence-based conclusions."
+      ],
+      "outcome_codes": [
+        "SC4-PRT-01",
+        "SC4-WS-05",
+        "SC4-WS-06"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-8-Science-Guided-Course/modules/y8s-m03/index.html#section-m03-s02"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "M03-S02"
+      ],
+      "number": 42
+    },
+    {
+      "type": "Site/theory",
+      "focus": "Module 3: Periodic patterns, symbols and the first 18 elements",
+      "student_work": "Read the linked learning section; complete each 10-question check and saved response.",
+      "evidence": "Check feedback and response evidence: M03-S03.",
+      "syllabus_content": [
+        "Use properties, atomic structure and scientific models to classify and explain matter."
+      ],
+      "outcome_codes": [
+        "SC4-PRT-01",
+        "SC4-WS-05",
+        "SC4-WS-06"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-8-Science-Guided-Course/modules/y8s-m03/index.html#section-m03-s03"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "M03-S03"
+      ],
+      "number": 43
+    },
+    {
+      "type": "Project/folio",
+      "focus": "Module 3: consolidate folio and project evidence",
+      "student_work": "Review saved responses; organise evidence, feedback and evaluation against the current teacher direction.",
+      "evidence": "Folio entry, source record, planning/evaluation note or depth-study evidence as applicable.",
+      "syllabus_content": [
+        "Use properties, atomic structure and scientific models to classify and explain matter."
+      ],
+      "outcome_codes": [
+        "SC4-PRT-01",
+        "SC4-WS-05",
+        "SC4-WS-06"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-8-Science-Guided-Course/modules/y8s-m03/index.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-SCI-05"
+      ],
+      "website_learning_ids": [],
+      "number": 44
+    },
+    {
+      "type": "Project/folio",
+      "focus": "Module 3: consolidate folio and project evidence",
+      "student_work": "Review saved responses; organise evidence, feedback and evaluation against the current teacher direction.",
+      "evidence": "Folio entry, source record, planning/evaluation note or depth-study evidence as applicable.",
+      "syllabus_content": [
+        "Use properties, atomic structure and scientific models to classify and explain matter."
+      ],
+      "outcome_codes": [
+        "SC4-PRT-01",
+        "SC4-WS-05",
+        "SC4-WS-06"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-8-Science-Guided-Course/modules/y8s-m03/index.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-SCI-05"
+      ],
+      "website_learning_ids": [],
+      "number": 45
+    },
+    {
+      "type": "Project/folio",
+      "focus": "Module 3: consolidate folio and project evidence",
+      "student_work": "Review saved responses; organise evidence, feedback and evaluation against the current teacher direction.",
+      "evidence": "Folio entry, source record, planning/evaluation note or depth-study evidence as applicable.",
+      "syllabus_content": [
+        "Use properties, atomic structure and scientific models to classify and explain matter."
+      ],
+      "outcome_codes": [
+        "SC4-PRT-01",
+        "SC4-WS-05",
+        "SC4-WS-06"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-8-Science-Guided-Course/modules/y8s-m03/index.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-SCI-05"
+      ],
+      "website_learning_ids": [],
+      "number": 46
+    },
+    {
+      "type": "Project/folio",
+      "focus": "Module 3: consolidate folio and project evidence",
+      "student_work": "Review saved responses; organise evidence, feedback and evaluation against the current teacher direction.",
+      "evidence": "Folio entry, source record, planning/evaluation note or depth-study evidence as applicable.",
+      "syllabus_content": [
+        "Use properties, atomic structure and scientific models to classify and explain matter."
+      ],
+      "outcome_codes": [
+        "SC4-PRT-01",
+        "SC4-WS-05",
+        "SC4-WS-06"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-8-Science-Guided-Course/modules/y8s-m03/index.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-SCI-05"
+      ],
+      "website_learning_ids": [],
+      "number": 47
+    },
+    {
+      "type": "Project/folio",
+      "focus": "Module 3: consolidate folio and project evidence",
+      "student_work": "Review saved responses; organise evidence, feedback and evaluation against the current teacher direction.",
+      "evidence": "Folio entry, source record, planning/evaluation note or depth-study evidence as applicable.",
+      "syllabus_content": [
+        "Use properties, atomic structure and scientific models to classify and explain matter."
+      ],
+      "outcome_codes": [
+        "SC4-PRT-01",
+        "SC4-WS-05",
+        "SC4-WS-06"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-8-Science-Guided-Course/modules/y8s-m03/index.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-SCI-05"
+      ],
+      "website_learning_ids": [],
+      "number": 48
+    },
+    {
+      "type": "Project/folio",
+      "focus": "Module 3: consolidate folio and project evidence",
+      "student_work": "Review saved responses; organise evidence, feedback and evaluation against the current teacher direction.",
+      "evidence": "Folio entry, source record, planning/evaluation note or depth-study evidence as applicable.",
+      "syllabus_content": [
+        "Use properties, atomic structure and scientific models to classify and explain matter."
+      ],
+      "outcome_codes": [
+        "SC4-PRT-01",
+        "SC4-WS-05",
+        "SC4-WS-06"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-8-Science-Guided-Course/modules/y8s-m03/index.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-SCI-05"
+      ],
+      "website_learning_ids": [],
+      "number": 49
+    },
+    {
+      "type": "Project/folio",
+      "focus": "Module 3: consolidate folio and project evidence",
+      "student_work": "Review saved responses; organise evidence, feedback and evaluation against the current teacher direction.",
+      "evidence": "Folio entry, source record, planning/evaluation note or depth-study evidence as applicable.",
+      "syllabus_content": [
+        "Use properties, atomic structure and scientific models to classify and explain matter."
+      ],
+      "outcome_codes": [
+        "SC4-PRT-01",
+        "SC4-WS-05",
+        "SC4-WS-06"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-8-Science-Guided-Course/modules/y8s-m03/index.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-SCI-05"
+      ],
+      "website_learning_ids": [],
+      "number": 50
+    },
+    {
+      "type": "Practical",
+      "focus": "Module 3: teacher-authorised practical, investigation or production block",
+      "student_work": "Follow the current teacher demonstration and local procedure; record genuine observations, progress or test evidence.",
+      "evidence": "Teacher observation and authentic practical/production record; exact method and checkpoint Teacher to confirm.",
+      "syllabus_content": [
+        "Plan and undertake safe, valid investigations; collect and record observations and data."
+      ],
+      "outcome_codes": [
+        "SC4-PRT-01",
+        "SC4-WS-05",
+        "SC4-WS-06"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-SCI-02"
+      ],
+      "website_learning_ids": [],
+      "number": 51
+    },
+    {
+      "type": "Practical",
+      "focus": "Module 3: teacher-authorised practical, investigation or production block",
+      "student_work": "Follow the current teacher demonstration and local procedure; record genuine observations, progress or test evidence.",
+      "evidence": "Teacher observation and authentic practical/production record; exact method and checkpoint Teacher to confirm.",
+      "syllabus_content": [
+        "Plan and undertake safe, valid investigations; collect and record observations and data."
+      ],
+      "outcome_codes": [
+        "SC4-PRT-01",
+        "SC4-WS-05",
+        "SC4-WS-06"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-SCI-02"
+      ],
+      "website_learning_ids": [],
+      "number": 52
+    },
+    {
+      "type": "Practical",
+      "focus": "Module 3: teacher-authorised practical, investigation or production block",
+      "student_work": "Follow the current teacher demonstration and local procedure; record genuine observations, progress or test evidence.",
+      "evidence": "Teacher observation and authentic practical/production record; exact method and checkpoint Teacher to confirm.",
+      "syllabus_content": [
+        "Plan and undertake safe, valid investigations; collect and record observations and data."
+      ],
+      "outcome_codes": [
+        "SC4-PRT-01",
+        "SC4-WS-05",
+        "SC4-WS-06"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-SCI-02"
+      ],
+      "website_learning_ids": [],
+      "number": 53
+    },
+    {
+      "type": "Practical",
+      "focus": "Module 3: teacher-authorised practical, investigation or production block",
+      "student_work": "Follow the current teacher demonstration and local procedure; record genuine observations, progress or test evidence.",
+      "evidence": "Teacher observation and authentic practical/production record; exact method and checkpoint Teacher to confirm.",
+      "syllabus_content": [
+        "Plan and undertake safe, valid investigations; collect and record observations and data."
+      ],
+      "outcome_codes": [
+        "SC4-PRT-01",
+        "SC4-WS-05",
+        "SC4-WS-06"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-SCI-02"
+      ],
+      "website_learning_ids": [],
+      "number": 54
+    },
+    {
+      "type": "Practical",
+      "focus": "Module 3: teacher-authorised practical, investigation or production block",
+      "student_work": "Follow the current teacher demonstration and local procedure; record genuine observations, progress or test evidence.",
+      "evidence": "Teacher observation and authentic practical/production record; exact method and checkpoint Teacher to confirm.",
+      "syllabus_content": [
+        "Plan and undertake safe, valid investigations; collect and record observations and data."
+      ],
+      "outcome_codes": [
+        "SC4-PRT-01",
+        "SC4-WS-05",
+        "SC4-WS-06"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-SCI-02"
+      ],
+      "website_learning_ids": [],
+      "number": 55
+    },
+    {
+      "type": "Practical",
+      "focus": "Module 3: teacher-authorised practical, investigation or production block",
+      "student_work": "Follow the current teacher demonstration and local procedure; record genuine observations, progress or test evidence.",
+      "evidence": "Teacher observation and authentic practical/production record; exact method and checkpoint Teacher to confirm.",
+      "syllabus_content": [
+        "Plan and undertake safe, valid investigations; collect and record observations and data."
+      ],
+      "outcome_codes": [
+        "SC4-PRT-01",
+        "SC4-WS-05",
+        "SC4-WS-06"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-SCI-02"
+      ],
+      "website_learning_ids": [],
+      "number": 56
+    },
+    {
+      "type": "Practical",
+      "focus": "Module 3: teacher-authorised practical, investigation or production block",
+      "student_work": "Follow the current teacher demonstration and local procedure; record genuine observations, progress or test evidence.",
+      "evidence": "Teacher observation and authentic practical/production record; exact method and checkpoint Teacher to confirm.",
+      "syllabus_content": [
+        "Plan and undertake safe, valid investigations; collect and record observations and data."
+      ],
+      "outcome_codes": [
+        "SC4-PRT-01",
+        "SC4-WS-05",
+        "SC4-WS-06"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-SCI-02"
+      ],
+      "website_learning_ids": [],
+      "number": 57
+    },
+    {
+      "type": "Practical",
+      "focus": "Module 3: teacher-authorised practical, investigation or production block",
+      "student_work": "Follow the current teacher demonstration and local procedure; record genuine observations, progress or test evidence.",
+      "evidence": "Teacher observation and authentic practical/production record; exact method and checkpoint Teacher to confirm.",
+      "syllabus_content": [
+        "Plan and undertake safe, valid investigations; collect and record observations and data."
+      ],
+      "outcome_codes": [
+        "SC4-PRT-01",
+        "SC4-WS-05",
+        "SC4-WS-06"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-SCI-02"
+      ],
+      "website_learning_ids": [],
+      "number": 58
+    },
+    {
+      "type": "Practical",
+      "focus": "Module 3: teacher-authorised practical, investigation or production block",
+      "student_work": "Follow the current teacher demonstration and local procedure; record genuine observations, progress or test evidence.",
+      "evidence": "Teacher observation and authentic practical/production record; exact method and checkpoint Teacher to confirm.",
+      "syllabus_content": [
+        "Plan and undertake safe, valid investigations; collect and record observations and data."
+      ],
+      "outcome_codes": [
+        "SC4-PRT-01",
+        "SC4-WS-05",
+        "SC4-WS-06"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-SCI-02"
+      ],
+      "website_learning_ids": [],
+      "number": 59
+    },
+    {
+      "type": "Practical",
+      "focus": "Module 3: teacher-authorised practical, investigation or production block",
+      "student_work": "Follow the current teacher demonstration and local procedure; record genuine observations, progress or test evidence.",
+      "evidence": "Teacher observation and authentic practical/production record; exact method and checkpoint Teacher to confirm.",
+      "syllabus_content": [
+        "Plan and undertake safe, valid investigations; collect and record observations and data."
+      ],
+      "outcome_codes": [
+        "SC4-PRT-01",
+        "SC4-WS-05",
+        "SC4-WS-06"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-SCI-02"
+      ],
+      "website_learning_ids": [],
+      "number": 60
+    },
+    {
+      "type": "Site/theory",
+      "focus": "Module 4: Energy transfers, stores and systems",
+      "student_work": "Read the linked learning section; complete each 10-question check and saved response.",
+      "evidence": "Check feedback and response evidence: M04-S01.",
+      "syllabus_content": [
+        "Use evidence to explain physical, chemical or geological change and communicate scientific ideas."
+      ],
+      "outcome_codes": [
+        "SC4-CHG-01",
+        "SC4-WS-01",
+        "SC4-WS-03",
+        "SC4-WS-04"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-8-Science-Guided-Course/modules/y8s-m04/index.html#section-m04-s01"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "M04-S01"
+      ],
+      "number": 61
+    },
+    {
+      "type": "Site/theory",
+      "focus": "Module 4: Physical and chemical change",
+      "student_work": "Read the linked learning section; complete each 10-question check and saved response.",
+      "evidence": "Check feedback and response evidence: M04-S02.",
+      "syllabus_content": [
+        "Use evidence to explain physical, chemical or geological change and communicate scientific ideas."
+      ],
+      "outcome_codes": [
+        "SC4-CHG-01",
+        "SC4-WS-01",
+        "SC4-WS-03",
+        "SC4-WS-04"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-8-Science-Guided-Course/modules/y8s-m04/index.html#section-m04-s02"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "M04-S02"
+      ],
+      "number": 62
+    },
+    {
+      "type": "Site/theory",
+      "focus": "Module 4: Geological change, rocks, fossils and plate evidence",
+      "student_work": "Read the linked learning section; complete each 10-question check and saved response.",
+      "evidence": "Check feedback and response evidence: M04-S03.",
+      "syllabus_content": [
+        "Use evidence to explain physical, chemical or geological change and communicate scientific ideas."
+      ],
+      "outcome_codes": [
+        "SC4-CHG-01",
+        "SC4-WS-01",
+        "SC4-WS-03",
+        "SC4-WS-04"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-8-Science-Guided-Course/modules/y8s-m04/index.html#section-m04-s03"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "M04-S03"
+      ],
+      "number": 63
+    },
+    {
+      "type": "Project/folio",
+      "focus": "Module 4: consolidate folio and project evidence",
+      "student_work": "Review saved responses; organise evidence, feedback and evaluation against the current teacher direction.",
+      "evidence": "Folio entry, source record, planning/evaluation note or depth-study evidence as applicable.",
+      "syllabus_content": [
+        "Use evidence to explain physical, chemical or geological change and communicate scientific ideas."
+      ],
+      "outcome_codes": [
+        "SC4-CHG-01",
+        "SC4-WS-01",
+        "SC4-WS-03",
+        "SC4-WS-04"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-8-Science-Guided-Course/modules/y8s-m04/index.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-SCI-05"
+      ],
+      "website_learning_ids": [],
+      "number": 64
+    },
+    {
+      "type": "Project/folio",
+      "focus": "Module 4: consolidate folio and project evidence",
+      "student_work": "Review saved responses; organise evidence, feedback and evaluation against the current teacher direction.",
+      "evidence": "Folio entry, source record, planning/evaluation note or depth-study evidence as applicable.",
+      "syllabus_content": [
+        "Use evidence to explain physical, chemical or geological change and communicate scientific ideas."
+      ],
+      "outcome_codes": [
+        "SC4-CHG-01",
+        "SC4-WS-01",
+        "SC4-WS-03",
+        "SC4-WS-04"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-8-Science-Guided-Course/modules/y8s-m04/index.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-SCI-05"
+      ],
+      "website_learning_ids": [],
+      "number": 65
+    },
+    {
+      "type": "Project/folio",
+      "focus": "Module 4: consolidate folio and project evidence",
+      "student_work": "Review saved responses; organise evidence, feedback and evaluation against the current teacher direction.",
+      "evidence": "Folio entry, source record, planning/evaluation note or depth-study evidence as applicable.",
+      "syllabus_content": [
+        "Use evidence to explain physical, chemical or geological change and communicate scientific ideas."
+      ],
+      "outcome_codes": [
+        "SC4-CHG-01",
+        "SC4-WS-01",
+        "SC4-WS-03",
+        "SC4-WS-04"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-8-Science-Guided-Course/modules/y8s-m04/index.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-SCI-05"
+      ],
+      "website_learning_ids": [],
+      "number": 66
+    },
+    {
+      "type": "Project/folio",
+      "focus": "Module 4: consolidate folio and project evidence",
+      "student_work": "Review saved responses; organise evidence, feedback and evaluation against the current teacher direction.",
+      "evidence": "Folio entry, source record, planning/evaluation note or depth-study evidence as applicable.",
+      "syllabus_content": [
+        "Use evidence to explain physical, chemical or geological change and communicate scientific ideas."
+      ],
+      "outcome_codes": [
+        "SC4-CHG-01",
+        "SC4-WS-01",
+        "SC4-WS-03",
+        "SC4-WS-04"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-8-Science-Guided-Course/modules/y8s-m04/index.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-SCI-05"
+      ],
+      "website_learning_ids": [],
+      "number": 67
+    },
+    {
+      "type": "Project/folio",
+      "focus": "Module 4: consolidate folio and project evidence",
+      "student_work": "Review saved responses; organise evidence, feedback and evaluation against the current teacher direction.",
+      "evidence": "Folio entry, source record, planning/evaluation note or depth-study evidence as applicable.",
+      "syllabus_content": [
+        "Use evidence to explain physical, chemical or geological change and communicate scientific ideas."
+      ],
+      "outcome_codes": [
+        "SC4-CHG-01",
+        "SC4-WS-01",
+        "SC4-WS-03",
+        "SC4-WS-04"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-8-Science-Guided-Course/modules/y8s-m04/index.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-SCI-05"
+      ],
+      "website_learning_ids": [],
+      "number": 68
+    },
+    {
+      "type": "Project/folio",
+      "focus": "Module 4: consolidate folio and project evidence",
+      "student_work": "Review saved responses; organise evidence, feedback and evaluation against the current teacher direction.",
+      "evidence": "Folio entry, source record, planning/evaluation note or depth-study evidence as applicable.",
+      "syllabus_content": [
+        "Use evidence to explain physical, chemical or geological change and communicate scientific ideas."
+      ],
+      "outcome_codes": [
+        "SC4-CHG-01",
+        "SC4-WS-01",
+        "SC4-WS-03",
+        "SC4-WS-04"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-8-Science-Guided-Course/modules/y8s-m04/index.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-SCI-05"
+      ],
+      "website_learning_ids": [],
+      "number": 69
+    },
+    {
+      "type": "Project/folio",
+      "focus": "Module 4: consolidate folio and project evidence",
+      "student_work": "Review saved responses; organise evidence, feedback and evaluation against the current teacher direction.",
+      "evidence": "Folio entry, source record, planning/evaluation note or depth-study evidence as applicable.",
+      "syllabus_content": [
+        "Use evidence to explain physical, chemical or geological change and communicate scientific ideas."
+      ],
+      "outcome_codes": [
+        "SC4-CHG-01",
+        "SC4-WS-01",
+        "SC4-WS-03",
+        "SC4-WS-04"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-8-Science-Guided-Course/modules/y8s-m04/index.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-SCI-05"
+      ],
+      "website_learning_ids": [],
+      "number": 70
+    },
+    {
+      "type": "Practical",
+      "focus": "Module 4: teacher-authorised practical, investigation or production block",
+      "student_work": "Follow the current teacher demonstration and local procedure; record genuine observations, progress or test evidence.",
+      "evidence": "Teacher observation and authentic practical/production record; exact method and checkpoint Teacher to confirm.",
+      "syllabus_content": [
+        "Plan and undertake safe, valid investigations; collect and record observations and data."
+      ],
+      "outcome_codes": [
+        "SC4-CHG-01",
+        "SC4-WS-01",
+        "SC4-WS-03",
+        "SC4-WS-04"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-SCI-02"
+      ],
+      "website_learning_ids": [],
+      "number": 71
+    },
+    {
+      "type": "Practical",
+      "focus": "Module 4: teacher-authorised practical, investigation or production block",
+      "student_work": "Follow the current teacher demonstration and local procedure; record genuine observations, progress or test evidence.",
+      "evidence": "Teacher observation and authentic practical/production record; exact method and checkpoint Teacher to confirm.",
+      "syllabus_content": [
+        "Plan and undertake safe, valid investigations; collect and record observations and data."
+      ],
+      "outcome_codes": [
+        "SC4-CHG-01",
+        "SC4-WS-01",
+        "SC4-WS-03",
+        "SC4-WS-04"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-SCI-02"
+      ],
+      "website_learning_ids": [],
+      "number": 72
+    },
+    {
+      "type": "Practical",
+      "focus": "Module 4: teacher-authorised practical, investigation or production block",
+      "student_work": "Follow the current teacher demonstration and local procedure; record genuine observations, progress or test evidence.",
+      "evidence": "Teacher observation and authentic practical/production record; exact method and checkpoint Teacher to confirm.",
+      "syllabus_content": [
+        "Plan and undertake safe, valid investigations; collect and record observations and data."
+      ],
+      "outcome_codes": [
+        "SC4-CHG-01",
+        "SC4-WS-01",
+        "SC4-WS-03",
+        "SC4-WS-04"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-SCI-02"
+      ],
+      "website_learning_ids": [],
+      "number": 73
+    },
+    {
+      "type": "Practical",
+      "focus": "Module 4: teacher-authorised practical, investigation or production block",
+      "student_work": "Follow the current teacher demonstration and local procedure; record genuine observations, progress or test evidence.",
+      "evidence": "Teacher observation and authentic practical/production record; exact method and checkpoint Teacher to confirm.",
+      "syllabus_content": [
+        "Plan and undertake safe, valid investigations; collect and record observations and data."
+      ],
+      "outcome_codes": [
+        "SC4-CHG-01",
+        "SC4-WS-01",
+        "SC4-WS-03",
+        "SC4-WS-04"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-SCI-02"
+      ],
+      "website_learning_ids": [],
+      "number": 74
+    },
+    {
+      "type": "Practical",
+      "focus": "Module 4: teacher-authorised practical, investigation or production block",
+      "student_work": "Follow the current teacher demonstration and local procedure; record genuine observations, progress or test evidence.",
+      "evidence": "Teacher observation and authentic practical/production record; exact method and checkpoint Teacher to confirm.",
+      "syllabus_content": [
+        "Plan and undertake safe, valid investigations; collect and record observations and data."
+      ],
+      "outcome_codes": [
+        "SC4-CHG-01",
+        "SC4-WS-01",
+        "SC4-WS-03",
+        "SC4-WS-04"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-SCI-02"
+      ],
+      "website_learning_ids": [],
+      "number": 75
+    },
+    {
+      "type": "Practical",
+      "focus": "Module 4: teacher-authorised practical, investigation or production block",
+      "student_work": "Follow the current teacher demonstration and local procedure; record genuine observations, progress or test evidence.",
+      "evidence": "Teacher observation and authentic practical/production record; exact method and checkpoint Teacher to confirm.",
+      "syllabus_content": [
+        "Plan and undertake safe, valid investigations; collect and record observations and data."
+      ],
+      "outcome_codes": [
+        "SC4-CHG-01",
+        "SC4-WS-01",
+        "SC4-WS-03",
+        "SC4-WS-04"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-SCI-02"
+      ],
+      "website_learning_ids": [],
+      "number": 76
+    },
+    {
+      "type": "Practical",
+      "focus": "Module 4: teacher-authorised practical, investigation or production block",
+      "student_work": "Follow the current teacher demonstration and local procedure; record genuine observations, progress or test evidence.",
+      "evidence": "Teacher observation and authentic practical/production record; exact method and checkpoint Teacher to confirm.",
+      "syllabus_content": [
+        "Plan and undertake safe, valid investigations; collect and record observations and data."
+      ],
+      "outcome_codes": [
+        "SC4-CHG-01",
+        "SC4-WS-01",
+        "SC4-WS-03",
+        "SC4-WS-04"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-SCI-02"
+      ],
+      "website_learning_ids": [],
+      "number": 77
+    },
+    {
+      "type": "Practical",
+      "focus": "Module 4: teacher-authorised practical, investigation or production block",
+      "student_work": "Follow the current teacher demonstration and local procedure; record genuine observations, progress or test evidence.",
+      "evidence": "Teacher observation and authentic practical/production record; exact method and checkpoint Teacher to confirm.",
+      "syllabus_content": [
+        "Plan and undertake safe, valid investigations; collect and record observations and data."
+      ],
+      "outcome_codes": [
+        "SC4-CHG-01",
+        "SC4-WS-01",
+        "SC4-WS-03",
+        "SC4-WS-04"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-SCI-02"
+      ],
+      "website_learning_ids": [],
+      "number": 78
+    },
+    {
+      "type": "Practical",
+      "focus": "Module 4: teacher-authorised practical, investigation or production block",
+      "student_work": "Follow the current teacher demonstration and local procedure; record genuine observations, progress or test evidence.",
+      "evidence": "Teacher observation and authentic practical/production record; exact method and checkpoint Teacher to confirm.",
+      "syllabus_content": [
+        "Plan and undertake safe, valid investigations; collect and record observations and data."
+      ],
+      "outcome_codes": [
+        "SC4-CHG-01",
+        "SC4-WS-01",
+        "SC4-WS-03",
+        "SC4-WS-04"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-SCI-02"
+      ],
+      "website_learning_ids": [],
+      "number": 79
+    },
+    {
+      "type": "Practical",
+      "focus": "Module 4: teacher-authorised practical, investigation or production block",
+      "student_work": "Follow the current teacher demonstration and local procedure; record genuine observations, progress or test evidence.",
+      "evidence": "Teacher observation and authentic practical/production record; exact method and checkpoint Teacher to confirm.",
+      "syllabus_content": [
+        "Plan and undertake safe, valid investigations; collect and record observations and data."
+      ],
+      "outcome_codes": [
+        "SC4-CHG-01",
+        "SC4-WS-01",
+        "SC4-WS-03",
+        "SC4-WS-04"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-SCI-02"
+      ],
+      "website_learning_ids": [],
+      "number": 80
+    },
+    {
+      "type": "Site/theory",
+      "focus": "Module 5: Scientific models and evidence",
+      "student_work": "Read the linked learning section; complete each 10-question check and saved response.",
+      "evidence": "Check feedback and response evidence: M05-S01.",
+      "syllabus_content": [
+        "Collect, process and represent data; identify patterns, limitations and evidence-based conclusions."
+      ],
+      "outcome_codes": [
+        "SC4-DA1-01",
+        "SC4-WS-06",
+        "SC4-WS-07"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-8-Science-Guided-Course/modules/y8s-m05/index.html#section-m05-s01"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "M05-S01"
+      ],
+      "number": 81
+    },
+    {
+      "type": "Site/theory",
+      "focus": "Module 5: Simulations, predictions and applications of models",
+      "student_work": "Read the linked learning section; complete each 10-question check and saved response.",
+      "evidence": "Check feedback and response evidence: M05-S02.",
+      "syllabus_content": [
+        "Collect, process and represent data; identify patterns, limitations and evidence-based conclusions."
+      ],
+      "outcome_codes": [
+        "SC4-DA1-01",
+        "SC4-WS-06",
+        "SC4-WS-07"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-8-Science-Guided-Course/modules/y8s-m05/index.html#section-m05-s02"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "M05-S02"
+      ],
+      "number": 82
+    },
+    {
+      "type": "Site/theory",
+      "focus": "Module 5: Five-hour depth-study portfolio",
+      "student_work": "Read the linked learning section; complete each 10-question check and saved response.",
+      "evidence": "Check feedback and response evidence: M05-S03.",
+      "syllabus_content": [
+        "Use evidence to explain physical, chemical or geological change and communicate scientific ideas."
+      ],
+      "outcome_codes": [
+        "SC4-DA1-01",
+        "SC4-WS-06",
+        "SC4-WS-07"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-8-Science-Guided-Course/modules/y8s-m05/index.html#section-m05-s03"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "M05-S03"
+      ],
+      "number": 83
+    },
+    {
+      "type": "Project/folio",
+      "focus": "Module 5: consolidate folio and project evidence",
+      "student_work": "Review saved responses; organise evidence, feedback and evaluation against the current teacher direction.",
+      "evidence": "Folio entry, source record, planning/evaluation note or depth-study evidence as applicable.",
+      "syllabus_content": [
+        "Collect, process and represent data; identify patterns, limitations and evidence-based conclusions."
+      ],
+      "outcome_codes": [
+        "SC4-DA1-01",
+        "SC4-WS-06",
+        "SC4-WS-07"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-8-Science-Guided-Course/modules/y8s-m05/index.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-SCI-05"
+      ],
+      "website_learning_ids": [],
+      "number": 84
+    },
+    {
+      "type": "Project/folio",
+      "focus": "Module 5: consolidate folio and project evidence",
+      "student_work": "Review saved responses; organise evidence, feedback and evaluation against the current teacher direction.",
+      "evidence": "Folio entry, source record, planning/evaluation note or depth-study evidence as applicable.",
+      "syllabus_content": [
+        "Collect, process and represent data; identify patterns, limitations and evidence-based conclusions."
+      ],
+      "outcome_codes": [
+        "SC4-DA1-01",
+        "SC4-WS-06",
+        "SC4-WS-07"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-8-Science-Guided-Course/modules/y8s-m05/index.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-SCI-05"
+      ],
+      "website_learning_ids": [],
+      "number": 85
+    },
+    {
+      "type": "Project/folio",
+      "focus": "Module 5: consolidate folio and project evidence",
+      "student_work": "Review saved responses; organise evidence, feedback and evaluation against the current teacher direction.",
+      "evidence": "Folio entry, source record, planning/evaluation note or depth-study evidence as applicable.",
+      "syllabus_content": [
+        "Collect, process and represent data; identify patterns, limitations and evidence-based conclusions."
+      ],
+      "outcome_codes": [
+        "SC4-DA1-01",
+        "SC4-WS-06",
+        "SC4-WS-07"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-8-Science-Guided-Course/modules/y8s-m05/index.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-SCI-05"
+      ],
+      "website_learning_ids": [],
+      "number": 86
+    },
+    {
+      "type": "Project/folio",
+      "focus": "Module 5: consolidate folio and project evidence",
+      "student_work": "Review saved responses; organise evidence, feedback and evaluation against the current teacher direction.",
+      "evidence": "Folio entry, source record, planning/evaluation note or depth-study evidence as applicable.",
+      "syllabus_content": [
+        "Collect, process and represent data; identify patterns, limitations and evidence-based conclusions."
+      ],
+      "outcome_codes": [
+        "SC4-DA1-01",
+        "SC4-WS-06",
+        "SC4-WS-07"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-8-Science-Guided-Course/modules/y8s-m05/index.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-SCI-05"
+      ],
+      "website_learning_ids": [],
+      "number": 87
+    },
+    {
+      "type": "Project/folio",
+      "focus": "Module 5: consolidate folio and project evidence",
+      "student_work": "Review saved responses; organise evidence, feedback and evaluation against the current teacher direction.",
+      "evidence": "Folio entry, source record, planning/evaluation note or depth-study evidence as applicable.",
+      "syllabus_content": [
+        "Collect, process and represent data; identify patterns, limitations and evidence-based conclusions."
+      ],
+      "outcome_codes": [
+        "SC4-DA1-01",
+        "SC4-WS-06",
+        "SC4-WS-07"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-8-Science-Guided-Course/modules/y8s-m05/index.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-SCI-05"
+      ],
+      "website_learning_ids": [],
+      "number": 88
+    },
+    {
+      "type": "Project/folio",
+      "focus": "Module 5: consolidate folio and project evidence",
+      "student_work": "Review saved responses; organise evidence, feedback and evaluation against the current teacher direction.",
+      "evidence": "Folio entry, source record, planning/evaluation note or depth-study evidence as applicable.",
+      "syllabus_content": [
+        "Collect, process and represent data; identify patterns, limitations and evidence-based conclusions."
+      ],
+      "outcome_codes": [
+        "SC4-DA1-01",
+        "SC4-WS-06",
+        "SC4-WS-07"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-8-Science-Guided-Course/modules/y8s-m05/index.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-SCI-05"
+      ],
+      "website_learning_ids": [],
+      "number": 89
+    },
+    {
+      "type": "Project/folio",
+      "focus": "Module 5: consolidate folio and project evidence",
+      "student_work": "Review saved responses; organise evidence, feedback and evaluation against the current teacher direction.",
+      "evidence": "Folio entry, source record, planning/evaluation note or depth-study evidence as applicable.",
+      "syllabus_content": [
+        "Collect, process and represent data; identify patterns, limitations and evidence-based conclusions."
+      ],
+      "outcome_codes": [
+        "SC4-DA1-01",
+        "SC4-WS-06",
+        "SC4-WS-07"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-8-Science-Guided-Course/modules/y8s-m05/index.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [
+        "TTC-SCI-05"
+      ],
+      "website_learning_ids": [],
+      "number": 90
+    },
+    {
+      "type": "Practical",
+      "focus": "Module 5: teacher-authorised practical, investigation or production block",
+      "student_work": "Follow the current teacher demonstration and local procedure; record genuine observations, progress or test evidence.",
+      "evidence": "Teacher observation and authentic practical/production record; exact method and checkpoint Teacher to confirm.",
+      "syllabus_content": [
+        "Plan and undertake safe, valid investigations; collect and record observations and data."
+      ],
+      "outcome_codes": [
+        "SC4-DA1-01",
+        "SC4-WS-06",
+        "SC4-WS-07"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-SCI-02"
+      ],
+      "website_learning_ids": [],
+      "number": 91
+    },
+    {
+      "type": "Practical",
+      "focus": "Module 5: teacher-authorised practical, investigation or production block",
+      "student_work": "Follow the current teacher demonstration and local procedure; record genuine observations, progress or test evidence.",
+      "evidence": "Teacher observation and authentic practical/production record; exact method and checkpoint Teacher to confirm.",
+      "syllabus_content": [
+        "Plan and undertake safe, valid investigations; collect and record observations and data."
+      ],
+      "outcome_codes": [
+        "SC4-DA1-01",
+        "SC4-WS-06",
+        "SC4-WS-07"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-SCI-02"
+      ],
+      "website_learning_ids": [],
+      "number": 92
+    },
+    {
+      "type": "Practical",
+      "focus": "Module 5: teacher-authorised practical, investigation or production block",
+      "student_work": "Follow the current teacher demonstration and local procedure; record genuine observations, progress or test evidence.",
+      "evidence": "Teacher observation and authentic practical/production record; exact method and checkpoint Teacher to confirm.",
+      "syllabus_content": [
+        "Plan and undertake safe, valid investigations; collect and record observations and data."
+      ],
+      "outcome_codes": [
+        "SC4-DA1-01",
+        "SC4-WS-06",
+        "SC4-WS-07"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-SCI-02"
+      ],
+      "website_learning_ids": [],
+      "number": 93
+    },
+    {
+      "type": "Practical",
+      "focus": "Module 5: teacher-authorised practical, investigation or production block",
+      "student_work": "Follow the current teacher demonstration and local procedure; record genuine observations, progress or test evidence.",
+      "evidence": "Teacher observation and authentic practical/production record; exact method and checkpoint Teacher to confirm.",
+      "syllabus_content": [
+        "Plan and undertake safe, valid investigations; collect and record observations and data."
+      ],
+      "outcome_codes": [
+        "SC4-DA1-01",
+        "SC4-WS-06",
+        "SC4-WS-07"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-SCI-02"
+      ],
+      "website_learning_ids": [],
+      "number": 94
+    },
+    {
+      "type": "Practical",
+      "focus": "Module 5: teacher-authorised practical, investigation or production block",
+      "student_work": "Follow the current teacher demonstration and local procedure; record genuine observations, progress or test evidence.",
+      "evidence": "Teacher observation and authentic practical/production record; exact method and checkpoint Teacher to confirm.",
+      "syllabus_content": [
+        "Plan and undertake safe, valid investigations; collect and record observations and data."
+      ],
+      "outcome_codes": [
+        "SC4-DA1-01",
+        "SC4-WS-06",
+        "SC4-WS-07"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-SCI-02"
+      ],
+      "website_learning_ids": [],
+      "number": 95
+    },
+    {
+      "type": "Practical",
+      "focus": "Module 5: teacher-authorised practical, investigation or production block",
+      "student_work": "Follow the current teacher demonstration and local procedure; record genuine observations, progress or test evidence.",
+      "evidence": "Teacher observation and authentic practical/production record; exact method and checkpoint Teacher to confirm.",
+      "syllabus_content": [
+        "Plan and undertake safe, valid investigations; collect and record observations and data."
+      ],
+      "outcome_codes": [
+        "SC4-DA1-01",
+        "SC4-WS-06",
+        "SC4-WS-07"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-SCI-02"
+      ],
+      "website_learning_ids": [],
+      "number": 96
+    },
+    {
+      "type": "Practical",
+      "focus": "Module 5: teacher-authorised practical, investigation or production block",
+      "student_work": "Follow the current teacher demonstration and local procedure; record genuine observations, progress or test evidence.",
+      "evidence": "Teacher observation and authentic practical/production record; exact method and checkpoint Teacher to confirm.",
+      "syllabus_content": [
+        "Plan and undertake safe, valid investigations; collect and record observations and data."
+      ],
+      "outcome_codes": [
+        "SC4-DA1-01",
+        "SC4-WS-06",
+        "SC4-WS-07"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-SCI-02"
+      ],
+      "website_learning_ids": [],
+      "number": 97
+    },
+    {
+      "type": "Practical",
+      "focus": "Module 5: teacher-authorised practical, investigation or production block",
+      "student_work": "Follow the current teacher demonstration and local procedure; record genuine observations, progress or test evidence.",
+      "evidence": "Teacher observation and authentic practical/production record; exact method and checkpoint Teacher to confirm.",
+      "syllabus_content": [
+        "Plan and undertake safe, valid investigations; collect and record observations and data."
+      ],
+      "outcome_codes": [
+        "SC4-DA1-01",
+        "SC4-WS-06",
+        "SC4-WS-07"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-SCI-02"
+      ],
+      "website_learning_ids": [],
+      "number": 98
+    },
+    {
+      "type": "Practical",
+      "focus": "Module 5: teacher-authorised practical, investigation or production block",
+      "student_work": "Follow the current teacher demonstration and local procedure; record genuine observations, progress or test evidence.",
+      "evidence": "Teacher observation and authentic practical/production record; exact method and checkpoint Teacher to confirm.",
+      "syllabus_content": [
+        "Plan and undertake safe, valid investigations; collect and record observations and data."
+      ],
+      "outcome_codes": [
+        "SC4-DA1-01",
+        "SC4-WS-06",
+        "SC4-WS-07"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-SCI-02"
+      ],
+      "website_learning_ids": [],
+      "number": 99
+    },
+    {
+      "type": "Practical",
+      "focus": "Module 5: teacher-authorised practical, investigation or production block",
+      "student_work": "Follow the current teacher demonstration and local procedure; record genuine observations, progress or test evidence.",
+      "evidence": "Teacher observation and authentic practical/production record; exact method and checkpoint Teacher to confirm.",
+      "syllabus_content": [
+        "Plan and undertake safe, valid investigations; collect and record observations and data."
+      ],
+      "outcome_codes": [
+        "SC4-DA1-01",
+        "SC4-WS-06",
+        "SC4-WS-07"
+      ],
+      "source_ids": [
+        "SYL-01",
+        "SITE-01"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-SCI-02"
+      ],
+      "website_learning_ids": [],
+      "number": 100
+    }
+  ],
+  "site_route_map": [
+    {
+      "destination": "https://stevencowell.github.io/Year-8-Science-Guided-Course/modules/y8s-m01/index.html",
+      "purpose": "Module 1 saved written-response and evidence consolidation",
+      "audience": "student",
+      "period_numbers": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Year-8-Science-Guided-Course/modules/y8s-m02/index.html",
+      "purpose": "Module 2 saved written-response and evidence consolidation",
+      "audience": "student",
+      "period_numbers": [
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Year-8-Science-Guided-Course/modules/y8s-m03/index.html",
+      "purpose": "Module 3 saved written-response and evidence consolidation",
+      "audience": "student",
+      "period_numbers": [
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Year-8-Science-Guided-Course/modules/y8s-m04/index.html",
+      "purpose": "Module 4 saved written-response and evidence consolidation",
+      "audience": "student",
+      "period_numbers": [
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Year-8-Science-Guided-Course/modules/y8s-m05/index.html",
+      "purpose": "Module 5 saved written-response and evidence consolidation",
+      "audience": "student",
+      "period_numbers": [
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Year-8-Science-Guided-Course/modules/y8s-m01/index.html#section-m01-s01",
+      "purpose": "Named guided-course learning/evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        1
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Year-8-Science-Guided-Course/modules/y8s-m01/index.html#section-m01-s02",
+      "purpose": "Named guided-course learning/evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        2
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Year-8-Science-Guided-Course/modules/y8s-m01/index.html#section-m01-s03",
+      "purpose": "Named guided-course learning/evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        3
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Year-8-Science-Guided-Course/modules/y8s-m02/index.html#section-m02-s01",
+      "purpose": "Named guided-course learning/evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        21
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Year-8-Science-Guided-Course/modules/y8s-m02/index.html#section-m02-s02",
+      "purpose": "Named guided-course learning/evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        22
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Year-8-Science-Guided-Course/modules/y8s-m02/index.html#section-m02-s03",
+      "purpose": "Named guided-course learning/evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        23
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Year-8-Science-Guided-Course/modules/y8s-m03/index.html#section-m03-s01",
+      "purpose": "Named guided-course learning/evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        41
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Year-8-Science-Guided-Course/modules/y8s-m03/index.html#section-m03-s02",
+      "purpose": "Named guided-course learning/evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        42
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Year-8-Science-Guided-Course/modules/y8s-m03/index.html#section-m03-s03",
+      "purpose": "Named guided-course learning/evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        43
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Year-8-Science-Guided-Course/modules/y8s-m04/index.html#section-m04-s01",
+      "purpose": "Named guided-course learning/evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        61
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Year-8-Science-Guided-Course/modules/y8s-m04/index.html#section-m04-s02",
+      "purpose": "Named guided-course learning/evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        62
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Year-8-Science-Guided-Course/modules/y8s-m04/index.html#section-m04-s03",
+      "purpose": "Named guided-course learning/evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        63
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Year-8-Science-Guided-Course/modules/y8s-m05/index.html#section-m05-s01",
+      "purpose": "Named guided-course learning/evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        81
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Year-8-Science-Guided-Course/modules/y8s-m05/index.html#section-m05-s02",
+      "purpose": "Named guided-course learning/evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        82
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Year-8-Science-Guided-Course/modules/y8s-m05/index.html#section-m05-s03",
+      "purpose": "Named guided-course learning/evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        83
+      ]
+    }
+  ],
+  "teacher_to_confirm": [
+    {
+      "id": "TTC-SCI-01",
+      "item": "Confirm the actual timetable and period placement.",
+      "owner": "Faculty timetable authority",
+      "affected_periods": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100
+      ],
+      "due_before": "Before program approval"
+    },
+    {
+      "id": "TTC-SCI-02",
+      "item": "Confirm every investigation, practical method, equipment, chemical, WHS, supervision and evidence checkpoint.",
+      "owner": "Course teacher and school WHS authority",
+      "affected_periods": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100
+      ],
+      "due_before": "Before each investigation"
+    },
+    {
+      "id": "TTC-SCI-03",
+      "item": "Confirm that at least 50% of course time is delivered as genuine scientific investigation time, not practical-labelled time alone.",
+      "owner": "Course teacher and Head Teacher",
+      "affected_periods": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100
+      ],
+      "due_before": "Before final approval"
+    },
+    {
+      "id": "TTC-SCI-04",
+      "item": "Confirm and identify the required Year 8 depth study, duration, evidence and assessment relationship.",
+      "owner": "Faculty curriculum authority",
+      "affected_periods": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100
+      ],
+      "due_before": "Before delivery"
+    },
+    {
+      "id": "TTC-SCI-05",
+      "item": "Confirm the current assessment program, dates, marks, rubric, adjustments and submission route.",
+      "owner": "Faculty assessment authority",
+      "affected_periods": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90
+      ],
+      "due_before": "Before assessment advice"
+    },
+    {
+      "id": "TTC-SCI-06",
+      "item": "Check the Year 7 program so all 16 Stage 4 outcomes and required content are covered across the stage.",
+      "owner": "Stage 4 program coordinator",
+      "affected_periods": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100
+      ],
+      "due_before": "Before whole-stage sign-off"
+    },
+    {
+      "id": "TTC-SCI-07",
+      "item": "Complete faculty review and approval before representing this program as approved for local delivery.",
+      "owner": "Faculty approval authority",
+      "affected_periods": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100
+      ],
+      "due_before": "Before approved use"
+    }
+  ],
+  "files": [
+    {
+      "path": "Year-8-Science-100-Period-Teaching-Program-v2.0-Network-Benchmark.docx",
+      "purpose": "editable-program",
+      "version": "2.0",
+      "sha256": "373CF7397E327B5BA7C6F92F37F363AAECCA75BF1F593C27E069B1AAA99DE001"
+    },
+    {
+      "path": "Year-8-Science-100-Period-Teaching-Program-v2.0-Network-Benchmark.pdf",
+      "purpose": "rendered-program",
+      "version": "2.0",
+      "sha256": "B768A78E17D19C28A2E2C5B8FF8B60C149586E59B4A6E9F041BDC8F9A833B7CB"
+    },
+    {
+      "path": "Year-8-Science-100-Period-Alignment-Manifest-v2.0.json",
+      "purpose": "alignment-manifest",
+      "version": "2.0"
+    }
+  ],
+  "network_standard": "Riv Burger family | unit teaching program",
+  "provenance": {
+    "legacy_docx": {
+      "path": "Year-8-Science-100-Period-Teaching-Program-v1.0-Website-Complete-10pt.docx",
+      "sha256": "4832DD07B5E96D0AE2173A1692F6096AB9D53C05652D8C4C48050CC61A5099F0"
+    },
+    "legacy_pdf": {
+      "path": "Year-8-Science-100-Period-Teaching-Program-v1.0-Website-Complete-10pt.pdf",
+      "sha256": "C0CD38D7A366905D31780955B93EEF0DD8F4BE22E3F134F1A3CDA5B1C9536C46"
+    },
+    "legacy_files_retained_for_audit_only": true
+  },
+  "selected_outcome_codes": [
+    "SC4-CHG-01",
+    "SC4-DA1-01",
+    "SC4-LIV-01",
+    "SC4-PRT-01",
+    "SC4-WS-01",
+    "SC4-WS-02",
+    "SC4-WS-03",
+    "SC4-WS-04",
+    "SC4-WS-05",
+    "SC4-WS-06",
+    "SC4-WS-07",
+    "SC4-WS-08"
+  ],
+  "stage_4_outcome_codes_not_selected_in_this_year_8_program": [
+    "SC4-OTU-01",
+    "SC4-FOR-01",
+    "SC4-CLS-01",
+    "SC4-SOL-01"
+  ],
+  "course_requirement_audit": {
+    "practical_labelled_periods": 50,
+    "required_investigation_time": "at least 50% of course time",
+    "claim": "Teacher to confirm that the 50 practical-labelled periods are genuine scientific investigation time",
+    "depth_study": "at least one depth study every year across Stage 4 and Stage 5; Year 8 depth study Teacher to confirm",
+    "whole_stage_coverage": "check with Year 7 before claiming all 16 Stage 4 outcomes"
+  }
+}

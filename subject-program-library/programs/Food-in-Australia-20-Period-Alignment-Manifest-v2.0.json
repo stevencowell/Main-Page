@@ -1,0 +1,2673 @@
+{
+  "schema_version": "1.1",
+  "program_id": "stage5-food-food-in-australia",
+  "version": "v2.0",
+  "teacher_facing_display": {
+    "course_identity": "Stage 5 Food Technology",
+    "specific_year_group_visible": false,
+    "official_outcomes_complete": true,
+    "official_content_wording_location": "syllabus content fields and this manifest",
+    "practical_authority_visible": true
+  },
+  "course": {
+    "title": "Stage 5 Food Technology",
+    "classification": "Food Technology 7-10 elective",
+    "stage_or_year": "Stage 5",
+    "delivery_year": 2027,
+    "project": "Food in Australia"
+  },
+  "site": {
+    "name": "Food in Australia",
+    "reference": "https://stevencowell.github.io/Food-in-Australia/",
+    "inspection_date": "2026-08-29",
+    "state": "repository"
+  },
+  "syllabus": {
+    "title": "Food Technology 7-10 Syllabus",
+    "version": "2025",
+    "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/food-technology-7-10-2025/overview/course",
+    "verified_date": "2026-08-29",
+    "mandatory_from": "2028",
+    "early_implementation": "permitted",
+    "steve_decision": "use-new-early",
+    "implementation_status": "early-adoption-confirmed"
+  },
+  "timetable": {
+    "weeks": 10,
+    "period_minutes": 60,
+    "periods_per_fortnight": 4,
+    "total_periods": 20,
+    "planning_basis": "Schema planning conversion only: 20 one-hour periods across the site's ten-week/module sequence; the actual local timetable remains Teacher to confirm."
+  },
+  "outcomes": [
+    {
+      "code": "FT5-SAF-01",
+      "statement": "applies safe work and management practices through food design and production processes",
+      "stable_id": "oc8ed04fc1",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/food-technology-7-10-2025/outcomes",
+      "source_id": "S2"
+    },
+    {
+      "code": "FT5-COM-01",
+      "statement": "communicates ideas, concepts and solutions in food design and production contexts",
+      "stable_id": "oc2be4b053",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/food-technology-7-10-2025/outcomes",
+      "source_id": "S2"
+    },
+    {
+      "code": "FT5-FPP-01",
+      "statement": "selects and justifies the use of food preparation and presentation practices",
+      "stable_id": "oc3137218f",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/food-technology-7-10-2025/outcomes",
+      "source_id": "S2"
+    },
+    {
+      "code": "FT5-USE-01",
+      "statement": "selects and applies ingredients, techniques and equipment in food design and production contexts",
+      "stable_id": "oc54191072",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/food-technology-7-10-2025/outcomes",
+      "source_id": "S2"
+    },
+    {
+      "code": "FT5-IET-01",
+      "statement": "explains industry practices and emerging technologies used in food design and production",
+      "stable_id": "ocb9bf1b4c",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/food-technology-7-10-2025/outcomes",
+      "source_id": "S2"
+    },
+    {
+      "code": "FT5-NSA-01",
+      "statement": "assesses how nutrition, food selection and availability influence individuals and communities",
+      "stable_id": "oc98c78104",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/food-technology-7-10-2025/outcomes",
+      "source_id": "S2"
+    },
+    {
+      "code": "FT5-ENV-01",
+      "statement": "analyses relationships between food production systems, sustainability and society",
+      "stable_id": "ocec219bce",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/food-technology-7-10-2025/outcomes",
+      "source_id": "S2"
+    }
+  ],
+  "source_register": [
+    {
+      "id": "S1",
+      "title": "Food Technology 7-10 Syllabus (2025) - course requirements",
+      "authority": "official-syllabus",
+      "location": "https://curriculum.nsw.edu.au/learning-areas/tas/food-technology-7-10-2025/overview/course",
+      "revision": "verified 2026-08-29",
+      "use": "Course identity, early-implementation setting and 200-hour requirements"
+    },
+    {
+      "id": "S2",
+      "title": "Food Technology 7-10 Syllabus (2025) - outcomes and Stage 5 content",
+      "authority": "official-syllabus",
+      "location": "https://curriculum.nsw.edu.au/learning-areas/tas/food-technology-7-10-2025/outcomes",
+      "revision": "07349BEF7C1B6CCC0570924404B5C5867A8DF52D486617CBA7D8B3946826F90B",
+      "use": "Exact outcomes, exact official content statements and stable IDs"
+    },
+    {
+      "id": "S3",
+      "title": "Existing Food in Australia teacher program",
+      "authority": "local-program",
+      "location": "C:\\Users\\scowell1\\Documents\\Codex\\2026-08-28\\okay-so-with-the-all-the\\work\\library-completion\\repositories\\food-in-australia\\resources\\teacher\\teacher-program-v1.0.0.docx",
+      "revision": "21E913DBB7DDB029034C3981B85F2C973DBFB7182910511EC206A6A9A88A41AC",
+      "use": "Ten-week local website sequence; its two blocks per week are planning placeholders rather than verified local periods."
+    },
+    {
+      "id": "S4",
+      "title": "Food in Australia course website repository",
+      "authority": "website",
+      "location": "https://stevencowell.github.io/Food-in-Australia/",
+      "revision": "repository inspection 2026-08-29",
+      "use": "Named site theory, checks, activities, formative evidence and route destinations"
+    },
+    {
+      "id": "S5",
+      "title": "Footstool network program benchmark",
+      "authority": "quality-reference",
+      "location": "C:\\Users\\scowell1\\Documents\\Codex\\2026-08-28\\okay-so-with-the-all-the\\work\\year8-elective-alignment\\intro-timber\\resources\\teacher\\Footstool-50-Period-Teaching-Program-v2.0-Network-Benchmark.docx",
+      "revision": "E214012B73C376A1B6931CD04F4FDDFDCCAE7735E96216EAC4A6A098D69AD81D",
+      "use": "Network page structure and table pattern only"
+    }
+  ],
+  "website_learning_inventory": [
+    {
+      "id": "WL-P001",
+      "route": "https://stevencowell.github.io/Food-in-Australia/modules/module-01.html#m01-s01",
+      "theory_section": "From hazard to control; Hygiene breaks the contamination chain",
+      "quiz_or_check": "Named site knowledge checks and connected saved response",
+      "coverage_state": "scheduled",
+      "evidence": "20 checks plus two saved formative responses; evidence remains on the device until exported.",
+      "question_count": 20,
+      "scaffolded_response_count": 2,
+      "period_numbers": [
+        1
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-TIME"
+      ]
+    },
+    {
+      "id": "WL-P002",
+      "route": "https://stevencowell.github.io/Food-in-Australia/modules/module-01.html#m01-s03",
+      "theory_section": "Ready before you begin",
+      "quiz_or_check": "Named site knowledge checks and connected saved response",
+      "coverage_state": "scheduled",
+      "evidence": "10 checks, one saved response, module activity and folio checkpoint.",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        2
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-TIME"
+      ]
+    },
+    {
+      "id": "WL-P003",
+      "route": "https://stevencowell.github.io/Food-in-Australia/modules/module-02.html#m02-s01",
+      "theory_section": "Country, identity and respectful language; Compare nutrition evidence fairly",
+      "quiz_or_check": "Named site knowledge checks and connected saved response",
+      "coverage_state": "scheduled",
+      "evidence": "20 checks plus two saved formative responses; evidence remains on the device until exported.",
+      "question_count": 20,
+      "scaffolded_response_count": 2,
+      "period_numbers": [
+        3
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-TIME"
+      ]
+    },
+    {
+      "id": "WL-P004",
+      "route": "https://stevencowell.github.io/Food-in-Australia/modules/module-02.html#m02-s03",
+      "theory_section": "Modify with a reason",
+      "quiz_or_check": "Named site knowledge checks and connected saved response",
+      "coverage_state": "scheduled",
+      "evidence": "10 checks, one saved response, module activity and folio checkpoint.",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        4
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-TIME"
+      ]
+    },
+    {
+      "id": "WL-P005",
+      "route": "https://stevencowell.github.io/Food-in-Australia/modules/module-03.html#m03-s01",
+      "theory_section": "Cultural Knowledge is living, local and owned; Seasons, cycles and caring for resources",
+      "quiz_or_check": "Named site knowledge checks and connected saved response",
+      "coverage_state": "scheduled",
+      "evidence": "20 checks plus two saved formative responses; evidence remains on the device until exported.",
+      "question_count": 20,
+      "scaffolded_response_count": 2,
+      "period_numbers": [
+        5
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-TIME"
+      ]
+    },
+    {
+      "id": "WL-P006",
+      "route": "https://stevencowell.github.io/Food-in-Australia/modules/module-03.html#m03-s03",
+      "theory_section": "Research, permission and ICIP",
+      "quiz_or_check": "Named site knowledge checks and connected saved response",
+      "coverage_state": "scheduled",
+      "evidence": "10 checks, one saved response, module activity and folio checkpoint.",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        6
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-TIME"
+      ]
+    },
+    {
+      "id": "WL-P007",
+      "route": "https://stevencowell.github.io/Food-in-Australia/modules/module-04.html#m04-s01",
+      "theory_section": "Roles, knowledge and responsibility; Introduced rations and nutrition",
+      "quiz_or_check": "Named site knowledge checks and connected saved response",
+      "coverage_state": "scheduled",
+      "evidence": "20 checks plus two saved formative responses; evidence remains on the device until exported.",
+      "question_count": 20,
+      "scaffolded_response_count": 2,
+      "period_numbers": [
+        7
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-TIME"
+      ]
+    },
+    {
+      "id": "WL-P008",
+      "route": "https://stevencowell.github.io/Food-in-Australia/modules/module-04.html#m04-s03",
+      "theory_section": "Read historical food sources critically",
+      "quiz_or_check": "Named site knowledge checks and connected saved response",
+      "coverage_state": "scheduled",
+      "evidence": "10 checks, one saved response, module activity and folio checkpoint.",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        8
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-TIME"
+      ]
+    },
+    {
+      "id": "WL-P009",
+      "route": "https://stevencowell.github.io/Food-in-Australia/modules/module-05.html#m05-s01",
+      "theory_section": "Colonisation changed food access; Settler food constraints and technology",
+      "quiz_or_check": "Named site knowledge checks and connected saved response",
+      "coverage_state": "scheduled",
+      "evidence": "20 checks plus two saved formative responses; evidence remains on the device until exported.",
+      "question_count": 20,
+      "scaffolded_response_count": 2,
+      "period_numbers": [
+        9
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-TIME"
+      ]
+    },
+    {
+      "id": "WL-P010",
+      "route": "https://stevencowell.github.io/Food-in-Australia/modules/module-05.html#m05-s03",
+      "theory_section": "Migration changed Australian food habits",
+      "quiz_or_check": "Named site knowledge checks and connected saved response",
+      "coverage_state": "scheduled",
+      "evidence": "10 checks, one saved response, module activity and folio checkpoint.",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        10
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-TIME"
+      ]
+    },
+    {
+      "id": "WL-P011",
+      "route": "https://stevencowell.github.io/Food-in-Australia/modules/module-06.html#m06-s01",
+      "theory_section": "Contemporary Australian cuisine keeps changing; Research one food culture without stereotyping",
+      "quiz_or_check": "Named site knowledge checks and connected saved response",
+      "coverage_state": "scheduled",
+      "evidence": "20 checks plus two saved formative responses; evidence remains on the device until exported.",
+      "question_count": 20,
+      "scaffolded_response_count": 2,
+      "period_numbers": [
+        11
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-TIME"
+      ]
+    },
+    {
+      "id": "WL-P012",
+      "route": "https://stevencowell.github.io/Food-in-Australia/modules/module-06.html#m06-s03",
+      "theory_section": "Ingredients, flavours and methods work together",
+      "quiz_or_check": "Named site knowledge checks and connected saved response",
+      "coverage_state": "scheduled",
+      "evidence": "10 checks, one saved response and module activity; any practical observation is teacher recorded only if an approved activity occurs.",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        12
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-TIME",
+        "TTC-PRACTICAL"
+      ]
+    },
+    {
+      "id": "WL-P013",
+      "route": "https://stevencowell.github.io/Food-in-Australia/modules/module-07.html#m07-s01",
+      "theory_section": "Fusion needs a purpose; Research before you design",
+      "quiz_or_check": "Named site knowledge checks and connected saved response",
+      "coverage_state": "scheduled",
+      "evidence": "20 checks plus two saved formative responses; evidence remains on the device until exported.",
+      "question_count": 20,
+      "scaffolded_response_count": 2,
+      "period_numbers": [
+        13
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-TIME"
+      ]
+    },
+    {
+      "id": "WL-P014",
+      "route": "https://stevencowell.github.io/Food-in-Australia/modules/module-07.html#m07-s03",
+      "theory_section": "Annotate a safe, feasible concept",
+      "quiz_or_check": "Named site knowledge checks and connected saved response",
+      "coverage_state": "scheduled",
+      "evidence": "10 checks, one saved response and module activity; any practical observation is teacher recorded only if an approved activity occurs.",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        14
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-TIME",
+        "TTC-PRACTICAL"
+      ]
+    },
+    {
+      "id": "WL-P015",
+      "route": "https://stevencowell.github.io/Food-in-Australia/modules/module-08.html#m08-s01",
+      "theory_section": "Food technology changes systems; Processing changes food properties",
+      "quiz_or_check": "Named site knowledge checks and connected saved response",
+      "coverage_state": "scheduled",
+      "evidence": "20 checks plus two saved formative responses; evidence remains on the device until exported.",
+      "question_count": 20,
+      "scaffolded_response_count": 2,
+      "period_numbers": [
+        15
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-TIME"
+      ]
+    },
+    {
+      "id": "WL-P016",
+      "route": "https://stevencowell.github.io/Food-in-Australia/modules/module-08.html#m08-s03",
+      "theory_section": "Choose a method for the purpose",
+      "quiz_or_check": "Named site knowledge checks and connected saved response",
+      "coverage_state": "scheduled",
+      "evidence": "10 checks, one saved response and module activity; any practical observation is teacher recorded only if an approved activity occurs.",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        16
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-TIME",
+        "TTC-PRACTICAL"
+      ]
+    },
+    {
+      "id": "WL-P017",
+      "route": "https://stevencowell.github.io/Food-in-Australia/modules/module-09.html#m09-s01",
+      "theory_section": "Food choices have interacting influences; Decode a food advertisement",
+      "quiz_or_check": "Named site knowledge checks and connected saved response",
+      "coverage_state": "scheduled",
+      "evidence": "20 checks plus two saved formative responses; evidence remains on the device until exported.",
+      "question_count": 20,
+      "scaffolded_response_count": 2,
+      "period_numbers": [
+        17
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-TIME"
+      ]
+    },
+    {
+      "id": "WL-P018",
+      "route": "https://stevencowell.github.io/Food-in-Australia/modules/module-09.html#m09-s03",
+      "theory_section": "Persuade without misleading",
+      "quiz_or_check": "Named site knowledge checks and connected saved response",
+      "coverage_state": "scheduled",
+      "evidence": "10 checks, one saved response, module activity and folio checkpoint.",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        18
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-TIME"
+      ]
+    },
+    {
+      "id": "WL-P019",
+      "route": "https://stevencowell.github.io/Food-in-Australia/modules/module-10.html#m10-s01",
+      "theory_section": "Analyse a food diary without judgement; Explain change with evidence",
+      "quiz_or_check": "Named site knowledge checks and connected saved response",
+      "coverage_state": "scheduled",
+      "evidence": "20 checks plus two saved formative responses; evidence remains on the device until exported.",
+      "question_count": 20,
+      "scaffolded_response_count": 2,
+      "period_numbers": [
+        19
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-TIME"
+      ]
+    },
+    {
+      "id": "WL-P020",
+      "route": "https://stevencowell.github.io/Food-in-Australia/modules/module-10.html#m10-s03",
+      "theory_section": "Select, reflect and present evidence",
+      "quiz_or_check": "Named site knowledge checks and connected saved response",
+      "coverage_state": "scheduled",
+      "evidence": "10 checks, one saved response, module activity and folio checkpoint.",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        20
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-TIME"
+      ]
+    }
+  ],
+  "periods": [
+    {
+      "number": 1,
+      "type": "Site/theory",
+      "focus": "Module 1: Safety first",
+      "section_ids": [
+        "m01-s01",
+        "m01-s02"
+      ],
+      "teaching_and_learning": "Learn From hazard to control; Hygiene breaks the contamination chain. Use each named section, complete its knowledge checks and save the connected written response.",
+      "syllabus_content_display": "Contributes to: Identify and apply safe and hygienic food preparation practices",
+      "syllabus_alignment": [
+        "ci705463a6"
+      ],
+      "syllabus_alignment_states": {
+        "ci705463a6": "partial-current-site"
+      },
+      "outcomes": [
+        "FT5-SAF-01",
+        "FT5-FPP-01",
+        "FT5-USE-01"
+      ],
+      "evidence": "20 checks plus two saved formative responses; evidence remains on the device until exported.",
+      "site_destinations": [
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-01.html#m01-s01",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-01.html#learning-m01-s01",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-01.html#m01-s02",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-01.html#learning-m01-s02",
+        "https://stevencowell.github.io/Food-in-Australia/activities.html#activity-m01"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-TIME"
+      ],
+      "student_work": "Learn From hazard to control; Hygiene breaks the contamination chain. Use each named section, complete its knowledge checks and save the connected written response.",
+      "syllabus_content": [
+        "Identify and apply safe and hygienic food preparation practices"
+      ],
+      "outcome_codes": [
+        "FT5-SAF-01",
+        "FT5-FPP-01",
+        "FT5-USE-01"
+      ],
+      "source_ids": [
+        "S2",
+        "S3",
+        "S4"
+      ],
+      "site_destination_records": [
+        {
+          "label": "M01-S01 theory",
+          "url": "https://stevencowell.github.io/Food-in-Australia/modules/module-01.html#m01-s01",
+          "purpose": "From hazard to control"
+        },
+        {
+          "label": "M01-S01 checks and response",
+          "url": "https://stevencowell.github.io/Food-in-Australia/modules/module-01.html#learning-m01-s01",
+          "purpose": "10 knowledge checks and saved response"
+        },
+        {
+          "label": "M01-S02 theory",
+          "url": "https://stevencowell.github.io/Food-in-Australia/modules/module-01.html#m01-s02",
+          "purpose": "Hygiene breaks the contamination chain"
+        },
+        {
+          "label": "M01-S02 checks and response",
+          "url": "https://stevencowell.github.io/Food-in-Australia/modules/module-01.html#learning-m01-s02",
+          "purpose": "10 knowledge checks and saved response"
+        },
+        {
+          "label": "Open applied activity",
+          "url": "https://stevencowell.github.io/Food-in-Australia/activities.html#activity-m01",
+          "purpose": "Food-room decision lab"
+        }
+      ],
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "website_learning_ids": [
+        "WL-P001"
+      ]
+    },
+    {
+      "number": 2,
+      "type": "Project/folio",
+      "focus": "Module 1: Safety first - apply and record",
+      "section_ids": [
+        "m01-s03"
+      ],
+      "teaching_and_learning": "Learn Ready before you begin; complete its checks and written response, then complete the module activity and save the named folio evidence.",
+      "syllabus_content_display": "Contributes to: Assess risks when managing safe and hygienic handling of ingredients and equipment",
+      "syllabus_alignment": [
+        "ci66fc18df"
+      ],
+      "syllabus_alignment_states": {
+        "ci66fc18df": "partial-current-site"
+      },
+      "outcomes": [
+        "FT5-SAF-01",
+        "FT5-FPP-01",
+        "FT5-USE-01"
+      ],
+      "evidence": "10 checks, one saved response, module activity and folio checkpoint.",
+      "site_destinations": [
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-01.html#m01-s03",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-01.html#learning-m01-s03",
+        "https://stevencowell.github.io/Food-in-Australia/folio.html#folio-m01",
+        "https://stevencowell.github.io/Food-in-Australia/activities.html#activity-m01"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-TIME"
+      ],
+      "student_work": "Learn Ready before you begin; complete its checks and written response, then complete the module activity and save the named folio evidence.",
+      "syllabus_content": [
+        "Assess risks when managing safe and hygienic handling of ingredients and equipment"
+      ],
+      "outcome_codes": [
+        "FT5-SAF-01",
+        "FT5-FPP-01",
+        "FT5-USE-01"
+      ],
+      "source_ids": [
+        "S2",
+        "S3",
+        "S4"
+      ],
+      "site_destination_records": [
+        {
+          "label": "M01-S03 theory",
+          "url": "https://stevencowell.github.io/Food-in-Australia/modules/module-01.html#m01-s03",
+          "purpose": "Ready before you begin"
+        },
+        {
+          "label": "M01-S03 checks and response",
+          "url": "https://stevencowell.github.io/Food-in-Australia/modules/module-01.html#learning-m01-s03",
+          "purpose": "10 knowledge checks and saved response"
+        },
+        {
+          "label": "Open folio",
+          "url": "https://stevencowell.github.io/Food-in-Australia/folio.html#folio-m01",
+          "purpose": "Save or export the named formative evidence"
+        },
+        {
+          "label": "Open applied activity",
+          "url": "https://stevencowell.github.io/Food-in-Australia/activities.html#activity-m01",
+          "purpose": "Food-room decision lab"
+        }
+      ],
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "website_learning_ids": [
+        "WL-P002"
+      ]
+    },
+    {
+      "number": 3,
+      "type": "Site/theory",
+      "focus": "Module 2: Native foods and nutrition",
+      "section_ids": [
+        "m02-s01",
+        "m02-s02"
+      ],
+      "teaching_and_learning": "Learn Country, identity and respectful language; Compare nutrition evidence fairly. Use each named section, complete its knowledge checks and save the connected written response.",
+      "syllabus_content_display": "Supports: Investigate how Aboriginal and Torres Strait Islander Peoples share Knowledges about food and sustainable Practices",
+      "syllabus_alignment": [
+        "ci27d382b8",
+        "cie21cf818"
+      ],
+      "syllabus_alignment_states": {
+        "ci27d382b8": "supported-current-site",
+        "cie21cf818": "supported-current-site"
+      },
+      "outcomes": [
+        "FT5-FPP-01",
+        "FT5-NSA-01",
+        "FT5-ENV-01"
+      ],
+      "evidence": "20 checks plus two saved formative responses; evidence remains on the device until exported.",
+      "site_destinations": [
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-02.html#m02-s01",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-02.html#learning-m02-s01",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-02.html#m02-s02",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-02.html#learning-m02-s02",
+        "https://stevencowell.github.io/Food-in-Australia/activities.html#activity-m02"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-TIME"
+      ],
+      "student_work": "Learn Country, identity and respectful language; Compare nutrition evidence fairly. Use each named section, complete its knowledge checks and save the connected written response.",
+      "syllabus_content": [
+        "Investigate how Aboriginal and Torres Strait Islander Peoples share Knowledges about food and sustainable Practices",
+        "Investigate the nutritional value of Aboriginal and Torres Strait Islander Peoples’ customary foods"
+      ],
+      "outcome_codes": [
+        "FT5-FPP-01",
+        "FT5-NSA-01",
+        "FT5-ENV-01"
+      ],
+      "source_ids": [
+        "S2",
+        "S3",
+        "S4"
+      ],
+      "site_destination_records": [
+        {
+          "label": "M02-S01 theory",
+          "url": "https://stevencowell.github.io/Food-in-Australia/modules/module-02.html#m02-s01",
+          "purpose": "Country, identity and respectful language"
+        },
+        {
+          "label": "M02-S01 checks and response",
+          "url": "https://stevencowell.github.io/Food-in-Australia/modules/module-02.html#learning-m02-s01",
+          "purpose": "10 knowledge checks and saved response"
+        },
+        {
+          "label": "M02-S02 theory",
+          "url": "https://stevencowell.github.io/Food-in-Australia/modules/module-02.html#m02-s02",
+          "purpose": "Compare nutrition evidence fairly"
+        },
+        {
+          "label": "M02-S02 checks and response",
+          "url": "https://stevencowell.github.io/Food-in-Australia/modules/module-02.html#learning-m02-s02",
+          "purpose": "10 knowledge checks and saved response"
+        },
+        {
+          "label": "Open applied activity",
+          "url": "https://stevencowell.github.io/Food-in-Australia/activities.html#activity-m02",
+          "purpose": "Native-food evidence detective"
+        }
+      ],
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "website_learning_ids": [
+        "WL-P003"
+      ]
+    },
+    {
+      "number": 4,
+      "type": "Project/folio",
+      "focus": "Module 2: Native foods and nutrition - apply and record",
+      "section_ids": [
+        "m02-s03"
+      ],
+      "teaching_and_learning": "Learn Modify with a reason; complete its checks and written response, then complete the module activity and save the named folio evidence.",
+      "syllabus_content_display": "Supports: Investigate how Aboriginal and Torres Strait Islander Peoples’ customary ingredients may influence contemporary food design.",
+      "syllabus_alignment": [
+        "ci0231c4b3"
+      ],
+      "syllabus_alignment_states": {
+        "ci0231c4b3": "supported-current-site"
+      },
+      "outcomes": [
+        "FT5-SAF-01",
+        "FT5-USE-01",
+        "FT5-NSA-01"
+      ],
+      "evidence": "10 checks, one saved response, module activity and folio checkpoint.",
+      "site_destinations": [
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-02.html#m02-s03",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-02.html#learning-m02-s03",
+        "https://stevencowell.github.io/Food-in-Australia/folio.html#folio-m02",
+        "https://stevencowell.github.io/Food-in-Australia/activities.html#activity-m02"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-TIME"
+      ],
+      "student_work": "Learn Modify with a reason; complete its checks and written response, then complete the module activity and save the named folio evidence.",
+      "syllabus_content": [
+        "Investigate how Aboriginal and Torres Strait Islander Peoples’ customary ingredients may influence contemporary food design and production opportunities"
+      ],
+      "outcome_codes": [
+        "FT5-SAF-01",
+        "FT5-USE-01",
+        "FT5-NSA-01"
+      ],
+      "source_ids": [
+        "S2",
+        "S3",
+        "S4"
+      ],
+      "site_destination_records": [
+        {
+          "label": "M02-S03 theory",
+          "url": "https://stevencowell.github.io/Food-in-Australia/modules/module-02.html#m02-s03",
+          "purpose": "Modify with a reason"
+        },
+        {
+          "label": "M02-S03 checks and response",
+          "url": "https://stevencowell.github.io/Food-in-Australia/modules/module-02.html#learning-m02-s03",
+          "purpose": "10 knowledge checks and saved response"
+        },
+        {
+          "label": "Open folio",
+          "url": "https://stevencowell.github.io/Food-in-Australia/folio.html#folio-m02",
+          "purpose": "Save or export the named formative evidence"
+        },
+        {
+          "label": "Open applied activity",
+          "url": "https://stevencowell.github.io/Food-in-Australia/activities.html#activity-m02",
+          "purpose": "Native-food evidence detective"
+        }
+      ],
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "website_learning_ids": [
+        "WL-P004"
+      ]
+    },
+    {
+      "number": 5,
+      "type": "Site/theory",
+      "focus": "Module 3: Cultural Knowledge and ICIP",
+      "section_ids": [
+        "m03-s01",
+        "m03-s02"
+      ],
+      "teaching_and_learning": "Learn Cultural Knowledge is living, local and owned; Seasons, cycles and caring for resources. Use each named section, complete its knowledge checks and save the connected written response.",
+      "syllabus_content_display": "Supports: Describe how Aboriginal and Torres Strait Islander Peoples’ customary sustainable food Practices may be applied to local and.",
+      "syllabus_alignment": [
+        "cia899e313",
+        "ci27d382b8"
+      ],
+      "syllabus_alignment_states": {
+        "cia899e313": "supported-current-site",
+        "ci27d382b8": "supported-current-site"
+      },
+      "outcomes": [
+        "FT5-COM-01"
+      ],
+      "evidence": "20 checks plus two saved formative responses; evidence remains on the device until exported.",
+      "site_destinations": [
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-03.html#m03-s01",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-03.html#learning-m03-s01",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-03.html#m03-s02",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-03.html#learning-m03-s02",
+        "https://stevencowell.github.io/Food-in-Australia/activities.html#activity-m03"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-TIME"
+      ],
+      "student_work": "Learn Cultural Knowledge is living, local and owned; Seasons, cycles and caring for resources. Use each named section, complete its knowledge checks and save the connected written response.",
+      "syllabus_content": [
+        "Describe how Aboriginal and Torres Strait Islander Peoples’ customary sustainable food Practices may be applied to local and community food systems",
+        "Investigate how Aboriginal and Torres Strait Islander Peoples share Knowledges about food and sustainable Practices"
+      ],
+      "outcome_codes": [
+        "FT5-COM-01"
+      ],
+      "source_ids": [
+        "S2",
+        "S3",
+        "S4"
+      ],
+      "site_destination_records": [
+        {
+          "label": "M03-S01 theory",
+          "url": "https://stevencowell.github.io/Food-in-Australia/modules/module-03.html#m03-s01",
+          "purpose": "Cultural Knowledge is living, local and owned"
+        },
+        {
+          "label": "M03-S01 checks and response",
+          "url": "https://stevencowell.github.io/Food-in-Australia/modules/module-03.html#learning-m03-s01",
+          "purpose": "10 knowledge checks and saved response"
+        },
+        {
+          "label": "M03-S02 theory",
+          "url": "https://stevencowell.github.io/Food-in-Australia/modules/module-03.html#m03-s02",
+          "purpose": "Seasons, cycles and caring for resources"
+        },
+        {
+          "label": "M03-S02 checks and response",
+          "url": "https://stevencowell.github.io/Food-in-Australia/modules/module-03.html#learning-m03-s02",
+          "purpose": "10 knowledge checks and saved response"
+        },
+        {
+          "label": "Open applied activity",
+          "url": "https://stevencowell.github.io/Food-in-Australia/activities.html#activity-m03",
+          "purpose": "ICIP source-permission audit"
+        }
+      ],
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "website_learning_ids": [
+        "WL-P005"
+      ]
+    },
+    {
+      "number": 6,
+      "type": "Project/folio",
+      "focus": "Module 3: Cultural Knowledge and ICIP - apply and record",
+      "section_ids": [
+        "m03-s03"
+      ],
+      "teaching_and_learning": "Learn Research, permission and ICIP; complete its checks and written response, then complete the module activity and save the named folio evidence.",
+      "syllabus_content_display": "Supports: Create written texts to explain how food practices are influenced by their historical and cultural contexts",
+      "syllabus_alignment": [
+        "cif5819d10"
+      ],
+      "syllabus_alignment_states": {
+        "cif5819d10": "supported-current-site"
+      },
+      "outcomes": [
+        "FT5-COM-01"
+      ],
+      "evidence": "10 checks, one saved response, module activity and folio checkpoint.",
+      "site_destinations": [
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-03.html#m03-s03",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-03.html#learning-m03-s03",
+        "https://stevencowell.github.io/Food-in-Australia/folio.html#folio-m03",
+        "https://stevencowell.github.io/Food-in-Australia/activities.html#activity-m03"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-TIME"
+      ],
+      "student_work": "Learn Research, permission and ICIP; complete its checks and written response, then complete the module activity and save the named folio evidence.",
+      "syllabus_content": [
+        "Create written texts to explain how food practices are influenced by their historical and cultural contexts"
+      ],
+      "outcome_codes": [
+        "FT5-COM-01"
+      ],
+      "source_ids": [
+        "S2",
+        "S3",
+        "S4"
+      ],
+      "site_destination_records": [
+        {
+          "label": "M03-S03 theory",
+          "url": "https://stevencowell.github.io/Food-in-Australia/modules/module-03.html#m03-s03",
+          "purpose": "Research, permission and ICIP"
+        },
+        {
+          "label": "M03-S03 checks and response",
+          "url": "https://stevencowell.github.io/Food-in-Australia/modules/module-03.html#learning-m03-s03",
+          "purpose": "10 knowledge checks and saved response"
+        },
+        {
+          "label": "Open folio",
+          "url": "https://stevencowell.github.io/Food-in-Australia/folio.html#folio-m03",
+          "purpose": "Save or export the named formative evidence"
+        },
+        {
+          "label": "Open applied activity",
+          "url": "https://stevencowell.github.io/Food-in-Australia/activities.html#activity-m03",
+          "purpose": "ICIP source-permission audit"
+        }
+      ],
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "website_learning_ids": [
+        "WL-P006"
+      ]
+    },
+    {
+      "number": 7,
+      "type": "Site/theory",
+      "focus": "Module 4: Food systems, missions and nutrition",
+      "section_ids": [
+        "m04-s01",
+        "m04-s02"
+      ],
+      "teaching_and_learning": "Learn Roles, knowledge and responsibility; Introduced rations and nutrition. Use each named section, complete its knowledge checks and save the connected written response.",
+      "syllabus_content_display": "Supports: Investigate the nutritional value of Aboriginal and Torres Strait Islander Peoples’ customary foods",
+      "syllabus_alignment": [
+        "cie21cf818",
+        "cid5293516"
+      ],
+      "syllabus_alignment_states": {
+        "cie21cf818": "supported-current-site",
+        "cid5293516": "supported-current-site"
+      },
+      "outcomes": [
+        "FT5-USE-01",
+        "FT5-IET-01",
+        "FT5-NSA-01"
+      ],
+      "evidence": "20 checks plus two saved formative responses; evidence remains on the device until exported.",
+      "site_destinations": [
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-04.html#m04-s01",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-04.html#learning-m04-s01",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-04.html#m04-s02",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-04.html#learning-m04-s02",
+        "https://stevencowell.github.io/Food-in-Australia/activities.html#activity-m04"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-TIME"
+      ],
+      "student_work": "Learn Roles, knowledge and responsibility; Introduced rations and nutrition. Use each named section, complete its knowledge checks and save the connected written response.",
+      "syllabus_content": [
+        "Investigate the nutritional value of Aboriginal and Torres Strait Islander Peoples’ customary foods",
+        "Describe the dimensions of food security, including availability, access, utilisation and stability"
+      ],
+      "outcome_codes": [
+        "FT5-USE-01",
+        "FT5-IET-01",
+        "FT5-NSA-01"
+      ],
+      "source_ids": [
+        "S2",
+        "S3",
+        "S4"
+      ],
+      "site_destination_records": [
+        {
+          "label": "M04-S01 theory",
+          "url": "https://stevencowell.github.io/Food-in-Australia/modules/module-04.html#m04-s01",
+          "purpose": "Roles, knowledge and responsibility"
+        },
+        {
+          "label": "M04-S01 checks and response",
+          "url": "https://stevencowell.github.io/Food-in-Australia/modules/module-04.html#learning-m04-s01",
+          "purpose": "10 knowledge checks and saved response"
+        },
+        {
+          "label": "M04-S02 theory",
+          "url": "https://stevencowell.github.io/Food-in-Australia/modules/module-04.html#m04-s02",
+          "purpose": "Introduced rations and nutrition"
+        },
+        {
+          "label": "M04-S02 checks and response",
+          "url": "https://stevencowell.github.io/Food-in-Australia/modules/module-04.html#learning-m04-s02",
+          "purpose": "10 knowledge checks and saved response"
+        },
+        {
+          "label": "Open applied activity",
+          "url": "https://stevencowell.github.io/Food-in-Australia/activities.html#activity-m04",
+          "purpose": "Historical claim surgery"
+        }
+      ],
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "website_learning_ids": [
+        "WL-P007"
+      ]
+    },
+    {
+      "number": 8,
+      "type": "Project/folio",
+      "focus": "Module 4: Food systems, missions and nutrition - apply and record",
+      "section_ids": [
+        "m04-s03"
+      ],
+      "teaching_and_learning": "Learn Read historical food sources critically; complete its checks and written response, then complete the module activity and save the named folio evidence.",
+      "syllabus_content_display": "Supports: Create written texts to explain how food practices are influenced by their historical and cultural contexts",
+      "syllabus_alignment": [
+        "cif5819d10"
+      ],
+      "syllabus_alignment_states": {
+        "cif5819d10": "supported-current-site"
+      },
+      "outcomes": [
+        "FT5-NSA-01",
+        "FT5-ENV-01",
+        "FT5-COM-01"
+      ],
+      "evidence": "10 checks, one saved response, module activity and folio checkpoint.",
+      "site_destinations": [
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-04.html#m04-s03",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-04.html#learning-m04-s03",
+        "https://stevencowell.github.io/Food-in-Australia/folio.html#folio-m04",
+        "https://stevencowell.github.io/Food-in-Australia/activities.html#activity-m04"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-TIME"
+      ],
+      "student_work": "Learn Read historical food sources critically; complete its checks and written response, then complete the module activity and save the named folio evidence.",
+      "syllabus_content": [
+        "Create written texts to explain how food practices are influenced by their historical and cultural contexts"
+      ],
+      "outcome_codes": [
+        "FT5-NSA-01",
+        "FT5-ENV-01",
+        "FT5-COM-01"
+      ],
+      "source_ids": [
+        "S2",
+        "S3",
+        "S4"
+      ],
+      "site_destination_records": [
+        {
+          "label": "M04-S03 theory",
+          "url": "https://stevencowell.github.io/Food-in-Australia/modules/module-04.html#m04-s03",
+          "purpose": "Read historical food sources critically"
+        },
+        {
+          "label": "M04-S03 checks and response",
+          "url": "https://stevencowell.github.io/Food-in-Australia/modules/module-04.html#learning-m04-s03",
+          "purpose": "10 knowledge checks and saved response"
+        },
+        {
+          "label": "Open folio",
+          "url": "https://stevencowell.github.io/Food-in-Australia/folio.html#folio-m04",
+          "purpose": "Save or export the named formative evidence"
+        },
+        {
+          "label": "Open applied activity",
+          "url": "https://stevencowell.github.io/Food-in-Australia/activities.html#activity-m04",
+          "purpose": "Historical claim surgery"
+        }
+      ],
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "website_learning_ids": [
+        "WL-P008"
+      ]
+    },
+    {
+      "number": 9,
+      "type": "Site/theory",
+      "focus": "Module 5: Colonisation, settlement and migration",
+      "section_ids": [
+        "m05-s01",
+        "m05-s02"
+      ],
+      "teaching_and_learning": "Learn Colonisation changed food access; Settler food constraints and technology. Use each named section, complete its knowledge checks and save the connected written response.",
+      "syllabus_content_display": "Supports: Describe historical influences on Australian food practices, including introduced foods.",
+      "syllabus_alignment": [
+        "cia5f3d4cb",
+        "ci8dbaaf82"
+      ],
+      "syllabus_alignment_states": {
+        "cia5f3d4cb": "supported-current-site",
+        "ci8dbaaf82": "partial-current-site"
+      },
+      "outcomes": [
+        "FT5-SAF-01",
+        "FT5-FPP-01",
+        "FT5-IET-01"
+      ],
+      "evidence": "20 checks plus two saved formative responses; evidence remains on the device until exported.",
+      "site_destinations": [
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-05.html#m05-s01",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-05.html#learning-m05-s01",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-05.html#m05-s02",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-05.html#learning-m05-s02",
+        "https://stevencowell.github.io/Food-in-Australia/activities.html#activity-m05"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-TIME"
+      ],
+      "student_work": "Learn Colonisation changed food access; Settler food constraints and technology. Use each named section, complete its knowledge checks and save the connected written response.",
+      "syllabus_content": [
+        "Describe historical influences on Australian food practices, including introduced foods, the development of agriculture and the role of migration",
+        "Investigate technological advances that have influenced food preparation, production and preservation methods over time"
+      ],
+      "outcome_codes": [
+        "FT5-SAF-01",
+        "FT5-FPP-01",
+        "FT5-IET-01"
+      ],
+      "source_ids": [
+        "S2",
+        "S3",
+        "S4"
+      ],
+      "site_destination_records": [
+        {
+          "label": "M05-S01 theory",
+          "url": "https://stevencowell.github.io/Food-in-Australia/modules/module-05.html#m05-s01",
+          "purpose": "Colonisation changed food access"
+        },
+        {
+          "label": "M05-S01 checks and response",
+          "url": "https://stevencowell.github.io/Food-in-Australia/modules/module-05.html#learning-m05-s01",
+          "purpose": "10 knowledge checks and saved response"
+        },
+        {
+          "label": "M05-S02 theory",
+          "url": "https://stevencowell.github.io/Food-in-Australia/modules/module-05.html#m05-s02",
+          "purpose": "Settler food constraints and technology"
+        },
+        {
+          "label": "M05-S02 checks and response",
+          "url": "https://stevencowell.github.io/Food-in-Australia/modules/module-05.html#learning-m05-s02",
+          "purpose": "10 knowledge checks and saved response"
+        },
+        {
+          "label": "Open applied activity",
+          "url": "https://stevencowell.github.io/Food-in-Australia/activities.html#activity-m05",
+          "purpose": "Change-pathway mapper"
+        }
+      ],
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "website_learning_ids": [
+        "WL-P009"
+      ]
+    },
+    {
+      "number": 10,
+      "type": "Project/folio",
+      "focus": "Module 5: Colonisation, settlement and migration - apply and record",
+      "section_ids": [
+        "m05-s03"
+      ],
+      "teaching_and_learning": "Learn Migration changed Australian food habits; complete its checks and written response, then complete the module activity and save the named folio evidence.",
+      "syllabus_content_display": "Supports: Describe historical influences on Australian food practices, including introduced foods.",
+      "syllabus_alignment": [
+        "cia5f3d4cb"
+      ],
+      "syllabus_alignment_states": {
+        "cia5f3d4cb": "supported-current-site"
+      },
+      "outcomes": [
+        "FT5-FPP-01",
+        "FT5-USE-01",
+        "FT5-ENV-01"
+      ],
+      "evidence": "10 checks, one saved response, module activity and folio checkpoint.",
+      "site_destinations": [
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-05.html#m05-s03",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-05.html#learning-m05-s03",
+        "https://stevencowell.github.io/Food-in-Australia/folio.html#folio-m05",
+        "https://stevencowell.github.io/Food-in-Australia/activities.html#activity-m05"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-TIME"
+      ],
+      "student_work": "Learn Migration changed Australian food habits; complete its checks and written response, then complete the module activity and save the named folio evidence.",
+      "syllabus_content": [
+        "Describe historical influences on Australian food practices, including introduced foods, the development of agriculture and the role of migration"
+      ],
+      "outcome_codes": [
+        "FT5-FPP-01",
+        "FT5-USE-01",
+        "FT5-ENV-01"
+      ],
+      "source_ids": [
+        "S2",
+        "S3",
+        "S4"
+      ],
+      "site_destination_records": [
+        {
+          "label": "M05-S03 theory",
+          "url": "https://stevencowell.github.io/Food-in-Australia/modules/module-05.html#m05-s03",
+          "purpose": "Migration changed Australian food habits"
+        },
+        {
+          "label": "M05-S03 checks and response",
+          "url": "https://stevencowell.github.io/Food-in-Australia/modules/module-05.html#learning-m05-s03",
+          "purpose": "10 knowledge checks and saved response"
+        },
+        {
+          "label": "Open folio",
+          "url": "https://stevencowell.github.io/Food-in-Australia/folio.html#folio-m05",
+          "purpose": "Save or export the named formative evidence"
+        },
+        {
+          "label": "Open applied activity",
+          "url": "https://stevencowell.github.io/Food-in-Australia/activities.html#activity-m05",
+          "purpose": "Change-pathway mapper"
+        }
+      ],
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "website_learning_ids": [
+        "WL-P010"
+      ]
+    },
+    {
+      "number": 11,
+      "type": "Site/theory",
+      "focus": "Module 6: Multicultural influences",
+      "section_ids": [
+        "m06-s01",
+        "m06-s02"
+      ],
+      "teaching_and_learning": "Learn Contemporary Australian cuisine keeps changing; Research one food culture without stereotyping. Use each named section, complete its knowledge checks and save the connected written response.",
+      "syllabus_content_display": "Supports: Analyse the influence of cultural diversity on the evolving nature of Australian cuisine",
+      "syllabus_alignment": [
+        "ci94f98a53",
+        "ci4e094ef5"
+      ],
+      "syllabus_alignment_states": {
+        "ci94f98a53": "supported-current-site",
+        "ci4e094ef5": "partial-current-site"
+      },
+      "outcomes": [
+        "FT5-FPP-01",
+        "FT5-USE-01",
+        "FT5-IET-01"
+      ],
+      "evidence": "20 checks plus two saved formative responses; evidence remains on the device until exported.",
+      "site_destinations": [
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-06.html#m06-s01",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-06.html#learning-m06-s01",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-06.html#m06-s02",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-06.html#learning-m06-s02",
+        "https://stevencowell.github.io/Food-in-Australia/activities.html#activity-m06"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-TIME"
+      ],
+      "student_work": "Learn Contemporary Australian cuisine keeps changing; Research one food culture without stereotyping. Use each named section, complete its knowledge checks and save the connected written response.",
+      "syllabus_content": [
+        "Analyse the influence of cultural diversity on the evolving nature of Australian cuisine",
+        "Explore the significance of food in diverse cultures around the world"
+      ],
+      "outcome_codes": [
+        "FT5-FPP-01",
+        "FT5-USE-01",
+        "FT5-IET-01"
+      ],
+      "source_ids": [
+        "S2",
+        "S3",
+        "S4"
+      ],
+      "site_destination_records": [
+        {
+          "label": "M06-S01 theory",
+          "url": "https://stevencowell.github.io/Food-in-Australia/modules/module-06.html#m06-s01",
+          "purpose": "Contemporary Australian cuisine keeps changing"
+        },
+        {
+          "label": "M06-S01 checks and response",
+          "url": "https://stevencowell.github.io/Food-in-Australia/modules/module-06.html#learning-m06-s01",
+          "purpose": "10 knowledge checks and saved response"
+        },
+        {
+          "label": "M06-S02 theory",
+          "url": "https://stevencowell.github.io/Food-in-Australia/modules/module-06.html#m06-s02",
+          "purpose": "Research one food culture without stereotyping"
+        },
+        {
+          "label": "M06-S02 checks and response",
+          "url": "https://stevencowell.github.io/Food-in-Australia/modules/module-06.html#learning-m06-s02",
+          "purpose": "10 knowledge checks and saved response"
+        },
+        {
+          "label": "Open applied activity",
+          "url": "https://stevencowell.github.io/Food-in-Australia/activities.html#activity-m06",
+          "purpose": "Culture-research repair workshop"
+        }
+      ],
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "website_learning_ids": [
+        "WL-P011"
+      ]
+    },
+    {
+      "number": 12,
+      "type": "Practical",
+      "focus": "Module 6: Multicultural influences - apply and record",
+      "section_ids": [
+        "m06-s03"
+      ],
+      "teaching_and_learning": "Learn Ingredients, flavours and methods work together; complete its checks, written response and the module activity. A teacher may add a current approved practical application only after local recipe, room and risk controls are confirmed.",
+      "syllabus_content_display": "Supports: Investigate how ingredients can be combined to create contemporary fusion foods",
+      "syllabus_alignment": [
+        "cicbd53061"
+      ],
+      "syllabus_alignment_states": {
+        "cicbd53061": "supported-current-site"
+      },
+      "outcomes": [
+        "FT5-SAF-01",
+        "FT5-FPP-01",
+        "FT5-USE-01"
+      ],
+      "evidence": "10 checks, one saved response and module activity; any practical observation is teacher recorded only if an approved activity occurs.",
+      "site_destinations": [
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-06.html#m06-s03",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-06.html#learning-m06-s03",
+        "https://stevencowell.github.io/Food-in-Australia/activities.html#activity-m06"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-TIME",
+        "TTC-PRACTICAL"
+      ],
+      "student_work": "Learn Ingredients, flavours and methods work together; complete its checks, written response and the module activity. A teacher may add a current approved practical application only after local recipe, room and risk controls are confirmed.",
+      "syllabus_content": [
+        "Investigate how ingredients can be combined to create contemporary fusion foods"
+      ],
+      "outcome_codes": [
+        "FT5-SAF-01",
+        "FT5-FPP-01",
+        "FT5-USE-01"
+      ],
+      "source_ids": [
+        "S2",
+        "S3",
+        "S4"
+      ],
+      "site_destination_records": [
+        {
+          "label": "M06-S03 theory",
+          "url": "https://stevencowell.github.io/Food-in-Australia/modules/module-06.html#m06-s03",
+          "purpose": "Ingredients, flavours and methods work together"
+        },
+        {
+          "label": "M06-S03 checks and response",
+          "url": "https://stevencowell.github.io/Food-in-Australia/modules/module-06.html#learning-m06-s03",
+          "purpose": "10 knowledge checks and saved response"
+        },
+        {
+          "label": "Open applied activity",
+          "url": "https://stevencowell.github.io/Food-in-Australia/activities.html#activity-m06",
+          "purpose": "Culture-research repair workshop"
+        }
+      ],
+      "site_alignment": "mapped",
+      "practical_authority": "teacher-to-confirm",
+      "website_learning_ids": [
+        "WL-P012"
+      ]
+    },
+    {
+      "number": 13,
+      "type": "Site/theory",
+      "focus": "Module 7: Fusion food design",
+      "section_ids": [
+        "m07-s01",
+        "m07-s02"
+      ],
+      "teaching_and_learning": "Learn Fusion needs a purpose; Research before you design. Use each named section, complete its knowledge checks and save the connected written response.",
+      "syllabus_content_display": "Supports: Examine current food trends that reflect cultural diversity within Australian communities",
+      "syllabus_alignment": [
+        "cid21ca6a0",
+        "cid2a73b7d"
+      ],
+      "syllabus_alignment_states": {
+        "cid21ca6a0": "supported-current-site",
+        "cid2a73b7d": "partial-current-site"
+      },
+      "outcomes": [
+        "FT5-FPP-01",
+        "FT5-USE-01",
+        "FT5-ENV-01"
+      ],
+      "evidence": "20 checks plus two saved formative responses; evidence remains on the device until exported.",
+      "site_destinations": [
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-07.html#m07-s01",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-07.html#learning-m07-s01",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-07.html#m07-s02",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-07.html#learning-m07-s02",
+        "https://stevencowell.github.io/Food-in-Australia/activities.html#activity-m07"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-TIME"
+      ],
+      "student_work": "Learn Fusion needs a purpose; Research before you design. Use each named section, complete its knowledge checks and save the connected written response.",
+      "syllabus_content": [
+        "Examine current food trends that reflect cultural diversity within Australian communities",
+        "Generate ideas for nutritious, contemporary food products inspired by local and global cultures"
+      ],
+      "outcome_codes": [
+        "FT5-FPP-01",
+        "FT5-USE-01",
+        "FT5-ENV-01"
+      ],
+      "source_ids": [
+        "S2",
+        "S3",
+        "S4"
+      ],
+      "site_destination_records": [
+        {
+          "label": "M07-S01 theory",
+          "url": "https://stevencowell.github.io/Food-in-Australia/modules/module-07.html#m07-s01",
+          "purpose": "Fusion needs a purpose"
+        },
+        {
+          "label": "M07-S01 checks and response",
+          "url": "https://stevencowell.github.io/Food-in-Australia/modules/module-07.html#learning-m07-s01",
+          "purpose": "10 knowledge checks and saved response"
+        },
+        {
+          "label": "M07-S02 theory",
+          "url": "https://stevencowell.github.io/Food-in-Australia/modules/module-07.html#m07-s02",
+          "purpose": "Research before you design"
+        },
+        {
+          "label": "M07-S02 checks and response",
+          "url": "https://stevencowell.github.io/Food-in-Australia/modules/module-07.html#learning-m07-s02",
+          "purpose": "10 knowledge checks and saved response"
+        },
+        {
+          "label": "Open applied activity",
+          "url": "https://stevencowell.github.io/Food-in-Australia/activities.html#activity-m07",
+          "purpose": "Fusion rationale studio"
+        }
+      ],
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "website_learning_ids": [
+        "WL-P013"
+      ]
+    },
+    {
+      "number": 14,
+      "type": "Practical",
+      "focus": "Module 7: Fusion food design - apply and record",
+      "section_ids": [
+        "m07-s03"
+      ],
+      "teaching_and_learning": "Learn Annotate a safe, feasible concept; complete its checks, written response and the module activity. A teacher may add a current approved practical application only after local recipe, room and risk controls are confirmed.",
+      "syllabus_content_display": "Supports: Investigate how ingredients can be combined to create contemporary fusion foods",
+      "syllabus_alignment": [
+        "cicbd53061"
+      ],
+      "syllabus_alignment_states": {
+        "cicbd53061": "supported-current-site"
+      },
+      "outcomes": [
+        "FT5-SAF-01",
+        "FT5-FPP-01",
+        "FT5-USE-01"
+      ],
+      "evidence": "10 checks, one saved response and module activity; any practical observation is teacher recorded only if an approved activity occurs.",
+      "site_destinations": [
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-07.html#m07-s03",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-07.html#learning-m07-s03",
+        "https://stevencowell.github.io/Food-in-Australia/activities.html#activity-m07"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-TIME",
+        "TTC-PRACTICAL"
+      ],
+      "student_work": "Learn Annotate a safe, feasible concept; complete its checks, written response and the module activity. A teacher may add a current approved practical application only after local recipe, room and risk controls are confirmed.",
+      "syllabus_content": [
+        "Investigate how ingredients can be combined to create contemporary fusion foods"
+      ],
+      "outcome_codes": [
+        "FT5-SAF-01",
+        "FT5-FPP-01",
+        "FT5-USE-01"
+      ],
+      "source_ids": [
+        "S2",
+        "S3",
+        "S4"
+      ],
+      "site_destination_records": [
+        {
+          "label": "M07-S03 theory",
+          "url": "https://stevencowell.github.io/Food-in-Australia/modules/module-07.html#m07-s03",
+          "purpose": "Annotate a safe, feasible concept"
+        },
+        {
+          "label": "M07-S03 checks and response",
+          "url": "https://stevencowell.github.io/Food-in-Australia/modules/module-07.html#learning-m07-s03",
+          "purpose": "10 knowledge checks and saved response"
+        },
+        {
+          "label": "Open applied activity",
+          "url": "https://stevencowell.github.io/Food-in-Australia/activities.html#activity-m07",
+          "purpose": "Fusion rationale studio"
+        }
+      ],
+      "site_alignment": "mapped",
+      "practical_authority": "teacher-to-confirm",
+      "website_learning_ids": [
+        "WL-P014"
+      ]
+    },
+    {
+      "number": 15,
+      "type": "Site/theory",
+      "focus": "Module 8: Food production and processing",
+      "section_ids": [
+        "m08-s01",
+        "m08-s02"
+      ],
+      "teaching_and_learning": "Learn Food technology changes systems; Processing changes food properties. Use each named section, complete its knowledge checks and save the connected written response.",
+      "syllabus_content_display": "Contributes to: Identify food processing systems in Australia",
+      "syllabus_alignment": [
+        "ci10af9d33",
+        "ci6b213568"
+      ],
+      "syllabus_alignment_states": {
+        "ci10af9d33": "partial-current-site",
+        "ci6b213568": "partial-current-site"
+      },
+      "outcomes": [
+        "FT5-SAF-01",
+        "FT5-FPP-01",
+        "FT5-USE-01"
+      ],
+      "evidence": "20 checks plus two saved formative responses; evidence remains on the device until exported.",
+      "site_destinations": [
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-08.html#m08-s01",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-08.html#learning-m08-s01",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-08.html#m08-s02",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-08.html#learning-m08-s02",
+        "https://stevencowell.github.io/Food-in-Australia/activities.html#activity-m08"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-TIME"
+      ],
+      "student_work": "Learn Food technology changes systems; Processing changes food properties. Use each named section, complete its knowledge checks and save the connected written response.",
+      "syllabus_content": [
+        "Identify food processing systems in Australia",
+        "Outline the types and methods of primary and secondary food processing"
+      ],
+      "outcome_codes": [
+        "FT5-SAF-01",
+        "FT5-FPP-01",
+        "FT5-USE-01"
+      ],
+      "source_ids": [
+        "S2",
+        "S3",
+        "S4"
+      ],
+      "site_destination_records": [
+        {
+          "label": "M08-S01 theory",
+          "url": "https://stevencowell.github.io/Food-in-Australia/modules/module-08.html#m08-s01",
+          "purpose": "Food technology changes systems"
+        },
+        {
+          "label": "M08-S01 checks and response",
+          "url": "https://stevencowell.github.io/Food-in-Australia/modules/module-08.html#learning-m08-s01",
+          "purpose": "10 knowledge checks and saved response"
+        },
+        {
+          "label": "M08-S02 theory",
+          "url": "https://stevencowell.github.io/Food-in-Australia/modules/module-08.html#m08-s02",
+          "purpose": "Processing changes food properties"
+        },
+        {
+          "label": "M08-S02 checks and response",
+          "url": "https://stevencowell.github.io/Food-in-Australia/modules/module-08.html#learning-m08-s02",
+          "purpose": "10 knowledge checks and saved response"
+        },
+        {
+          "label": "Open applied activity",
+          "url": "https://stevencowell.github.io/Food-in-Australia/activities.html#activity-m08",
+          "purpose": "Process-change investigator"
+        }
+      ],
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "website_learning_ids": [
+        "WL-P015"
+      ]
+    },
+    {
+      "number": 16,
+      "type": "Practical",
+      "focus": "Module 8: Food production and processing - apply and record",
+      "section_ids": [
+        "m08-s03"
+      ],
+      "teaching_and_learning": "Learn Choose a method for the purpose; complete its checks, written response and the module activity. A teacher may add a current approved practical application only after local recipe, room and risk controls are confirmed.",
+      "syllabus_content_display": "Supports: Describe how food processing affects the sensory and nutritional properties of food",
+      "syllabus_alignment": [
+        "ci429d35fa"
+      ],
+      "syllabus_alignment_states": {
+        "ci429d35fa": "supported-current-site"
+      },
+      "outcomes": [
+        "FT5-SAF-01",
+        "FT5-FPP-01",
+        "FT5-USE-01"
+      ],
+      "evidence": "10 checks, one saved response and module activity; any practical observation is teacher recorded only if an approved activity occurs.",
+      "site_destinations": [
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-08.html#m08-s03",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-08.html#learning-m08-s03",
+        "https://stevencowell.github.io/Food-in-Australia/activities.html#activity-m08"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-TIME",
+        "TTC-PRACTICAL"
+      ],
+      "student_work": "Learn Choose a method for the purpose; complete its checks, written response and the module activity. A teacher may add a current approved practical application only after local recipe, room and risk controls are confirmed.",
+      "syllabus_content": [
+        "Describe how food processing affects the sensory and nutritional properties of food"
+      ],
+      "outcome_codes": [
+        "FT5-SAF-01",
+        "FT5-FPP-01",
+        "FT5-USE-01"
+      ],
+      "source_ids": [
+        "S2",
+        "S3",
+        "S4"
+      ],
+      "site_destination_records": [
+        {
+          "label": "M08-S03 theory",
+          "url": "https://stevencowell.github.io/Food-in-Australia/modules/module-08.html#m08-s03",
+          "purpose": "Choose a method for the purpose"
+        },
+        {
+          "label": "M08-S03 checks and response",
+          "url": "https://stevencowell.github.io/Food-in-Australia/modules/module-08.html#learning-m08-s03",
+          "purpose": "10 knowledge checks and saved response"
+        },
+        {
+          "label": "Open applied activity",
+          "url": "https://stevencowell.github.io/Food-in-Australia/activities.html#activity-m08",
+          "purpose": "Process-change investigator"
+        }
+      ],
+      "site_alignment": "mapped",
+      "practical_authority": "teacher-to-confirm",
+      "website_learning_ids": [
+        "WL-P016"
+      ]
+    },
+    {
+      "number": 17,
+      "type": "Site/theory",
+      "focus": "Module 9: Food choice and advertising",
+      "section_ids": [
+        "m09-s01",
+        "m09-s02"
+      ],
+      "teaching_and_learning": "Learn Food choices have interacting influences; Decode a food advertisement. Use each named section, complete its knowledge checks and save the connected written response.",
+      "syllabus_content_display": "Supports: Examine how media influences the marketing and promotion of local and community food systems",
+      "syllabus_alignment": [
+        "ci79893486",
+        "ci6cd9d51f"
+      ],
+      "syllabus_alignment_states": {
+        "ci79893486": "supported-current-site",
+        "ci6cd9d51f": "partial-current-site"
+      },
+      "outcomes": [
+        "FT5-USE-01",
+        "FT5-NSA-01",
+        "FT5-ENV-01"
+      ],
+      "evidence": "20 checks plus two saved formative responses; evidence remains on the device until exported.",
+      "site_destinations": [
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-09.html#m09-s01",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-09.html#learning-m09-s01",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-09.html#m09-s02",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-09.html#learning-m09-s02",
+        "https://stevencowell.github.io/Food-in-Australia/activities.html#activity-m09"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-TIME"
+      ],
+      "student_work": "Learn Food choices have interacting influences; Decode a food advertisement. Use each named section, complete its knowledge checks and save the connected written response.",
+      "syllabus_content": [
+        "Examine how media influences the marketing and promotion of local and community food systems",
+        "Explain how consumer food choices may influence food production, availability and distribution"
+      ],
+      "outcome_codes": [
+        "FT5-USE-01",
+        "FT5-NSA-01",
+        "FT5-ENV-01"
+      ],
+      "source_ids": [
+        "S2",
+        "S3",
+        "S4"
+      ],
+      "site_destination_records": [
+        {
+          "label": "M09-S01 theory",
+          "url": "https://stevencowell.github.io/Food-in-Australia/modules/module-09.html#m09-s01",
+          "purpose": "Food choices have interacting influences"
+        },
+        {
+          "label": "M09-S01 checks and response",
+          "url": "https://stevencowell.github.io/Food-in-Australia/modules/module-09.html#learning-m09-s01",
+          "purpose": "10 knowledge checks and saved response"
+        },
+        {
+          "label": "M09-S02 theory",
+          "url": "https://stevencowell.github.io/Food-in-Australia/modules/module-09.html#m09-s02",
+          "purpose": "Decode a food advertisement"
+        },
+        {
+          "label": "M09-S02 checks and response",
+          "url": "https://stevencowell.github.io/Food-in-Australia/modules/module-09.html#learning-m09-s02",
+          "purpose": "10 knowledge checks and saved response"
+        },
+        {
+          "label": "Open applied activity",
+          "url": "https://stevencowell.github.io/Food-in-Australia/activities.html#activity-m09",
+          "purpose": "Advertisement evidence decoder"
+        }
+      ],
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "website_learning_ids": [
+        "WL-P017"
+      ]
+    },
+    {
+      "number": 18,
+      "type": "Project/folio",
+      "focus": "Module 9: Food choice and advertising - apply and record",
+      "section_ids": [
+        "m09-s03"
+      ],
+      "teaching_and_learning": "Learn Persuade without misleading; complete its checks and written response, then complete the module activity and save the named folio evidence.",
+      "syllabus_content_display": "Contributes to: Evaluate how food is designed and promoted to influence individual and consumer choices",
+      "syllabus_alignment": [
+        "ci2f17593c"
+      ],
+      "syllabus_alignment_states": {
+        "ci2f17593c": "partial-current-site"
+      },
+      "outcomes": [
+        "FT5-USE-01",
+        "FT5-NSA-01",
+        "FT5-ENV-01"
+      ],
+      "evidence": "10 checks, one saved response, module activity and folio checkpoint.",
+      "site_destinations": [
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-09.html#m09-s03",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-09.html#learning-m09-s03",
+        "https://stevencowell.github.io/Food-in-Australia/folio.html#folio-m09",
+        "https://stevencowell.github.io/Food-in-Australia/activities.html#activity-m09"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-TIME"
+      ],
+      "student_work": "Learn Persuade without misleading; complete its checks and written response, then complete the module activity and save the named folio evidence.",
+      "syllabus_content": [
+        "Evaluate how food is designed and promoted to influence individual and consumer choices"
+      ],
+      "outcome_codes": [
+        "FT5-USE-01",
+        "FT5-NSA-01",
+        "FT5-ENV-01"
+      ],
+      "source_ids": [
+        "S2",
+        "S3",
+        "S4"
+      ],
+      "site_destination_records": [
+        {
+          "label": "M09-S03 theory",
+          "url": "https://stevencowell.github.io/Food-in-Australia/modules/module-09.html#m09-s03",
+          "purpose": "Persuade without misleading"
+        },
+        {
+          "label": "M09-S03 checks and response",
+          "url": "https://stevencowell.github.io/Food-in-Australia/modules/module-09.html#learning-m09-s03",
+          "purpose": "10 knowledge checks and saved response"
+        },
+        {
+          "label": "Open folio",
+          "url": "https://stevencowell.github.io/Food-in-Australia/folio.html#folio-m09",
+          "purpose": "Save or export the named formative evidence"
+        },
+        {
+          "label": "Open applied activity",
+          "url": "https://stevencowell.github.io/Food-in-Australia/activities.html#activity-m09",
+          "purpose": "Advertisement evidence decoder"
+        }
+      ],
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "website_learning_ids": [
+        "WL-P018"
+      ]
+    },
+    {
+      "number": 19,
+      "type": "Site/theory",
+      "focus": "Module 10: Synthesis and assessment readiness",
+      "section_ids": [
+        "m10-s01",
+        "m10-s02"
+      ],
+      "teaching_and_learning": "Learn Analyse a food diary without judgement; Explain change with evidence. Use each named section, complete its knowledge checks and save the connected written response.",
+      "syllabus_content_display": "Supports: Examine physiological, psychological, social and economic factors that influence food selection",
+      "syllabus_alignment": [
+        "cid30998cd",
+        "cic50e39e3"
+      ],
+      "syllabus_alignment_states": {
+        "cid30998cd": "supported-current-site",
+        "cic50e39e3": "partial-current-site"
+      },
+      "outcomes": [
+        "FT5-FPP-01",
+        "FT5-IET-01",
+        "FT5-NSA-01"
+      ],
+      "evidence": "20 checks plus two saved formative responses; evidence remains on the device until exported.",
+      "site_destinations": [
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-10.html#m10-s01",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-10.html#learning-m10-s01",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-10.html#m10-s02",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-10.html#learning-m10-s02",
+        "https://stevencowell.github.io/Food-in-Australia/activities.html#activity-m10"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-TIME"
+      ],
+      "student_work": "Learn Analyse a food diary without judgement; Explain change with evidence. Use each named section, complete its knowledge checks and save the connected written response.",
+      "syllabus_content": [
+        "Examine physiological, psychological, social and economic factors that influence food selection",
+        "Create written texts to explain how social, political and environmental factors shape food systems"
+      ],
+      "outcome_codes": [
+        "FT5-FPP-01",
+        "FT5-IET-01",
+        "FT5-NSA-01"
+      ],
+      "source_ids": [
+        "S2",
+        "S3",
+        "S4"
+      ],
+      "site_destination_records": [
+        {
+          "label": "M10-S01 theory",
+          "url": "https://stevencowell.github.io/Food-in-Australia/modules/module-10.html#m10-s01",
+          "purpose": "Analyse a food diary without judgement"
+        },
+        {
+          "label": "M10-S01 checks and response",
+          "url": "https://stevencowell.github.io/Food-in-Australia/modules/module-10.html#learning-m10-s01",
+          "purpose": "10 knowledge checks and saved response"
+        },
+        {
+          "label": "M10-S02 theory",
+          "url": "https://stevencowell.github.io/Food-in-Australia/modules/module-10.html#m10-s02",
+          "purpose": "Explain change with evidence"
+        },
+        {
+          "label": "M10-S02 checks and response",
+          "url": "https://stevencowell.github.io/Food-in-Australia/modules/module-10.html#learning-m10-s02",
+          "purpose": "10 knowledge checks and saved response"
+        },
+        {
+          "label": "Open applied activity",
+          "url": "https://stevencowell.github.io/Food-in-Australia/activities.html#activity-m10",
+          "purpose": "Evidence triage and synthesis"
+        }
+      ],
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "website_learning_ids": [
+        "WL-P019"
+      ]
+    },
+    {
+      "number": 20,
+      "type": "Project/folio",
+      "focus": "Module 10: Synthesis and assessment readiness - apply and record",
+      "section_ids": [
+        "m10-s03"
+      ],
+      "teaching_and_learning": "Learn Select, reflect and present evidence; complete its checks and written response, then complete the module activity and save the named folio evidence.",
+      "syllabus_content_display": "Supports: Create written texts to explain how food practices are influenced by their historical and cultural contexts",
+      "syllabus_alignment": [
+        "cif5819d10"
+      ],
+      "syllabus_alignment_states": {
+        "cif5819d10": "supported-current-site"
+      },
+      "outcomes": [
+        "FT5-FPP-01",
+        "FT5-COM-01"
+      ],
+      "evidence": "10 checks, one saved response, module activity and folio checkpoint.",
+      "site_destinations": [
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-10.html#m10-s03",
+        "https://stevencowell.github.io/Food-in-Australia/modules/module-10.html#learning-m10-s03",
+        "https://stevencowell.github.io/Food-in-Australia/folio.html#folio-m10",
+        "https://stevencowell.github.io/Food-in-Australia/activities.html#activity-m10"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-TIME"
+      ],
+      "student_work": "Learn Select, reflect and present evidence; complete its checks and written response, then complete the module activity and save the named folio evidence.",
+      "syllabus_content": [
+        "Create written texts to explain how food practices are influenced by their historical and cultural contexts"
+      ],
+      "outcome_codes": [
+        "FT5-FPP-01",
+        "FT5-COM-01"
+      ],
+      "source_ids": [
+        "S2",
+        "S3",
+        "S4"
+      ],
+      "site_destination_records": [
+        {
+          "label": "M10-S03 theory",
+          "url": "https://stevencowell.github.io/Food-in-Australia/modules/module-10.html#m10-s03",
+          "purpose": "Select, reflect and present evidence"
+        },
+        {
+          "label": "M10-S03 checks and response",
+          "url": "https://stevencowell.github.io/Food-in-Australia/modules/module-10.html#learning-m10-s03",
+          "purpose": "10 knowledge checks and saved response"
+        },
+        {
+          "label": "Open folio",
+          "url": "https://stevencowell.github.io/Food-in-Australia/folio.html#folio-m10",
+          "purpose": "Save or export the named formative evidence"
+        },
+        {
+          "label": "Open applied activity",
+          "url": "https://stevencowell.github.io/Food-in-Australia/activities.html#activity-m10",
+          "purpose": "Evidence triage and synthesis"
+        }
+      ],
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "website_learning_ids": [
+        "WL-P020"
+      ]
+    }
+  ],
+  "site_route_map": [
+    {
+      "destination": "https://stevencowell.github.io/Food-in-Australia/modules/module-01.html#m01-s01",
+      "purpose": "From hazard to control",
+      "audience": "student",
+      "period_numbers": [
+        1
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-in-Australia/modules/module-01.html#learning-m01-s01",
+      "purpose": "10 knowledge checks and saved response",
+      "audience": "student",
+      "period_numbers": [
+        1
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-in-Australia/modules/module-01.html#m01-s02",
+      "purpose": "Hygiene breaks the contamination chain",
+      "audience": "student",
+      "period_numbers": [
+        1
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-in-Australia/modules/module-01.html#learning-m01-s02",
+      "purpose": "10 knowledge checks and saved response",
+      "audience": "student",
+      "period_numbers": [
+        1
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-in-Australia/activities.html#activity-m01",
+      "purpose": "Food-room decision lab",
+      "audience": "student",
+      "period_numbers": [
+        1,
+        2
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-in-Australia/modules/module-01.html#m01-s03",
+      "purpose": "Ready before you begin",
+      "audience": "student",
+      "period_numbers": [
+        2
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-in-Australia/modules/module-01.html#learning-m01-s03",
+      "purpose": "10 knowledge checks and saved response",
+      "audience": "student",
+      "period_numbers": [
+        2
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-in-Australia/folio.html#folio-m01",
+      "purpose": "Save or export the named formative evidence",
+      "audience": "student",
+      "period_numbers": [
+        2
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-in-Australia/modules/module-02.html#m02-s01",
+      "purpose": "Country, identity and respectful language",
+      "audience": "student",
+      "period_numbers": [
+        3
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-in-Australia/modules/module-02.html#learning-m02-s01",
+      "purpose": "10 knowledge checks and saved response",
+      "audience": "student",
+      "period_numbers": [
+        3
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-in-Australia/modules/module-02.html#m02-s02",
+      "purpose": "Compare nutrition evidence fairly",
+      "audience": "student",
+      "period_numbers": [
+        3
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-in-Australia/modules/module-02.html#learning-m02-s02",
+      "purpose": "10 knowledge checks and saved response",
+      "audience": "student",
+      "period_numbers": [
+        3
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-in-Australia/activities.html#activity-m02",
+      "purpose": "Native-food evidence detective",
+      "audience": "student",
+      "period_numbers": [
+        3,
+        4
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-in-Australia/modules/module-02.html#m02-s03",
+      "purpose": "Modify with a reason",
+      "audience": "student",
+      "period_numbers": [
+        4
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-in-Australia/modules/module-02.html#learning-m02-s03",
+      "purpose": "10 knowledge checks and saved response",
+      "audience": "student",
+      "period_numbers": [
+        4
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-in-Australia/folio.html#folio-m02",
+      "purpose": "Save or export the named formative evidence",
+      "audience": "student",
+      "period_numbers": [
+        4
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-in-Australia/modules/module-03.html#m03-s01",
+      "purpose": "Cultural Knowledge is living, local and owned",
+      "audience": "student",
+      "period_numbers": [
+        5
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-in-Australia/modules/module-03.html#learning-m03-s01",
+      "purpose": "10 knowledge checks and saved response",
+      "audience": "student",
+      "period_numbers": [
+        5
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-in-Australia/modules/module-03.html#m03-s02",
+      "purpose": "Seasons, cycles and caring for resources",
+      "audience": "student",
+      "period_numbers": [
+        5
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-in-Australia/modules/module-03.html#learning-m03-s02",
+      "purpose": "10 knowledge checks and saved response",
+      "audience": "student",
+      "period_numbers": [
+        5
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-in-Australia/activities.html#activity-m03",
+      "purpose": "ICIP source-permission audit",
+      "audience": "student",
+      "period_numbers": [
+        5,
+        6
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-in-Australia/modules/module-03.html#m03-s03",
+      "purpose": "Research, permission and ICIP",
+      "audience": "student",
+      "period_numbers": [
+        6
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-in-Australia/modules/module-03.html#learning-m03-s03",
+      "purpose": "10 knowledge checks and saved response",
+      "audience": "student",
+      "period_numbers": [
+        6
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-in-Australia/folio.html#folio-m03",
+      "purpose": "Save or export the named formative evidence",
+      "audience": "student",
+      "period_numbers": [
+        6
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-in-Australia/modules/module-04.html#m04-s01",
+      "purpose": "Roles, knowledge and responsibility",
+      "audience": "student",
+      "period_numbers": [
+        7
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-in-Australia/modules/module-04.html#learning-m04-s01",
+      "purpose": "10 knowledge checks and saved response",
+      "audience": "student",
+      "period_numbers": [
+        7
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-in-Australia/modules/module-04.html#m04-s02",
+      "purpose": "Introduced rations and nutrition",
+      "audience": "student",
+      "period_numbers": [
+        7
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-in-Australia/modules/module-04.html#learning-m04-s02",
+      "purpose": "10 knowledge checks and saved response",
+      "audience": "student",
+      "period_numbers": [
+        7
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-in-Australia/activities.html#activity-m04",
+      "purpose": "Historical claim surgery",
+      "audience": "student",
+      "period_numbers": [
+        7,
+        8
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-in-Australia/modules/module-04.html#m04-s03",
+      "purpose": "Read historical food sources critically",
+      "audience": "student",
+      "period_numbers": [
+        8
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-in-Australia/modules/module-04.html#learning-m04-s03",
+      "purpose": "10 knowledge checks and saved response",
+      "audience": "student",
+      "period_numbers": [
+        8
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-in-Australia/folio.html#folio-m04",
+      "purpose": "Save or export the named formative evidence",
+      "audience": "student",
+      "period_numbers": [
+        8
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-in-Australia/modules/module-05.html#m05-s01",
+      "purpose": "Colonisation changed food access",
+      "audience": "student",
+      "period_numbers": [
+        9
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-in-Australia/modules/module-05.html#learning-m05-s01",
+      "purpose": "10 knowledge checks and saved response",
+      "audience": "student",
+      "period_numbers": [
+        9
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-in-Australia/modules/module-05.html#m05-s02",
+      "purpose": "Settler food constraints and technology",
+      "audience": "student",
+      "period_numbers": [
+        9
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-in-Australia/modules/module-05.html#learning-m05-s02",
+      "purpose": "10 knowledge checks and saved response",
+      "audience": "student",
+      "period_numbers": [
+        9
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-in-Australia/activities.html#activity-m05",
+      "purpose": "Change-pathway mapper",
+      "audience": "student",
+      "period_numbers": [
+        9,
+        10
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-in-Australia/modules/module-05.html#m05-s03",
+      "purpose": "Migration changed Australian food habits",
+      "audience": "student",
+      "period_numbers": [
+        10
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-in-Australia/modules/module-05.html#learning-m05-s03",
+      "purpose": "10 knowledge checks and saved response",
+      "audience": "student",
+      "period_numbers": [
+        10
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-in-Australia/folio.html#folio-m05",
+      "purpose": "Save or export the named formative evidence",
+      "audience": "student",
+      "period_numbers": [
+        10
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-in-Australia/modules/module-06.html#m06-s01",
+      "purpose": "Contemporary Australian cuisine keeps changing",
+      "audience": "student",
+      "period_numbers": [
+        11
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-in-Australia/modules/module-06.html#learning-m06-s01",
+      "purpose": "10 knowledge checks and saved response",
+      "audience": "student",
+      "period_numbers": [
+        11
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-in-Australia/modules/module-06.html#m06-s02",
+      "purpose": "Research one food culture without stereotyping",
+      "audience": "student",
+      "period_numbers": [
+        11
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-in-Australia/modules/module-06.html#learning-m06-s02",
+      "purpose": "10 knowledge checks and saved response",
+      "audience": "student",
+      "period_numbers": [
+        11
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-in-Australia/activities.html#activity-m06",
+      "purpose": "Culture-research repair workshop",
+      "audience": "student",
+      "period_numbers": [
+        11,
+        12
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-in-Australia/modules/module-06.html#m06-s03",
+      "purpose": "Ingredients, flavours and methods work together",
+      "audience": "student",
+      "period_numbers": [
+        12
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-in-Australia/modules/module-06.html#learning-m06-s03",
+      "purpose": "10 knowledge checks and saved response",
+      "audience": "student",
+      "period_numbers": [
+        12
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-in-Australia/modules/module-07.html#m07-s01",
+      "purpose": "Fusion needs a purpose",
+      "audience": "student",
+      "period_numbers": [
+        13
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-in-Australia/modules/module-07.html#learning-m07-s01",
+      "purpose": "10 knowledge checks and saved response",
+      "audience": "student",
+      "period_numbers": [
+        13
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-in-Australia/modules/module-07.html#m07-s02",
+      "purpose": "Research before you design",
+      "audience": "student",
+      "period_numbers": [
+        13
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-in-Australia/modules/module-07.html#learning-m07-s02",
+      "purpose": "10 knowledge checks and saved response",
+      "audience": "student",
+      "period_numbers": [
+        13
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-in-Australia/activities.html#activity-m07",
+      "purpose": "Fusion rationale studio",
+      "audience": "student",
+      "period_numbers": [
+        13,
+        14
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-in-Australia/modules/module-07.html#m07-s03",
+      "purpose": "Annotate a safe, feasible concept",
+      "audience": "student",
+      "period_numbers": [
+        14
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-in-Australia/modules/module-07.html#learning-m07-s03",
+      "purpose": "10 knowledge checks and saved response",
+      "audience": "student",
+      "period_numbers": [
+        14
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-in-Australia/modules/module-08.html#m08-s01",
+      "purpose": "Food technology changes systems",
+      "audience": "student",
+      "period_numbers": [
+        15
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-in-Australia/modules/module-08.html#learning-m08-s01",
+      "purpose": "10 knowledge checks and saved response",
+      "audience": "student",
+      "period_numbers": [
+        15
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-in-Australia/modules/module-08.html#m08-s02",
+      "purpose": "Processing changes food properties",
+      "audience": "student",
+      "period_numbers": [
+        15
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-in-Australia/modules/module-08.html#learning-m08-s02",
+      "purpose": "10 knowledge checks and saved response",
+      "audience": "student",
+      "period_numbers": [
+        15
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-in-Australia/activities.html#activity-m08",
+      "purpose": "Process-change investigator",
+      "audience": "student",
+      "period_numbers": [
+        15,
+        16
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-in-Australia/modules/module-08.html#m08-s03",
+      "purpose": "Choose a method for the purpose",
+      "audience": "student",
+      "period_numbers": [
+        16
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-in-Australia/modules/module-08.html#learning-m08-s03",
+      "purpose": "10 knowledge checks and saved response",
+      "audience": "student",
+      "period_numbers": [
+        16
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-in-Australia/modules/module-09.html#m09-s01",
+      "purpose": "Food choices have interacting influences",
+      "audience": "student",
+      "period_numbers": [
+        17
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-in-Australia/modules/module-09.html#learning-m09-s01",
+      "purpose": "10 knowledge checks and saved response",
+      "audience": "student",
+      "period_numbers": [
+        17
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-in-Australia/modules/module-09.html#m09-s02",
+      "purpose": "Decode a food advertisement",
+      "audience": "student",
+      "period_numbers": [
+        17
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-in-Australia/modules/module-09.html#learning-m09-s02",
+      "purpose": "10 knowledge checks and saved response",
+      "audience": "student",
+      "period_numbers": [
+        17
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-in-Australia/activities.html#activity-m09",
+      "purpose": "Advertisement evidence decoder",
+      "audience": "student",
+      "period_numbers": [
+        17,
+        18
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-in-Australia/modules/module-09.html#m09-s03",
+      "purpose": "Persuade without misleading",
+      "audience": "student",
+      "period_numbers": [
+        18
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-in-Australia/modules/module-09.html#learning-m09-s03",
+      "purpose": "10 knowledge checks and saved response",
+      "audience": "student",
+      "period_numbers": [
+        18
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-in-Australia/folio.html#folio-m09",
+      "purpose": "Save or export the named formative evidence",
+      "audience": "student",
+      "period_numbers": [
+        18
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-in-Australia/modules/module-10.html#m10-s01",
+      "purpose": "Analyse a food diary without judgement",
+      "audience": "student",
+      "period_numbers": [
+        19
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-in-Australia/modules/module-10.html#learning-m10-s01",
+      "purpose": "10 knowledge checks and saved response",
+      "audience": "student",
+      "period_numbers": [
+        19
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-in-Australia/modules/module-10.html#m10-s02",
+      "purpose": "Explain change with evidence",
+      "audience": "student",
+      "period_numbers": [
+        19
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-in-Australia/modules/module-10.html#learning-m10-s02",
+      "purpose": "10 knowledge checks and saved response",
+      "audience": "student",
+      "period_numbers": [
+        19
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-in-Australia/activities.html#activity-m10",
+      "purpose": "Evidence triage and synthesis",
+      "audience": "student",
+      "period_numbers": [
+        19,
+        20
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-in-Australia/modules/module-10.html#m10-s03",
+      "purpose": "Select, reflect and present evidence",
+      "audience": "student",
+      "period_numbers": [
+        20
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-in-Australia/modules/module-10.html#learning-m10-s03",
+      "purpose": "10 knowledge checks and saved response",
+      "audience": "student",
+      "period_numbers": [
+        20
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Food-in-Australia/folio.html#folio-m10",
+      "purpose": "Save or export the named formative evidence",
+      "audience": "student",
+      "period_numbers": [
+        20
+      ]
+    }
+  ],
+  "content_coverage": {
+    "official_content_total": 125,
+    "content_points_referenced_by_this_program": 23,
+    "referenced_point_states": {
+      "supported-current-site": 13,
+      "partial-current-site": 10
+    },
+    "claim_boundary": "A point is not complete merely because it is referenced. Only supported-current-site points have explicit site theory and formative evidence; partial and gap states remain open in the master gap register."
+  },
+  "teacher_to_confirm": [
+    {
+      "id": "TTC-TIME",
+      "item": "Confirm how the local timetable converts the site's ten-week/module sequence into 20 one-hour planning periods.",
+      "owner": "Teacher/course coordinator",
+      "due_before": "Before the first affected period is delivered",
+      "affected_periods": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "state": "Teacher to confirm before delivery"
+    },
+    {
+      "id": "TTC-PRACTICAL",
+      "item": "Confirm the current approved recipe or activity, equipment, ingredients, room controls, risk controls and supervision before practical work.",
+      "owner": "Teacher/course coordinator",
+      "due_before": "Before the first affected period is delivered",
+      "affected_periods": [
+        12,
+        14,
+        16
+      ],
+      "state": "Teacher to confirm before delivery"
+    }
+  ],
+  "files": [
+    {
+      "path": "Food-in-Australia-20-Period-Teaching-Program-v2.0-Network-Benchmark.docx",
+      "purpose": "editable-program",
+      "version": "v2.0",
+      "sha256": "03E5C47DBD525639D4D3433D8D9875699D07BBDA2B6FA63A363BD033D3CE95D3"
+    },
+    {
+      "path": "Food-in-Australia-20-Period-Teaching-Program-v2.0-Network-Benchmark.pdf",
+      "purpose": "rendered-program",
+      "version": "v2.0",
+      "sha256": "1BCCB27EE33C3D86C1803CE3928CACA501B01152C1365022A25E1E21F4CA62D8"
+    },
+    {
+      "path": "Food-in-Australia-20-Period-Alignment-Manifest-v2.0.json",
+      "purpose": "alignment-manifest",
+      "version": "v2.0"
+    }
+  ]
+}

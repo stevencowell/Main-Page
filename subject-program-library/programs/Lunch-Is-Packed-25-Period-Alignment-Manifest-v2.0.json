@@ -3,14 +3,14 @@
   "program_id": "lunch-is-packed",
   "version": "v2.0",
   "teacher_facing_display": {
-    "course_identity": "Stage 4 Technology Mandatory",
+    "course_identity": "Stage 4 Technology",
     "specific_year_group_visible": false,
     "official_outcomes_complete": true,
     "outcome_code_placement": "Beneath the plain-English syllabus alignment statement"
   },
   "course": {
-    "title": "Stage 4 Technology Mandatory",
-    "classification": "Technology Mandatory",
+    "title": "Stage 4 Technology",
+    "classification": "Stage 4 Technology",
     "stage_or_year": "Stage 4",
     "delivery_year": 2027,
     "project": "Lunch Is Packed"
@@ -1233,13 +1233,13 @@
       "path": "resources/teacher/Lunch-Is-Packed-25-Period-Teaching-Program-v2.0-Network-Benchmark.docx",
       "purpose": "editable-program",
       "version": "v2.0",
-      "sha256": "AE58FF040CEA0A90725A162A29EECED1F1CE13D612E74F8260FABF2666BD3BBE"
+      "sha256": "4FD755FC11EF36A51026F3CA273A3BB85DC5D2241D4959E2C0993C214F7FC57D"
     },
     {
       "path": "resources/teacher/Lunch-Is-Packed-25-Period-Teaching-Program-v2.0-Network-Benchmark.pdf",
       "purpose": "rendered-program",
       "version": "v2.0",
-      "sha256": "DF9B64C36FBFB3C2B8BF7715345A3E4F0011E038FD6AB09AC22E6D576E314624"
+      "sha256": "319D6D2CB12171BB52566A2A96C344FC83DAABED36C52970CD30EEA066BC2BD8"
     },
     {
       "path": "resources/teacher/Lunch-Is-Packed-25-Period-Alignment-Manifest-v2.0.json",

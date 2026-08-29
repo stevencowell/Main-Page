@@ -4,10 +4,12 @@
   "version": "v2.0",
   "course": {
     "title": "Food for Purpose",
-    "classification": "School-developed 50-hour Stage 4 introductory elective aligned to Food Technology",
+    "classification": "Introductory unit contributing to a 100-hour Food Technology elective",
     "stage_or_year": "Stage 4",
     "delivery_year": 2027,
-    "project": "Design, produce and evaluate teacher-approved food solutions for identified purposes"
+    "project": "Design, produce and evaluate teacher-approved food solutions for identified purposes",
+    "course_requirement": "This 50-period unit must be paired with sufficient additional study to complete the school's named 100-hour Food Technology elective.",
+    "stage4_adjustment_advice": "For Stage 4 delivery, teachers may adjust the Stage 5 outcomes as appropriate to the needs of students. This advice is not an additional syllabus outcome."
   },
   "site": {
     "name": "Stage 4 Food Technology - Food for Purpose",
@@ -32,12 +34,6 @@
     "total_periods": 50
   },
   "outcomes": [
-    {
-      "code": "FT4-ADJ-01",
-      "statement": "in Stage 4, teachers may adjust the Stage 5 outcomes as appropriate to the needs of students in Years 7 and 8",
-      "source_id": "S2",
-      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/food-technology-7-10-2025/outcomes"
-    },
     {
       "code": "FT5-SAF-01",
       "statement": "applies safe work and management practices through food design and production processes",
@@ -96,7 +92,7 @@
       "authority": "official-syllabus",
       "location": "https://curriculum.nsw.edu.au/learning-areas/tas/food-technology-7-10-2025/outcomes",
       "revision": "verified 2026-08-28",
-      "use": "Exact Stage 4 adjustment and Stage 5 outcomes"
+      "use": "Exact Stage 5 outcomes and Stage 4 adjustment advice"
     },
     {
       "id": "S3",
@@ -2578,13 +2574,13 @@
       "path": "resources/teacher/Food-for-Purpose-50-Period-Teaching-Program-v2.0-Network-Benchmark.docx",
       "purpose": "editable-program",
       "version": "v2.0",
-      "sha256": "356FAC87D79FFB03E015FF402DC02D009ED872723EF4E66F80264F105BF4F16C"
+      "sha256": "0913C48076A7FBDD038B66614A82AE6FD097046382D75A343066B76FCF90F12A"
     },
     {
       "path": "resources/teacher/Food-for-Purpose-50-Period-Teaching-Program-v2.0-Network-Benchmark.pdf",
       "purpose": "rendered-program",
       "version": "v2.0",
-      "sha256": "CCCB29A019D44F1D6B62CEE43E7C520256228675AD14236EE41E27355CF72B9C"
+      "sha256": "3B4C9075CE60BF8569932D5F9F31F9011C9DC401EDF7A7B83FE25AF32C5FF61B"
     },
     {
       "path": "resources/teacher/Food-for-Purpose-50-Period-Alignment-Manifest-v2.0.json",
