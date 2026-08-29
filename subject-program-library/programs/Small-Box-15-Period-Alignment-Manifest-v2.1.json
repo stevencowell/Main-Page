@@ -1,0 +1,1515 @@
+{
+  "schema_version": "1.2",
+  "program_id": "small-box",
+  "version": "v2.1",
+  "teacher_facing_display": {
+    "course_identity": "Stage 5 Industrial Technology - Timber industry | 200-hour elective",
+    "official_outcomes_complete": true,
+    "outcome_code_placement": "Beside each concise plain-English syllabus alignment statement",
+    "legacy_2026_assessment_separated": true
+  },
+  "course": {
+    "title": "Stage 5 Industrial Technology - Timber industry",
+    "classification": "Industrial Technology - Timber industry 200-hour elective",
+    "stage_or_year": "Stage 5",
+    "delivery_year": 2027,
+    "project": "Small Box",
+    "program_scope": "Local project addition; retain the teacher-confirmed plan and dimensions.",
+    "master_placement": "Local compact extension; not named in the supplied master"
+  },
+  "master_program": {
+    "id": "stage-5-timber-200-hour-master",
+    "title": "Stage 5 Industrial Technology - Timber industry | 200-hour master program",
+    "version": "v2.1",
+    "plan": "stage5-timber-master-plan-v2.0.json",
+    "planning_authority": "repositories/timber-hub/resources/future-stage-5-timber-program-2027.docx",
+    "relationship_note": "The master selects and globally renumbers real rows from six complete project programs. Small Box and Folding Chair remain optional-unscheduled. The Mirror uses an 18-week planning allocation that remains faculty-to-confirm.",
+    "relationship": "optional-unscheduled-extension",
+    "project_placement": "Local compact extension; not named in the supplied master",
+    "planning_authority_source_id": "L1",
+    "family_coverage_source_id": "F1",
+    "content_allocation_source_id": "A1"
+  },
+  "site": {
+    "name": "Small Box",
+    "reference": "https://stevencowell.github.io/Small-Box/",
+    "inspection_date": "2026-08-29",
+    "state": "mixed"
+  },
+  "syllabus": {
+    "title": "Industrial Technology 7-10 Syllabus",
+    "version": "2025",
+    "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/industrial-technology-7-10-2025/overview/course",
+    "outcomes_url": "https://curriculum.nsw.edu.au/learning-areas/tas/industrial-technology-7-10-2025/outcomes",
+    "verified_date": "2026-08-29",
+    "mandatory_from": "2028",
+    "early_implementation": "permitted",
+    "steve_decision": "use-new-early",
+    "implementation_status": "early-adoption-confirmed"
+  },
+  "timetable": {
+    "weeks": 6,
+    "period_minutes": 60,
+    "periods_per_fortnight": 5,
+    "total_periods": 15,
+    "scope": "standalone project-site program"
+  },
+  "content_coverage": {
+    "family_required_content_item_count": 82,
+    "individual_program_unique_content_item_count": 6,
+    "content_item_ids": [
+      "ci691cf158",
+      "ci7f898cb7",
+      "ci81dc1f7b",
+      "ci9889786f",
+      "cia5a4382a",
+      "cib02eaf95"
+    ],
+    "relationship": "optional-unscheduled-extension",
+    "allocation_source_id": "A1"
+  },
+  "outcomes": [
+    {
+      "code": "INT5-SAF-01",
+      "statement": "applies risk management and safe work practices in industrial technology contexts",
+      "source_id": "S2",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/industrial-technology-7-10-2025/outcomes"
+    },
+    {
+      "code": "INT5-COM-01",
+      "statement": "communicates ideas and processes in industrial technology contexts",
+      "source_id": "S2",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/industrial-technology-7-10-2025/outcomes"
+    },
+    {
+      "code": "INT5-ENV-01",
+      "statement": "assesses the impact of industrial activities and practices on society and the environment",
+      "source_id": "S2",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/industrial-technology-7-10-2025/outcomes"
+    },
+    {
+      "code": "INT5-DES-01",
+      "statement": "selects and applies design, project management and technical skills in project production",
+      "source_id": "S2",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/industrial-technology-7-10-2025/outcomes"
+    },
+    {
+      "code": "INT5-USE-01",
+      "statement": "selects and justifies the use of materials, tools and equipment to undertake projects",
+      "source_id": "S2",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/industrial-technology-7-10-2025/outcomes"
+    },
+    {
+      "code": "INT5-EVL-01",
+      "statement": "evaluates the functional, aesthetic, economic and environmental qualities of products",
+      "source_id": "S2",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/industrial-technology-7-10-2025/outcomes"
+    },
+    {
+      "code": "INT5-INP-01",
+      "statement": "analyses and applies a range of industrial processes in production contexts",
+      "source_id": "S2",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/industrial-technology-7-10-2025/outcomes"
+    },
+    {
+      "code": "INT5-PRO-01",
+      "statement": "demonstrates practical skills in the production of projects",
+      "source_id": "S2",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/industrial-technology-7-10-2025/outcomes"
+    },
+    {
+      "code": "INT5-IND-01",
+      "statement": "investigates and explains a range of industry careers, enterprise opportunities and practices",
+      "source_id": "S2",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/industrial-technology-7-10-2025/outcomes"
+    }
+  ],
+  "source_register": [
+    {
+      "id": "S1",
+      "title": "Industrial Technology 7-10 Syllabus (2025) - Course overview",
+      "authority": "official-syllabus",
+      "location": "https://curriculum.nsw.edu.au/learning-areas/tas/industrial-technology-7-10-2025/overview/course",
+      "revision": "verified 2026-08-29",
+      "use": "Course identity, implementation and course requirements"
+    },
+    {
+      "id": "S2",
+      "title": "Industrial Technology 7-10 Syllabus (2025) - Outcomes",
+      "authority": "official-syllabus",
+      "location": "https://curriculum.nsw.edu.au/learning-areas/tas/industrial-technology-7-10-2025/outcomes",
+      "revision": "verified 2026-08-29",
+      "use": "Exact Stage 5 outcome codes and wording"
+    },
+    {
+      "id": "S3",
+      "title": "Stage 5 Timber industry and Project development content",
+      "authority": "official-syllabus",
+      "location": "https://curriculum.nsw.edu.au/learning-areas/tas/industrial-technology-7-10-2025/content/stage-5/fa0e95d80e",
+      "related_locations": [
+        "https://curriculum.nsw.edu.au/learning-areas/tas/industrial-technology-7-10-2025/content/stage-5/fa71df8ecb",
+        "https://curriculum.nsw.edu.au/learning-areas/tas/industrial-technology-7-10-2025/content/stage-5/fa4b6cc66f"
+      ],
+      "revision": "verified 2026-08-29",
+      "use": "Content-item mapping"
+    },
+    {
+      "id": "F1",
+      "title": "Stage 5 Timber 200-hour family coverage record v2.0",
+      "authority": "local-alignment-record",
+      "location": "Stage-5-Timber-200-Hour-Family-Coverage-Record-v2.0.json",
+      "revision": "verified 2026-08-29",
+      "sha256": "A9B20D2D2A988A1946A2DBE38F8B69F08A13854AA5708B6F34C433E9895B3027",
+      "use": "Canonical join for all 82 exact official content items, outcomes and focus URLs"
+    },
+    {
+      "id": "A1",
+      "title": "Stage 5 Timber content allocation v2.1",
+      "authority": "master-program-allocation",
+      "location": "stage5-timber-content-allocation-v2.1.json",
+      "revision": "v2.1 scheduled-core allocation",
+      "sha256": "4AFE8DF97F021946D6EA63ACC1C23738AF683AC11FEAC9B4CFAAA14C4F3A0888",
+      "use": "Exact project and existing-period allocation for all 82 official content items"
+    },
+    {
+      "id": "L1",
+      "title": "Future Stage 5 Timber program 2027",
+      "authority": "local-program",
+      "location": "year-9-10-timber/resources/future-stage-5-timber-program-2027.docx",
+      "revision": "school working master inspected 2026-08-29",
+      "sha256": "DD3C386B367DDCE60EC09A386704FAF52E376E7C8C797491B4BB9F328E4B1349",
+      "use": "Project placement and mapped syllabus context"
+    },
+    {
+      "id": "L2",
+      "title": "Previous Small Box website-complete program",
+      "authority": "local-program",
+      "location": "resources/teacher/Small-Box-15-Period-Teaching-Program-v1.0-Website-Complete-10pt.docx",
+      "revision": "inspected 2026-08-29",
+      "sha256": "BA2DD09425B278E4EA455AF845F8B22F48ACD145B0B7474D65E6EB3C1157D232",
+      "use": "Preserved period sequence, teaching content and evidence boundaries"
+    },
+    {
+      "id": "L3",
+      "title": "Small Box course website",
+      "authority": "website",
+      "location": "https://stevencowell.github.io/Small-Box/",
+      "revision": "repository and live routes inspected 2026-08-29",
+      "use": "Named learning and evidence destinations"
+    },
+    {
+      "id": "B1",
+      "title": "Footstool network benchmark v2.0",
+      "authority": "quality-reference",
+      "location": "https://stevencowell.github.io/Main-Page/subject-program-library/programs/Footstool-50-Period-Teaching-Program-v2.0-Network-Benchmark.docx",
+      "revision": "benchmark inspected 2026-08-29",
+      "sha256": "35305F05807C01BCD5AB334773ED3E83DFC5B5F5A3EA6579AC5CC4BFF1B07735",
+      "use": "Program structure and visual pattern only"
+    }
+  ],
+  "website_learning_inventory": [
+    {
+      "id": "B01-S01",
+      "route": "weeks1-2/index.html#theory-1",
+      "theory_section": "Approved Small Box brief and source authority",
+      "quiz_or_check": "Weeks 1-2 knowledge checks",
+      "question_count": 4,
+      "scaffolded_response_count": 2,
+      "period_numbers": [
+        1
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Check the completed website responses and the named guided response.",
+      "teacher_to_confirm_ids": [],
+      "check_route": "weeks1-2/index.html#knowledge-checks",
+      "question_scope": "questions 1-4"
+    },
+    {
+      "id": "B01-S02",
+      "route": "weeks1-2/index.html#theory-2",
+      "theory_section": "Materials, measurement and marking control",
+      "quiz_or_check": "Weeks 1-2 knowledge checks",
+      "question_count": 4,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        2
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Check the folio evidence, decision or reflection, and the recorded next step.",
+      "teacher_to_confirm_ids": [],
+      "check_route": "weeks1-2/index.html#knowledge-checks",
+      "question_scope": "questions 5-8"
+    },
+    {
+      "id": "B01-S03",
+      "route": "weeks1-2/index.html#theory-3",
+      "theory_section": "Workshop authority and hazard controls",
+      "quiz_or_check": "Weeks 1-2 knowledge checks",
+      "question_count": 4,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        3
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Observe approved setup, process, skill, quality and clean-down.",
+      "teacher_to_confirm_ids": [],
+      "check_route": "weeks1-2/index.html#knowledge-checks",
+      "question_scope": "questions 9-12"
+    },
+    {
+      "id": "B02-S01",
+      "route": "weeks3-4/index.html#theory-1",
+      "theory_section": "Approved joint sequence and purpose",
+      "quiz_or_check": "Weeks 3-4 knowledge checks",
+      "question_count": 4,
+      "scaffolded_response_count": 2,
+      "period_numbers": [
+        6
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Check the completed website responses and the named guided response.",
+      "teacher_to_confirm_ids": [],
+      "check_route": "weeks3-4/index.html#knowledge-checks",
+      "question_scope": "questions 1-4"
+    },
+    {
+      "id": "B02-S02",
+      "route": "weeks3-4/index.html#theory-2",
+      "theory_section": "Dry fit, rebates and square glue-up",
+      "quiz_or_check": "Weeks 3-4 knowledge checks",
+      "question_count": 4,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        7
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Check the folio evidence, decision or reflection, and the recorded next step.",
+      "teacher_to_confirm_ids": [],
+      "check_route": "weeks3-4/index.html#knowledge-checks",
+      "question_scope": "questions 5-8"
+    },
+    {
+      "id": "B02-S03",
+      "route": "weeks3-4/index.html#theory-3",
+      "theory_section": "Correction and evidence control",
+      "quiz_or_check": "Weeks 3-4 knowledge checks",
+      "question_count": 4,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        8
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Observe approved setup, process, skill, quality and clean-down.",
+      "teacher_to_confirm_ids": [],
+      "check_route": "weeks3-4/index.html#knowledge-checks",
+      "question_scope": "questions 9-12"
+    },
+    {
+      "id": "B03-S01",
+      "route": "weeks5-6/index.html#theory-1",
+      "theory_section": "Lid chamfers and hinge-fit checks",
+      "quiz_or_check": "Weeks 5-6 knowledge checks",
+      "question_count": 4,
+      "scaffolded_response_count": 2,
+      "period_numbers": [
+        11
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Check the completed website responses and the named guided response.",
+      "teacher_to_confirm_ids": [],
+      "check_route": "weeks5-6/index.html#knowledge-checks",
+      "question_scope": "questions 1-4"
+    },
+    {
+      "id": "B03-S02",
+      "route": "weeks5-6/index.html#theory-2",
+      "theory_section": "Surface readiness and finish controls",
+      "quiz_or_check": "Weeks 5-6 knowledge checks",
+      "question_count": 4,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        12
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Check the folio evidence, decision or reflection, and the recorded next step.",
+      "teacher_to_confirm_ids": [],
+      "check_route": "weeks5-6/index.html#knowledge-checks",
+      "question_scope": "questions 5-8"
+    },
+    {
+      "id": "B03-S03",
+      "route": "weeks5-6/index.html#theory-3",
+      "theory_section": "Final quality and evidence review",
+      "quiz_or_check": "Weeks 5-6 knowledge checks",
+      "question_count": 4,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        13
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "Observe approved setup, process, skill, quality and clean-down.",
+      "teacher_to_confirm_ids": [],
+      "check_route": "weeks5-6/index.html#knowledge-checks",
+      "question_scope": "questions 9-12"
+    }
+  ],
+  "periods": [
+    {
+      "number": 1,
+      "type": "Site/theory",
+      "focus": "Weeks 1-2 website",
+      "student_work": "Read and apply: Approved Small Box brief and source authority. Complete Weeks 1-2 knowledge checks (questions 1-4). Complete 2 scaffolded written responses.",
+      "evidence": "Check the completed website responses and the named guided response.",
+      "syllabus_content": [
+        "Identify and investigate factors influencing design in projects to develop specifications"
+      ],
+      "outcome_codes": [
+        "INT5-DES-01",
+        "INT5-EVL-01",
+        "INT5-ENV-01"
+      ],
+      "syllabus_alignments": [
+        {
+          "plain_english": "Design factors and project specifications",
+          "content_item_id": "ci81dc1f7b",
+          "exact_official_content": "Identify and investigate factors influencing design in projects to develop specifications",
+          "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/industrial-technology-7-10-2025/content/stage-5/fa71df8ecb",
+          "outcome_codes": [
+            "INT5-DES-01",
+            "INT5-EVL-01",
+            "INT5-ENV-01"
+          ],
+          "family_coverage_number": 7,
+          "allocation_relationship": "legacy-source-retained",
+          "allocation_source_id": "L2"
+        }
+      ],
+      "syllabus_alignment": {
+        "plain_english": "Design factors and project specifications",
+        "content_item_id": "ci81dc1f7b",
+        "exact_official_content": "Identify and investigate factors influencing design in projects to develop specifications",
+        "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/industrial-technology-7-10-2025/content/stage-5/fa71df8ecb",
+        "outcome_codes": [
+          "INT5-DES-01",
+          "INT5-EVL-01",
+          "INT5-ENV-01"
+        ],
+        "family_coverage_number": 7,
+        "allocation_relationship": "legacy-source-retained",
+        "allocation_source_id": "L2"
+      },
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "F1",
+        "A1",
+        "L1",
+        "L2",
+        "L3"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "weeks1-2/index.html#theory-1",
+        "weeks1-2/index.html#knowledge-checks"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "B01-S01"
+      ]
+    },
+    {
+      "number": 2,
+      "type": "Project/folio",
+      "focus": "Weeks 1-2 folio",
+      "student_work": "Read and apply: Materials, measurement and marking control. Complete Weeks 1-2 knowledge checks (questions 5-8). Complete 1 scaffolded written response. Add the evidence and next step to the folio.",
+      "evidence": "Check the folio evidence, decision or reflection, and the recorded next step.",
+      "syllabus_content": [
+        "Select and use a range of marking-out tools, processes and equipment to accurately measure and mark out materials when making timber projects"
+      ],
+      "outcome_codes": [
+        "INT5-PRO-01",
+        "INT5-INP-01",
+        "INT5-USE-01"
+      ],
+      "syllabus_alignments": [
+        {
+          "plain_english": "Accurate measuring and marking-out for timber projects",
+          "content_item_id": "cia5a4382a",
+          "exact_official_content": "Select and use a range of marking-out tools, processes and equipment to accurately measure and mark out materials when making timber projects",
+          "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/industrial-technology-7-10-2025/content/stage-5/fa0e95d80e",
+          "outcome_codes": [
+            "INT5-PRO-01",
+            "INT5-INP-01",
+            "INT5-USE-01"
+          ],
+          "family_coverage_number": 50,
+          "allocation_relationship": "legacy-source-retained",
+          "allocation_source_id": "L2"
+        }
+      ],
+      "syllabus_alignment": {
+        "plain_english": "Accurate measuring and marking-out for timber projects",
+        "content_item_id": "cia5a4382a",
+        "exact_official_content": "Select and use a range of marking-out tools, processes and equipment to accurately measure and mark out materials when making timber projects",
+        "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/industrial-technology-7-10-2025/content/stage-5/fa0e95d80e",
+        "outcome_codes": [
+          "INT5-PRO-01",
+          "INT5-INP-01",
+          "INT5-USE-01"
+        ],
+        "family_coverage_number": 50,
+        "allocation_relationship": "legacy-source-retained",
+        "allocation_source_id": "L2"
+      },
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "F1",
+        "A1",
+        "L1",
+        "L2",
+        "L3"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "weeks1-2/index.html#theory-2",
+        "weeks1-2/index.html#knowledge-checks",
+        "smallbox-folio.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "B01-S02"
+      ]
+    },
+    {
+      "number": 3,
+      "type": "Practical",
+      "focus": "Weeks 1-2 site + practical",
+      "student_work": "Before practical work, read and apply: Workshop authority and hazard controls. Complete Weeks 1-2 knowledge checks (questions 9-12). Complete 1 scaffolded written response. Then complete the teacher-approved practical stage.",
+      "evidence": "Observe approved setup, process, skill, quality and clean-down.",
+      "syllabus_content": [
+        "Outline the principles of risk management and implement risk-reduction procedures"
+      ],
+      "outcome_codes": [
+        "INT5-SAF-01"
+      ],
+      "syllabus_alignments": [
+        {
+          "plain_english": "Risk management and risk-reduction procedures",
+          "content_item_id": "ci691cf158",
+          "exact_official_content": "Outline the principles of risk management and implement risk-reduction procedures",
+          "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/industrial-technology-7-10-2025/content/stage-5/fa71df8ecb",
+          "outcome_codes": [
+            "INT5-SAF-01"
+          ],
+          "family_coverage_number": 3,
+          "allocation_relationship": "legacy-source-retained",
+          "allocation_source_id": "L2"
+        }
+      ],
+      "syllabus_alignment": {
+        "plain_english": "Risk management and risk-reduction procedures",
+        "content_item_id": "ci691cf158",
+        "exact_official_content": "Outline the principles of risk management and implement risk-reduction procedures",
+        "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/industrial-technology-7-10-2025/content/stage-5/fa71df8ecb",
+        "outcome_codes": [
+          "INT5-SAF-01"
+        ],
+        "family_coverage_number": 3,
+        "allocation_relationship": "legacy-source-retained",
+        "allocation_source_id": "L2"
+      },
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "F1",
+        "A1",
+        "L1",
+        "L2",
+        "L3"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "weeks1-2/index.html#theory-3",
+        "weeks1-2/index.html#knowledge-checks"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-02"
+      ],
+      "website_learning_ids": [
+        "B01-S03"
+      ]
+    },
+    {
+      "number": 4,
+      "type": "Practical",
+      "focus": "Weeks 1-2 production",
+      "student_work": "Continue approved stage; follow plan/SOP; check fit, accuracy or surface.",
+      "evidence": "Observe approved setup, process, skill, quality and clean-down.",
+      "syllabus_content": [
+        "Outline the principles of risk management and implement risk-reduction procedures"
+      ],
+      "outcome_codes": [
+        "INT5-SAF-01"
+      ],
+      "syllabus_alignments": [
+        {
+          "plain_english": "Risk management and risk-reduction procedures",
+          "content_item_id": "ci691cf158",
+          "exact_official_content": "Outline the principles of risk management and implement risk-reduction procedures",
+          "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/industrial-technology-7-10-2025/content/stage-5/fa71df8ecb",
+          "outcome_codes": [
+            "INT5-SAF-01"
+          ],
+          "family_coverage_number": 3,
+          "allocation_relationship": "legacy-source-retained",
+          "allocation_source_id": "L2"
+        }
+      ],
+      "syllabus_alignment": {
+        "plain_english": "Risk management and risk-reduction procedures",
+        "content_item_id": "ci691cf158",
+        "exact_official_content": "Outline the principles of risk management and implement risk-reduction procedures",
+        "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/industrial-technology-7-10-2025/content/stage-5/fa71df8ecb",
+        "outcome_codes": [
+          "INT5-SAF-01"
+        ],
+        "family_coverage_number": 3,
+        "allocation_relationship": "legacy-source-retained",
+        "allocation_source_id": "L2"
+      },
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "F1",
+        "A1",
+        "L1",
+        "L2"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-02"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 5,
+      "type": "Practical",
+      "focus": "Weeks 1-2 evidence",
+      "student_work": "Finish current stage; photograph a checkpoint; record any problem/response; clean down.",
+      "evidence": "Check the project photograph, quality note and problem-response record.",
+      "syllabus_content": [
+        "Use hand tools, power tools, machinery, chemicals and abrasives to prepare timber surfaces for the application of finishes"
+      ],
+      "outcome_codes": [
+        "INT5-PRO-01",
+        "INT5-INP-01",
+        "INT5-USE-01"
+      ],
+      "syllabus_alignments": [
+        {
+          "plain_english": "Prepare timber surfaces for finishes",
+          "content_item_id": "ci9889786f",
+          "exact_official_content": "Use hand tools, power tools, machinery, chemicals and abrasives to prepare timber surfaces for the application of finishes",
+          "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/industrial-technology-7-10-2025/content/stage-5/fa0e95d80e",
+          "outcome_codes": [
+            "INT5-PRO-01",
+            "INT5-INP-01",
+            "INT5-USE-01"
+          ],
+          "family_coverage_number": 71,
+          "allocation_relationship": "legacy-source-retained",
+          "allocation_source_id": "L2"
+        }
+      ],
+      "syllabus_alignment": {
+        "plain_english": "Prepare timber surfaces for finishes",
+        "content_item_id": "ci9889786f",
+        "exact_official_content": "Use hand tools, power tools, machinery, chemicals and abrasives to prepare timber surfaces for the application of finishes",
+        "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/industrial-technology-7-10-2025/content/stage-5/fa0e95d80e",
+        "outcome_codes": [
+          "INT5-PRO-01",
+          "INT5-INP-01",
+          "INT5-USE-01"
+        ],
+        "family_coverage_number": 71,
+        "allocation_relationship": "legacy-source-retained",
+        "allocation_source_id": "L2"
+      },
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "F1",
+        "A1",
+        "L1",
+        "L2"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-02"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 6,
+      "type": "Site/theory",
+      "focus": "Weeks 3-4 website",
+      "student_work": "Read and apply: Approved joint sequence and purpose. Complete Weeks 3-4 knowledge checks (questions 1-4). Complete 2 scaffolded written responses.",
+      "evidence": "Check the completed website responses and the named guided response.",
+      "syllabus_content": [
+        "Apply appropriate carcase framing and box joints, such as rebate, mitre, housing, finger, dovetail, bridle or mortice and tenon"
+      ],
+      "outcome_codes": [
+        "INT5-PRO-01",
+        "INT5-INP-01",
+        "INT5-USE-01"
+      ],
+      "syllabus_alignments": [
+        {
+          "plain_english": "Appropriate carcase, framing and box joints",
+          "content_item_id": "cib02eaf95",
+          "exact_official_content": "Apply appropriate carcase framing and box joints, such as rebate, mitre, housing, finger, dovetail, bridle or mortice and tenon",
+          "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/industrial-technology-7-10-2025/content/stage-5/fa0e95d80e",
+          "outcome_codes": [
+            "INT5-PRO-01",
+            "INT5-INP-01",
+            "INT5-USE-01"
+          ],
+          "family_coverage_number": 61,
+          "allocation_relationship": "legacy-source-retained",
+          "allocation_source_id": "L2"
+        }
+      ],
+      "syllabus_alignment": {
+        "plain_english": "Appropriate carcase, framing and box joints",
+        "content_item_id": "cib02eaf95",
+        "exact_official_content": "Apply appropriate carcase framing and box joints, such as rebate, mitre, housing, finger, dovetail, bridle or mortice and tenon",
+        "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/industrial-technology-7-10-2025/content/stage-5/fa0e95d80e",
+        "outcome_codes": [
+          "INT5-PRO-01",
+          "INT5-INP-01",
+          "INT5-USE-01"
+        ],
+        "family_coverage_number": 61,
+        "allocation_relationship": "legacy-source-retained",
+        "allocation_source_id": "L2"
+      },
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "F1",
+        "A1",
+        "L1",
+        "L2",
+        "L3"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "weeks3-4/index.html#theory-1",
+        "weeks3-4/index.html#knowledge-checks"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "B02-S01"
+      ]
+    },
+    {
+      "number": 7,
+      "type": "Project/folio",
+      "focus": "Weeks 3-4 folio",
+      "student_work": "Read and apply: Dry fit, rebates and square glue-up. Complete Weeks 3-4 knowledge checks (questions 5-8). Complete 1 scaffolded written response. Add the evidence and next step to the folio.",
+      "evidence": "Check the folio evidence, decision or reflection, and the recorded next step.",
+      "syllabus_content": [
+        "Apply appropriate carcase framing and box joints, such as rebate, mitre, housing, finger, dovetail, bridle or mortice and tenon"
+      ],
+      "outcome_codes": [
+        "INT5-PRO-01",
+        "INT5-INP-01",
+        "INT5-USE-01"
+      ],
+      "syllabus_alignments": [
+        {
+          "plain_english": "Appropriate carcase, framing and box joints",
+          "content_item_id": "cib02eaf95",
+          "exact_official_content": "Apply appropriate carcase framing and box joints, such as rebate, mitre, housing, finger, dovetail, bridle or mortice and tenon",
+          "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/industrial-technology-7-10-2025/content/stage-5/fa0e95d80e",
+          "outcome_codes": [
+            "INT5-PRO-01",
+            "INT5-INP-01",
+            "INT5-USE-01"
+          ],
+          "family_coverage_number": 61,
+          "allocation_relationship": "legacy-source-retained",
+          "allocation_source_id": "L2"
+        }
+      ],
+      "syllabus_alignment": {
+        "plain_english": "Appropriate carcase, framing and box joints",
+        "content_item_id": "cib02eaf95",
+        "exact_official_content": "Apply appropriate carcase framing and box joints, such as rebate, mitre, housing, finger, dovetail, bridle or mortice and tenon",
+        "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/industrial-technology-7-10-2025/content/stage-5/fa0e95d80e",
+        "outcome_codes": [
+          "INT5-PRO-01",
+          "INT5-INP-01",
+          "INT5-USE-01"
+        ],
+        "family_coverage_number": 61,
+        "allocation_relationship": "legacy-source-retained",
+        "allocation_source_id": "L2"
+      },
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "F1",
+        "A1",
+        "L1",
+        "L2",
+        "L3"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "weeks3-4/index.html#theory-2",
+        "weeks3-4/index.html#knowledge-checks",
+        "smallbox-folio.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "B02-S02"
+      ]
+    },
+    {
+      "number": 8,
+      "type": "Practical",
+      "focus": "Weeks 3-4 site + practical",
+      "student_work": "Before practical work, read and apply: Correction and evidence control. Complete Weeks 3-4 knowledge checks (questions 9-12). Complete 1 scaffolded written response. Then complete the teacher-approved practical stage.",
+      "evidence": "Observe approved setup, process, skill, quality and clean-down.",
+      "syllabus_content": [
+        "Select and use a range of marking-out tools, processes and equipment to accurately measure and mark out materials when making timber projects"
+      ],
+      "outcome_codes": [
+        "INT5-PRO-01",
+        "INT5-INP-01",
+        "INT5-USE-01"
+      ],
+      "syllabus_alignments": [
+        {
+          "plain_english": "Accurate measuring and marking-out for timber projects",
+          "content_item_id": "cia5a4382a",
+          "exact_official_content": "Select and use a range of marking-out tools, processes and equipment to accurately measure and mark out materials when making timber projects",
+          "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/industrial-technology-7-10-2025/content/stage-5/fa0e95d80e",
+          "outcome_codes": [
+            "INT5-PRO-01",
+            "INT5-INP-01",
+            "INT5-USE-01"
+          ],
+          "family_coverage_number": 50,
+          "allocation_relationship": "legacy-source-retained",
+          "allocation_source_id": "L2"
+        }
+      ],
+      "syllabus_alignment": {
+        "plain_english": "Accurate measuring and marking-out for timber projects",
+        "content_item_id": "cia5a4382a",
+        "exact_official_content": "Select and use a range of marking-out tools, processes and equipment to accurately measure and mark out materials when making timber projects",
+        "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/industrial-technology-7-10-2025/content/stage-5/fa0e95d80e",
+        "outcome_codes": [
+          "INT5-PRO-01",
+          "INT5-INP-01",
+          "INT5-USE-01"
+        ],
+        "family_coverage_number": 50,
+        "allocation_relationship": "legacy-source-retained",
+        "allocation_source_id": "L2"
+      },
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "F1",
+        "A1",
+        "L1",
+        "L2",
+        "L3"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "weeks3-4/index.html#theory-3",
+        "weeks3-4/index.html#knowledge-checks"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-02"
+      ],
+      "website_learning_ids": [
+        "B02-S03"
+      ]
+    },
+    {
+      "number": 9,
+      "type": "Practical",
+      "focus": "Weeks 3-4 production",
+      "student_work": "Continue approved stage; follow plan/SOP; check fit, accuracy or surface.",
+      "evidence": "Observe approved setup, process, skill, quality and clean-down.",
+      "syllabus_content": [
+        "Outline the principles of risk management and implement risk-reduction procedures"
+      ],
+      "outcome_codes": [
+        "INT5-SAF-01"
+      ],
+      "syllabus_alignments": [
+        {
+          "plain_english": "Risk management and risk-reduction procedures",
+          "content_item_id": "ci691cf158",
+          "exact_official_content": "Outline the principles of risk management and implement risk-reduction procedures",
+          "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/industrial-technology-7-10-2025/content/stage-5/fa71df8ecb",
+          "outcome_codes": [
+            "INT5-SAF-01"
+          ],
+          "family_coverage_number": 3,
+          "allocation_relationship": "legacy-source-retained",
+          "allocation_source_id": "L2"
+        }
+      ],
+      "syllabus_alignment": {
+        "plain_english": "Risk management and risk-reduction procedures",
+        "content_item_id": "ci691cf158",
+        "exact_official_content": "Outline the principles of risk management and implement risk-reduction procedures",
+        "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/industrial-technology-7-10-2025/content/stage-5/fa71df8ecb",
+        "outcome_codes": [
+          "INT5-SAF-01"
+        ],
+        "family_coverage_number": 3,
+        "allocation_relationship": "legacy-source-retained",
+        "allocation_source_id": "L2"
+      },
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "F1",
+        "A1",
+        "L1",
+        "L2"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-02"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 10,
+      "type": "Practical",
+      "focus": "Weeks 3-4 evidence",
+      "student_work": "Finish current stage; photograph a checkpoint; record any problem/response; clean down.",
+      "evidence": "Check the project photograph, quality note and problem-response record.",
+      "syllabus_content": [
+        "Use hand tools, power tools, machinery, chemicals and abrasives to prepare timber surfaces for the application of finishes"
+      ],
+      "outcome_codes": [
+        "INT5-PRO-01",
+        "INT5-INP-01",
+        "INT5-USE-01"
+      ],
+      "syllabus_alignments": [
+        {
+          "plain_english": "Prepare timber surfaces for finishes",
+          "content_item_id": "ci9889786f",
+          "exact_official_content": "Use hand tools, power tools, machinery, chemicals and abrasives to prepare timber surfaces for the application of finishes",
+          "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/industrial-technology-7-10-2025/content/stage-5/fa0e95d80e",
+          "outcome_codes": [
+            "INT5-PRO-01",
+            "INT5-INP-01",
+            "INT5-USE-01"
+          ],
+          "family_coverage_number": 71,
+          "allocation_relationship": "legacy-source-retained",
+          "allocation_source_id": "L2"
+        }
+      ],
+      "syllabus_alignment": {
+        "plain_english": "Prepare timber surfaces for finishes",
+        "content_item_id": "ci9889786f",
+        "exact_official_content": "Use hand tools, power tools, machinery, chemicals and abrasives to prepare timber surfaces for the application of finishes",
+        "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/industrial-technology-7-10-2025/content/stage-5/fa0e95d80e",
+        "outcome_codes": [
+          "INT5-PRO-01",
+          "INT5-INP-01",
+          "INT5-USE-01"
+        ],
+        "family_coverage_number": 71,
+        "allocation_relationship": "legacy-source-retained",
+        "allocation_source_id": "L2"
+      },
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "F1",
+        "A1",
+        "L1",
+        "L2"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-02"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 11,
+      "type": "Site/theory",
+      "focus": "Weeks 5-6 website",
+      "student_work": "Read and apply: Lid chamfers and hinge-fit checks. Complete Weeks 5-6 knowledge checks (questions 1-4). Complete 2 scaffolded written responses.",
+      "evidence": "Check the completed website responses and the named guided response.",
+      "syllabus_content": [
+        "Apply quality checks to assess timbers and components for defects before, during and after production"
+      ],
+      "outcome_codes": [
+        "INT5-PRO-01",
+        "INT5-INP-01",
+        "INT5-USE-01"
+      ],
+      "syllabus_alignments": [
+        {
+          "plain_english": "Quality checks for timber and components",
+          "content_item_id": "ci7f898cb7",
+          "exact_official_content": "Apply quality checks to assess timbers and components for defects before, during and after production",
+          "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/industrial-technology-7-10-2025/content/stage-5/fa0e95d80e",
+          "outcome_codes": [
+            "INT5-PRO-01",
+            "INT5-INP-01",
+            "INT5-USE-01"
+          ],
+          "family_coverage_number": 49,
+          "allocation_relationship": "legacy-source-retained",
+          "allocation_source_id": "L2"
+        }
+      ],
+      "syllabus_alignment": {
+        "plain_english": "Quality checks for timber and components",
+        "content_item_id": "ci7f898cb7",
+        "exact_official_content": "Apply quality checks to assess timbers and components for defects before, during and after production",
+        "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/industrial-technology-7-10-2025/content/stage-5/fa0e95d80e",
+        "outcome_codes": [
+          "INT5-PRO-01",
+          "INT5-INP-01",
+          "INT5-USE-01"
+        ],
+        "family_coverage_number": 49,
+        "allocation_relationship": "legacy-source-retained",
+        "allocation_source_id": "L2"
+      },
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "F1",
+        "A1",
+        "L1",
+        "L2",
+        "L3"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "weeks5-6/index.html#theory-1",
+        "weeks5-6/index.html#knowledge-checks"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "B03-S01"
+      ]
+    },
+    {
+      "number": 12,
+      "type": "Project/folio",
+      "focus": "Weeks 5-6 folio",
+      "student_work": "Read and apply: Surface readiness and finish controls. Complete Weeks 5-6 knowledge checks (questions 5-8). Complete 1 scaffolded written response. Add the evidence and next step to the folio.",
+      "evidence": "Check the folio evidence, decision or reflection, and the recorded next step.",
+      "syllabus_content": [
+        "Use hand tools, power tools, machinery, chemicals and abrasives to prepare timber surfaces for the application of finishes"
+      ],
+      "outcome_codes": [
+        "INT5-PRO-01",
+        "INT5-INP-01",
+        "INT5-USE-01"
+      ],
+      "syllabus_alignments": [
+        {
+          "plain_english": "Prepare timber surfaces for finishes",
+          "content_item_id": "ci9889786f",
+          "exact_official_content": "Use hand tools, power tools, machinery, chemicals and abrasives to prepare timber surfaces for the application of finishes",
+          "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/industrial-technology-7-10-2025/content/stage-5/fa0e95d80e",
+          "outcome_codes": [
+            "INT5-PRO-01",
+            "INT5-INP-01",
+            "INT5-USE-01"
+          ],
+          "family_coverage_number": 71,
+          "allocation_relationship": "legacy-source-retained",
+          "allocation_source_id": "L2"
+        }
+      ],
+      "syllabus_alignment": {
+        "plain_english": "Prepare timber surfaces for finishes",
+        "content_item_id": "ci9889786f",
+        "exact_official_content": "Use hand tools, power tools, machinery, chemicals and abrasives to prepare timber surfaces for the application of finishes",
+        "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/industrial-technology-7-10-2025/content/stage-5/fa0e95d80e",
+        "outcome_codes": [
+          "INT5-PRO-01",
+          "INT5-INP-01",
+          "INT5-USE-01"
+        ],
+        "family_coverage_number": 71,
+        "allocation_relationship": "legacy-source-retained",
+        "allocation_source_id": "L2"
+      },
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "F1",
+        "A1",
+        "L1",
+        "L2",
+        "L3"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "weeks5-6/index.html#theory-2",
+        "weeks5-6/index.html#knowledge-checks",
+        "smallbox-folio.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "B03-S02"
+      ]
+    },
+    {
+      "number": 13,
+      "type": "Practical",
+      "focus": "Weeks 5-6 site + practical",
+      "student_work": "Before practical work, read and apply: Final quality and evidence review. Complete Weeks 5-6 knowledge checks (questions 9-12). Complete 1 scaffolded written response. Then complete the teacher-approved practical stage.",
+      "evidence": "Observe approved setup, process, skill, quality and clean-down.",
+      "syllabus_content": [
+        "Select and use a range of marking-out tools, processes and equipment to accurately measure and mark out materials when making timber projects"
+      ],
+      "outcome_codes": [
+        "INT5-PRO-01",
+        "INT5-INP-01",
+        "INT5-USE-01"
+      ],
+      "syllabus_alignments": [
+        {
+          "plain_english": "Accurate measuring and marking-out for timber projects",
+          "content_item_id": "cia5a4382a",
+          "exact_official_content": "Select and use a range of marking-out tools, processes and equipment to accurately measure and mark out materials when making timber projects",
+          "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/industrial-technology-7-10-2025/content/stage-5/fa0e95d80e",
+          "outcome_codes": [
+            "INT5-PRO-01",
+            "INT5-INP-01",
+            "INT5-USE-01"
+          ],
+          "family_coverage_number": 50,
+          "allocation_relationship": "legacy-source-retained",
+          "allocation_source_id": "L2"
+        }
+      ],
+      "syllabus_alignment": {
+        "plain_english": "Accurate measuring and marking-out for timber projects",
+        "content_item_id": "cia5a4382a",
+        "exact_official_content": "Select and use a range of marking-out tools, processes and equipment to accurately measure and mark out materials when making timber projects",
+        "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/industrial-technology-7-10-2025/content/stage-5/fa0e95d80e",
+        "outcome_codes": [
+          "INT5-PRO-01",
+          "INT5-INP-01",
+          "INT5-USE-01"
+        ],
+        "family_coverage_number": 50,
+        "allocation_relationship": "legacy-source-retained",
+        "allocation_source_id": "L2"
+      },
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "F1",
+        "A1",
+        "L1",
+        "L2",
+        "L3"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "weeks5-6/index.html#theory-3",
+        "weeks5-6/index.html#knowledge-checks"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-02"
+      ],
+      "website_learning_ids": [
+        "B03-S03"
+      ]
+    },
+    {
+      "number": 14,
+      "type": "Practical",
+      "focus": "Weeks 5-6 production",
+      "student_work": "Continue approved stage; follow plan/SOP; check fit, accuracy or surface.",
+      "evidence": "Observe approved setup, process, skill, quality and clean-down.",
+      "syllabus_content": [
+        "Outline the principles of risk management and implement risk-reduction procedures"
+      ],
+      "outcome_codes": [
+        "INT5-SAF-01"
+      ],
+      "syllabus_alignments": [
+        {
+          "plain_english": "Risk management and risk-reduction procedures",
+          "content_item_id": "ci691cf158",
+          "exact_official_content": "Outline the principles of risk management and implement risk-reduction procedures",
+          "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/industrial-technology-7-10-2025/content/stage-5/fa71df8ecb",
+          "outcome_codes": [
+            "INT5-SAF-01"
+          ],
+          "family_coverage_number": 3,
+          "allocation_relationship": "legacy-source-retained",
+          "allocation_source_id": "L2"
+        }
+      ],
+      "syllabus_alignment": {
+        "plain_english": "Risk management and risk-reduction procedures",
+        "content_item_id": "ci691cf158",
+        "exact_official_content": "Outline the principles of risk management and implement risk-reduction procedures",
+        "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/industrial-technology-7-10-2025/content/stage-5/fa71df8ecb",
+        "outcome_codes": [
+          "INT5-SAF-01"
+        ],
+        "family_coverage_number": 3,
+        "allocation_relationship": "legacy-source-retained",
+        "allocation_source_id": "L2"
+      },
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "F1",
+        "A1",
+        "L1",
+        "L2"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-02"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 15,
+      "type": "Practical",
+      "focus": "Weeks 5-6 evidence",
+      "student_work": "Finish current stage; photograph a checkpoint; record any problem/response; clean down.",
+      "evidence": "Check the project photograph, quality note and problem-response record.",
+      "syllabus_content": [
+        "Use hand tools, power tools, machinery, chemicals and abrasives to prepare timber surfaces for the application of finishes"
+      ],
+      "outcome_codes": [
+        "INT5-PRO-01",
+        "INT5-INP-01",
+        "INT5-USE-01"
+      ],
+      "syllabus_alignments": [
+        {
+          "plain_english": "Prepare timber surfaces for finishes",
+          "content_item_id": "ci9889786f",
+          "exact_official_content": "Use hand tools, power tools, machinery, chemicals and abrasives to prepare timber surfaces for the application of finishes",
+          "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/industrial-technology-7-10-2025/content/stage-5/fa0e95d80e",
+          "outcome_codes": [
+            "INT5-PRO-01",
+            "INT5-INP-01",
+            "INT5-USE-01"
+          ],
+          "family_coverage_number": 71,
+          "allocation_relationship": "legacy-source-retained",
+          "allocation_source_id": "L2"
+        }
+      ],
+      "syllabus_alignment": {
+        "plain_english": "Prepare timber surfaces for finishes",
+        "content_item_id": "ci9889786f",
+        "exact_official_content": "Use hand tools, power tools, machinery, chemicals and abrasives to prepare timber surfaces for the application of finishes",
+        "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/industrial-technology-7-10-2025/content/stage-5/fa0e95d80e",
+        "outcome_codes": [
+          "INT5-PRO-01",
+          "INT5-INP-01",
+          "INT5-USE-01"
+        ],
+        "family_coverage_number": 71,
+        "allocation_relationship": "legacy-source-retained",
+        "allocation_source_id": "L2"
+      },
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "F1",
+        "A1",
+        "L1",
+        "L2"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-02"
+      ],
+      "website_learning_ids": []
+    }
+  ],
+  "site_route_map": [
+    {
+      "destination": "smallbox-folio.html",
+      "purpose": "Named learning or saved evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        2,
+        7,
+        12
+      ]
+    },
+    {
+      "destination": "weeks1-2/index.html#knowledge-checks",
+      "purpose": "Named learning or saved evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "destination": "weeks1-2/index.html#theory-1",
+      "purpose": "Named learning or saved evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        1
+      ]
+    },
+    {
+      "destination": "weeks1-2/index.html#theory-2",
+      "purpose": "Named learning or saved evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        2
+      ]
+    },
+    {
+      "destination": "weeks1-2/index.html#theory-3",
+      "purpose": "Named learning or saved evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        3
+      ]
+    },
+    {
+      "destination": "weeks3-4/index.html#knowledge-checks",
+      "purpose": "Named learning or saved evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "destination": "weeks3-4/index.html#theory-1",
+      "purpose": "Named learning or saved evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        6
+      ]
+    },
+    {
+      "destination": "weeks3-4/index.html#theory-2",
+      "purpose": "Named learning or saved evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        7
+      ]
+    },
+    {
+      "destination": "weeks3-4/index.html#theory-3",
+      "purpose": "Named learning or saved evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        8
+      ]
+    },
+    {
+      "destination": "weeks5-6/index.html#knowledge-checks",
+      "purpose": "Named learning or saved evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "destination": "weeks5-6/index.html#theory-1",
+      "purpose": "Named learning or saved evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        11
+      ]
+    },
+    {
+      "destination": "weeks5-6/index.html#theory-2",
+      "purpose": "Named learning or saved evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        12
+      ]
+    },
+    {
+      "destination": "weeks5-6/index.html#theory-3",
+      "purpose": "Named learning or saved evidence destination",
+      "audience": "student",
+      "period_numbers": [
+        13
+      ]
+    }
+  ],
+  "teacher_to_confirm": [
+    {
+      "id": "TTC-01",
+      "item": "Confirm master-program placement, timetable, lesson order, class supports and approved adjustments.",
+      "owner": "Teacher / faculty",
+      "affected_periods": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "due_before": "Before the unit"
+    },
+    {
+      "id": "TTC-02",
+      "item": "Confirm each practical activity, current plan, materials, equipment, supervision, SOPs, PPE and risk controls.",
+      "owner": "Teacher / faculty",
+      "affected_periods": [
+        3,
+        4,
+        5,
+        8,
+        9,
+        10,
+        13,
+        14,
+        15
+      ],
+      "due_before": "Before each practical"
+    },
+    {
+      "id": "TTC-03",
+      "item": "Confirm assessment authority, outcomes, marks, dates, conditions and submission method.",
+      "owner": "Teacher / faculty",
+      "affected_periods": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "due_before": "Before assessment use"
+    },
+    {
+      "id": "TTC-04",
+      "item": "Confirm at least one authorised collaborative activity across the 100/200-hour course.",
+      "owner": "Teacher / faculty",
+      "affected_periods": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "due_before": "Across the course"
+    }
+  ],
+  "files": [
+    {
+      "path": "resources/teacher/Small-Box-15-Period-Teaching-Program-v2.1-Network-Benchmark.docx",
+      "purpose": "editable-program",
+      "version": "v2.1",
+      "sha256": "BF7434ED537E7E855637F131769760656E1F20ABA5D5547F9EF8DD402EFF6040"
+    },
+    {
+      "path": "resources/teacher/Small-Box-15-Period-Teaching-Program-v2.1-Network-Benchmark.pdf",
+      "purpose": "rendered-program",
+      "version": "v2.1",
+      "sha256": "CDAC140BF61DEFB233606C0AF370ABF14D80141888C6F78DDF78F4DEB9F100D5"
+    },
+    {
+      "path": "resources/teacher/Small-Box-15-Period-Alignment-Manifest-v2.1.json",
+      "purpose": "alignment-manifest",
+      "version": "v2.1"
+    }
+  ]
+}
