@@ -108,7 +108,7 @@ h1 span { color: #f0d49f; }
 .program-details .alignment-detail--primary, .card-alignment-legend .alignment-detail--primary { color: #175d40; border-color: #b9d8c6; background: #e4f3e9; }
 .program-details .alignment-detail--reinforcing, .card-alignment-legend .alignment-detail--reinforcing { color: #315d48; border-color: #c7ddcf; background: #eff7f1; }
 .program-details .alignment-detail--conditional, .card-alignment-legend .alignment-detail--conditional { color: #775d15; border-color: #e1ca7a; background: #fff1bd; }
-.program-details .alignment-detail--gap, .card-alignment-legend .alignment-detail--gap { color: #6a6f6d; border-color: #cfd4d1; background: #ecefed; }
+.program-details .alignment-detail--gap, .card-alignment-legend .alignment-detail--gap { color: #686d6b; border-color: #cfd4d1; background: #ecefed; }
 .course-meta { margin: 0; color: var(--muted); font-size: .9rem; }
 .program-details { display: flex; flex-wrap: wrap; gap: 7px; margin: 19px 0 0; }
 .program-details span { padding: 5px 8px; border: 1px solid transparent; border-radius: 8px; color: #4e5e57; background: #f3f5f3; font-size: .75rem; font-weight: 700; }
