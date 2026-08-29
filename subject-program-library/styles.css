@@ -88,6 +88,10 @@ h1 span { color: #f0d49f; }
 .program-card { position: relative; display: flex; min-width: 0; min-height: 345px; flex-direction: column; overflow: hidden; border: 1px solid var(--line); border-radius: var(--radius); background: var(--paper); box-shadow: 0 8px 26px rgba(24,51,42,.07); }
 .program-card::before { content: ""; height: 7px; background: var(--syllabus-accent, var(--forest)); }
 .program-card.is-master { min-height: 0; border-color: var(--syllabus-accent); background: linear-gradient(132deg, var(--syllabus-soft), white 48%); box-shadow: 0 14px 36px rgba(24,51,42,.12); }
+.syllabus-family--industrial .program-card[data-family="Timber"] { --syllabus-accent: #8a531f; --syllabus-soft: #f8ead8; border-color: #ddc3a3; background: linear-gradient(180deg, #fff9f2 0, white 42%); box-shadow: 0 9px 28px rgba(111,63,18,.1); }
+.syllabus-family--industrial .program-card[data-family="Metalwork"] { --syllabus-accent: #2f6079; --syllabus-soft: #e4f0f5; border-color: #abc5d2; background: linear-gradient(180deg, #f4fafc 0, white 42%); box-shadow: 0 9px 28px rgba(32,78,101,.11); }
+.syllabus-family--industrial .program-card[data-family="Timber"].is-master { background: linear-gradient(132deg, #f4dfc5, #fffaf4 55%); }
+.syllabus-family--industrial .program-card[data-family="Metalwork"].is-master { background: linear-gradient(132deg, #dcecf3, #f7fbfd 55%); }
 .program-body { display: flex; flex: 1; flex-direction: column; padding: 23px; }
 .card-topline { display: flex; align-items: center; justify-content: space-between; gap: 10px; }
 .subject-tag, .status { display: inline-flex; align-items: center; min-height: 28px; padding: 5px 9px; border-radius: 999px; font-size: .69rem; font-weight: 800; letter-spacing: .045em; text-transform: uppercase; }
