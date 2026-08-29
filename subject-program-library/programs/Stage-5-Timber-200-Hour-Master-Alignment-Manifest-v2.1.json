@@ -18797,13 +18797,13 @@
       "path": "resources/teacher/Stage-5-Timber-200-Hour-Master-Teaching-Program-v2.1-Network-Benchmark.docx",
       "purpose": "editable-master-program",
       "version": "v2.1",
-      "sha256": "B2CA5E40118E01773C1425D9042305D80CDD4D835113A05B2E86700C0DCE61C9"
+      "sha256": "034009BDCFE20517CE4B6F6EBB9E96491D8BA7E70E71A014E72539C3BA5870F4"
     },
     {
       "path": "resources/teacher/Stage-5-Timber-200-Hour-Master-Teaching-Program-v2.1-Network-Benchmark.pdf",
       "purpose": "rendered-master-program",
       "version": "v2.1",
-      "sha256": "D1062416AA41B5241F32D67162DEE27A989CF3E2E415B408D920ECA31A33A284"
+      "sha256": "BF083AB1417081DF615BAC8818B311F6283F22F00F3FA350F06AEC7057BBA3D6"
     },
     {
       "path": "resources/teacher/Stage-5-Timber-200-Hour-Master-Alignment-Manifest-v2.1.json",

@@ -69,33 +69,44 @@ h1 span { color: #f0d49f; }
 .section-heading { display: flex; align-items: end; justify-content: space-between; gap: 24px; margin-bottom: 30px; }
 .section-heading h2 { margin: 0; font-size: clamp(2rem, 4.5vw, 3.35rem); letter-spacing: -.045em; }
 .results-summary { margin: 0; color: var(--muted); font-weight: 700; }
+.program-groups { display: grid; gap: 46px; }
+.syllabus-family { --syllabus-accent: var(--forest); --syllabus-soft: #edf5f1; min-width: 0; }
+.syllabus-family--technology { --syllabus-accent: #176046; --syllabus-soft: #e8f3ed; }
+.syllabus-family--industrial { --syllabus-accent: #355f78; --syllabus-soft: #eaf1f5; }
+.syllabus-family--food { --syllabus-accent: #a86624; --syllabus-soft: #faf0e2; }
+.syllabus-family--textiles { --syllabus-accent: #83506f; --syllabus-soft: #f5ebf1; }
+.syllabus-family--pending { --syllabus-accent: #69736f; --syllabus-soft: #eef1ef; }
+.syllabus-family-header { display: flex; align-items: end; justify-content: space-between; gap: 24px; margin-bottom: 20px; padding: 22px 24px; border: 1px solid var(--line); border-left: 8px solid var(--syllabus-accent); border-radius: 16px; background: linear-gradient(115deg, var(--syllabus-soft), white 72%); }
+.syllabus-family-kicker { margin: 0 0 5px; color: var(--syllabus-accent); font-size: .7rem; font-weight: 800; letter-spacing: .1em; text-transform: uppercase; }
+.syllabus-family-header h3 { margin: 0; font-size: clamp(1.45rem, 3vw, 2rem); letter-spacing: -.03em; }
+.syllabus-family-header p:last-child { margin: 7px 0 0; color: var(--muted); font-size: .88rem; }
+.syllabus-family-actions { display: grid; flex: 0 0 auto; justify-items: end; gap: 7px; text-align: right; }
+.syllabus-family-actions span { color: var(--muted); font-size: .78rem; font-weight: 700; }
+.syllabus-family-actions a { color: var(--syllabus-accent); font-size: .86rem; font-weight: 800; text-underline-offset: 3px; }
+.master-program-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 420px), 1fr)); gap: 22px; margin-bottom: 22px; }
 .program-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 22px; }
 .program-card { position: relative; display: flex; min-width: 0; min-height: 345px; flex-direction: column; overflow: hidden; border: 1px solid var(--line); border-radius: var(--radius); background: var(--paper); box-shadow: 0 8px 26px rgba(24,51,42,.07); }
-.program-card::before { content: ""; height: 7px; background: var(--accent, var(--forest)); }
-.program-card[data-family="Food and Agriculture"] { --accent: #b26a2e; }
-.program-card[data-family="Metalwork"] { --accent: #536b7a; }
-.program-card[data-family="Science"] { --accent: #285d7a; }
-.program-card[data-family="Textiles"] { --accent: #8b4f73; }
-.program-card[data-family="Computing"] { --accent: #5a568d; }
+.program-card::before { content: ""; height: 7px; background: var(--syllabus-accent, var(--forest)); }
+.program-card.is-master { min-height: 0; border-color: var(--syllabus-accent); background: linear-gradient(132deg, var(--syllabus-soft), white 48%); box-shadow: 0 14px 36px rgba(24,51,42,.12); }
 .program-body { display: flex; flex: 1; flex-direction: column; padding: 23px; }
 .card-topline { display: flex; align-items: center; justify-content: space-between; gap: 10px; }
 .subject-tag, .status { display: inline-flex; align-items: center; min-height: 28px; padding: 5px 9px; border-radius: 999px; font-size: .69rem; font-weight: 800; letter-spacing: .045em; text-transform: uppercase; }
-.subject-tag { color: #325844; background: #edf3ef; }
+.subject-tag { color: var(--syllabus-accent, #325844); background: var(--syllabus-soft, #edf3ef); }
 .status.ready { color: #245f42; background: #dff2e6; }
 .status.pending { color: #726344; background: #f4eedf; }
-.program-card h3 { margin: 19px 0 7px; font-size: 1.45rem; letter-spacing: -.025em; }
+.program-card h4 { margin: 19px 0 7px; font-family: Manrope, sans-serif; font-size: 1.45rem; line-height: 1.12; letter-spacing: -.025em; }
 .course-meta { margin: 0; color: var(--muted); font-size: .9rem; }
 .program-details { display: flex; flex-wrap: wrap; gap: 7px; margin: 19px 0 0; }
 .program-details span { padding: 5px 8px; border-radius: 8px; color: #4e5e57; background: #f3f5f3; font-size: .75rem; font-weight: 700; }
 .card-note { margin: 16px 0 0; color: var(--muted); font-size: .86rem; }
 .syllabus-meta { display: grid; gap: 4px; margin-top: 16px; padding: 12px 13px; border: 1px solid #d6e2d9; border-radius: 12px; background: #f5f8f5; }
 .syllabus-meta span { color: #66736d; font-size: .68rem; font-weight: 800; letter-spacing: .06em; text-transform: uppercase; }
-.syllabus-meta a { color: var(--forest); font-size: .86rem; font-weight: 800; text-decoration-thickness: 1px; text-underline-offset: 3px; }
+.syllabus-meta a { color: var(--syllabus-accent, var(--forest)); font-size: .86rem; font-weight: 800; text-decoration-thickness: 1px; text-underline-offset: 3px; }
 .syllabus-meta small { color: var(--muted); font-size: .73rem; line-height: 1.45; }
 .card-actions { display: flex; flex-wrap: wrap; gap: 8px; margin-top: auto; padding-top: 22px; }
-.card-actions a { display: inline-flex; min-height: 39px; align-items: center; justify-content: center; padding: 0 12px; border: 1px solid #c9d4cc; border-radius: 10px; color: var(--forest); text-decoration: none; font-size: .82rem; font-weight: 800; }
-.card-actions a.primary { color: white; border-color: var(--forest); background: var(--forest); }
-.card-actions a:hover, .card-actions a:focus-visible { border-color: var(--forest); box-shadow: 0 0 0 2px rgba(22,79,59,.1); }
+.card-actions a { display: inline-flex; min-height: 39px; align-items: center; justify-content: center; padding: 0 12px; border: 1px solid #c9d4cc; border-radius: 10px; color: var(--syllabus-accent, var(--forest)); text-decoration: none; font-size: .82rem; font-weight: 800; }
+.card-actions a.primary { color: white; border-color: var(--syllabus-accent, var(--forest)); background: var(--syllabus-accent, var(--forest)); }
+.card-actions a:hover, .card-actions a:focus-visible { border-color: var(--syllabus-accent, var(--forest)); box-shadow: 0 0 0 2px rgba(22,79,59,.1); }
 .empty-state { padding: 50px; border: 1px dashed #b9c8be; border-radius: 18px; text-align: center; }
 .empty-state h3 { margin: 0; }
 .empty-state p { margin: 7px 0 0; color: var(--muted); }
@@ -114,6 +125,8 @@ footer { padding: 28px 0; color: rgba(255,255,255,.7); background: var(--forest-
   .hero-grid { grid-template-columns: 1fr; }
   .summary-card { max-width: 620px; }
   .program-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .syllabus-family-header { align-items: flex-start; flex-direction: column; }
+  .syllabus-family-actions { justify-items: start; text-align: left; }
   .control-heading, .section-heading { align-items: flex-start; flex-direction: column; }
   .search-field { width: 100%; }
 }
@@ -130,7 +143,9 @@ footer { padding: 28px 0; color: rgba(255,255,255,.7); background: var(--forest-
   .summary-card dd { font-size: .68rem; }
   .controls-section { padding-top: 46px; }
   .program-section { padding-block: 58px; }
-  .program-grid { grid-template-columns: 1fr; }
+  .program-grid, .master-program-grid { grid-template-columns: 1fr; }
+  .program-groups { gap: 36px; }
+  .syllabus-family-header { padding: 19px; }
   .program-card { min-height: 0; }
   .teacher-note-inner { grid-template-columns: 1fr; gap: 20px; }
   .footer-row { align-items: flex-start; flex-direction: column; }

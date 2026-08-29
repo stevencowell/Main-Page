@@ -42,6 +42,73 @@ const programs = [
   { title: "Year 8 Science Guided Course", family: "Science", stage: "Stage 4 / Year 8", course: "Science", periods: 100, version: "v1.0", pdf: "programs/Year-8-Science-100-Period-Teaching-Program-v1.0-Website-Complete-10pt.pdf", docx: "programs/Year-8-Science-100-Period-Teaching-Program-v1.0-Website-Complete-10pt.docx", site: "https://stevencowell.github.io/Year-8-Science-Guided-Course/" }
 ];
 
+const syllabusFamilies = [
+  {
+    key: "technology-7-8-2023",
+    title: "Technology 7–8 Syllabus (2023)",
+    url: "https://curriculum.nsw.edu.au/learning-areas/tas/technology-7-8-2023/overview/course",
+    status: "Implemented from 2026",
+    description: "Stage 4 Technology programs",
+    tone: "technology",
+    order: 10,
+  },
+  {
+    key: "industrial-technology-7-10-2025",
+    title: "Industrial Technology 7–10 Syllabus (2025)",
+    url: "https://curriculum.nsw.edu.au/learning-areas/tas/industrial-technology-7-10-2025/overview/course",
+    status: "Early use in 2027; mandatory from 2028",
+    description: "Industrial Technology content areas and aligned introductory electives",
+    tone: "industrial",
+    order: 20,
+  },
+  {
+    key: "food-technology-7-10-2025",
+    title: "Food Technology 7–10 Syllabus (2025)",
+    url: "https://curriculum.nsw.edu.au/learning-areas/tas/food-technology-7-10-2025/overview/course",
+    status: "2027 early implementation",
+    description: "Food Technology programs",
+    tone: "food",
+    order: 30,
+  },
+  {
+    key: "textiles-technology-7-10-2025",
+    title: "Textiles Technology 7–10 Syllabus (2025)",
+    url: "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/overview/course",
+    status: "2027 early implementation",
+    description: "Textiles Technology programs",
+    tone: "textiles",
+    order: 40,
+  },
+  {
+    key: "pending-industrial-metal",
+    title: "Industrial Technology – Metal",
+    status: "Syllabus alignment to confirm",
+    description: "Existing Metal programs retained while their current syllabus mapping is reviewed",
+    tone: "pending",
+    order: 90,
+  },
+  {
+    key: "pending-agricultural-technology",
+    title: "Agricultural Technology",
+    status: "Syllabus alignment to confirm",
+    description: "Existing Agriculture programs retained while their current syllabus mapping is reviewed",
+    tone: "pending",
+    order: 91,
+  },
+  {
+    key: "pending-science",
+    title: "Science",
+    status: "Syllabus alignment to confirm",
+    description: "Existing Science program retained while its current syllabus mapping is reviewed",
+    tone: "pending",
+    order: 92,
+  },
+];
+
+const syllabusFamilyByUrl = new Map(syllabusFamilies.filter(group => group.url).map(group => [group.url, group]));
+const syllabusFamilyByKey = new Map(syllabusFamilies.map(group => [group.key, group]));
+const programOrder = new Map(programs.map((program, index) => [program, index]));
+
 const grid = document.querySelector("#program-grid");
 const filters = document.querySelector("#program-filters");
 const search = document.querySelector("#program-search");
@@ -79,13 +146,13 @@ function programCard(program) {
   const details = [program.stage, program.periods ? `${program.periods} periods` : null, program.version, program.syllabusAligned ? "Syllabus-aligned" : null].filter(Boolean);
   const statusLabel = program.master ? "Master" : (program.benchmark ? "Benchmark" : (ready ? "Ready" : (program.alignmentInProgress ? "Alignment in progress" : "Not yet added")));
   return `
-    <article class="program-card" data-family="${program.family}">
+    <article class="program-card${program.master ? " is-master" : ""}" data-family="${program.family}" data-program-title="${program.title}">
       <div class="program-body">
         <div class="card-topline">
           <span class="subject-tag">${program.family}</span>
           <span class="status ${ready ? "ready" : "pending"}">${statusLabel}</span>
         </div>
-        <h3>${program.title}</h3>
+        <h4>${program.title}</h4>
         <p class="course-meta">${program.course}</p>
         <div class="program-details">${details.map(detail => `<span>${detail}</span>`).join("")}</div>
         <p class="card-note">${program.master ? "Two-year course map: all 82 Stage 5 Timber content statements are allocated across the six scheduled core projects, with exact site and evidence destinations." : (program.benchmark ? "Network benchmark: outcome codes sit beside the syllabus content they support, and each teacher checkpoint says exactly what to check or observe." : (ready ? "Print-ready program and editable source, aligned to the matching course site." : (program.alignmentInProgress ? "Existing course materials are being converted into the network program format; the official syllabus is confirmed." : "The course remains listed so the program gap is visible and easy to complete.")))}</p>
@@ -99,6 +166,41 @@ function programCard(program) {
   `;
 }
 
+function syllabusGroupFor(program) {
+  if (program.syllabusKey && syllabusFamilyByKey.has(program.syllabusKey)) return syllabusFamilyByKey.get(program.syllabusKey);
+  if (program.syllabusUrl && syllabusFamilyByUrl.has(program.syllabusUrl)) return syllabusFamilyByUrl.get(program.syllabusUrl);
+  if (program.course.includes("Industrial Technology – Metal")) return syllabusFamilyByKey.get("pending-industrial-metal");
+  if (program.course.includes("Agricultural Technology")) return syllabusFamilyByKey.get("pending-agricultural-technology");
+  return syllabusFamilyByKey.get("pending-science");
+}
+
+function syllabusFamilyMarkup(group, items) {
+  const sorted = [...items].sort((a, b) => {
+    const priority = program => program.master ? 0 : (program.benchmark ? 1 : 2);
+    return priority(a) - priority(b) || programOrder.get(a) - programOrder.get(b);
+  });
+  const masters = sorted.filter(program => program.master);
+  const projects = sorted.filter(program => !program.master);
+  const programLabel = `${items.length} ${items.length === 1 ? "program" : "programs"}`;
+  return `
+    <section class="syllabus-family syllabus-family--${group.tone}" data-syllabus-key="${group.key}" aria-labelledby="syllabus-${group.key}">
+      <header class="syllabus-family-header">
+        <div>
+          <p class="syllabus-family-kicker">${group.url ? "Syllabus family" : "Alignment still to confirm"}</p>
+          <h3 id="syllabus-${group.key}">${group.title}</h3>
+          <p>${group.description} · ${programLabel}</p>
+        </div>
+        <div class="syllabus-family-actions">
+          <span>${group.status}</span>
+          ${group.url ? `<a href="${group.url}" target="_blank" rel="noopener">Open official syllabus ↗</a>` : ""}
+        </div>
+      </header>
+      ${masters.length ? `<div class="master-program-grid" aria-label="Master programs">${masters.map(programCard).join("")}</div>` : ""}
+      ${projects.length ? `<div class="program-grid">${projects.map(programCard).join("")}</div>` : ""}
+    </section>
+  `;
+}
+
 function renderPrograms() {
   const query = search.value.trim().toLocaleLowerCase("en-AU");
   const visible = programs.filter(program => {
@@ -107,11 +209,19 @@ function renderPrograms() {
     return inFamily && (!query || haystack.includes(query));
   });
 
-  grid.innerHTML = visible.map(programCard).join("");
+  const grouped = new Map();
+  for (const program of visible) {
+    const group = syllabusGroupFor(program);
+    if (!grouped.has(group.key)) grouped.set(group.key, { group, items: [] });
+    grouped.get(group.key).items.push(program);
+  }
+  const visibleGroups = [...grouped.values()].sort((a, b) => a.group.order - b.group.order);
+
+  grid.innerHTML = visibleGroups.map(({ group, items }) => syllabusFamilyMarkup(group, items)).join("");
   grid.hidden = visible.length === 0;
   emptyState.hidden = visible.length !== 0;
   const readyVisible = visible.filter(program => program.pdf).length;
-  resultsSummary.textContent = `${visible.length} shown · ${readyVisible} ready`;
+  resultsSummary.textContent = `${visible.length} shown · ${readyVisible} ready · ${visibleGroups.length} syllabus ${visibleGroups.length === 1 ? "group" : "groups"}`;
 }
 
 search.addEventListener("input", renderPrograms);
