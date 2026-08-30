@@ -74,6 +74,7 @@ h1 span { color: #f0d49f; }
 .syllabus-family--technology { --syllabus-accent: #176046; --syllabus-soft: #e8f3ed; }
 .syllabus-family--industrial { --syllabus-accent: #355f78; --syllabus-soft: #eaf1f5; }
 .syllabus-family--engineering { --syllabus-accent: #005a9c; --syllabus-soft: #e5f2fb; }
+.syllabus-family--graphics { --syllabus-accent: #8b2433; --syllabus-soft: #fbeaec; }
 .syllabus-family--food { --syllabus-accent: #b24a00; --syllabus-soft: #fff0df; }
 .syllabus-family--textiles { --syllabus-accent: #9b1463; --syllabus-soft: #fbe8f3; }
 .syllabus-family--agriculture { --syllabus-accent: #617400; --syllabus-soft: #f1f6d8; }

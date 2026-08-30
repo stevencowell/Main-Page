@@ -1,0 +1,2785 @@
+{
+  "schema_version": "1.0",
+  "artifact_id": "year-10-graphics-technology-teacher-program-manifest-v1.0.0",
+  "version": "v1.0.0",
+  "build_id": "year-10-graphics-stage-14-local-build-2026-08-30",
+  "course": {
+    "course_id": "year-10-graphics-technology",
+    "title": "Year 10 Graphics Technology",
+    "subject": "Graphics Technology",
+    "stage": "Stage 5",
+    "classification": "Stage 5 elective, Year 10 course component",
+    "scope": "four-term Year 10 course component",
+    "duration_boundary": "Teacher to confirm whether this class is within the 100-hour or 200-hour course, and confirm the actual periods/hours"
+  },
+  "cohort": "Year 10",
+  "delivery_year": 2026,
+  "source_contract": {
+    "artifact_id": "year-10-graphics-technology-source-map-v1",
+    "version": "v1",
+    "version_basis": "source-map-v1.json filename and source_map_id suffix",
+    "sha256": "ea8f4bd1f789d68921d4f974a95f11c6311ef17fdfdd87f43f20812f67ac99c3"
+  },
+  "integration_baseline": {
+    "artifact_id": "year-10-graphics-stage-13-integration-v1.0.3",
+    "sha256": "2d8746100fbe12a672fc37c3beb7a0ea5ab96216322209809e462021cc838a7c",
+    "site_candidate": {
+      "tree_digest_algorithm": "sorted forward-slash relative-path<TAB>sha256<TAB>bytes plus final LF; UTF-8 SHA-256",
+      "sha256": "b3cc335fe244c9b6a0b20e4e323975b9f04ff6b138c80267b30c8414c34f22b3",
+      "file_count": 72,
+      "bytes": 91577093
+    }
+  },
+  "syllabus_basis": {
+    "title": "Graphics Technology Years 7-10 Syllabus (2019)",
+    "version": "2019",
+    "outcome_code_family": "GT5",
+    "official_url": "https://www.nsw.gov.au/education-and-training/nesa/curriculum/tas/graphics-technology-7-10-2019",
+    "verified_date": "2026-08-30",
+    "mandatory_from": "Communication Technology 7-10 (2025) is mandatory from 2028; Graphics Technology 7-10 (2019) remains available through December 2029",
+    "implementation_status": "Graphics Technology 7-10 (2019) and GT5 selected for the confirmed 2026 course; Communication Technology 7-10 (2025) is optional for early implementation during 2026-2027 and mandatory from 2028",
+    "implementation_basis": "The current 2026 Year 10 Graphics Technology assessment schedule and course build/source evidence bind this program to Graphics Technology 7-10 (2019) and GT5. The optional Communication Technology 2025 early-implementation pathway is not selected.",
+    "delivery_year": 2026,
+    "early_adoption_boundary": "Communication Technology 7-10 (2025) may be implemented early by schools during 2026-2027, but this 2026 program retains Graphics Technology 7-10 (2019) and GT5",
+    "do_not_mix": "Do not mix GT5 codes/content with the CMT5 outcome family in one candidate."
+  },
+  "authority_state": {
+    "local_program_build": "authorised",
+    "classroom_use": "bounded by teacher_to_confirm register and current teacher-issued controls",
+    "central_library_registration": "not-authorised",
+    "publication": "not-authorised"
+  },
+  "release_state": {
+    "program": "local handoff candidate",
+    "central_library": "not registered",
+    "repository": "not committed",
+    "push": "not authorised and not performed",
+    "deployment": "not authorised and not performed",
+    "rendered_live_verification": "not performed"
+  },
+  "document_control": {
+    "issue": "v1.0.0 - 30 August 2026",
+    "description": "School-developed, NESA-aligned teacher program backward-mapped from the Stage 13 integrated local candidate; not NESA endorsed.",
+    "delivery_model": "36 ordered program sequence points across four term modules; actual timetable periods/hours are Teacher to confirm",
+    "sign_off_state": "blank-ready for program review, faculty approval and review date"
+  },
+  "program_family": {
+    "in_scope": true,
+    "program_id": "year-10-graphics-technology-teacher-program",
+    "program_kind": "unit",
+    "course": {
+      "family": "Graphics Technology",
+      "content_area": "Graphics Technology",
+      "stage": "Stage 5",
+      "course": "Graphics Technology",
+      "project": "Year 10 Graphics Technology",
+      "version": "v1.0.0",
+      "duration": {
+        "value": 4,
+        "unit": "terms"
+      },
+      "duration_status": "classroom sequence spans four terms; exact periods/hours and 100-hour or 200-hour course status are Teacher to confirm",
+      "site_state": "local-only"
+    },
+    "syllabus": {
+      "family_key": "graphics-technology-7-10-2019",
+      "title": "Graphics Technology Years 7-10 Syllabus (2019)",
+      "version": "2019",
+      "official_url": "https://www.nsw.gov.au/education-and-training/nesa/curriculum/tas/graphics-technology-7-10-2019",
+      "status": "selected current pathway for the confirmed 2026 course; Communication Technology 7-10 (2025) is optional for early implementation in 2026-2027 and mandatory from 2028",
+      "verified_date": "2026-08-30",
+      "implementation_basis": "Graphics Technology 7-10 (2019) and GT5 are retained for this 2026 course; the optional Communication Technology 2025 early-implementation pathway is not selected",
+      "outcome_code_family": "GT5"
+    },
+    "palette": {
+      "mode": "new-distinct",
+      "registry_key": "graphics",
+      "registry_status": "proposed for Stage 91; not registered or published",
+      "accent": "#8B2433",
+      "soft": "#FBEAEC",
+      "text": "#3B1118",
+      "contrast_evidence": "white/accent 8.76:1; text/soft 14.13:1; accent/soft 7.54:1",
+      "stage4_focus_area_key": "not-applicable"
+    },
+    "master_relationship": {
+      "state": "master-not-established",
+      "coverage_state": "gap-recorded",
+      "note": "The live Subject Program Library has no Graphics Technology or Communication Technology family/master. This unit must not claim whole-syllabus coverage."
+    },
+    "central_library": {
+      "canonical_url": "https://stevencowell.github.io/Main-Page/subject-program-library/",
+      "repository_state": "not-in-scope; no local Subject Program Library checkout is available in this workspace",
+      "registration_state": "handoff-ready-target-only",
+      "local_registration_authority": "not-authorised",
+      "publication_authority": "not-authorised"
+    },
+    "teacher_resources": {
+      "route": "teacher-resources.html",
+      "slot_selector": "#teacher-program-links[data-program-link-slot]",
+      "links": [
+        {
+          "label": "Teaching program PDF",
+          "artifact_role": "rendered-program"
+        },
+        {
+          "label": "Editable teaching program",
+          "artifact_role": "editable-program"
+        }
+      ]
+    },
+    "stage_14_destinations": {
+      "authoritative": [
+        "_project/stage-14/teacher-program-v1.0.0.docx",
+        "_project/stage-14/teacher-program-v1.0.0.pdf",
+        "_project/stage-14/teacher-program-manifest-v1.0.0.json",
+        "_project/stage-14/teacher-program-site-map-v1.0.0.json",
+        "_project/stage-14/delivery-register-v1.0.0.xlsx",
+        "_project/stage-14/program-family-handoff.json"
+      ],
+      "public_downloads": [
+        "site/assets/teacher/teacher-program-v1.0.0.docx",
+        "site/assets/teacher/teacher-program-v1.0.0.pdf",
+        "site/assets/teacher/delivery-register-v1.0.0.xlsx"
+      ]
+    }
+  },
+  "outcomes": [
+    {
+      "code": "GT5-1",
+      "statement": "communicates ideas graphically using freehand sketching and accurate drafting techniques",
+      "source_id": "official-graphics-technology-syllabus-2019",
+      "module_ids": [
+        "m01",
+        "m02",
+        "m03",
+        "m04"
+      ]
+    },
+    {
+      "code": "GT5-2",
+      "statement": "analyses the context of information and intended audience to select and develop appropriate presentations",
+      "source_id": "official-graphics-technology-syllabus-2019",
+      "module_ids": [
+        "m01",
+        "m02",
+        "m03",
+        "m04"
+      ]
+    },
+    {
+      "code": "GT5-3",
+      "statement": "designs and produces a range of graphical presentations",
+      "source_id": "official-graphics-technology-syllabus-2019",
+      "module_ids": [
+        "m01",
+        "m02",
+        "m03",
+        "m04"
+      ]
+    },
+    {
+      "code": "GT5-4",
+      "statement": "evaluates the effectiveness of different modes of graphical communications for a variety of purposes",
+      "source_id": "official-graphics-technology-syllabus-2019",
+      "module_ids": [
+        "m01",
+        "m02",
+        "m03",
+        "m04"
+      ]
+    },
+    {
+      "code": "GT5-5",
+      "statement": "identifies, interprets, selects and applies graphics conventions, standards and procedures in graphical communications",
+      "source_id": "official-graphics-technology-syllabus-2019",
+      "module_ids": [
+        "m01",
+        "m02",
+        "m03",
+        "m04"
+      ]
+    },
+    {
+      "code": "GT5-6",
+      "statement": "manages the development of graphical presentations to meet project briefs and specifications",
+      "source_id": "official-graphics-technology-syllabus-2019",
+      "module_ids": [
+        "m01",
+        "m02",
+        "m03",
+        "m04"
+      ]
+    },
+    {
+      "code": "GT5-7",
+      "statement": "manipulates and produces images using digital drafting and presentation technologies",
+      "source_id": "official-graphics-technology-syllabus-2019",
+      "module_ids": [
+        "m01",
+        "m02",
+        "m03",
+        "m04"
+      ]
+    },
+    {
+      "code": "GT5-8",
+      "statement": "designs, produces and evaluates multimedia presentations",
+      "source_id": "official-graphics-technology-syllabus-2019",
+      "module_ids": [
+        "m01",
+        "m04"
+      ]
+    },
+    {
+      "code": "GT5-9",
+      "statement": "identifies, assesses and manages relevant WHS factors to minimise risks in the work environment",
+      "source_id": "official-graphics-technology-syllabus-2019",
+      "module_ids": [
+        "m01",
+        "m02",
+        "m03",
+        "m04"
+      ]
+    },
+    {
+      "code": "GT5-10",
+      "statement": "demonstrates responsible and safe work practices for self and others",
+      "source_id": "official-graphics-technology-syllabus-2019",
+      "module_ids": [
+        "m01",
+        "m02",
+        "m03",
+        "m04"
+      ]
+    },
+    {
+      "code": "GT5-11",
+      "statement": "demonstrates the application of graphics to a range of industrial, commercial and personal settings",
+      "source_id": "official-graphics-technology-syllabus-2019",
+      "module_ids": [
+        "m01",
+        "m02",
+        "m03",
+        "m04"
+      ]
+    },
+    {
+      "code": "GT5-12",
+      "statement": "evaluates the impact of graphics on society, industry and the environment",
+      "source_id": "official-graphics-technology-syllabus-2019",
+      "module_ids": [
+        "m01",
+        "m02",
+        "m03",
+        "m04"
+      ]
+    }
+  ],
+  "modules": [
+    {
+      "module_id": "m01",
+      "title": "Graphic Design & Communication",
+      "timing": "Term 1",
+      "outcome_codes": [
+        "GT5-1",
+        "GT5-2",
+        "GT5-3",
+        "GT5-4",
+        "GT5-5",
+        "GT5-6",
+        "GT5-7",
+        "GT5-8",
+        "GT5-9",
+        "GT5-10",
+        "GT5-11",
+        "GT5-12"
+      ],
+      "assessment_boundary": "Current 2026 schedule: Graphic Design and Communication, Term 1 Week 10, 35%; draft notification requires teacher approval.",
+      "sections": [
+        {
+          "section_id": "m01s01",
+          "title": "Safety signs and visual conventions",
+          "content_descriptors": [
+            "Identify and apply standard symbols and related conventions in graphic-design and communication contexts.",
+            "Recognise the significance of standard symbols in international, multilingual and cultural communication.",
+            "Identify WHS issues related to graphics products and processes and demonstrate safe and responsible practices."
+          ],
+          "source_ids": [
+            "official-graphics-technology-syllabus-2019",
+            "teacher-source-m01",
+            "stage-13-integrated-course"
+          ],
+          "learning_intention": "Explain and apply safety signs and visual conventions in a source-controlled graphics context.",
+          "learning_sequence": [
+            "Read the named theory with teacher explanation.",
+            "Notice three purposeful visuals and complete the answerable media pathway.",
+            "Apply the concept in the linked activity and supervised graphics task.",
+            "Check ten MCQs, complete the capstone and select folio evidence."
+          ],
+          "evidence": [
+            "Applied Learning Activity browser-local record",
+            "ten checked MCQs",
+            "one scaffolded capstone",
+            "selected folio card"
+          ],
+          "formative_checks": {
+            "mcq_count": 10,
+            "capstone_count": 1,
+            "feedback": "option-specific after deliberate check",
+            "module_review": "site-m01-review"
+          },
+          "adjustments": [
+            "Use the complete non-video pathway.",
+            "Provide sentence stems, chunked sequence and teacher-selected accessible source views.",
+            "Allow keyboard, touch, print and exported browser-local evidence paths."
+          ],
+          "literacy_numeracy_digital": [
+            "Explain graphical decisions using evidence and precise vocabulary.",
+            "Interpret proportion, scale, alignment, spatial or dimensional relationships only from authorised sources.",
+            "Create, save, export and evaluate digital graphics while preserving provenance and privacy."
+          ],
+          "safety_workplace": "Follow current teacher instructions and authorised local procedures. The website supports graphical communication and does not replace induction, supervision, risk controls or licensed standards.",
+          "resources": [
+            "Module presentation",
+            "three purposeful visuals",
+            "teacher-approved master or drawing where applicable",
+            "complete non-video pathway",
+            "Applied Learning Activity",
+            "folio card"
+          ],
+          "site_destinations": {
+            "theory": "site-m01s01-theory",
+            "knowledge_check": "site-m01s01-check",
+            "evidence": "site-m01s01-folio",
+            "activity": "site-m01s01-activity",
+            "media": [
+              "site-m01s01-visual",
+              "site-m01s01-media"
+            ]
+          },
+          "outcome_codes": [
+            "GT5-2",
+            "GT5-4",
+            "GT5-5",
+            "GT5-9",
+            "GT5-10",
+            "GT5-11"
+          ],
+          "practical_application": "Critique and refine a rights-safe sign communication using observed hierarchy, contrast, symbol and context evidence; follow current teacher instructions for any local safety content."
+        },
+        {
+          "section_id": "m01s02",
+          "title": "Vector graphics and Illustrator workflows",
+          "content_descriptors": [
+            "Select and use file formats and image sizes suitable for print and digital-media projects.",
+            "Apply geometric construction techniques to the development of graphical images such as logos and pictograms.",
+            "Use appropriate manual and digital processes to produce graphic designs for a given situation."
+          ],
+          "source_ids": [
+            "official-graphics-technology-syllabus-2019",
+            "teacher-source-m01",
+            "stage-13-integrated-course"
+          ],
+          "learning_intention": "Explain and apply vector graphics and illustrator workflows in a source-controlled graphics context.",
+          "learning_sequence": [
+            "Read the named theory with teacher explanation.",
+            "Notice three purposeful visuals and complete the answerable media pathway.",
+            "Apply the concept in the linked activity and supervised graphics task.",
+            "Check ten MCQs, complete the capstone and select folio evidence."
+          ],
+          "evidence": [
+            "Applied Learning Activity browser-local record",
+            "ten checked MCQs",
+            "one scaffolded capstone",
+            "selected folio card"
+          ],
+          "formative_checks": {
+            "mcq_count": 10,
+            "capstone_count": 1,
+            "feedback": "option-specific after deliberate check",
+            "module_review": "site-m01-review"
+          },
+          "adjustments": [
+            "Use the complete non-video pathway.",
+            "Provide sentence stems, chunked sequence and teacher-selected accessible source views.",
+            "Allow keyboard, touch, print and exported browser-local evidence paths."
+          ],
+          "literacy_numeracy_digital": [
+            "Explain graphical decisions using evidence and precise vocabulary.",
+            "Interpret proportion, scale, alignment, spatial or dimensional relationships only from authorised sources.",
+            "Create, save, export and evaluate digital graphics while preserving provenance and privacy."
+          ],
+          "safety_workplace": "Follow current teacher instructions and authorised local procedures. The website supports graphical communication and does not replace induction, supervision, risk controls or licensed standards.",
+          "resources": [
+            "Module presentation",
+            "three purposeful visuals",
+            "teacher-approved master or drawing where applicable",
+            "complete non-video pathway",
+            "Applied Learning Activity",
+            "folio card"
+          ],
+          "site_destinations": {
+            "theory": "site-m01s02-theory",
+            "knowledge_check": "site-m01s02-check",
+            "evidence": "site-m01s02-folio",
+            "activity": "site-m01s02-activity",
+            "media": [
+              "site-m01s02-visual",
+              "site-m01s02-media"
+            ]
+          },
+          "outcome_codes": [
+            "GT5-1",
+            "GT5-3",
+            "GT5-5",
+            "GT5-7",
+            "GT5-11"
+          ],
+          "practical_application": "Construct and revise an editable vector graphic from teacher-approved geometry; check path economy, hierarchy, scale and export fitness without inventing submission formats."
+        },
+        {
+          "section_id": "m01s03",
+          "title": "Design principles, audience, culture and intellectual property",
+          "content_descriptors": [
+            "Apply composition, proportion, balance, tone and contrast to print and digital media.",
+            "Explore the use and protection of localised signs and symbols in Aboriginal and Torres Strait Islander cultural expression.",
+            "Investigate cultural knowledge and heritage, trademarks and copyright in the production and reproduction of communication graphics."
+          ],
+          "source_ids": [
+            "official-graphics-technology-syllabus-2019",
+            "teacher-source-m01",
+            "stage-13-integrated-course"
+          ],
+          "learning_intention": "Explain and apply design principles, audience, culture and intellectual property in a source-controlled graphics context.",
+          "learning_sequence": [
+            "Read the named theory with teacher explanation.",
+            "Notice three purposeful visuals and complete the answerable media pathway.",
+            "Apply the concept in the linked activity and supervised graphics task.",
+            "Check ten MCQs, complete the capstone and select folio evidence."
+          ],
+          "evidence": [
+            "Applied Learning Activity browser-local record",
+            "ten checked MCQs",
+            "one scaffolded capstone",
+            "selected folio card"
+          ],
+          "formative_checks": {
+            "mcq_count": 10,
+            "capstone_count": 1,
+            "feedback": "option-specific after deliberate check",
+            "module_review": "site-m01-review"
+          },
+          "adjustments": [
+            "Use the complete non-video pathway.",
+            "Provide sentence stems, chunked sequence and teacher-selected accessible source views.",
+            "Allow keyboard, touch, print and exported browser-local evidence paths."
+          ],
+          "literacy_numeracy_digital": [
+            "Explain graphical decisions using evidence and precise vocabulary.",
+            "Interpret proportion, scale, alignment, spatial or dimensional relationships only from authorised sources.",
+            "Create, save, export and evaluate digital graphics while preserving provenance and privacy."
+          ],
+          "safety_workplace": "Follow current teacher instructions and authorised local procedures. The website supports graphical communication and does not replace induction, supervision, risk controls or licensed standards.",
+          "resources": [
+            "Module presentation",
+            "three purposeful visuals",
+            "teacher-approved master or drawing where applicable",
+            "complete non-video pathway",
+            "Applied Learning Activity",
+            "folio card"
+          ],
+          "site_destinations": {
+            "theory": "site-m01s03-theory",
+            "knowledge_check": "site-m01s03-check",
+            "evidence": "site-m01s03-folio",
+            "activity": "site-m01s03-activity",
+            "media": [
+              "site-m01s03-visual",
+              "site-m01s03-media"
+            ]
+          },
+          "outcome_codes": [
+            "GT5-1",
+            "GT5-2",
+            "GT5-4",
+            "GT5-6",
+            "GT5-8",
+            "GT5-12"
+          ],
+          "practical_application": "Develop and justify a rights-aware visual hierarchy for an intended audience; pause any cultural use until relevant authority and current guidance are established."
+        }
+      ],
+      "review_site_id": "site-m01-review",
+      "puzzle_site_id": "site-m01-puzzle",
+      "presentation_site_id": "site-m01-presentation"
+    },
+    {
+      "module_id": "m02",
+      "title": "Architectural Drawing",
+      "timing": "Term 2",
+      "outcome_codes": [
+        "GT5-1",
+        "GT5-2",
+        "GT5-3",
+        "GT5-4",
+        "GT5-5",
+        "GT5-6",
+        "GT5-7",
+        "GT5-9",
+        "GT5-10",
+        "GT5-11",
+        "GT5-12"
+      ],
+      "assessment_boundary": "Current 2026 schedule: Architectural Drawing, Term 2 Week 8, 35%; exact date, criteria and submission remain Teacher to confirm.",
+      "sections": [
+        {
+          "section_id": "m02s01",
+          "title": "Spatial planning and architectural research",
+          "content_descriptors": [
+            "Apply architectural drawing types to concept-design situations for communication with clients.",
+            "Research and develop architectural designs using ICT as appropriate.",
+            "Investigate environmental issues relating to architecture and design ecologically sustainable architectural spaces."
+          ],
+          "source_ids": [
+            "official-graphics-technology-syllabus-2019",
+            "teacher-source-m02",
+            "stage-13-integrated-course"
+          ],
+          "learning_intention": "Explain and apply spatial planning and architectural research in a source-controlled graphics context.",
+          "learning_sequence": [
+            "Read the named theory with teacher explanation.",
+            "Notice three purposeful visuals and complete the answerable media pathway.",
+            "Apply the concept in the linked activity and supervised graphics task.",
+            "Check ten MCQs, complete the capstone and select folio evidence."
+          ],
+          "evidence": [
+            "Applied Learning Activity browser-local record",
+            "ten checked MCQs",
+            "one scaffolded capstone",
+            "selected folio card"
+          ],
+          "formative_checks": {
+            "mcq_count": 10,
+            "capstone_count": 1,
+            "feedback": "option-specific after deliberate check",
+            "module_review": "site-m02-review"
+          },
+          "adjustments": [
+            "Use the complete non-video pathway.",
+            "Provide sentence stems, chunked sequence and teacher-selected accessible source views.",
+            "Allow keyboard, touch, print and exported browser-local evidence paths."
+          ],
+          "literacy_numeracy_digital": [
+            "Explain graphical decisions using evidence and precise vocabulary.",
+            "Interpret proportion, scale, alignment, spatial or dimensional relationships only from authorised sources.",
+            "Create, save, export and evaluate digital graphics while preserving provenance and privacy."
+          ],
+          "safety_workplace": "Follow current teacher instructions and authorised local procedures. The website supports graphical communication and does not replace induction, supervision, risk controls or licensed standards.",
+          "resources": [
+            "Module presentation",
+            "three purposeful visuals",
+            "teacher-approved master or drawing where applicable",
+            "complete non-video pathway",
+            "Applied Learning Activity",
+            "folio card"
+          ],
+          "site_destinations": {
+            "theory": "site-m02s01-theory",
+            "knowledge_check": "site-m02s01-check",
+            "evidence": "site-m02s01-folio",
+            "activity": "site-m02s01-activity",
+            "media": [
+              "site-m02s01-visual",
+              "site-m02s01-media"
+            ]
+          },
+          "outcome_codes": [
+            "GT5-1",
+            "GT5-2",
+            "GT5-3",
+            "GT5-6",
+            "GT5-12"
+          ],
+          "practical_application": "Translate the approved brief into zones, adjacencies and circulation alternatives; adapt a traceable precedent principle without copying appearance or inventing dimensions."
+        },
+        {
+          "section_id": "m02s02",
+          "title": "CAD drafting, drawing views and conventions",
+          "content_descriptors": [
+            "Apply AS 1100.301 architectural-drawing conventions, scales, graphical symbols and units as authorised by current sources.",
+            "Produce site or block plans, floor plans, standard elevations and sections for architectural purposes.",
+            "Generate two-dimensional drawings and three-dimensional models using CAD, linking related drawings as a coordinated set."
+          ],
+          "source_ids": [
+            "official-graphics-technology-syllabus-2019",
+            "teacher-source-m02",
+            "stage-13-integrated-course"
+          ],
+          "learning_intention": "Explain and apply cad drafting, drawing views and conventions in a source-controlled graphics context.",
+          "learning_sequence": [
+            "Read the named theory with teacher explanation.",
+            "Notice three purposeful visuals and complete the answerable media pathway.",
+            "Apply the concept in the linked activity and supervised graphics task.",
+            "Check ten MCQs, complete the capstone and select folio evidence."
+          ],
+          "evidence": [
+            "Applied Learning Activity browser-local record",
+            "ten checked MCQs",
+            "one scaffolded capstone",
+            "selected folio card"
+          ],
+          "formative_checks": {
+            "mcq_count": 10,
+            "capstone_count": 1,
+            "feedback": "option-specific after deliberate check",
+            "module_review": "site-m02-review"
+          },
+          "adjustments": [
+            "Use the complete non-video pathway.",
+            "Provide sentence stems, chunked sequence and teacher-selected accessible source views.",
+            "Allow keyboard, touch, print and exported browser-local evidence paths."
+          ],
+          "literacy_numeracy_digital": [
+            "Explain graphical decisions using evidence and precise vocabulary.",
+            "Interpret proportion, scale, alignment, spatial or dimensional relationships only from authorised sources.",
+            "Create, save, export and evaluate digital graphics while preserving provenance and privacy."
+          ],
+          "safety_workplace": "Follow current teacher instructions and authorised local procedures. The website supports graphical communication and does not replace induction, supervision, risk controls or licensed standards.",
+          "resources": [
+            "Module presentation",
+            "three purposeful visuals",
+            "teacher-approved master or drawing where applicable",
+            "complete non-video pathway",
+            "Applied Learning Activity",
+            "folio card"
+          ],
+          "site_destinations": {
+            "theory": "site-m02s02-theory",
+            "knowledge_check": "site-m02s02-check",
+            "evidence": "site-m02s02-folio",
+            "activity": "site-m02s02-activity",
+            "media": [
+              "site-m02s02-visual",
+              "site-m02s02-media"
+            ]
+          },
+          "outcome_codes": [
+            "GT5-3",
+            "GT5-5",
+            "GT5-7",
+            "GT5-11"
+          ],
+          "practical_application": "Build or revise coordinated CAD views from the current teacher source set; cross-check one feature across plan, elevation, section, site and detail evidence."
+        },
+        {
+          "section_id": "m02s03",
+          "title": "Sustainability, building context and professional roles",
+          "content_descriptors": [
+            "Explore the roles of professionals in architecture and the building industry.",
+            "Investigate related authorities, statutory requirements, building codes and approval requirements without claiming that classroom work proves compliance.",
+            "Investigate environmental issues and current building practices in the design of ecologically sustainable architectural spaces."
+          ],
+          "source_ids": [
+            "official-graphics-technology-syllabus-2019",
+            "teacher-source-m02",
+            "stage-13-integrated-course"
+          ],
+          "learning_intention": "Explain and apply sustainability, building context and professional roles in a source-controlled graphics context.",
+          "learning_sequence": [
+            "Read the named theory with teacher explanation.",
+            "Notice three purposeful visuals and complete the answerable media pathway.",
+            "Apply the concept in the linked activity and supervised graphics task.",
+            "Check ten MCQs, complete the capstone and select folio evidence."
+          ],
+          "evidence": [
+            "Applied Learning Activity browser-local record",
+            "ten checked MCQs",
+            "one scaffolded capstone",
+            "selected folio card"
+          ],
+          "formative_checks": {
+            "mcq_count": 10,
+            "capstone_count": 1,
+            "feedback": "option-specific after deliberate check",
+            "module_review": "site-m02-review"
+          },
+          "adjustments": [
+            "Use the complete non-video pathway.",
+            "Provide sentence stems, chunked sequence and teacher-selected accessible source views.",
+            "Allow keyboard, touch, print and exported browser-local evidence paths."
+          ],
+          "literacy_numeracy_digital": [
+            "Explain graphical decisions using evidence and precise vocabulary.",
+            "Interpret proportion, scale, alignment, spatial or dimensional relationships only from authorised sources.",
+            "Create, save, export and evaluate digital graphics while preserving provenance and privacy."
+          ],
+          "safety_workplace": "Follow current teacher instructions and authorised local procedures. The website supports graphical communication and does not replace induction, supervision, risk controls or licensed standards.",
+          "resources": [
+            "Module presentation",
+            "three purposeful visuals",
+            "teacher-approved master or drawing where applicable",
+            "complete non-video pathway",
+            "Applied Learning Activity",
+            "folio card"
+          ],
+          "site_destinations": {
+            "theory": "site-m02s03-theory",
+            "knowledge_check": "site-m02s03-check",
+            "evidence": "site-m02s03-folio",
+            "activity": "site-m02s03-activity",
+            "media": [
+              "site-m02s03-visual",
+              "site-m02s03-media"
+            ]
+          },
+          "outcome_codes": [
+            "GT5-2",
+            "GT5-4",
+            "GT5-9",
+            "GT5-10",
+            "GT5-11",
+            "GT5-12"
+          ],
+          "practical_application": "Coordinate a bounded sustainability or building-context claim against site and drawing evidence; identify which professional or current authority must confirm any stronger claim."
+        }
+      ],
+      "review_site_id": "site-m02-review",
+      "puzzle_site_id": "site-m02-puzzle",
+      "presentation_site_id": "site-m02-presentation"
+    },
+    {
+      "module_id": "m03",
+      "title": "Engineering Drawing",
+      "timing": "Term 3",
+      "outcome_codes": [
+        "GT5-1",
+        "GT5-2",
+        "GT5-3",
+        "GT5-4",
+        "GT5-5",
+        "GT5-6",
+        "GT5-7",
+        "GT5-9",
+        "GT5-10",
+        "GT5-11",
+        "GT5-12"
+      ],
+      "assessment_boundary": "Current 2026 schedule: Engineering Drawing, Term 4 Week 3, 30%; the learning block occurs earlier and the exact date/issued conditions remain Teacher to confirm.",
+      "sections": [
+        {
+          "section_id": "m03s01",
+          "title": "Projection systems and freehand communication",
+          "content_descriptors": [
+            "Communicate engineering details of an existing component through freehand sketching.",
+            "Use sketches to plan component assemblies and drawing layouts.",
+            "Apply sectioning or auxiliary-view techniques where they add necessary information."
+          ],
+          "source_ids": [
+            "official-graphics-technology-syllabus-2019",
+            "teacher-source-m03",
+            "stage-13-integrated-course"
+          ],
+          "learning_intention": "Explain and apply projection systems and freehand communication in a source-controlled graphics context.",
+          "learning_sequence": [
+            "Read the named theory with teacher explanation.",
+            "Notice three purposeful visuals and complete the answerable media pathway.",
+            "Apply the concept in the linked activity and supervised graphics task.",
+            "Check ten MCQs, complete the capstone and select folio evidence."
+          ],
+          "evidence": [
+            "Applied Learning Activity browser-local record",
+            "ten checked MCQs",
+            "one scaffolded capstone",
+            "selected folio card"
+          ],
+          "formative_checks": {
+            "mcq_count": 10,
+            "capstone_count": 1,
+            "feedback": "option-specific after deliberate check",
+            "module_review": "site-m03-review"
+          },
+          "adjustments": [
+            "Use the complete non-video pathway.",
+            "Provide sentence stems, chunked sequence and teacher-selected accessible source views.",
+            "Allow keyboard, touch, print and exported browser-local evidence paths."
+          ],
+          "literacy_numeracy_digital": [
+            "Explain graphical decisions using evidence and precise vocabulary.",
+            "Interpret proportion, scale, alignment, spatial or dimensional relationships only from authorised sources.",
+            "Create, save, export and evaluate digital graphics while preserving provenance and privacy."
+          ],
+          "safety_workplace": "Follow current teacher instructions and authorised local procedures. The website supports graphical communication and does not replace induction, supervision, risk controls or licensed standards.",
+          "resources": [
+            "Module presentation",
+            "three purposeful visuals",
+            "teacher-approved master or drawing where applicable",
+            "complete non-video pathway",
+            "Applied Learning Activity",
+            "folio card"
+          ],
+          "site_destinations": {
+            "theory": "site-m03s01-theory",
+            "knowledge_check": "site-m03s01-check",
+            "evidence": "site-m03s01-folio",
+            "activity": "site-m03s01-activity",
+            "media": [
+              "site-m03s01-visual",
+              "site-m03s01-media"
+            ]
+          },
+          "outcome_codes": [
+            "GT5-1",
+            "GT5-2",
+            "GT5-3",
+            "GT5-5"
+          ],
+          "practical_application": "Produce a disciplined freehand view set for a teacher-approved component; preserve proportion and alignment, and do not estimate controlled dimensions."
+        },
+        {
+          "section_id": "m03s02",
+          "title": "CAD modelling, materials and manufacturing",
+          "content_descriptors": [
+            "Investigate 2D drafting and solid or surface modelling for engineering drawings.",
+            "Explore the relationship of engineering CAD applications to CAM.",
+            "Investigate common engineering materials and environmental implications of material selection, and the role of engineers in manufacturing."
+          ],
+          "source_ids": [
+            "official-graphics-technology-syllabus-2019",
+            "teacher-source-m03",
+            "stage-13-integrated-course"
+          ],
+          "learning_intention": "Explain and apply cad modelling, materials and manufacturing in a source-controlled graphics context.",
+          "learning_sequence": [
+            "Read the named theory with teacher explanation.",
+            "Notice three purposeful visuals and complete the answerable media pathway.",
+            "Apply the concept in the linked activity and supervised graphics task.",
+            "Check ten MCQs, complete the capstone and select folio evidence."
+          ],
+          "evidence": [
+            "Applied Learning Activity browser-local record",
+            "ten checked MCQs",
+            "one scaffolded capstone",
+            "selected folio card"
+          ],
+          "formative_checks": {
+            "mcq_count": 10,
+            "capstone_count": 1,
+            "feedback": "option-specific after deliberate check",
+            "module_review": "site-m03-review"
+          },
+          "adjustments": [
+            "Use the complete non-video pathway.",
+            "Provide sentence stems, chunked sequence and teacher-selected accessible source views.",
+            "Allow keyboard, touch, print and exported browser-local evidence paths."
+          ],
+          "literacy_numeracy_digital": [
+            "Explain graphical decisions using evidence and precise vocabulary.",
+            "Interpret proportion, scale, alignment, spatial or dimensional relationships only from authorised sources.",
+            "Create, save, export and evaluate digital graphics while preserving provenance and privacy."
+          ],
+          "safety_workplace": "Follow current teacher instructions and authorised local procedures. The website supports graphical communication and does not replace induction, supervision, risk controls or licensed standards.",
+          "resources": [
+            "Module presentation",
+            "three purposeful visuals",
+            "teacher-approved master or drawing where applicable",
+            "complete non-video pathway",
+            "Applied Learning Activity",
+            "folio card"
+          ],
+          "site_destinations": {
+            "theory": "site-m03s02-theory",
+            "knowledge_check": "site-m03s02-check",
+            "evidence": "site-m03s02-folio",
+            "activity": "site-m03s02-activity",
+            "media": [
+              "site-m03s02-visual",
+              "site-m03s02-media"
+            ]
+          },
+          "outcome_codes": [
+            "GT5-2",
+            "GT5-3",
+            "GT5-6",
+            "GT5-7",
+            "GT5-9",
+            "GT5-10",
+            "GT5-11",
+            "GT5-12"
+          ],
+          "practical_application": "Model an authorised component relationship and test a controlled parameter change; describe only what the digital dependency and visible geometry demonstrate."
+        },
+        {
+          "section_id": "m03s03",
+          "title": "Dimensioning, standards, assemblies and animation",
+          "content_descriptors": [
+            "Apply authorised AS 1100 technical-drawing conventions and standard representations of engineering elements.",
+            "Produce dimensioned detail drawings and assembly drawings with parts information; controlled tolerances, fits, finishes and weld information require current authority.",
+            "Create assembled or exploded views and use CAD animation or simulation to communicate digital relationships without claiming physical proof."
+          ],
+          "source_ids": [
+            "official-graphics-technology-syllabus-2019",
+            "teacher-source-m03",
+            "stage-13-integrated-course"
+          ],
+          "learning_intention": "Explain and apply dimensioning, standards, assemblies and animation in a source-controlled graphics context.",
+          "learning_sequence": [
+            "Read the named theory with teacher explanation.",
+            "Notice three purposeful visuals and complete the answerable media pathway.",
+            "Apply the concept in the linked activity and supervised graphics task.",
+            "Check ten MCQs, complete the capstone and select folio evidence."
+          ],
+          "evidence": [
+            "Applied Learning Activity browser-local record",
+            "ten checked MCQs",
+            "one scaffolded capstone",
+            "selected folio card"
+          ],
+          "formative_checks": {
+            "mcq_count": 10,
+            "capstone_count": 1,
+            "feedback": "option-specific after deliberate check",
+            "module_review": "site-m03-review"
+          },
+          "adjustments": [
+            "Use the complete non-video pathway.",
+            "Provide sentence stems, chunked sequence and teacher-selected accessible source views.",
+            "Allow keyboard, touch, print and exported browser-local evidence paths."
+          ],
+          "literacy_numeracy_digital": [
+            "Explain graphical decisions using evidence and precise vocabulary.",
+            "Interpret proportion, scale, alignment, spatial or dimensional relationships only from authorised sources.",
+            "Create, save, export and evaluate digital graphics while preserving provenance and privacy."
+          ],
+          "safety_workplace": "Follow current teacher instructions and authorised local procedures. The website supports graphical communication and does not replace induction, supervision, risk controls or licensed standards.",
+          "resources": [
+            "Module presentation",
+            "three purposeful visuals",
+            "teacher-approved master or drawing where applicable",
+            "complete non-video pathway",
+            "Applied Learning Activity",
+            "folio card"
+          ],
+          "site_destinations": {
+            "theory": "site-m03s03-theory",
+            "knowledge_check": "site-m03s03-check",
+            "evidence": "site-m03s03-folio",
+            "activity": "site-m03s03-activity",
+            "media": [
+              "site-m03s03-visual",
+              "site-m03s03-media"
+            ]
+          },
+          "outcome_codes": [
+            "GT5-4",
+            "GT5-5",
+            "GT5-7",
+            "GT5-11"
+          ],
+          "practical_application": "Audit a part-drawing, assembly and digital-motion package against the supplied source; hold unsupported values or symbols and state the limits of the evidence."
+        }
+      ],
+      "review_site_id": "site-m03-review",
+      "puzzle_site_id": "site-m03-puzzle",
+      "presentation_site_id": "site-m03-presentation"
+    },
+    {
+      "module_id": "m04",
+      "title": "Student Negotiated Project",
+      "timing": "Term 4",
+      "outcome_codes": [
+        "GT5-1",
+        "GT5-2",
+        "GT5-3",
+        "GT5-4",
+        "GT5-5",
+        "GT5-6",
+        "GT5-7",
+        "GT5-8",
+        "GT5-9",
+        "GT5-10",
+        "GT5-11",
+        "GT5-12"
+      ],
+      "assessment_boundary": "Learning/project context only in the current 2026 handbook: not a separate scheduled weighted formal task.",
+      "sections": [
+        {
+          "section_id": "m04s01",
+          "title": "Brief, audience, criteria and constraints",
+          "content_descriptors": [
+            "Negotiate the area of study for a Student Negotiated Project with the teacher.",
+            "Select and apply appropriate standards and conventions to the negotiated project.",
+            "Identify and apply appropriate tools, techniques and technologies to the negotiated project."
+          ],
+          "source_ids": [
+            "official-graphics-technology-syllabus-2019",
+            "teacher-source-m04",
+            "stage-13-integrated-course"
+          ],
+          "learning_intention": "Explain and apply brief, audience, criteria and constraints in a source-controlled graphics context.",
+          "learning_sequence": [
+            "Read the named theory with teacher explanation.",
+            "Notice three purposeful visuals and complete the answerable media pathway.",
+            "Apply the concept in the linked activity and supervised graphics task.",
+            "Check ten MCQs, complete the capstone and select folio evidence."
+          ],
+          "evidence": [
+            "Applied Learning Activity browser-local record",
+            "ten checked MCQs",
+            "one scaffolded capstone",
+            "selected folio card"
+          ],
+          "formative_checks": {
+            "mcq_count": 10,
+            "capstone_count": 1,
+            "feedback": "option-specific after deliberate check",
+            "module_review": "site-m04-review"
+          },
+          "adjustments": [
+            "Use the complete non-video pathway.",
+            "Provide sentence stems, chunked sequence and teacher-selected accessible source views.",
+            "Allow keyboard, touch, print and exported browser-local evidence paths."
+          ],
+          "literacy_numeracy_digital": [
+            "Explain graphical decisions using evidence and precise vocabulary.",
+            "Interpret proportion, scale, alignment, spatial or dimensional relationships only from authorised sources.",
+            "Create, save, export and evaluate digital graphics while preserving provenance and privacy."
+          ],
+          "safety_workplace": "Follow current teacher instructions and authorised local procedures. The website supports graphical communication and does not replace induction, supervision, risk controls or licensed standards.",
+          "resources": [
+            "Module presentation",
+            "three purposeful visuals",
+            "teacher-approved master or drawing where applicable",
+            "complete non-video pathway",
+            "Applied Learning Activity",
+            "folio card"
+          ],
+          "site_destinations": {
+            "theory": "site-m04s01-theory",
+            "knowledge_check": "site-m04s01-check",
+            "evidence": "site-m04s01-folio",
+            "activity": "site-m04s01-activity",
+            "media": [
+              "site-m04s01-visual",
+              "site-m04s01-media"
+            ]
+          },
+          "outcome_codes": [
+            "GT5-2",
+            "GT5-5",
+            "GT5-6",
+            "GT5-11"
+          ],
+          "practical_application": "Refine a teacher-approved graphics problem into audience, purpose, constraints, deliverables and observable criteria; keep unresolved approval conditions visible."
+        },
+        {
+          "section_id": "m04s02",
+          "title": "Ideation, project management and digital development",
+          "content_descriptors": [
+            "Apply sketches to the design, development, communication and planning of project ideas.",
+            "Follow a sequence in producing graphical images and generate a range of graphical images for the negotiated project.",
+            "Develop the negotiated project using appropriate CAD, rendering or animation software."
+          ],
+          "source_ids": [
+            "official-graphics-technology-syllabus-2019",
+            "teacher-source-m04",
+            "stage-13-integrated-course"
+          ],
+          "learning_intention": "Explain and apply ideation, project management and digital development in a source-controlled graphics context.",
+          "learning_sequence": [
+            "Read the named theory with teacher explanation.",
+            "Notice three purposeful visuals and complete the answerable media pathway.",
+            "Apply the concept in the linked activity and supervised graphics task.",
+            "Check ten MCQs, complete the capstone and select folio evidence."
+          ],
+          "evidence": [
+            "Applied Learning Activity browser-local record",
+            "ten checked MCQs",
+            "one scaffolded capstone",
+            "selected folio card"
+          ],
+          "formative_checks": {
+            "mcq_count": 10,
+            "capstone_count": 1,
+            "feedback": "option-specific after deliberate check",
+            "module_review": "site-m04-review"
+          },
+          "adjustments": [
+            "Use the complete non-video pathway.",
+            "Provide sentence stems, chunked sequence and teacher-selected accessible source views.",
+            "Allow keyboard, touch, print and exported browser-local evidence paths."
+          ],
+          "literacy_numeracy_digital": [
+            "Explain graphical decisions using evidence and precise vocabulary.",
+            "Interpret proportion, scale, alignment, spatial or dimensional relationships only from authorised sources.",
+            "Create, save, export and evaluate digital graphics while preserving provenance and privacy."
+          ],
+          "safety_workplace": "Follow current teacher instructions and authorised local procedures. The website supports graphical communication and does not replace induction, supervision, risk controls or licensed standards.",
+          "resources": [
+            "Module presentation",
+            "three purposeful visuals",
+            "teacher-approved master or drawing where applicable",
+            "complete non-video pathway",
+            "Applied Learning Activity",
+            "folio card"
+          ],
+          "site_destinations": {
+            "theory": "site-m04s02-theory",
+            "knowledge_check": "site-m04s02-check",
+            "evidence": "site-m04s02-folio",
+            "activity": "site-m04s02-activity",
+            "media": [
+              "site-m04s02-visual",
+              "site-m04s02-media"
+            ]
+          },
+          "outcome_codes": [
+            "GT5-1",
+            "GT5-3",
+            "GT5-6",
+            "GT5-7",
+            "GT5-9",
+            "GT5-10"
+          ],
+          "practical_application": "Generate distinct concepts, choose against the approved brief, plan milestones and recoverable versions, then record one significant revision and its evidence."
+        },
+        {
+          "section_id": "m04s03",
+          "title": "Presentation, feedback and evaluation",
+          "content_descriptors": [
+            "Produce a range of graphical presentations while developing the negotiated project.",
+            "Develop a multimedia presentation for a targeted audience.",
+            "Evaluate graphical presentations using feedback from appropriate sources."
+          ],
+          "source_ids": [
+            "official-graphics-technology-syllabus-2019",
+            "teacher-source-m04",
+            "stage-13-integrated-course"
+          ],
+          "learning_intention": "Explain and apply presentation, feedback and evaluation in a source-controlled graphics context.",
+          "learning_sequence": [
+            "Read the named theory with teacher explanation.",
+            "Notice three purposeful visuals and complete the answerable media pathway.",
+            "Apply the concept in the linked activity and supervised graphics task.",
+            "Check ten MCQs, complete the capstone and select folio evidence."
+          ],
+          "evidence": [
+            "Applied Learning Activity browser-local record",
+            "ten checked MCQs",
+            "one scaffolded capstone",
+            "selected folio card"
+          ],
+          "formative_checks": {
+            "mcq_count": 10,
+            "capstone_count": 1,
+            "feedback": "option-specific after deliberate check",
+            "module_review": "site-m04-review"
+          },
+          "adjustments": [
+            "Use the complete non-video pathway.",
+            "Provide sentence stems, chunked sequence and teacher-selected accessible source views.",
+            "Allow keyboard, touch, print and exported browser-local evidence paths."
+          ],
+          "literacy_numeracy_digital": [
+            "Explain graphical decisions using evidence and precise vocabulary.",
+            "Interpret proportion, scale, alignment, spatial or dimensional relationships only from authorised sources.",
+            "Create, save, export and evaluate digital graphics while preserving provenance and privacy."
+          ],
+          "safety_workplace": "Follow current teacher instructions and authorised local procedures. The website supports graphical communication and does not replace induction, supervision, risk controls or licensed standards.",
+          "resources": [
+            "Module presentation",
+            "three purposeful visuals",
+            "teacher-approved master or drawing where applicable",
+            "complete non-video pathway",
+            "Applied Learning Activity",
+            "folio card"
+          ],
+          "site_destinations": {
+            "theory": "site-m04s03-theory",
+            "knowledge_check": "site-m04s03-check",
+            "evidence": "site-m04s03-folio",
+            "activity": "site-m04s03-activity",
+            "media": [
+              "site-m04s03-visual",
+              "site-m04s03-media"
+            ]
+          },
+          "outcome_codes": [
+            "GT5-2",
+            "GT5-4",
+            "GT5-8",
+            "GT5-12"
+          ],
+          "practical_application": "Select process and final evidence, ask criterion-linked feedback questions, and evaluate through claim, evidence, reasoning, limitation and next improvement."
+        }
+      ],
+      "review_site_id": "site-m04-review",
+      "puzzle_site_id": "site-m04-puzzle",
+      "presentation_site_id": "site-m04-presentation"
+    }
+  ],
+  "assessment_boundaries": [
+    {
+      "module_id": "m01",
+      "boundary": "Current 2026 schedule: Graphic Design and Communication, Term 1 Week 10, 35%; draft notification requires teacher approval."
+    },
+    {
+      "module_id": "m02",
+      "boundary": "Current 2026 schedule: Architectural Drawing, Term 2 Week 8, 35%; exact date, criteria and submission remain Teacher to confirm."
+    },
+    {
+      "module_id": "m03",
+      "boundary": "Current 2026 schedule: Engineering Drawing, Term 4 Week 3, 30%; the learning block occurs earlier and the exact date/issued conditions remain Teacher to confirm."
+    },
+    {
+      "module_id": "m04",
+      "boundary": "Learning/project context only in the current 2026 handbook: not a separate scheduled weighted formal task."
+    }
+  ],
+  "teacher_to_confirm": [
+    {
+      "id": "ttc-duration-and-course-classification",
+      "status": "Teacher to confirm",
+      "item": "whether the class is part of the 100-hour or 200-hour Graphics Technology course and the actual periods/hours",
+      "owner": "Head Teacher TAS / timetabler",
+      "affected_scope": [
+        "whole program",
+        "delivery register",
+        "prior Core Modules 1-2 coverage"
+      ],
+      "due_before": "program approval and timetable allocation",
+      "smallest_action": "Record whether the class sits within the 100-hour or 200-hour course and enter the actual periods/hours."
+    },
+    {
+      "id": "ttc-current-assessment-notifications",
+      "status": "Teacher to confirm",
+      "item": "the exact issued day within each confirmed scheduled week, approved criteria and task numbering, and current absence, submission and resubmission conditions",
+      "owner": "Head Teacher TAS / assessment coordinator",
+      "affected_scope": [
+        "m01",
+        "m02",
+        "m03",
+        "assessment route"
+      ],
+      "due_before": "issuing each formal assessment task",
+      "smallest_action": "Approve the issued notification's exact day within the named week, criteria, task number and current absence, submission and resubmission conditions."
+    },
+    {
+      "id": "ttc-negotiated-project-controls",
+      "status": "Teacher to confirm",
+      "item": "the current Term 4 project approval process, allowed software, deliverables, materials, dimensions, budget and evidence requirements",
+      "owner": "Course teacher",
+      "affected_scope": [
+        "m04s01",
+        "m04s02",
+        "m04s03"
+      ],
+      "due_before": "approving each negotiated project proposal",
+      "smallest_action": "Approve the project scope, software, deliverables, materials, dimensions, budget and required evidence for the class."
+    },
+    {
+      "id": "ttc-cad-environment",
+      "status": "Teacher to confirm",
+      "item": "the current local CAD versions, account access, export formats and file-naming conventions",
+      "owner": "Course teacher / school ICT support",
+      "affected_scope": [
+        "m01s02",
+        "m02s02",
+        "m03s02",
+        "m03s03",
+        "m04s02"
+      ],
+      "due_before": "the first software-dependent lesson",
+      "smallest_action": "Confirm installed software versions, account access, teacher-approved export formats and file-naming conventions."
+    },
+    {
+      "id": "ttc-local-equipment-and-whs-controls",
+      "status": "Teacher to confirm",
+      "item": "any local equipment permissions, workshop/CAD safety controls and teacher-demonstrated procedures",
+      "owner": "Course teacher / Head Teacher TAS",
+      "affected_scope": [
+        "all Practical sequence points"
+      ],
+      "due_before": "any supervised production or equipment use",
+      "smallest_action": "Issue the current local equipment permissions, WHS controls and teacher-demonstrated procedures; the site and program do not replace them."
+    },
+    {
+      "id": "ttc-cultural-consultation-process",
+      "status": "Teacher to confirm",
+      "item": "the required local cultural consultation process for Aboriginal and Torres Strait Islander design content",
+      "owner": "School leadership / relevant local cultural authority",
+      "affected_scope": [
+        "m01s03",
+        "any use of Aboriginal and Torres Strait Islander cultural material"
+      ],
+      "due_before": "selecting or reproducing cultural content",
+      "smallest_action": "Confirm and follow the current local consultation and permission process before cultural content is used."
+    },
+    {
+      "id": "ttc-public-reproduction-permission",
+      "status": "Teacher to confirm",
+      "item": "permission to reproduce or directly link teacher-supplied drawings, plans, videos and templates on a future public site",
+      "owner": "Source owner / Head Teacher TAS",
+      "affected_scope": [
+        "teacher-source drawings",
+        "plans",
+        "videos",
+        "templates",
+        "future public site"
+      ],
+      "due_before": "any public release",
+      "smallest_action": "Record permission for each teacher-supplied asset before public reproduction or direct linking."
+    },
+    {
+      "id": "ttc-public-course-destination",
+      "status": "Teacher to confirm",
+      "item": "the final Main Menu anchor and canonical public course URL if publication is later authorised",
+      "owner": "Steve / repository owner",
+      "affected_scope": [
+        "Main Menu link",
+        "course library card",
+        "publication"
+      ],
+      "due_before": "repository registration or publication",
+      "smallest_action": "Confirm the canonical public course URL and final Main Menu anchor; keep the handoff local-only until then."
+    }
+  ],
+  "source_register": [
+    {
+      "source_id": "official-graphics-technology-syllabus-2019",
+      "authority": "official syllabus",
+      "title": "Graphics Technology Years 7-10 Syllabus (2019)",
+      "location": "https://www.nsw.gov.au/education-and-training/nesa/curriculum/tas/graphics-technology-7-10-2019",
+      "use": "GT5 outcome wording and Graphics Technology content for the selected current/default pathway"
+    },
+    {
+      "source_id": "wwhs-year-10-assessment-booklet-2026",
+      "authority": "current official WWHS cohort assessment handbook",
+      "title": "Year 10 Assessment Booklet 2026",
+      "location": "https://sites.google.com/education.nsw.gov.au/wwhsstudentparentinformation/curriculum-information/assessment-handbooks",
+      "verified_date": "2026-08-30",
+      "relevant_page": "PDF page 24, printed Contents Page 24",
+      "local_proof": "../stage-12/source-proof/year-10-assessment-booklet-2026.pdf",
+      "sha256": "caf9671e8d0e734c425bcde1562607aa6abe3e285c63a90840f8cf986b509185",
+      "use": "Confirmed current 2026 schedule: Term 1 Week 10 Graphic Design and Communication 35%; Term 2 Week 8 Architectural Drawing 35%; Term 4 Week 3 Engineering Drawing 30%; total 100%; Student Negotiated Project is not a separate weighted formal task."
+    },
+    {
+      "source_id": "teacher-source-m01",
+      "authority": "authorised teacher masters and current project records",
+      "title": "Teacher-source boundary for Graphic Design & Communication",
+      "location": "Recorded without private Drive identifiers in source-map-v1.json",
+      "use": "Module context, current approved examples and teacher-controlled technical boundaries"
+    },
+    {
+      "source_id": "teacher-source-m02",
+      "authority": "authorised teacher masters and current project records",
+      "title": "Teacher-source boundary for Architectural Drawing",
+      "location": "Recorded without private Drive identifiers in source-map-v1.json",
+      "use": "Module context, current approved examples and teacher-controlled technical boundaries"
+    },
+    {
+      "source_id": "teacher-source-m03",
+      "authority": "authorised teacher masters and current project records",
+      "title": "Teacher-source boundary for Engineering Drawing",
+      "location": "Recorded without private Drive identifiers in source-map-v1.json",
+      "use": "Module context, current approved examples and teacher-controlled technical boundaries"
+    },
+    {
+      "source_id": "teacher-source-m04",
+      "authority": "authorised teacher masters and current project records",
+      "title": "Teacher-source boundary for Student Negotiated Project",
+      "location": "Recorded without private Drive identifiers in source-map-v1.json",
+      "use": "Module context, current approved examples and teacher-controlled technical boundaries"
+    },
+    {
+      "source_id": "stage-13-integrated-course",
+      "authority": "integrated local course candidate; delivery evidence, not curriculum authority",
+      "title": "Year 10 Graphics Technology Stage 13 integrated baseline",
+      "location": "../stage-13/integration-manifest.json",
+      "sha256": "2d8746100fbe12a672fc37c3beb7a0ea5ab96216322209809e462021cc838a7c",
+      "use": "Exact routes, section packages, activities, puzzles, folio, assessment boundaries and teacher resources"
+    }
+  ],
+  "site_mapping": [
+    {
+      "site_id": "site-m01-presentation",
+      "route": "modules/module-01.html",
+      "audience": "teacher/student",
+      "purpose": "Module 1 presentation",
+      "module_id": "m01",
+      "anchor": "m01-presentation"
+    },
+    {
+      "site_id": "site-m01-puzzle",
+      "route": "puzzles.html",
+      "audience": "student",
+      "purpose": "Module 1 retrieval puzzle",
+      "module_id": "m01",
+      "anchor": "pzl-m01-graphics-connections-v1"
+    },
+    {
+      "site_id": "site-m01-review",
+      "route": "modules/module-01.html",
+      "audience": "student",
+      "purpose": "Module 1 review links",
+      "module_id": "m01",
+      "anchor": "m01-review"
+    },
+    {
+      "site_id": "site-m01-assessment",
+      "route": "assessment.html",
+      "audience": "teacher/student",
+      "purpose": "Current 2026 schedule: Graphic Design and Communication, Term 1 Week 10, 35%; draft notification requires teacher approval.",
+      "module_id": "m01"
+    },
+    {
+      "site_id": "site-m01s01-theory",
+      "route": "modules/module-01.html",
+      "audience": "student",
+      "purpose": "Theory: Safety signs and visual conventions",
+      "module_id": "m01",
+      "anchor": "m01s01",
+      "section_id": "m01s01"
+    },
+    {
+      "site_id": "site-m01s01-visual",
+      "route": "modules/module-01.html",
+      "audience": "student",
+      "purpose": "Three purposeful section visuals: Safety signs and visual conventions",
+      "module_id": "m01",
+      "anchor": "m01s01",
+      "section_id": "m01s01"
+    },
+    {
+      "site_id": "site-m01s01-check",
+      "route": "modules/module-01.html",
+      "audience": "student",
+      "purpose": "Ten MCQs and one capstone: Safety signs and visual conventions",
+      "module_id": "m01",
+      "anchor": "m01s01-check",
+      "section_id": "m01s01"
+    },
+    {
+      "site_id": "site-m01s01-activity",
+      "route": "activities.html",
+      "audience": "student",
+      "purpose": "Applied Learning Activity: Safety signs and visual conventions",
+      "module_id": "m01",
+      "anchor": "ala-m01s01-context-before-colour-v1",
+      "section_id": "m01s01"
+    },
+    {
+      "site_id": "site-m01s01-media",
+      "route": "videos.html",
+      "audience": "student",
+      "purpose": "Verified media or complete non-video pathway: Safety signs and visual conventions",
+      "module_id": "m01",
+      "anchor": "media-m01s01",
+      "section_id": "m01s01"
+    },
+    {
+      "site_id": "site-m01s01-folio",
+      "route": "folio.html",
+      "audience": "student",
+      "purpose": "Selected folio evidence: Safety signs and visual conventions",
+      "module_id": "m01",
+      "anchor": "folio-m01-communication-context",
+      "section_id": "m01s01"
+    },
+    {
+      "site_id": "site-m01s02-theory",
+      "route": "modules/module-01.html",
+      "audience": "student",
+      "purpose": "Theory: Vector graphics and Illustrator workflows",
+      "module_id": "m01",
+      "anchor": "m01s02",
+      "section_id": "m01s02"
+    },
+    {
+      "site_id": "site-m01s02-visual",
+      "route": "modules/module-01.html",
+      "audience": "student",
+      "purpose": "Three purposeful section visuals: Vector graphics and Illustrator workflows",
+      "module_id": "m01",
+      "anchor": "m01s02",
+      "section_id": "m01s02"
+    },
+    {
+      "site_id": "site-m01s02-check",
+      "route": "modules/module-01.html",
+      "audience": "student",
+      "purpose": "Ten MCQs and one capstone: Vector graphics and Illustrator workflows",
+      "module_id": "m01",
+      "anchor": "m01s02-check",
+      "section_id": "m01s02"
+    },
+    {
+      "site_id": "site-m01s02-activity",
+      "route": "activities.html",
+      "audience": "student",
+      "purpose": "Applied Learning Activity: Vector graphics and Illustrator workflows",
+      "module_id": "m01",
+      "anchor": "ala-m01s02-vector-workflow-repair-v1",
+      "section_id": "m01s02"
+    },
+    {
+      "site_id": "site-m01s02-media",
+      "route": "videos.html",
+      "audience": "student",
+      "purpose": "Verified media or complete non-video pathway: Vector graphics and Illustrator workflows",
+      "module_id": "m01",
+      "anchor": "media-m01s02",
+      "section_id": "m01s02"
+    },
+    {
+      "site_id": "site-m01s02-folio",
+      "route": "folio.html",
+      "audience": "student",
+      "purpose": "Selected folio evidence: Vector graphics and Illustrator workflows",
+      "module_id": "m01",
+      "anchor": "folio-m01-vector-development",
+      "section_id": "m01s02"
+    },
+    {
+      "site_id": "site-m01s03-theory",
+      "route": "modules/module-01.html",
+      "audience": "student",
+      "purpose": "Theory: Design principles, audience, culture and intellectual property",
+      "module_id": "m01",
+      "anchor": "m01s03",
+      "section_id": "m01s03"
+    },
+    {
+      "site_id": "site-m01s03-visual",
+      "route": "modules/module-01.html",
+      "audience": "student",
+      "purpose": "Three purposeful section visuals: Design principles, audience, culture and intellectual property",
+      "module_id": "m01",
+      "anchor": "m01s03",
+      "section_id": "m01s03"
+    },
+    {
+      "site_id": "site-m01s03-check",
+      "route": "modules/module-01.html",
+      "audience": "student",
+      "purpose": "Ten MCQs and one capstone: Design principles, audience, culture and intellectual property",
+      "module_id": "m01",
+      "anchor": "m01s03-check",
+      "section_id": "m01s03"
+    },
+    {
+      "site_id": "site-m01s03-activity",
+      "route": "activities.html",
+      "audience": "student",
+      "purpose": "Applied Learning Activity: Design principles, audience, culture and intellectual property",
+      "module_id": "m01",
+      "anchor": "ala-m01s03-design-rights-decision-lab-v1",
+      "section_id": "m01s03"
+    },
+    {
+      "site_id": "site-m01s03-media",
+      "route": "videos.html",
+      "audience": "student",
+      "purpose": "Verified media or complete non-video pathway: Design principles, audience, culture and intellectual property",
+      "module_id": "m01",
+      "anchor": "media-m01s03",
+      "section_id": "m01s03"
+    },
+    {
+      "site_id": "site-m01s03-folio",
+      "route": "folio.html",
+      "audience": "student",
+      "purpose": "Selected folio evidence: Design principles, audience, culture and intellectual property",
+      "module_id": "m01",
+      "anchor": "folio-m01-audience-rights",
+      "section_id": "m01s03"
+    },
+    {
+      "site_id": "site-m02-presentation",
+      "route": "modules/module-02.html",
+      "audience": "teacher/student",
+      "purpose": "Module 2 presentation",
+      "module_id": "m02",
+      "anchor": "m02-presentation"
+    },
+    {
+      "site_id": "site-m02-puzzle",
+      "route": "puzzles.html",
+      "audience": "student",
+      "purpose": "Module 2 retrieval puzzle",
+      "module_id": "m02",
+      "anchor": "pzl-m02-one-building-five-views-v1"
+    },
+    {
+      "site_id": "site-m02-review",
+      "route": "modules/module-02.html",
+      "audience": "student",
+      "purpose": "Module 2 review links",
+      "module_id": "m02",
+      "anchor": "m02-review"
+    },
+    {
+      "site_id": "site-m02-assessment",
+      "route": "assessment.html",
+      "audience": "teacher/student",
+      "purpose": "Current 2026 schedule: Architectural Drawing, Term 2 Week 8, 35%; exact date, criteria and submission remain Teacher to confirm.",
+      "module_id": "m02"
+    },
+    {
+      "site_id": "site-m02s01-theory",
+      "route": "modules/module-02.html",
+      "audience": "student",
+      "purpose": "Theory: Spatial planning and architectural research",
+      "module_id": "m02",
+      "anchor": "m02s01",
+      "section_id": "m02s01"
+    },
+    {
+      "site_id": "site-m02s01-visual",
+      "route": "modules/module-02.html",
+      "audience": "student",
+      "purpose": "Three purposeful section visuals: Spatial planning and architectural research",
+      "module_id": "m02",
+      "anchor": "m02s01",
+      "section_id": "m02s01"
+    },
+    {
+      "site_id": "site-m02s01-check",
+      "route": "modules/module-02.html",
+      "audience": "student",
+      "purpose": "Ten MCQs and one capstone: Spatial planning and architectural research",
+      "module_id": "m02",
+      "anchor": "m02s01-check",
+      "section_id": "m02s01"
+    },
+    {
+      "site_id": "site-m02s01-activity",
+      "route": "activities.html",
+      "audience": "student",
+      "purpose": "Applied Learning Activity: Spatial planning and architectural research",
+      "module_id": "m02",
+      "anchor": "ala-m02s01-spatial-relationship-studio-v1",
+      "section_id": "m02s01"
+    },
+    {
+      "site_id": "site-m02s01-media",
+      "route": "videos.html",
+      "audience": "student",
+      "purpose": "Verified media or complete non-video pathway: Spatial planning and architectural research",
+      "module_id": "m02",
+      "anchor": "media-m02s01",
+      "section_id": "m02s01"
+    },
+    {
+      "site_id": "site-m02s01-folio",
+      "route": "folio.html",
+      "audience": "student",
+      "purpose": "Selected folio evidence: Spatial planning and architectural research",
+      "module_id": "m02",
+      "anchor": "folio-m02-spatial-relationships",
+      "section_id": "m02s01"
+    },
+    {
+      "site_id": "site-m02s02-theory",
+      "route": "modules/module-02.html",
+      "audience": "student",
+      "purpose": "Theory: CAD drafting, drawing views and conventions",
+      "module_id": "m02",
+      "anchor": "m02s02",
+      "section_id": "m02s02"
+    },
+    {
+      "site_id": "site-m02s02-visual",
+      "route": "modules/module-02.html",
+      "audience": "student",
+      "purpose": "Three purposeful section visuals: CAD drafting, drawing views and conventions",
+      "module_id": "m02",
+      "anchor": "m02s02",
+      "section_id": "m02s02"
+    },
+    {
+      "site_id": "site-m02s02-check",
+      "route": "modules/module-02.html",
+      "audience": "student",
+      "purpose": "Ten MCQs and one capstone: CAD drafting, drawing views and conventions",
+      "module_id": "m02",
+      "anchor": "m02s02-check",
+      "section_id": "m02s02"
+    },
+    {
+      "site_id": "site-m02s02-activity",
+      "route": "activities.html",
+      "audience": "student",
+      "purpose": "Applied Learning Activity: CAD drafting, drawing views and conventions",
+      "module_id": "m02",
+      "anchor": "ala-m02s02-cross-view-detective-v1",
+      "section_id": "m02s02"
+    },
+    {
+      "site_id": "site-m02s02-media",
+      "route": "videos.html",
+      "audience": "student",
+      "purpose": "Verified media or complete non-video pathway: CAD drafting, drawing views and conventions",
+      "module_id": "m02",
+      "anchor": "media-m02s02",
+      "section_id": "m02s02"
+    },
+    {
+      "site_id": "site-m02s02-folio",
+      "route": "folio.html",
+      "audience": "student",
+      "purpose": "Selected folio evidence: CAD drafting, drawing views and conventions",
+      "module_id": "m02",
+      "anchor": "folio-m02-coordinated-views",
+      "section_id": "m02s02"
+    },
+    {
+      "site_id": "site-m02s03-theory",
+      "route": "modules/module-02.html",
+      "audience": "student",
+      "purpose": "Theory: Sustainability, building context and professional roles",
+      "module_id": "m02",
+      "anchor": "m02s03",
+      "section_id": "m02s03"
+    },
+    {
+      "site_id": "site-m02s03-visual",
+      "route": "modules/module-02.html",
+      "audience": "student",
+      "purpose": "Three purposeful section visuals: Sustainability, building context and professional roles",
+      "module_id": "m02",
+      "anchor": "m02s03",
+      "section_id": "m02s03"
+    },
+    {
+      "site_id": "site-m02s03-check",
+      "route": "modules/module-02.html",
+      "audience": "student",
+      "purpose": "Ten MCQs and one capstone: Sustainability, building context and professional roles",
+      "module_id": "m02",
+      "anchor": "m02s03-check",
+      "section_id": "m02s03"
+    },
+    {
+      "site_id": "site-m02s03-activity",
+      "route": "activities.html",
+      "audience": "student",
+      "purpose": "Applied Learning Activity: Sustainability, building context and professional roles",
+      "module_id": "m02",
+      "anchor": "ala-m02s03-coordination-ripple-map-v1",
+      "section_id": "m02s03"
+    },
+    {
+      "site_id": "site-m02s03-media",
+      "route": "videos.html",
+      "audience": "student",
+      "purpose": "Verified media or complete non-video pathway: Sustainability, building context and professional roles",
+      "module_id": "m02",
+      "anchor": "media-m02s03",
+      "section_id": "m02s03"
+    },
+    {
+      "site_id": "site-m02s03-folio",
+      "route": "folio.html",
+      "audience": "student",
+      "purpose": "Selected folio evidence: Sustainability, building context and professional roles",
+      "module_id": "m02",
+      "anchor": "folio-m02-site-sustainability",
+      "section_id": "m02s03"
+    },
+    {
+      "site_id": "site-m03-presentation",
+      "route": "modules/module-03.html",
+      "audience": "teacher/student",
+      "purpose": "Module 3 presentation",
+      "module_id": "m03",
+      "anchor": "m03-presentation"
+    },
+    {
+      "site_id": "site-m03-puzzle",
+      "route": "puzzles.html",
+      "audience": "student",
+      "purpose": "Module 3 retrieval puzzle",
+      "module_id": "m03",
+      "anchor": "pzl-m03-engineering-evidence-vault-v1"
+    },
+    {
+      "site_id": "site-m03-review",
+      "route": "modules/module-03.html",
+      "audience": "student",
+      "purpose": "Module 3 review links",
+      "module_id": "m03",
+      "anchor": "m03-review"
+    },
+    {
+      "site_id": "site-m03-assessment",
+      "route": "assessment.html",
+      "audience": "teacher/student",
+      "purpose": "Current 2026 schedule: Engineering Drawing, Term 4 Week 3, 30%; the learning block occurs earlier and the exact date/issued conditions remain Teacher to confirm.",
+      "module_id": "m03"
+    },
+    {
+      "site_id": "site-m03s01-theory",
+      "route": "modules/module-03.html",
+      "audience": "student",
+      "purpose": "Theory: Projection systems and freehand communication",
+      "module_id": "m03",
+      "anchor": "m03s01",
+      "section_id": "m03s01"
+    },
+    {
+      "site_id": "site-m03s01-visual",
+      "route": "modules/module-03.html",
+      "audience": "student",
+      "purpose": "Three purposeful section visuals: Projection systems and freehand communication",
+      "module_id": "m03",
+      "anchor": "m03s01",
+      "section_id": "m03s01"
+    },
+    {
+      "site_id": "site-m03s01-check",
+      "route": "modules/module-03.html",
+      "audience": "student",
+      "purpose": "Ten MCQs and one capstone: Projection systems and freehand communication",
+      "module_id": "m03",
+      "anchor": "m03s01-check",
+      "section_id": "m03s01"
+    },
+    {
+      "site_id": "site-m03s01-activity",
+      "route": "activities.html",
+      "audience": "student",
+      "purpose": "Applied Learning Activity: Projection systems and freehand communication",
+      "module_id": "m03",
+      "anchor": "ala-m03s01-projection-choice-workshop-v1",
+      "section_id": "m03s01"
+    },
+    {
+      "site_id": "site-m03s01-media",
+      "route": "videos.html",
+      "audience": "student",
+      "purpose": "Verified media or complete non-video pathway: Projection systems and freehand communication",
+      "module_id": "m03",
+      "anchor": "media-m03s01",
+      "section_id": "m03s01"
+    },
+    {
+      "site_id": "site-m03s01-folio",
+      "route": "folio.html",
+      "audience": "student",
+      "purpose": "Selected folio evidence: Projection systems and freehand communication",
+      "module_id": "m03",
+      "anchor": "folio-m03-projection-source",
+      "section_id": "m03s01"
+    },
+    {
+      "site_id": "site-m03s02-theory",
+      "route": "modules/module-03.html",
+      "audience": "student",
+      "purpose": "Theory: CAD modelling, materials and manufacturing",
+      "module_id": "m03",
+      "anchor": "m03s02",
+      "section_id": "m03s02"
+    },
+    {
+      "site_id": "site-m03s02-visual",
+      "route": "modules/module-03.html",
+      "audience": "student",
+      "purpose": "Three purposeful section visuals: CAD modelling, materials and manufacturing",
+      "module_id": "m03",
+      "anchor": "m03s02",
+      "section_id": "m03s02"
+    },
+    {
+      "site_id": "site-m03s02-check",
+      "route": "modules/module-03.html",
+      "audience": "student",
+      "purpose": "Ten MCQs and one capstone: CAD modelling, materials and manufacturing",
+      "module_id": "m03",
+      "anchor": "m03s02-check",
+      "section_id": "m03s02"
+    },
+    {
+      "site_id": "site-m03s02-activity",
+      "route": "activities.html",
+      "audience": "student",
+      "purpose": "Applied Learning Activity: CAD modelling, materials and manufacturing",
+      "module_id": "m03",
+      "anchor": "ala-m03s02-design-intent-dependency-test-v1",
+      "section_id": "m03s02"
+    },
+    {
+      "site_id": "site-m03s02-media",
+      "route": "videos.html",
+      "audience": "student",
+      "purpose": "Verified media or complete non-video pathway: CAD modelling, materials and manufacturing",
+      "module_id": "m03",
+      "anchor": "media-m03s02",
+      "section_id": "m03s02"
+    },
+    {
+      "site_id": "site-m03s02-folio",
+      "route": "folio.html",
+      "audience": "student",
+      "purpose": "Selected folio evidence: CAD modelling, materials and manufacturing",
+      "module_id": "m03",
+      "anchor": "folio-m03-model-intent",
+      "section_id": "m03s02"
+    },
+    {
+      "site_id": "site-m03s03-theory",
+      "route": "modules/module-03.html",
+      "audience": "student",
+      "purpose": "Theory: Dimensioning, standards, assemblies and animation",
+      "module_id": "m03",
+      "anchor": "m03s03",
+      "section_id": "m03s03"
+    },
+    {
+      "site_id": "site-m03s03-visual",
+      "route": "modules/module-03.html",
+      "audience": "student",
+      "purpose": "Three purposeful section visuals: Dimensioning, standards, assemblies and animation",
+      "module_id": "m03",
+      "anchor": "m03s03",
+      "section_id": "m03s03"
+    },
+    {
+      "site_id": "site-m03s03-check",
+      "route": "modules/module-03.html",
+      "audience": "student",
+      "purpose": "Ten MCQs and one capstone: Dimensioning, standards, assemblies and animation",
+      "module_id": "m03",
+      "anchor": "m03s03-check",
+      "section_id": "m03s03"
+    },
+    {
+      "site_id": "site-m03s03-activity",
+      "route": "activities.html",
+      "audience": "student",
+      "purpose": "Applied Learning Activity: Dimensioning, standards, assemblies and animation",
+      "module_id": "m03",
+      "anchor": "ala-m03s03-drawing-release-audit-v1",
+      "section_id": "m03s03"
+    },
+    {
+      "site_id": "site-m03s03-media",
+      "route": "videos.html",
+      "audience": "student",
+      "purpose": "Verified media or complete non-video pathway: Dimensioning, standards, assemblies and animation",
+      "module_id": "m03",
+      "anchor": "media-m03s03",
+      "section_id": "m03s03"
+    },
+    {
+      "site_id": "site-m03s03-folio",
+      "route": "folio.html",
+      "audience": "student",
+      "purpose": "Selected folio evidence: Dimensioning, standards, assemblies and animation",
+      "module_id": "m03",
+      "anchor": "folio-m03-release-check",
+      "section_id": "m03s03"
+    },
+    {
+      "site_id": "site-m04-presentation",
+      "route": "modules/module-04.html",
+      "audience": "teacher/student",
+      "purpose": "Module 4 presentation",
+      "module_id": "m04",
+      "anchor": "m04-presentation"
+    },
+    {
+      "site_id": "site-m04-puzzle",
+      "route": "puzzles.html",
+      "audience": "student",
+      "purpose": "Module 4 retrieval puzzle",
+      "module_id": "m04",
+      "anchor": "pzl-m04-project-evidence-path-v1"
+    },
+    {
+      "site_id": "site-m04-review",
+      "route": "modules/module-04.html",
+      "audience": "student",
+      "purpose": "Module 4 review links",
+      "module_id": "m04",
+      "anchor": "m04-review"
+    },
+    {
+      "site_id": "site-m04-assessment",
+      "route": "assessment.html",
+      "audience": "teacher/student",
+      "purpose": "Learning/project context only in the current 2026 handbook: not a separate scheduled weighted formal task.",
+      "module_id": "m04"
+    },
+    {
+      "site_id": "site-m04s01-theory",
+      "route": "modules/module-04.html",
+      "audience": "student",
+      "purpose": "Theory: Brief, audience, criteria and constraints",
+      "module_id": "m04",
+      "anchor": "m04s01",
+      "section_id": "m04s01"
+    },
+    {
+      "site_id": "site-m04s01-visual",
+      "route": "modules/module-04.html",
+      "audience": "student",
+      "purpose": "Three purposeful section visuals: Brief, audience, criteria and constraints",
+      "module_id": "m04",
+      "anchor": "m04s01",
+      "section_id": "m04s01"
+    },
+    {
+      "site_id": "site-m04s01-check",
+      "route": "modules/module-04.html",
+      "audience": "student",
+      "purpose": "Ten MCQs and one capstone: Brief, audience, criteria and constraints",
+      "module_id": "m04",
+      "anchor": "m04s01-check",
+      "section_id": "m04s01"
+    },
+    {
+      "site_id": "site-m04s01-activity",
+      "route": "activities.html",
+      "audience": "student",
+      "purpose": "Applied Learning Activity: Brief, audience, criteria and constraints",
+      "module_id": "m04",
+      "anchor": "ala-m04s01-brief-refinery-v1",
+      "section_id": "m04s01"
+    },
+    {
+      "site_id": "site-m04s01-media",
+      "route": "videos.html",
+      "audience": "student",
+      "purpose": "Verified media or complete non-video pathway: Brief, audience, criteria and constraints",
+      "module_id": "m04",
+      "anchor": "media-m04s01",
+      "section_id": "m04s01"
+    },
+    {
+      "site_id": "site-m04s01-folio",
+      "route": "folio.html",
+      "audience": "student",
+      "purpose": "Selected folio evidence: Brief, audience, criteria and constraints",
+      "module_id": "m04",
+      "anchor": "folio-m04-approved-brief",
+      "section_id": "m04s01"
+    },
+    {
+      "site_id": "site-m04s02-theory",
+      "route": "modules/module-04.html",
+      "audience": "student",
+      "purpose": "Theory: Ideation, project management and digital development",
+      "module_id": "m04",
+      "anchor": "m04s02",
+      "section_id": "m04s02"
+    },
+    {
+      "site_id": "site-m04s02-visual",
+      "route": "modules/module-04.html",
+      "audience": "student",
+      "purpose": "Three purposeful section visuals: Ideation, project management and digital development",
+      "module_id": "m04",
+      "anchor": "m04s02",
+      "section_id": "m04s02"
+    },
+    {
+      "site_id": "site-m04s02-check",
+      "route": "modules/module-04.html",
+      "audience": "student",
+      "purpose": "Ten MCQs and one capstone: Ideation, project management and digital development",
+      "module_id": "m04",
+      "anchor": "m04s02-check",
+      "section_id": "m04s02"
+    },
+    {
+      "site_id": "site-m04s02-activity",
+      "route": "activities.html",
+      "audience": "student",
+      "purpose": "Applied Learning Activity: Ideation, project management and digital development",
+      "module_id": "m04",
+      "anchor": "ala-m04s02-scope-rescue-board-v1",
+      "section_id": "m04s02"
+    },
+    {
+      "site_id": "site-m04s02-media",
+      "route": "videos.html",
+      "audience": "student",
+      "purpose": "Verified media or complete non-video pathway: Ideation, project management and digital development",
+      "module_id": "m04",
+      "anchor": "media-m04s02",
+      "section_id": "m04s02"
+    },
+    {
+      "site_id": "site-m04s02-folio",
+      "route": "folio.html",
+      "audience": "student",
+      "purpose": "Selected folio evidence: Ideation, project management and digital development",
+      "module_id": "m04",
+      "anchor": "folio-m04-development-trail",
+      "section_id": "m04s02"
+    },
+    {
+      "site_id": "site-m04s03-theory",
+      "route": "modules/module-04.html",
+      "audience": "student",
+      "purpose": "Theory: Presentation, feedback and evaluation",
+      "module_id": "m04",
+      "anchor": "m04s03",
+      "section_id": "m04s03"
+    },
+    {
+      "site_id": "site-m04s03-visual",
+      "route": "modules/module-04.html",
+      "audience": "student",
+      "purpose": "Three purposeful section visuals: Presentation, feedback and evaluation",
+      "module_id": "m04",
+      "anchor": "m04s03",
+      "section_id": "m04s03"
+    },
+    {
+      "site_id": "site-m04s03-check",
+      "route": "modules/module-04.html",
+      "audience": "student",
+      "purpose": "Ten MCQs and one capstone: Presentation, feedback and evaluation",
+      "module_id": "m04",
+      "anchor": "m04s03-check",
+      "section_id": "m04s03"
+    },
+    {
+      "site_id": "site-m04s03-activity",
+      "route": "activities.html",
+      "audience": "student",
+      "purpose": "Applied Learning Activity: Presentation, feedback and evaluation",
+      "module_id": "m04",
+      "anchor": "ala-m04s03-evidence-evaluation-studio-v1",
+      "section_id": "m04s03"
+    },
+    {
+      "site_id": "site-m04s03-media",
+      "route": "videos.html",
+      "audience": "student",
+      "purpose": "Verified media or complete non-video pathway: Presentation, feedback and evaluation",
+      "module_id": "m04",
+      "anchor": "media-m04s03",
+      "section_id": "m04s03"
+    },
+    {
+      "site_id": "site-m04s03-folio",
+      "route": "folio.html",
+      "audience": "student",
+      "purpose": "Selected folio evidence: Presentation, feedback and evaluation",
+      "module_id": "m04",
+      "anchor": "folio-m04-presentation-evaluation",
+      "section_id": "m04s03"
+    }
+  ],
+  "delivery_register": {
+    "status": "blank-ready before delivery; editable XLSX bound in files",
+    "delivery_model": "36 ordered program sequence points across four term modules; actual timetable periods/hours are Teacher to confirm",
+    "entries": [
+      {
+        "period": "1",
+        "planned_focus": "Teach Safety signs and visual conventions through the named theory, module presentation, purposeful visuals and answerable media pathway.",
+        "site_ids": [
+          "site-m01-presentation",
+          "site-m01s01-theory",
+          "site-m01s01-visual",
+          "site-m01s01-media"
+        ],
+        "planned_evidence": "Teacher questioning and one visible observation linked to the theory.",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": "2",
+        "planned_focus": "Critique and refine a rights-safe sign communication using observed hierarchy, contrast, symbol and context evidence; follow current teacher instructions for any local safety content.",
+        "site_ids": [
+          "site-m01s01-activity",
+          "site-m01s01-theory"
+        ],
+        "planned_evidence": "Saved activity practice plus one drawing, model, critique or decision record; not automatically submitted.",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": "3",
+        "planned_focus": "Students check ten feedback-rich MCQs, draft the scaffolded capstone and select one purposeful folio record.",
+        "site_ids": [
+          "site-m01s01-check",
+          "site-m01s01-folio"
+        ],
+        "planned_evidence": "Ten checked MCQs, capstone text and selected folio evidence.",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": "4",
+        "planned_focus": "Teach Vector graphics and Illustrator workflows through the named theory, module presentation, purposeful visuals and answerable media pathway.",
+        "site_ids": [
+          "site-m01-presentation",
+          "site-m01s02-theory",
+          "site-m01s02-visual",
+          "site-m01s02-media"
+        ],
+        "planned_evidence": "Teacher questioning and one visible observation linked to the theory.",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": "5",
+        "planned_focus": "Construct and revise an editable vector graphic from teacher-approved geometry; check path economy, hierarchy, scale and export fitness without inventing submission formats.",
+        "site_ids": [
+          "site-m01s02-activity",
+          "site-m01s02-theory"
+        ],
+        "planned_evidence": "Saved activity practice plus one drawing, model, critique or decision record; not automatically submitted.",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": "6",
+        "planned_focus": "Students check ten feedback-rich MCQs, draft the scaffolded capstone and select one purposeful folio record.",
+        "site_ids": [
+          "site-m01s02-check",
+          "site-m01s02-folio"
+        ],
+        "planned_evidence": "Ten checked MCQs, capstone text and selected folio evidence.",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": "7",
+        "planned_focus": "Teach Design principles, audience, culture and intellectual property through the named theory, module presentation, purposeful visuals and answerable media pathway.",
+        "site_ids": [
+          "site-m01-presentation",
+          "site-m01s03-theory",
+          "site-m01s03-visual",
+          "site-m01s03-media"
+        ],
+        "planned_evidence": "Teacher questioning and one visible observation linked to the theory.",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": "8",
+        "planned_focus": "Develop and justify a rights-aware visual hierarchy for an intended audience; pause any cultural use until relevant authority and current guidance are established.",
+        "site_ids": [
+          "site-m01s03-activity",
+          "site-m01s03-theory"
+        ],
+        "planned_evidence": "Saved activity practice plus one drawing, model, critique or decision record; not automatically submitted.",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": "9",
+        "planned_focus": "Students check ten feedback-rich MCQs, draft the scaffolded capstone and select one purposeful folio record. Complete the module puzzle and review all three section packages; revisit the current assessment boundary.",
+        "site_ids": [
+          "site-m01s03-check",
+          "site-m01s03-folio",
+          "site-m01-puzzle",
+          "site-m01-review",
+          "site-m01-assessment"
+        ],
+        "planned_evidence": "Ten checked MCQs, capstone text and selected folio evidence. Current 2026 schedule: Graphic Design and Communication, Term 1 Week 10, 35%; draft notification requires teacher approval.",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": "10",
+        "planned_focus": "Teach Spatial planning and architectural research through the named theory, module presentation, purposeful visuals and answerable media pathway.",
+        "site_ids": [
+          "site-m02-presentation",
+          "site-m02s01-theory",
+          "site-m02s01-visual",
+          "site-m02s01-media"
+        ],
+        "planned_evidence": "Teacher questioning and one visible observation linked to the theory.",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": "11",
+        "planned_focus": "Translate the approved brief into zones, adjacencies and circulation alternatives; adapt a traceable precedent principle without copying appearance or inventing dimensions.",
+        "site_ids": [
+          "site-m02s01-activity",
+          "site-m02s01-theory"
+        ],
+        "planned_evidence": "Saved activity practice plus one drawing, model, critique or decision record; not automatically submitted.",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": "12",
+        "planned_focus": "Students check ten feedback-rich MCQs, draft the scaffolded capstone and select one purposeful folio record.",
+        "site_ids": [
+          "site-m02s01-check",
+          "site-m02s01-folio"
+        ],
+        "planned_evidence": "Ten checked MCQs, capstone text and selected folio evidence.",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": "13",
+        "planned_focus": "Teach CAD drafting, drawing views and conventions through the named theory, module presentation, purposeful visuals and answerable media pathway.",
+        "site_ids": [
+          "site-m02-presentation",
+          "site-m02s02-theory",
+          "site-m02s02-visual",
+          "site-m02s02-media"
+        ],
+        "planned_evidence": "Teacher questioning and one visible observation linked to the theory.",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": "14",
+        "planned_focus": "Build or revise coordinated CAD views from the current teacher source set; cross-check one feature across plan, elevation, section, site and detail evidence.",
+        "site_ids": [
+          "site-m02s02-activity",
+          "site-m02s02-theory"
+        ],
+        "planned_evidence": "Saved activity practice plus one drawing, model, critique or decision record; not automatically submitted.",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": "15",
+        "planned_focus": "Students check ten feedback-rich MCQs, draft the scaffolded capstone and select one purposeful folio record.",
+        "site_ids": [
+          "site-m02s02-check",
+          "site-m02s02-folio"
+        ],
+        "planned_evidence": "Ten checked MCQs, capstone text and selected folio evidence.",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": "16",
+        "planned_focus": "Teach Sustainability, building context and professional roles through the named theory, module presentation, purposeful visuals and answerable media pathway.",
+        "site_ids": [
+          "site-m02-presentation",
+          "site-m02s03-theory",
+          "site-m02s03-visual",
+          "site-m02s03-media"
+        ],
+        "planned_evidence": "Teacher questioning and one visible observation linked to the theory.",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": "17",
+        "planned_focus": "Coordinate a bounded sustainability or building-context claim against site and drawing evidence; identify which professional or current authority must confirm any stronger claim.",
+        "site_ids": [
+          "site-m02s03-activity",
+          "site-m02s03-theory"
+        ],
+        "planned_evidence": "Saved activity practice plus one drawing, model, critique or decision record; not automatically submitted.",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": "18",
+        "planned_focus": "Students check ten feedback-rich MCQs, draft the scaffolded capstone and select one purposeful folio record. Complete the module puzzle and review all three section packages; revisit the current assessment boundary.",
+        "site_ids": [
+          "site-m02s03-check",
+          "site-m02s03-folio",
+          "site-m02-puzzle",
+          "site-m02-review",
+          "site-m02-assessment"
+        ],
+        "planned_evidence": "Ten checked MCQs, capstone text and selected folio evidence. Current 2026 schedule: Architectural Drawing, Term 2 Week 8, 35%; exact date, criteria and submission remain Teacher to confirm.",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": "19",
+        "planned_focus": "Teach Projection systems and freehand communication through the named theory, module presentation, purposeful visuals and answerable media pathway.",
+        "site_ids": [
+          "site-m03-presentation",
+          "site-m03s01-theory",
+          "site-m03s01-visual",
+          "site-m03s01-media"
+        ],
+        "planned_evidence": "Teacher questioning and one visible observation linked to the theory.",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": "20",
+        "planned_focus": "Produce a disciplined freehand view set for a teacher-approved component; preserve proportion and alignment, and do not estimate controlled dimensions.",
+        "site_ids": [
+          "site-m03s01-activity",
+          "site-m03s01-theory"
+        ],
+        "planned_evidence": "Saved activity practice plus one drawing, model, critique or decision record; not automatically submitted.",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": "21",
+        "planned_focus": "Students check ten feedback-rich MCQs, draft the scaffolded capstone and select one purposeful folio record.",
+        "site_ids": [
+          "site-m03s01-check",
+          "site-m03s01-folio"
+        ],
+        "planned_evidence": "Ten checked MCQs, capstone text and selected folio evidence.",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": "22",
+        "planned_focus": "Teach CAD modelling, materials and manufacturing through the named theory, module presentation, purposeful visuals and answerable media pathway.",
+        "site_ids": [
+          "site-m03-presentation",
+          "site-m03s02-theory",
+          "site-m03s02-visual",
+          "site-m03s02-media"
+        ],
+        "planned_evidence": "Teacher questioning and one visible observation linked to the theory.",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": "23",
+        "planned_focus": "Model an authorised component relationship and test a controlled parameter change; describe only what the digital dependency and visible geometry demonstrate.",
+        "site_ids": [
+          "site-m03s02-activity",
+          "site-m03s02-theory"
+        ],
+        "planned_evidence": "Saved activity practice plus one drawing, model, critique or decision record; not automatically submitted.",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": "24",
+        "planned_focus": "Students check ten feedback-rich MCQs, draft the scaffolded capstone and select one purposeful folio record.",
+        "site_ids": [
+          "site-m03s02-check",
+          "site-m03s02-folio"
+        ],
+        "planned_evidence": "Ten checked MCQs, capstone text and selected folio evidence.",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": "25",
+        "planned_focus": "Teach Dimensioning, standards, assemblies and animation through the named theory, module presentation, purposeful visuals and answerable media pathway.",
+        "site_ids": [
+          "site-m03-presentation",
+          "site-m03s03-theory",
+          "site-m03s03-visual",
+          "site-m03s03-media"
+        ],
+        "planned_evidence": "Teacher questioning and one visible observation linked to the theory.",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": "26",
+        "planned_focus": "Audit a part-drawing, assembly and digital-motion package against the supplied source; hold unsupported values or symbols and state the limits of the evidence.",
+        "site_ids": [
+          "site-m03s03-activity",
+          "site-m03s03-theory"
+        ],
+        "planned_evidence": "Saved activity practice plus one drawing, model, critique or decision record; not automatically submitted.",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": "27",
+        "planned_focus": "Students check ten feedback-rich MCQs, draft the scaffolded capstone and select one purposeful folio record. Complete the module puzzle and review all three section packages; revisit the current assessment boundary.",
+        "site_ids": [
+          "site-m03s03-check",
+          "site-m03s03-folio",
+          "site-m03-puzzle",
+          "site-m03-review",
+          "site-m03-assessment"
+        ],
+        "planned_evidence": "Ten checked MCQs, capstone text and selected folio evidence. Current 2026 schedule: Engineering Drawing, Term 4 Week 3, 30%; the learning block occurs earlier and the exact date/issued conditions remain Teacher to confirm.",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": "28",
+        "planned_focus": "Teach Brief, audience, criteria and constraints through the named theory, module presentation, purposeful visuals and answerable media pathway.",
+        "site_ids": [
+          "site-m04-presentation",
+          "site-m04s01-theory",
+          "site-m04s01-visual",
+          "site-m04s01-media"
+        ],
+        "planned_evidence": "Teacher questioning and one visible observation linked to the theory.",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": "29",
+        "planned_focus": "Refine a teacher-approved graphics problem into audience, purpose, constraints, deliverables and observable criteria; keep unresolved approval conditions visible.",
+        "site_ids": [
+          "site-m04s01-activity",
+          "site-m04s01-theory"
+        ],
+        "planned_evidence": "Saved activity practice plus one drawing, model, critique or decision record; not automatically submitted.",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": "30",
+        "planned_focus": "Students check ten feedback-rich MCQs, draft the scaffolded capstone and select one purposeful folio record.",
+        "site_ids": [
+          "site-m04s01-check",
+          "site-m04s01-folio"
+        ],
+        "planned_evidence": "Ten checked MCQs, capstone text and selected folio evidence.",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": "31",
+        "planned_focus": "Teach Ideation, project management and digital development through the named theory, module presentation, purposeful visuals and answerable media pathway.",
+        "site_ids": [
+          "site-m04-presentation",
+          "site-m04s02-theory",
+          "site-m04s02-visual",
+          "site-m04s02-media"
+        ],
+        "planned_evidence": "Teacher questioning and one visible observation linked to the theory.",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": "32",
+        "planned_focus": "Generate distinct concepts, choose against the approved brief, plan milestones and recoverable versions, then record one significant revision and its evidence.",
+        "site_ids": [
+          "site-m04s02-activity",
+          "site-m04s02-theory"
+        ],
+        "planned_evidence": "Saved activity practice plus one drawing, model, critique or decision record; not automatically submitted.",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": "33",
+        "planned_focus": "Students check ten feedback-rich MCQs, draft the scaffolded capstone and select one purposeful folio record.",
+        "site_ids": [
+          "site-m04s02-check",
+          "site-m04s02-folio"
+        ],
+        "planned_evidence": "Ten checked MCQs, capstone text and selected folio evidence.",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": "34",
+        "planned_focus": "Teach Presentation, feedback and evaluation through the named theory, module presentation, purposeful visuals and answerable media pathway.",
+        "site_ids": [
+          "site-m04-presentation",
+          "site-m04s03-theory",
+          "site-m04s03-visual",
+          "site-m04s03-media"
+        ],
+        "planned_evidence": "Teacher questioning and one visible observation linked to the theory.",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": "35",
+        "planned_focus": "Select process and final evidence, ask criterion-linked feedback questions, and evaluate through claim, evidence, reasoning, limitation and next improvement.",
+        "site_ids": [
+          "site-m04s03-activity",
+          "site-m04s03-theory"
+        ],
+        "planned_evidence": "Saved activity practice plus one drawing, model, critique or decision record; not automatically submitted.",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": "36",
+        "planned_focus": "Students check ten feedback-rich MCQs, draft the scaffolded capstone and select one purposeful folio record. Complete the module puzzle and review all three section packages; revisit the current assessment boundary.",
+        "site_ids": [
+          "site-m04s03-check",
+          "site-m04s03-folio",
+          "site-m04-puzzle",
+          "site-m04-review",
+          "site-m04-assessment"
+        ],
+        "planned_evidence": "Ten checked MCQs, capstone text and selected folio evidence. Learning/project context only in the current 2026 handbook: not a separate scheduled weighted formal task.",
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      }
+    ]
+  },
+  "files": [
+    {
+      "path": "teacher-program-v1.0.0.docx",
+      "role": "editable-program",
+      "sha256": "885b38b51b4337cfeaea857d729cb8493d94c2aaa8236f254e96147e7784f205"
+    },
+    {
+      "path": "teacher-program-v1.0.0.pdf",
+      "role": "rendered-program",
+      "sha256": "cc296bb0169efdc03ec63a3b497a4ab1412e6ef799a707abf1468c94959f8d89"
+    },
+    {
+      "path": "teacher-program-site-map-v1.0.0.json",
+      "role": "site-map",
+      "sha256": "9389c45e82899831b416f21b39c8934aa2bc2aee50dc769a1be6ad513d5718b5"
+    },
+    {
+      "path": "delivery-register-v1.0.0.xlsx",
+      "role": "delivery-register",
+      "sha256": "b248b7be48e1eb5ebbf6b7d08051f80ef8d5732173176c0f1e6d432aa4a509e6"
+    },
+    {
+      "path": "program-sequence-v1.json",
+      "role": "program-sequence",
+      "sha256": "783e8393348e45ea16ebdbf8d84c95fd13362db7d7264624d6fc84dfc44d3a43"
+    }
+  ]
+}
