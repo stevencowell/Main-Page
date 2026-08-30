@@ -25,9 +25,9 @@
     "sha256": "2d8746100fbe12a672fc37c3beb7a0ea5ab96216322209809e462021cc838a7c",
     "site_candidate": {
       "tree_digest_algorithm": "sorted forward-slash relative-path<TAB>sha256<TAB>bytes plus final LF; UTF-8 SHA-256",
-      "sha256": "b3cc335fe244c9b6a0b20e4e323975b9f04ff6b138c80267b30c8414c34f22b3",
+      "sha256": "9eb34f21e5797cff3dc895ae3e65fda9f99b4b005a133f2ee6cc3dd994d8d0ae",
       "file_count": 72,
-      "bytes": 91577093
+      "bytes": 91577097
     }
   },
   "syllabus_basis": {
