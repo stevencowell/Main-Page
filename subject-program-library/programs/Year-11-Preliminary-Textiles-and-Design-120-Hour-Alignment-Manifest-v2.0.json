@@ -111,7 +111,7 @@
       "id": "SRC-NESA-SYL-2013-LIVE",
       "title": "Textiles and Design Stage 6 Syllabus (2013)",
       "authority": "official-syllabus",
-      "location": "C:\\Users\\scowell1\\Documents\\Codex\\2026-08-18\\activate-and-use-these-skills-1-3\\work\\teaching-program\\source\\Textiles-and-Design-Stage-6-Syllabus-2013.docx",
+      "location": "https://www.nsw.gov.au/education-and-training/nesa/curriculum/tas/textiles-and-design-stage-6-2013",
       "revision": "Live official DOCX downloaded 2026-08-18",
       "use": "Course requirements, outcomes and Preliminary content",
       "sha256": "a6857174ef68d819a9a92935b9d4a87493b3b05959123c3bdd40f32a6d0638de"
@@ -136,7 +136,7 @@
       "id": "SRC-SOURCE-CONTRACT",
       "title": "Year 11 Preliminary Textiles source contract",
       "authority": "local-program",
-      "location": "C:\\Users\\scowell1\\Documents\\Codex\\2026-08-18\\activate-and-use-these-skills-1-3\\work\\source-contract\\source-contract-TAD-Y11-PRELIM-2026-08-18-v1.md",
+      "location": "private-source:year-11-preliminary-textiles/source-contract-TAD-Y11-PRELIM-2026-08-18-v1.md",
       "revision": "Frozen 2026-08-18-v1; authority boundary retained",
       "use": "Authority boundaries, 15-module map and unresolved decisions",
       "sha256": "6eb217541bb1c10f2076d50fae78e03e37c253921a62b45a5ccfec0536e1fbd3"
@@ -145,7 +145,7 @@
       "id": "SRC-SITE-COURSE-DATA",
       "title": "Local student-course module data",
       "authority": "website",
-      "location": "C:\\Users\\scowell1\\Documents\\Codex\\2026-08-18\\activate-and-use-these-skills-1-3\\work\\student-course-foundation\\course-data.js",
+      "location": "https://stevencowell.github.io/Year-11-Preliminary-Textiles-and-Design/course-data.js",
       "revision": "Inspected 2026-08-18",
       "use": "Visible module/section titles and Module 1 checks",
       "sha256": "a31dcb5fe9168c40cb1ec0d269227572e0c5038949268be8c4a9f8d61ece277d"
@@ -154,7 +154,7 @@
       "id": "SRC-FOLIO-MANIFEST",
       "title": "Folio build manifest v1",
       "authority": "website",
-      "location": "C:\\Users\\scowell1\\Documents\\Codex\\2026-08-18\\activate-and-use-these-skills-1-3\\work\\student-course-foundation\\FOLIO-BUILD-MANIFEST-v1.json",
+      "location": "private-source:year-11-preliminary-textiles/FOLIO-BUILD-MANIFEST-v1.json",
       "revision": "2026-08-18",
       "use": "Ten student evidence cards and route states",
       "sha256": "1f08c954356f04b2b357a0d98de32a061f521a02837f0b9945353720a16ec574"
@@ -163,7 +163,7 @@
       "id": "SRC-YOUTUBE-MANIFEST",
       "title": "YouTube learning manifest v1",
       "authority": "website",
-      "location": "C:\\Users\\scowell1\\Documents\\Codex\\2026-08-18\\activate-and-use-these-skills-1-3\\work\\student-course-foundation\\YOUTUBE-MANIFEST-v1.json",
+      "location": "private-source:year-11-preliminary-textiles/YOUTUBE-MANIFEST-v1.json",
       "revision": "2026-08-18",
       "use": "Three accepted Module 1 video mappings",
       "sha256": "c67faf9b6bdd2c925c307595edc7a6605fb0603859445fcc202dfe0b767c3269"
@@ -172,7 +172,7 @@
       "id": "SRC-ASSESSMENT-MANIFEST",
       "title": "Assessment build manifest v1",
       "authority": "assessment",
-      "location": "C:\\Users\\scowell1\\Documents\\Codex\\2026-08-18\\activate-and-use-these-skills-1-3\\work\\student-course-foundation\\ASSESSMENT-BUILD-MANIFEST-v1.json",
+      "location": "private-source:year-11-preliminary-textiles/ASSESSMENT-BUILD-MANIFEST-v1.json",
       "revision": "2026-08-18; BLOCKED",
       "use": "Current assessment gap and historical conflicts",
       "sha256": "1892f812f66eeed7ba6dd5f4d903477bd7cb1e7b7f4a619c0000dbe0319e4168"
@@ -3256,7 +3256,7 @@
       "path": "Year-11-Preliminary-Textiles-and-Design-120-Hour-Alignment-Manifest-v2.0.json",
       "purpose": "alignment-manifest",
       "version": "v2.0",
-      "sha256": "14624094920C3AAD58765D73E3DFD91FC42F10EFB7169DF14C883DC3D8BD7B99"
+      "sha256_note": "Self-digest intentionally omitted because the contract defines no canonical self-hash method; verify this manifest from the repository commit or an external handoff/release record."
     }
   ],
   "review_state": {

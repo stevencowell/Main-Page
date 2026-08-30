@@ -129,12 +129,12 @@
     },
     "stage_14_destinations": {
       "authoritative": [
-        "_project/stage-14/teacher-program-v1.0.0.docx",
-        "_project/stage-14/teacher-program-v1.0.0.pdf",
-        "_project/stage-14/teacher-program-manifest-v1.0.0.json",
-        "_project/stage-14/teacher-program-site-map-v1.0.0.json",
-        "_project/stage-14/delivery-register-v1.0.0.xlsx",
-        "_project/stage-14/program-family-handoff.json"
+        "private-source:year-10-graphics-technology/teacher-program-v1.0.0.docx",
+        "private-source:year-10-graphics-technology/teacher-program-v1.0.0.pdf",
+        "private-source:year-10-graphics-technology/teacher-program-manifest-v1.0.0.json",
+        "private-source:year-10-graphics-technology/teacher-program-site-map-v1.0.0.json",
+        "private-source:year-10-graphics-technology/delivery-register-v1.0.0.xlsx",
+        "private-source:year-10-graphics-technology/program-family-handoff.json"
       ],
       "public_downloads": [
         "site/assets/teacher/teacher-program-v1.0.0.docx",

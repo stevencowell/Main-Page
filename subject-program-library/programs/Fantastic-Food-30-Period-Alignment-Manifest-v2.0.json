@@ -100,7 +100,7 @@
       "id": "S2",
       "title": "Previous Fantastic Food teaching program",
       "authority": "local-program",
-      "location": "C:\\Users\\scowell1\\Documents\\Codex\\2026-08-28\\okay-so-with-the-all-the\\work\\network-alignment\\fantastic-food\\resources\\teacher\\Fantastic-Food-30-Period-Teaching-Program-v1.0-Compact-10pt.docx",
+      "location": "private-source:fantastic-food/Fantastic-Food-30-Period-Teaching-Program-v1.0-Compact-10pt.docx",
       "revision": "27DB653D5816E009B868AA1BD7799B06578E9025854F374EBCC103F0F891EBE4",
       "use": "Preserved period sequence, teaching content, evidence and Teacher to confirm boundaries"
     },
@@ -116,7 +116,7 @@
       "id": "S4",
       "title": "Riv Burger network benchmark v2.3",
       "authority": "quality-reference",
-      "location": "C:\\Users\\scowell1\\Documents\\Codex\\2026-08-28\\okay-so-with-the-all-the\\work\\riv-burger-benchmark\\resources\\teacher\\Riv-Burger-25-Period-Teaching-Program-v2.3-Network-Benchmark.docx",
+      "location": "private-source:riv-burger/Riv-Burger-25-Period-Teaching-Program-v2.3-Network-Benchmark.docx",
       "revision": "CD4F9EB7F57559C3F15A756E09AB219BC2A6E0877FDE6B0FF813B169A0B80B7F",
       "use": "Program structure and visual pattern only"
     }

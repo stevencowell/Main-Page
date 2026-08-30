@@ -100,7 +100,7 @@
       "id": "S2",
       "title": "Previous Bucket Hat for a Cause teaching program",
       "authority": "local-program",
-      "location": "C:\\Users\\scowell1\\Documents\\Codex\\2026-08-28\\okay-so-with-the-all-the\\work\\network-alignment\\bucket-hat\\resources\\teacher\\Bucket-Hat-for-a-Cause-30-Period-Teaching-Program-v1.0-Website-Complete-10pt.docx",
+      "location": "private-source:bucket-hat/Bucket-Hat-for-a-Cause-30-Period-Teaching-Program-v1.0-Website-Complete-10pt.docx",
       "revision": "83C198C2D67F9483F03587B4DDB8EFF8303C5FDE1BED283087B2EB5DC301F2C9",
       "use": "Preserved period sequence, teaching content, evidence and Teacher to confirm boundaries"
     },
@@ -116,7 +116,7 @@
       "id": "S4",
       "title": "Riv Burger network benchmark v2.3",
       "authority": "quality-reference",
-      "location": "C:\\Users\\scowell1\\Documents\\Codex\\2026-08-28\\okay-so-with-the-all-the\\work\\riv-burger-benchmark\\resources\\teacher\\Riv-Burger-25-Period-Teaching-Program-v2.3-Network-Benchmark.docx",
+      "location": "private-source:riv-burger/Riv-Burger-25-Period-Teaching-Program-v2.3-Network-Benchmark.docx",
       "revision": "CD4F9EB7F57559C3F15A756E09AB219BC2A6E0877FDE6B0FF813B169A0B80B7F",
       "use": "Program structure and visual pattern only"
     }

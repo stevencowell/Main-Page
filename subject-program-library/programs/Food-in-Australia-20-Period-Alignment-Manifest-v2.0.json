@@ -111,7 +111,7 @@
       "id": "S3",
       "title": "Existing Food in Australia teacher program",
       "authority": "local-program",
-      "location": "C:\\Users\\scowell1\\Documents\\Codex\\2026-08-28\\okay-so-with-the-all-the\\work\\library-completion\\repositories\\food-in-australia\\resources\\teacher\\teacher-program-v1.0.0.docx",
+      "location": "private-source:food-in-australia/teacher-program-v1.0.0.docx",
       "revision": "21E913DBB7DDB029034C3981B85F2C973DBFB7182910511EC206A6A9A88A41AC",
       "use": "Ten-week local website sequence; its two blocks per week are planning placeholders rather than verified local periods."
     },
@@ -127,7 +127,7 @@
       "id": "S5",
       "title": "Footstool network program benchmark",
       "authority": "quality-reference",
-      "location": "C:\\Users\\scowell1\\Documents\\Codex\\2026-08-28\\okay-so-with-the-all-the\\work\\year8-elective-alignment\\intro-timber\\resources\\teacher\\Footstool-50-Period-Teaching-Program-v2.0-Network-Benchmark.docx",
+      "location": "subject-program-library/programs/Footstool-50-Period-Teaching-Program-v2.0-Network-Benchmark.docx",
       "revision": "E214012B73C376A1B6931CD04F4FDDFDCCAE7735E96216EAC4A6A098D69AD81D",
       "use": "Network page structure and table pattern only"
     }

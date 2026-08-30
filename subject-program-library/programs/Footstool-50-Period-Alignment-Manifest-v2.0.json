@@ -126,7 +126,7 @@
       "id": "S5",
       "title": "Footstool 50-period teaching program v1.0",
       "authority": "local-program",
-      "location": "C:\\Users\\scowell1\\Documents\\Codex\\2026-08-28\\okay-so-with-the-all-the\\work\\year8-elective-alignment\\intro-timber\\resources\\teacher\\Footstool-50-Period-Teaching-Program-v1.0-Website-Complete-10pt.docx",
+      "location": "private-source:footstool/Footstool-50-Period-Teaching-Program-v1.0-Website-Complete-10pt.docx",
       "revision": "8268A9A5A79AAFAA7791286B3374FC30622DEB34A8D51009D75B6457BE867E7D",
       "use": "Preserved timetable, period types, practical balance and local boundaries"
     },
@@ -158,7 +158,7 @@
       "id": "S9",
       "title": "Riv Burger network benchmark v2.4",
       "authority": "quality-reference",
-      "location": "C:\\Users\\scowell1\\Documents\\Codex\\2026-08-28\\okay-so-with-the-all-the\\work\\riv-burger-benchmark\\resources\\teacher\\Riv-Burger-25-Period-Teaching-Program-v2.4-Network-Benchmark.docx",
+      "location": "subject-program-library/programs/Riv-Burger-25-Period-Teaching-Program-v2.4-Network-Benchmark.docx",
       "revision": "48E6E11A7F9EDC4FC1BE7EFC862E915C96E331E6BB0CE8B263804D7AF561340D",
       "use": "Document structure and visual pattern only"
     }

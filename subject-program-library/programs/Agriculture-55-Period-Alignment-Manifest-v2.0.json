@@ -100,7 +100,7 @@
       "id": "S2",
       "title": "Previous Agriculture teaching program",
       "authority": "local-program",
-      "location": "C:\\Users\\scowell1\\Documents\\Codex\\2026-08-28\\okay-so-with-the-all-the\\work\\network-alignment\\agriculture\\resources\\teacher\\Year-8-Agriculture-55-Period-Teaching-Program-v1.0-Website-Complete-10pt.docx",
+      "location": "private-source:agriculture/Year-8-Agriculture-55-Period-Teaching-Program-v1.0-Website-Complete-10pt.docx",
       "revision": "422C91AF5EB18BEC951CD5F4ED46E50B59AD89D02E24861408525DA2025521A7",
       "use": "Preserved period sequence, teaching content, evidence and Teacher to confirm boundaries"
     },
@@ -116,7 +116,7 @@
       "id": "S4",
       "title": "Riv Burger network benchmark v2.3",
       "authority": "quality-reference",
-      "location": "C:\\Users\\scowell1\\Documents\\Codex\\2026-08-28\\okay-so-with-the-all-the\\work\\riv-burger-benchmark\\resources\\teacher\\Riv-Burger-25-Period-Teaching-Program-v2.3-Network-Benchmark.docx",
+      "location": "private-source:riv-burger/Riv-Burger-25-Period-Teaching-Program-v2.3-Network-Benchmark.docx",
       "revision": "CD4F9EB7F57559C3F15A756E09AB219BC2A6E0877FDE6B0FF813B169A0B80B7F",
       "use": "Program structure and visual pattern only"
     }

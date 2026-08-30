@@ -111,7 +111,7 @@
       "id": "S3",
       "title": "Existing Food Selection and Health teacher program",
       "authority": "local-program",
-      "location": "C:\\Users\\scowell1\\Documents\\Codex\\2026-08-28\\okay-so-with-the-all-the\\work\\library-completion\\repositories\\food-selection-health\\resources\\program\\teacher-program-v1.0.0.docx",
+      "location": "private-source:food-selection-and-health/teacher-program-v1.0.0.docx",
       "revision": "4AC2CA43C56FD5EC23B2ABC1C94A611FEBFB40B90817DE484803B40CFE31210D",
       "use": "Existing adaptable 20-period teacher sequence retained."
     },
@@ -127,7 +127,7 @@
       "id": "S5",
       "title": "Footstool network program benchmark",
       "authority": "quality-reference",
-      "location": "C:\\Users\\scowell1\\Documents\\Codex\\2026-08-28\\okay-so-with-the-all-the\\work\\year8-elective-alignment\\intro-timber\\resources\\teacher\\Footstool-50-Period-Teaching-Program-v2.0-Network-Benchmark.docx",
+      "location": "subject-program-library/programs/Footstool-50-Period-Teaching-Program-v2.0-Network-Benchmark.docx",
       "revision": "E214012B73C376A1B6931CD04F4FDDFDCCAE7735E96216EAC4A6A098D69AD81D",
       "use": "Network page structure and table pattern only"
     }

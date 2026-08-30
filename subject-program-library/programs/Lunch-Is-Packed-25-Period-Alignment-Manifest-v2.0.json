@@ -100,7 +100,7 @@
       "id": "S2",
       "title": "Previous Lunch Is Packed teaching program",
       "authority": "local-program",
-      "location": "C:\\Users\\scowell1\\Documents\\Codex\\2026-08-28\\okay-so-with-the-all-the\\work\\network-alignment\\lunch-is-packed\\resources\\teacher\\Lunch-Is-Packed-25-Period-Teaching-Program-v1.0-Website-Complete-10pt.docx",
+      "location": "private-source:lunch-is-packed/Lunch-Is-Packed-25-Period-Teaching-Program-v1.0-Website-Complete-10pt.docx",
       "revision": "77B8705D55CA2EC3FECBDFC1B31E764A3D7542A9DAC5CF2214961913A3CB8A3E",
       "use": "Preserved period sequence, teaching content, evidence and Teacher to confirm boundaries"
     },
@@ -116,7 +116,7 @@
       "id": "S4",
       "title": "Riv Burger network benchmark v2.3",
       "authority": "quality-reference",
-      "location": "C:\\Users\\scowell1\\Documents\\Codex\\2026-08-28\\okay-so-with-the-all-the\\work\\riv-burger-benchmark\\resources\\teacher\\Riv-Burger-25-Period-Teaching-Program-v2.3-Network-Benchmark.docx",
+      "location": "private-source:riv-burger/Riv-Burger-25-Period-Teaching-Program-v2.3-Network-Benchmark.docx",
       "revision": "CD4F9EB7F57559C3F15A756E09AB219BC2A6E0877FDE6B0FF813B169A0B80B7F",
       "use": "Program structure and visual pattern only"
     }

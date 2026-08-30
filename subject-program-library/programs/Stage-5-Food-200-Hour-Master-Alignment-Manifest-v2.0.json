@@ -114,7 +114,7 @@
       "authority": "official-syllabus",
       "location": "https://curriculum.nsw.edu.au/learning-areas/tas/food-technology-7-10-2025/outcomes",
       "revision": "07349BEF7C1B6CCC0570924404B5C5867A8DF52D486617CBA7D8B3946826F90B",
-      "use": "Exact outcomes and all 125 official content statements; frozen source pack: C:\\Users\\scowell1\\Documents\\Codex\\2026-08-28\\okay-so-with-the-all-the\\work\\library-completion\\official-source-pack\\stage5-food-200-hour-official-source-pack.json"
+      "use": "Exact outcomes and all 125 official content statements; frozen source pack: private-source:stage-5-food/stage5-food-200-hour-official-source-pack.json"
     },
     {
       "id": "M3",
@@ -128,7 +128,7 @@
       "id": "M6",
       "title": "Existing Food in Australia teacher program",
       "authority": "local-program",
-      "location": "C:\\Users\\scowell1\\Documents\\Codex\\2026-08-28\\okay-so-with-the-all-the\\work\\library-completion\\repositories\\food-in-australia\\resources\\teacher\\teacher-program-v1.0.0.docx",
+      "location": "private-source:food-in-australia/teacher-program-v1.0.0.docx",
       "revision": "21E913DBB7DDB029034C3981B85F2C973DBFB7182910511EC206A6A9A88A41AC",
       "use": "Ten-week local website sequence; its two blocks per week are planning placeholders rather than verified local periods."
     },
@@ -144,7 +144,7 @@
       "id": "M7",
       "title": "Existing Food Selection and Health teacher program",
       "authority": "local-program",
-      "location": "C:\\Users\\scowell1\\Documents\\Codex\\2026-08-28\\okay-so-with-the-all-the\\work\\library-completion\\repositories\\food-selection-health\\resources\\program\\teacher-program-v1.0.0.docx",
+      "location": "private-source:food-selection-and-health/teacher-program-v1.0.0.docx",
       "revision": "4AC2CA43C56FD5EC23B2ABC1C94A611FEBFB40B90817DE484803B40CFE31210D",
       "use": "Existing adaptable 20-period teacher sequence retained."
     },
@@ -160,7 +160,7 @@
       "id": "M8",
       "title": "Existing Food for Specific Needs teacher program",
       "authority": "local-program",
-      "location": "C:\\Users\\scowell1\\Documents\\Codex\\2026-08-28\\okay-so-with-the-all-the\\work\\library-completion\\repositories\\food-specific-needs\\resources\\teacher\\food-for-specific-needs-teacher-program.docx",
+      "location": "private-source:food-for-specific-needs/food-for-specific-needs-teacher-program.docx",
       "revision": "CC9445067C03C9926A754506973DA2626AA07C197A9743CB73C7344A5DE2A272",
       "use": "Ten-week local sequence split into 20 planning periods; local timetable and practical placement remain unverified."
     }

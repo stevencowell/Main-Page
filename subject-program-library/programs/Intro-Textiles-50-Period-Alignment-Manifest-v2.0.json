@@ -106,7 +106,7 @@
       "id": "S4",
       "title": "Intro Textiles Technology teacher program v1.0.0",
       "authority": "local-program",
-      "location": "C:\\Users\\scowell1\\Documents\\Codex\\2026-08-28\\okay-so-with-the-all-the\\work\\year8-elective-alignment\\textiles-technology\\assets\\teacher\\teacher-program-v1.0.0.docx",
+      "location": "private-source:intro-textiles/teacher-program-v1.0.0.docx",
       "revision": "08A9DF7B388479908B757BF86BDEDC1C4499FFF76B1A3A2A52721DFD361564D3",
       "use": "Preserved project sequence, candidate practical contexts and local boundaries"
     },
@@ -122,7 +122,7 @@
       "id": "S6",
       "title": "Footstool network program v2.0",
       "authority": "quality-reference",
-      "location": "C:\\Users\\scowell1\\Documents\\Codex\\2026-08-28\\okay-so-with-the-all-the\\work\\year8-elective-alignment\\intro-timber\\resources\\teacher\\Footstool-50-Period-Teaching-Program-v2.0-Network-Benchmark.docx",
+      "location": "subject-program-library/programs/Footstool-50-Period-Teaching-Program-v2.0-Network-Benchmark.docx",
       "revision": "35305F05807C01BCD5AB334773ED3E83DFC5B5F5A3EA6579AC5CC4BFF1B07735",
       "use": "Document structure, timetable pattern and visual family only"
     }

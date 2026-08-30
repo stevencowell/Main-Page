@@ -111,7 +111,7 @@
       "id": "S3",
       "title": "Existing Food for Specific Needs teacher program",
       "authority": "local-program",
-      "location": "C:\\Users\\scowell1\\Documents\\Codex\\2026-08-28\\okay-so-with-the-all-the\\work\\library-completion\\repositories\\food-specific-needs\\resources\\teacher\\food-for-specific-needs-teacher-program.docx",
+      "location": "private-source:food-for-specific-needs/food-for-specific-needs-teacher-program.docx",
       "revision": "CC9445067C03C9926A754506973DA2626AA07C197A9743CB73C7344A5DE2A272",
       "use": "Ten-week local sequence split into 20 planning periods; local timetable and practical placement remain unverified."
     },
@@ -127,7 +127,7 @@
       "id": "S5",
       "title": "Footstool network program benchmark",
       "authority": "quality-reference",
-      "location": "C:\\Users\\scowell1\\Documents\\Codex\\2026-08-28\\okay-so-with-the-all-the\\work\\year8-elective-alignment\\intro-timber\\resources\\teacher\\Footstool-50-Period-Teaching-Program-v2.0-Network-Benchmark.docx",
+      "location": "subject-program-library/programs/Footstool-50-Period-Teaching-Program-v2.0-Network-Benchmark.docx",
       "revision": "E214012B73C376A1B6931CD04F4FDDFDCCAE7735E96216EAC4A6A098D69AD81D",
       "use": "Network page structure and table pattern only"
     }
