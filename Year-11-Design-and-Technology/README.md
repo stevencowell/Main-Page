@@ -17,7 +17,7 @@ Repository-ready student learning site for the NSW Design and Technology Stage 6
 
 The current NESA syllabus, current school assessment/task documents, and teacher-approved practical and WHS instructions remain authoritative. This site does not set task dates, final requirements, workshop access, adjustments, marking decisions or safety procedures.
 
-Year 12 blocks in the master program are a provisional continuity map only. Replace them with the detailed Year 12 program when the second site is built.
+The completed Year 12 course and detailed program now supply the HSC half of the two-year master. The HTML block map remains a compact continuity overview.
 
 ## Deployment
 

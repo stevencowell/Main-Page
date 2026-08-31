@@ -14,21 +14,21 @@
 ## Source and control decisions
 
 - The official 2013 Stage 6 syllabus course page is the syllabus authority at build date.
-- The two readable 2026 formal task notices are represented; no third task or missing schedule detail was invented.
+- The current 2026 assessment schedule and two formal task notices are represented. Task 3 is confirmed as a 25% Examination in Term 3 Weeks 9/10; its exact notification details remain Teacher to confirm.
 - Student work and names were excluded.
 - The supplied textbook was not reproduced.
 - OnGuard, SOPs, induction, supervision and current teacher instructions are linked or acknowledged, not replaced.
-- Year 12 detail is provisional pending the authorised Year 12 build.
+- The completed Year 12 course and source-mapped program family now supply the HSC half of the two-year master.
 
 ## Deployment status
 
-The package is repository-ready but was not pushed or published by this build because the resumed tool session did not expose a GitHub write action.
+Published through the Main Page repository and live on GitHub Pages. The release was checked after deployment.
 
 ## Final validation
 
 - 27 HTML pages and 143 local file references checked with no failures
 - Course data verified: 15 modules, 45 sections, 450 four-option questions, 45 written responses, 10 folio cards and 20 Busy Work activities
 - Desktop and mobile browser checks passed, including quiz feedback, local saving and mobile overflow
-- Year 11 and master program DOCX/PDF outputs visually reviewed across all 40 pages
+- Current Year 11 and master program DOCX/PDF outputs visually reviewed in both Word-rendered and direct-PDF form
 
 See `VALIDATION-REPORT.md` for the full summary.

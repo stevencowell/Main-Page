@@ -34,15 +34,15 @@ Validated: **31 August 2026**
 
 ## Document checks
 
-- Year 11 120-hour program: 14 rendered pages visually reviewed
-- Stage 6 240-hour master program: 26 rendered pages visually reviewed
+- Year 11 120-hour program: 9 Word-rendered pages and 8 direct-PDF pages visually reviewed
+- Stage 6 240-hour master program: 17 Word-rendered pages and 15 direct-PDF pages visually reviewed
 - No clipped tables, broken glyphs or split control-boundary headings detected
 
 ## Controlled limitations
 
 - The current school task notices and teacher instructions remain authoritative.
-- The empty Drive assessment-schedule document and the unread assessment-schedule PDF were not used to invent a third task or missing dates.
+- The current 2026 schedule confirms Task 3 as a 25% Examination in Term 3 Weeks 9/10; its exact notification, date, format, duration and scope remain Teacher to confirm.
 - Student work and student names were deliberately excluded.
 - Linked Google Drive resources remain subject to the school account's sharing permissions.
-- Year 12 blocks are a provisional continuity map until the authorised Year 12 site and detailed program are built.
-- This package is repository-ready but has not been pushed or published.
+- The completed Year 12 site and detailed program now provide the HSC delivery detail; the HTML block map remains a compact continuity overview.
+- This package is published through the Main Page repository and was live-verified after deployment.
