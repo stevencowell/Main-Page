@@ -1,3 +1,4 @@
+# Publication trigger: 31 August 2026
 from pathlib import Path
 from zipfile import ZipFile, is_zipfile
 import shutil
