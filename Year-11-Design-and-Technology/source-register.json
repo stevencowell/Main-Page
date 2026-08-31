@@ -1,0 +1,122 @@
+[
+  {
+    "id": "nesa-course",
+    "title": "Design and Technology Stage 6 Syllabus (2013) - official course page",
+    "type": "Official syllabus authority",
+    "status": "Current syllabus taught in Years 11-12 at build date",
+    "used_for": "Course requirements, Preliminary/HSC scope, project requirements and official course boundary",
+    "url": "https://www.nsw.gov.au/education-and-training/nesa/curriculum/tas/design-and-technology-stage-6-2013"
+  },
+  {
+    "id": "drive-root",
+    "title": "Year 11 Design and Technology authorised Google Drive folder",
+    "type": "School source collection",
+    "status": "Teacher-controlled",
+    "used_for": "Task notices, project briefs, worksheets, media and teacher resources",
+    "url": "https://drive.google.com/drive/folders/1asb_yqzoPc53dcD5arF_KO8e1Wdt8mTnwK7fLFwz5ChKrNspXXW2fqPMteTuqpMikrB7b10g"
+  },
+  {
+    "id": "task-1",
+    "title": "2026 Preliminary Task 1 - Research Assignment",
+    "type": "Formal school assessment notice",
+    "status": "2026 source record - current notice remains authority",
+    "used_for": "Research Assignment project page, confirmed 35% weighting, outcomes and communication requirements",
+    "url": "https://docs.google.com/document/d/1iv4mUsCjRf8f4PqrX1Jx_G5FpMSQzGEZJ9WXxwFzh3c/edit"
+  },
+  {
+    "id": "kitchen-companion",
+    "title": "Year 11 Design and Technology - Project 1: The Kitchen Companion",
+    "type": "Teacher-approved course project brief",
+    "status": "Source brief",
+    "used_for": "Collaborative design, Six Thinking Hats, CAD, 3D printing, 0.2 mm moving-part tolerance and eight-page group folio",
+    "url": "https://docs.google.com/document/d/16o5NZ2otTdPi7oR0wP0NaLS9J4-BPv3QCHESN3i7U54/edit"
+  },
+  {
+    "id": "task-2",
+    "title": "2026 Preliminary Task 2 - Camping Environment",
+    "type": "Formal school assessment notice",
+    "status": "2026 source record - current notice remains authority",
+    "used_for": "Camping project, confirmed 40% weighting, A$30 construction limit, compact/marketable criteria and MDP-aligned folio structure",
+    "url": "https://docs.google.com/document/d/1PmfztxpRqeSnRCSbtZZjRHue-VhoqIv5IX1klGrejGc/edit"
+  },
+  {
+    "id": "answer-booklet",
+    "title": "Design Technology Preliminary Teacher Answer Booklet",
+    "type": "Teacher-authored course support",
+    "status": "Indicative/model answers; not the only acceptable answers",
+    "used_for": "Course terminology, command verbs, exam response quality, design factors, research, WHS, CAD/CAM/CNC, sustainability and evaluation",
+    "url": "https://docs.google.com/document/d/1sLKfRydngtRenpEIt48-aD6YFjtU_Ogl/edit"
+  },
+  {
+    "id": "sketching",
+    "title": "Intro to Basic Sketching",
+    "type": "Teacher-curated resource folder",
+    "status": "Drive permissions apply",
+    "used_for": "Graphical communication and sketching practice",
+    "url": "https://drive.google.com/drive/folders/13Me-mdZOkpFvuf9UIcvUbM0IiGJXTlH4I59OlxAFvYVkRkFPEwdEQ_V0ykg7KSLG8H3JYt-a"
+  },
+  {
+    "id": "cad-check",
+    "title": "CAD competency check",
+    "type": "Teacher-curated resource folder",
+    "status": "Drive permissions apply",
+    "used_for": "CAD readiness and evidence",
+    "url": "https://drive.google.com/drive/folders/1yl2uThtINk47X7fQkdTlsyegK6Wap-Q0WPQhBwYh87CEI-b4yl1mPaHu-wrlGqnHgsvSN8n7"
+  },
+  {
+    "id": "isometric-pdf",
+    "title": "Isometric and Oblique Technical Drawing guide",
+    "type": "Teacher-curated Drive resource",
+    "status": "Use within school permissions",
+    "used_for": "Technical drawing support; not reproduced by this site",
+    "url": "https://drive.google.com/file/d/1gUaUDc1TxJnf2XYK88422XuKbMQ5bHON/view"
+  },
+  {
+    "id": "isometric-video",
+    "title": "Isometric Drawing Guide video",
+    "type": "Teacher-curated Drive resource",
+    "status": "Use within school permissions",
+    "used_for": "Technical drawing demonstration; not reproduced by this site",
+    "url": "https://drive.google.com/file/d/1Oujqs6v9JLLFnuQgQuZ7Yr-OsWEhD7Db/view"
+  },
+  {
+    "id": "onguard",
+    "title": "OnGuard safety resources",
+    "type": "School safety resource folder",
+    "status": "Current local procedures and teacher approval remain authority",
+    "used_for": "Links only; site does not replace induction, SOPs or supervision",
+    "url": "https://drive.google.com/drive/folders/1dA17tF-qaOJducRiiauLkMVJu7KbH_YhdGwfoVPlOegO2gBhkKBOIFT-DTpRJDCZdH0GJ9g7"
+  },
+  {
+    "id": "market-research",
+    "title": "Market Research 2024 presentation",
+    "type": "Teacher-curated learning resource",
+    "status": "Drive permissions apply",
+    "used_for": "Primary/secondary and market research support",
+    "url": "https://docs.google.com/presentation/d/1fZgeHNGQlQN-1P6HZhGxo2nxFb5WoVKUq_MON9kTV0c/edit"
+  },
+  {
+    "id": "factors",
+    "title": "Factors Affecting Design 2024 presentation",
+    "type": "Teacher-curated learning resource",
+    "status": "Drive permissions apply",
+    "used_for": "Design factors and trade-off support",
+    "url": "https://docs.google.com/presentation/d/1mfJhPF2O6lGCN640zPC397gpm-liSKKYnauUSPxj10g/edit"
+  },
+  {
+    "id": "finance",
+    "title": "Finance Plan worksheet",
+    "type": "Teacher-curated learning resource",
+    "status": "Drive permissions apply",
+    "used_for": "Project cost and resource planning",
+    "url": "https://docs.google.com/document/d/1mmNImoMFrIV4IO0TvV5DPQuCndztEcsE/edit"
+  },
+  {
+    "id": "marketing",
+    "title": "The 4 Ps resources",
+    "type": "Teacher-curated learning resource folder",
+    "status": "Drive permissions apply",
+    "used_for": "Product, price, place and promotion",
+    "url": "https://drive.google.com/drive/folders/1a5wYaNDAyYrBlGsjnlEJWNSJRUUfJIAwrhiQkZzbWE99c5wU9aggKV8pX8kDpsLgbE1UulnQ"
+  }
+]

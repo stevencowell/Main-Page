@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+<title id="title">Design and Technology workspace illustration</title>
+<desc id="desc">Abstract technical drawings, a three dimensional printed component, measuring tools, sketches and a prototype arranged on a dark workshop surface.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#10251f"/><stop offset="1" stop-color="#274b40"/></linearGradient><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#d6e5db" stroke-opacity=".08"/></pattern></defs>
+<rect width="960" height="600" rx="36" fill="url(#bg)"/><rect width="960" height="600" rx="36" fill="url(#grid)"/>
+<g transform="translate(70 65)">
+<rect x="0" y="0" width="360" height="245" rx="18" fill="#fffaf0" opacity=".97" transform="rotate(-4 180 123)"/>
+<g transform="rotate(-4 180 123)" stroke="#24483d" fill="none" stroke-width="4"><path d="M48 180L130 70l94 18 80 92z"/><path d="M130 70v110M224 88v92M48 180h256"/><circle cx="224" cy="88" r="8" fill="#b9654a" stroke="none"/><path d="M58 210h205" stroke="#b9654a" stroke-width="5"/><path d="M280 45v80M267 58l13-13 13 13"/></g>
+<g transform="translate(470 40)"><path d="M0 75l105-62 105 62-105 63z" fill="#d6a85b"/><path d="M0 75v126l105 63V138z" fill="#9d4d3e"/><path d="M210 75v126l-105 63V138z" fill="#e9d8ad"/><path d="M55 42l105 62" stroke="#173a32" stroke-width="6"/><circle cx="105" cy="138" r="18" fill="#173a32"/><path d="M105 138v82" stroke="#173a32" stroke-width="10"/></g>
+<g transform="translate(55 345)"><rect width="425" height="135" rx="22" fill="#e6dcc7"/><path d="M40 40h330M40 73h260M40 105h295" stroke="#173a32" stroke-opacity=".55" stroke-width="8" stroke-linecap="round"/><circle cx="382" cy="39" r="15" fill="#b9654a"/></g>
+<g transform="translate(555 350) rotate(-8)"><rect x="0" y="35" width="245" height="70" rx="20" fill="#f7f0df"/><path d="M22 70h200" stroke="#173a32" stroke-width="8"/><path d="M43 42v56M75 52v46M107 42v56M139 52v46M171 42v56M203 52v46" stroke="#b9654a" stroke-width="4"/></g>
+<path d="M760 315c60-35 92-4 72 47-13 33-4 63 37 78" stroke="#d6a85b" stroke-width="15" fill="none" stroke-linecap="round"/>
+</g></svg>
