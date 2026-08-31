@@ -1,4 +1,4 @@
-# Publication trigger: 31 August 2026
+# Publication trigger: 31 August 2026 — immediate deployment retry
 from pathlib import Path
 from zipfile import ZipFile, is_zipfile
 import shutil
