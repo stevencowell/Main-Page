@@ -1,0 +1,120 @@
+name: Publish Year 11 Design and Technology
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - '.github/workflows/publish-year11-design-technology.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out TAS main menu
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Download current Year 11 site package
+        shell: bash
+        run: |
+          python -m pip install --quiet gdown
+          gdown --id 1RhAPqvNp5BWAOSfqtVRNArd21HTS8xMA --output /tmp/year11-design-technology-site.zip
+          python - <<'PY'
+          from pathlib import Path
+          from zipfile import ZipFile, is_zipfile
+
+          archive = Path('/tmp/year11-design-technology-site.zip')
+          if not archive.exists() or not is_zipfile(archive):
+              raise SystemExit('The downloaded file is not a valid ZIP archive.')
+          with ZipFile(archive) as package:
+              package.testzip()
+              package.extractall('/tmp/year11-design-technology')
+          PY
+
+      - name: Publish course into the main Pages repository
+        shell: bash
+        run: |
+          rm -rf Year-11-Design-and-Technology
+          if [ -d /tmp/year11-design-technology/year11-design-technology-site ]; then
+            mv /tmp/year11-design-technology/year11-design-technology-site Year-11-Design-and-Technology
+          else
+            mkdir -p Year-11-Design-and-Technology
+            cp -a /tmp/year11-design-technology/. Year-11-Design-and-Technology/
+          fi
+          touch Year-11-Design-and-Technology/.nojekyll
+
+      - name: Add the course to the TAS main menu
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          path = Path('index.html')
+          html = path.read_text(encoding='utf-8')
+
+          if 'href="#design-technology"' not in html:
+              nav_anchor = '        <a href="#graphics">Graphics</a>'
+              nav_link = nav_anchor + '\n        <a href="#design-technology">Design &amp; Technology</a>'
+              if nav_anchor not in html:
+                  raise SystemExit('Could not locate the Graphics navigation link.')
+              html = html.replace(nav_anchor, nav_link, 1)
+
+          if 'id="design-technology"' not in html:
+              section = '''
+    <section class="section section-white" id="design-technology" aria-labelledby="design-technology-heading">
+      <div class="shell">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">Design and Technology</p>
+            <h2 id="design-technology-heading">Stage 6 Design and Technology</h2>
+          </div>
+          <p>Begin the two-year senior course through design theory, research, CAD, projects, communication, production and evaluation.</p>
+        </div>
+
+        <article class="featured-course">
+          <div class="featured-image" style="background-image:url('Year-11-Design-and-Technology/assets/hero-workshop.svg');background-position:center;background-size:cover" role="img" aria-label="Design and Technology drawings, prototype and measuring tools"></div>
+          <div class="featured-copy">
+            <span class="tag">Stage 6 · Preliminary · current build</span>
+            <h3>Year 11 Design and Technology</h3>
+            <p>Open the 15-module Preliminary course with formative checks, project pathways, folio evidence, assessment support and teacher programs. Further refinement can continue while the course is live.</p>
+            <div class="featured-actions">
+              <a class="button button-primary" href="Year-11-Design-and-Technology/" target="_blank" rel="noopener">Open Year 11 course <span aria-hidden="true">↗</span></a>
+              <a class="button button-ghost" href="Year-11-Design-and-Technology/program.html" target="_blank" rel="noopener">Teaching program <span aria-hidden="true">↗</span></a>
+              <a class="button button-ghost" href="https://www.nsw.gov.au/education-and-training/nesa/curriculum/tas/design-and-technology-stage-6-2013" target="_blank" rel="noopener">Official syllabus <span aria-hidden="true">↗</span></a>
+            </div>
+          </div>
+        </article>
+      </div>
+    </section>
+
+'''
+              anchor = '    <section class="section" id="textiles" aria-labelledby="textiles-heading">'
+              if anchor not in html:
+                  raise SystemExit('Could not locate the Textiles section insertion point.')
+              html = html.replace(anchor, section + anchor, 1)
+
+          html = html.replace(
+              'Graphics · Multimedia · Textiles',
+              'Graphics · Multimedia · Design &amp; Technology · Textiles'
+          )
+          path.write_text(html, encoding='utf-8')
+          PY
+
+      - name: Commit the live course and menu entry
+        shell: bash
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add index.html Year-11-Design-and-Technology
+          if git diff --cached --quiet; then
+            echo 'No publication changes were required.'
+          else
+            git commit -m 'Publish Year 11 Design and Technology course'
+            git push
+          fi
