@@ -1,0 +1,4745 @@
+{
+  "schema_version": "1.0",
+  "program_id": "year12-hsc-dt-120h",
+  "version": "v1.0.0",
+  "course": {
+    "title": "Year 12 HSC Design and Technology Teaching Program",
+    "classification": "NSW Stage 6 Board Developed Course — HSC",
+    "stage_or_year": "Year 12 HSC",
+    "project": "Major Design Project, innovation study and HSC examination preparation",
+    "delivery_year": 2026
+  },
+  "site": {
+    "name": "Year 12 HSC Design and Technology",
+    "reference": "https://stevencowell.github.io/Year-12-Design-and-Technology/",
+    "inspection_date": "2026-09-01",
+    "state": "live",
+    "mapping_granularity": "named HSC module and theory section"
+  },
+  "syllabus": {
+    "title": "Design and Technology Stage 6 Syllabus (2013)",
+    "version": "2013",
+    "official_url": "https://www.nsw.gov.au/education-and-training/nesa/curriculum/tas/design-and-technology-stage-6-2013",
+    "verified_date": "2026-08-31",
+    "mandatory_from": "Current for 2026 delivery; replacement syllabus planned for implementation in 2029.",
+    "early_implementation": "not-applicable",
+    "steve_decision": "use-current",
+    "implementation_status": "current"
+  },
+  "timetable": {
+    "weeks": 40,
+    "period_minutes": 60,
+    "periods_per_fortnight": 6,
+    "total_periods": 120,
+    "state": "indicative-planning-model",
+    "teacher_to_confirm_id": "TTC-01"
+  },
+  "outcomes": [
+    {
+      "code": "H1.1",
+      "statement": "critically analyses the factors affecting design and the development and success of design projects",
+      "source_id": "SRC-NESA-DT-SYL-2013",
+      "official_url": "https://www.nsw.gov.au/education-and-training/nesa/curriculum/tas/design-and-technology-stage-6-2013"
+    },
+    {
+      "code": "H1.2",
+      "statement": "relates the practices and processes of designers and producers to the major design project",
+      "source_id": "SRC-NESA-DT-SYL-2013",
+      "official_url": "https://www.nsw.gov.au/education-and-training/nesa/curriculum/tas/design-and-technology-stage-6-2013"
+    },
+    {
+      "code": "H2.1",
+      "statement": "explains the influence of trends in society on design and production",
+      "source_id": "SRC-NESA-DT-SYL-2013",
+      "official_url": "https://www.nsw.gov.au/education-and-training/nesa/curriculum/tas/design-and-technology-stage-6-2013"
+    },
+    {
+      "code": "H2.2",
+      "statement": "evaluates the impact of design and innovation on society and the environment",
+      "source_id": "SRC-NESA-DT-SYL-2013",
+      "official_url": "https://www.nsw.gov.au/education-and-training/nesa/curriculum/tas/design-and-technology-stage-6-2013"
+    },
+    {
+      "code": "H3.1",
+      "statement": "analyses the factors that influence innovation and the success of innovation",
+      "source_id": "SRC-NESA-DT-SYL-2013",
+      "official_url": "https://www.nsw.gov.au/education-and-training/nesa/curriculum/tas/design-and-technology-stage-6-2013"
+    },
+    {
+      "code": "H3.2",
+      "statement": "uses creative and innovative approaches in designing and producing",
+      "source_id": "SRC-NESA-DT-SYL-2013",
+      "official_url": "https://www.nsw.gov.au/education-and-training/nesa/curriculum/tas/design-and-technology-stage-6-2013"
+    },
+    {
+      "code": "H4.1",
+      "statement": "identifies a need or opportunity and researches and explores ideas for design development and production of the major design project",
+      "source_id": "SRC-NESA-DT-SYL-2013",
+      "official_url": "https://www.nsw.gov.au/education-and-training/nesa/curriculum/tas/design-and-technology-stage-6-2013"
+    },
+    {
+      "code": "H4.2",
+      "statement": "selects and uses resources responsibly and safely to realise a quality major design project",
+      "source_id": "SRC-NESA-DT-SYL-2013",
+      "official_url": "https://www.nsw.gov.au/education-and-training/nesa/curriculum/tas/design-and-technology-stage-6-2013"
+    },
+    {
+      "code": "H4.3",
+      "statement": "evaluates the processes undertaken and the impacts of the major design project",
+      "source_id": "SRC-NESA-DT-SYL-2013",
+      "official_url": "https://www.nsw.gov.au/education-and-training/nesa/curriculum/tas/design-and-technology-stage-6-2013"
+    },
+    {
+      "code": "H5.1",
+      "statement": "manages the development of a quality major design project",
+      "source_id": "SRC-NESA-DT-SYL-2013",
+      "official_url": "https://www.nsw.gov.au/education-and-training/nesa/curriculum/tas/design-and-technology-stage-6-2013"
+    },
+    {
+      "code": "H5.2",
+      "statement": "selects and uses appropriate research methods and communication techniques",
+      "source_id": "SRC-NESA-DT-SYL-2013",
+      "official_url": "https://www.nsw.gov.au/education-and-training/nesa/curriculum/tas/design-and-technology-stage-6-2013"
+    },
+    {
+      "code": "H6.1",
+      "statement": "justifies technological activities undertaken in the major design project and relates these to industrial and commercial practices",
+      "source_id": "SRC-NESA-DT-SYL-2013",
+      "official_url": "https://www.nsw.gov.au/education-and-training/nesa/curriculum/tas/design-and-technology-stage-6-2013"
+    },
+    {
+      "code": "H6.2",
+      "statement": "critically assesses the emergence and impact of new technologies, and the factors affecting their development",
+      "source_id": "SRC-NESA-DT-SYL-2013",
+      "official_url": "https://www.nsw.gov.au/education-and-training/nesa/curriculum/tas/design-and-technology-stage-6-2013"
+    }
+  ],
+  "source_register": [
+    {
+      "id": "SRC-NESA-DT-ASSESS",
+      "title": "Design and Technology Stage 6 assessment and reporting",
+      "authority": "assessment",
+      "location": "https://www.nsw.gov.au/education-and-training/nesa/curriculum/tas/design-and-technology-stage-6-2013/assessment-and-reporting",
+      "revision": "confirmed-current",
+      "use": "Source-bound syllabus, teaching, practical or assessment boundary evidence."
+    },
+    {
+      "id": "SRC-NESA-DT-MDP-ADVICE",
+      "title": "Design and Technology Major Design Project advice",
+      "authority": "assessment",
+      "location": "https://www.nsw.gov.au/education-and-training/nesa/curriculum/tas/design-and-technology-stage-6-2013/project-advice",
+      "revision": "confirmed-current",
+      "use": "Source-bound syllabus, teaching, practical or assessment boundary evidence."
+    },
+    {
+      "id": "SRC-NESA-DT-MDP-MARKING-2024",
+      "title": "Design and Technology Major Design Project marking guidelines 2024",
+      "authority": "assessment",
+      "location": "https://www.nsw.gov.au/sites/default/files/noindex/2025-03/design-technology-marking-guidelines-major-projects-2024.pdf",
+      "revision": "confirmed-current-reference",
+      "use": "Source-bound syllabus, teaching, practical or assessment boundary evidence."
+    },
+    {
+      "id": "SRC-NESA-DT-SYL-2013",
+      "title": "Design and Technology Stage 6 Syllabus (2013)",
+      "authority": "official-syllabus",
+      "location": "https://www.nsw.gov.au/education-and-training/nesa/curriculum/tas/design-and-technology-stage-6-2013",
+      "revision": "confirmed-current",
+      "use": "Source-bound syllabus, teaching, practical or assessment boundary evidence."
+    },
+    {
+      "id": "SRC-WWHS-DT-FOLIO-GUIDE",
+      "title": "Folio Guide 2024-25",
+      "authority": "teacher-technical",
+      "location": "Private authorised school source; public location intentionally withheld.",
+      "revision": "confirmed-authorised-with-current-NESA-control",
+      "use": "Source-bound syllabus, teaching, practical or assessment boundary evidence."
+    },
+    {
+      "id": "SRC-WWHS-DT-MDP-CHECKLIST-2026",
+      "title": "Major Project Checklist",
+      "authority": "teacher-technical",
+      "location": "Private authorised school source; public location intentionally withheld.",
+      "revision": "confirmed-authorised-with-date-conflict",
+      "use": "Source-bound syllabus, teaching, practical or assessment boundary evidence."
+    },
+    {
+      "id": "SRC-WWHS-DT-REVISION-V3-2026",
+      "title": "Trial HSC Revision Guide V3",
+      "authority": "teacher-technical",
+      "location": "Private authorised school source; public location intentionally withheld.",
+      "revision": "confirmed-authorised",
+      "use": "Source-bound syllabus, teaching, practical or assessment boundary evidence."
+    },
+    {
+      "id": "SRC-WWHS-DT-STRUCTURE",
+      "title": "D&T course structure",
+      "authority": "teacher-technical",
+      "location": "Private authorised school source; public location intentionally withheld.",
+      "revision": "confirmed-authorised",
+      "use": "Source-bound syllabus, teaching, practical or assessment boundary evidence."
+    },
+    {
+      "id": "SRC-WWHS-DT-TASK1-2025",
+      "title": "Innovative case study task - 2025",
+      "authority": "assessment",
+      "location": "Private authorised school source; public location intentionally withheld.",
+      "revision": "confirmed-for-2025-26-cohort",
+      "use": "Source-bound syllabus, teaching, practical or assessment boundary evidence."
+    },
+    {
+      "id": "SRC-WWHS-DT-TASK3-2026",
+      "title": "Assessment Task 3 - Design Project Presentation and Video",
+      "authority": "assessment",
+      "location": "Private authorised school source; public location intentionally withheld.",
+      "revision": "usable-with-file-date-conflict",
+      "use": "Source-bound syllabus, teaching, practical or assessment boundary evidence."
+    },
+    {
+      "id": "SRC-WEBSITE-Y11-DT",
+      "title": "Year 11 Design and Technology public course site",
+      "authority": "website",
+      "location": "https://stevencowell.github.io/Main-Page/Year-11-Design-and-Technology/",
+      "revision": "HTTP 200 live check 2026-09-01",
+      "use": "Course-root support destination; detailed period-to-section equivalence is not asserted."
+    },
+    {
+      "id": "SRC-WEBSITE-Y12-DT",
+      "title": "Year 12 HSC Design and Technology public course site",
+      "authority": "website",
+      "location": "https://stevencowell.github.io/Year-12-Design-and-Technology/",
+      "revision": "HTTP 200 live check 2026-09-01",
+      "use": "Named HSC module and theory-section destination evidence."
+    }
+  ],
+  "periods": [
+    {
+      "number": 1,
+      "type": "Site/theory",
+      "focus": "The two-year bridge and HSC course map — site/theory",
+      "student_work": "Teach the two-year bridge and hsc course map through the named theory, purposeful visual, non-video pathway and adjacent formative package.",
+      "evidence": "Formative learning package at modules/module-01.html#m01s01-learning: ten feedback-rich questions, one higher-order response and one applied activity.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H1.1",
+        "H1.2",
+        "H4.1",
+        "H5.1"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-STRUCTURE"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-01.html#m01s01-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "course structure and Preliminary/HSC boundary",
+        "individual MDP supervision, authentication and outside-assistance boundaries",
+        "identification and exploration of a need or opportunity"
+      ],
+      "source_period_id": "Y12-P001"
+    },
+    {
+      "number": 2,
+      "type": "Project/folio",
+      "focus": "The two-year bridge and HSC course map — project/folio",
+      "student_work": "Apply the two-year bridge and hsc course map to the individual MDP decision or folio record; make the evidence-to-decision link explicit.",
+      "evidence": "Formative MDP folio or management evidence linked to m01s01; not a formal submission record.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H1.1",
+        "H1.2",
+        "H4.1",
+        "H5.1"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-STRUCTURE"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-01.html#m01s01-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "course structure and Preliminary/HSC boundary",
+        "individual MDP supervision, authentication and outside-assistance boundaries",
+        "identification and exploration of a need or opportunity"
+      ],
+      "source_period_id": "Y12-P002"
+    },
+    {
+      "number": 3,
+      "type": "Site/theory",
+      "focus": "The two-year bridge and HSC course map — site/theory",
+      "student_work": "Teach the two-year bridge and hsc course map through the named theory, purposeful visual, non-video pathway and adjacent formative package.",
+      "evidence": "Formative learning package at modules/module-01.html#m01s01-learning: ten feedback-rich questions, one higher-order response and one applied activity.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H1.1",
+        "H1.2",
+        "H4.1",
+        "H5.1"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-STRUCTURE"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-01.html#m01s01-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "course structure and Preliminary/HSC boundary",
+        "individual MDP supervision, authentication and outside-assistance boundaries",
+        "identification and exploration of a need or opportunity"
+      ],
+      "source_period_id": "Y12-P003"
+    },
+    {
+      "number": 4,
+      "type": "Project/folio",
+      "focus": "Individual MDP, supervision and authentication — project/folio",
+      "student_work": "Apply individual mdp, supervision and authentication to the individual MDP decision or folio record; make the evidence-to-decision link explicit.",
+      "evidence": "Formative MDP folio or management evidence linked to m01s02; not a formal submission record.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H1.1",
+        "H1.2",
+        "H4.1",
+        "H5.1"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-NESA-DT-MDP-ADVICE",
+        "SRC-WWHS-DT-FOLIO-GUIDE"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-01.html#m01s02-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "course structure and Preliminary/HSC boundary",
+        "individual MDP supervision, authentication and outside-assistance boundaries",
+        "identification and exploration of a need or opportunity"
+      ],
+      "source_period_id": "Y12-P004"
+    },
+    {
+      "number": 5,
+      "type": "Site/theory",
+      "focus": "Individual MDP, supervision and authentication — site/theory",
+      "student_work": "Teach individual mdp, supervision and authentication through the named theory, purposeful visual, non-video pathway and adjacent formative package.",
+      "evidence": "Formative learning package at modules/module-01.html#m01s02-learning: ten feedback-rich questions, one higher-order response and one applied activity.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H1.1",
+        "H1.2",
+        "H4.1",
+        "H5.1"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-NESA-DT-MDP-ADVICE",
+        "SRC-WWHS-DT-FOLIO-GUIDE"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-01.html#m01s02-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "course structure and Preliminary/HSC boundary",
+        "individual MDP supervision, authentication and outside-assistance boundaries",
+        "identification and exploration of a need or opportunity"
+      ],
+      "source_period_id": "Y12-P005"
+    },
+    {
+      "number": 6,
+      "type": "Project/folio",
+      "focus": "Individual MDP, supervision and authentication — project/folio",
+      "student_work": "Apply individual mdp, supervision and authentication to the individual MDP decision or folio record; make the evidence-to-decision link explicit.",
+      "evidence": "Formative MDP folio or management evidence linked to m01s02; not a formal submission record.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H1.1",
+        "H1.2",
+        "H4.1",
+        "H5.1"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-NESA-DT-MDP-ADVICE",
+        "SRC-WWHS-DT-FOLIO-GUIDE"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-01.html#m01s02-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "course structure and Preliminary/HSC boundary",
+        "individual MDP supervision, authentication and outside-assistance boundaries",
+        "identification and exploration of a need or opportunity"
+      ],
+      "source_period_id": "Y12-P006"
+    },
+    {
+      "number": 7,
+      "type": "Site/theory",
+      "focus": "From a need or opportunity to an open design brief — site/theory",
+      "student_work": "Teach from a need or opportunity to an open design brief through the named theory, purposeful visual, non-video pathway and adjacent formative package.",
+      "evidence": "Formative learning package at modules/module-01.html#m01s03-learning: ten feedback-rich questions, one higher-order response and one applied activity.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H1.1",
+        "H1.2",
+        "H4.1",
+        "H5.1"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-FOLIO-GUIDE"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-01.html#m01s03-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "course structure and Preliminary/HSC boundary",
+        "individual MDP supervision, authentication and outside-assistance boundaries",
+        "identification and exploration of a need or opportunity"
+      ],
+      "source_period_id": "Y12-P007"
+    },
+    {
+      "number": 8,
+      "type": "Project/folio",
+      "focus": "From a need or opportunity to an open design brief — project/folio",
+      "student_work": "Apply from a need or opportunity to an open design brief to the individual MDP decision or folio record; make the evidence-to-decision link explicit.",
+      "evidence": "Formative MDP folio or management evidence linked to m01s03; not a formal submission record.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H1.1",
+        "H1.2",
+        "H4.1",
+        "H5.1"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-FOLIO-GUIDE"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-01.html#m01s03-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "course structure and Preliminary/HSC boundary",
+        "individual MDP supervision, authentication and outside-assistance boundaries",
+        "identification and exploration of a need or opportunity"
+      ],
+      "source_period_id": "Y12-P008"
+    },
+    {
+      "number": 9,
+      "type": "Site/theory",
+      "focus": "Innovation, invention and degree of difference — site/theory",
+      "student_work": "Teach innovation, invention and degree of difference through the named theory, purposeful visual, non-video pathway and adjacent formative package.",
+      "evidence": "Formative learning package at modules/module-02.html#m02s01-learning: ten feedback-rich questions, one higher-order response and one applied activity.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H2.1",
+        "H2.2",
+        "H3.1",
+        "H6.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-TASK1-2025"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-02.html#m02s01-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-17",
+        "TTC-19"
+      ],
+      "syllabus_content": [
+        "designs and design practice",
+        "factors affecting successful innovation",
+        "emerging technologies and implications"
+      ],
+      "source_period_id": "Y12-P009"
+    },
+    {
+      "number": 10,
+      "type": "Project/folio",
+      "focus": "Innovation, invention and degree of difference — project/folio",
+      "student_work": "Apply innovation, invention and degree of difference to the individual MDP decision or folio record; make the evidence-to-decision link explicit.",
+      "evidence": "Formative MDP folio or management evidence linked to m02s01; not a formal submission record.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H2.1",
+        "H2.2",
+        "H3.1",
+        "H6.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-TASK1-2025"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-02.html#m02s01-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-17",
+        "TTC-19"
+      ],
+      "syllabus_content": [
+        "designs and design practice",
+        "factors affecting successful innovation",
+        "emerging technologies and implications"
+      ],
+      "source_period_id": "Y12-P010"
+    },
+    {
+      "number": 11,
+      "type": "Site/theory",
+      "focus": "Innovation, invention and degree of difference — site/theory",
+      "student_work": "Teach innovation, invention and degree of difference through the named theory, purposeful visual, non-video pathway and adjacent formative package.",
+      "evidence": "Formative learning package at modules/module-02.html#m02s01-learning: ten feedback-rich questions, one higher-order response and one applied activity.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H2.1",
+        "H2.2",
+        "H3.1",
+        "H6.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-TASK1-2025"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-02.html#m02s01-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-17",
+        "TTC-19"
+      ],
+      "syllabus_content": [
+        "designs and design practice",
+        "factors affecting successful innovation",
+        "emerging technologies and implications"
+      ],
+      "source_period_id": "Y12-P011"
+    },
+    {
+      "number": 12,
+      "type": "Project/folio",
+      "focus": "Innovation, invention and degree of difference — project/folio",
+      "student_work": "Apply innovation, invention and degree of difference to the individual MDP decision or folio record; make the evidence-to-decision link explicit.",
+      "evidence": "Formative MDP folio or management evidence linked to m02s01; not a formal submission record.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H2.1",
+        "H2.2",
+        "H3.1",
+        "H6.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-TASK1-2025"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-02.html#m02s01-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-17",
+        "TTC-19"
+      ],
+      "syllabus_content": [
+        "designs and design practice",
+        "factors affecting successful innovation",
+        "emerging technologies and implications"
+      ],
+      "source_period_id": "Y12-P012"
+    },
+    {
+      "number": 13,
+      "type": "Site/theory",
+      "focus": "Drivers, timing and the success of innovation — site/theory",
+      "student_work": "Teach drivers, timing and the success of innovation through the named theory, purposeful visual, non-video pathway and adjacent formative package.",
+      "evidence": "Formative learning package at modules/module-02.html#m02s02-learning: ten feedback-rich questions, one higher-order response and one applied activity.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H2.1",
+        "H2.2",
+        "H3.1",
+        "H6.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-TASK1-2025"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-02.html#m02s02-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-17",
+        "TTC-19"
+      ],
+      "syllabus_content": [
+        "designs and design practice",
+        "factors affecting successful innovation",
+        "emerging technologies and implications"
+      ],
+      "source_period_id": "Y12-P013"
+    },
+    {
+      "number": 14,
+      "type": "Site/theory",
+      "focus": "Drivers, timing and the success of innovation — site/theory",
+      "student_work": "Teach drivers, timing and the success of innovation through the named theory, purposeful visual, non-video pathway and adjacent formative package.",
+      "evidence": "Formative learning package at modules/module-02.html#m02s02-learning: ten feedback-rich questions, one higher-order response and one applied activity.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H2.1",
+        "H2.2",
+        "H3.1",
+        "H6.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-TASK1-2025"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-02.html#m02s02-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-17",
+        "TTC-19"
+      ],
+      "syllabus_content": [
+        "designs and design practice",
+        "factors affecting successful innovation",
+        "emerging technologies and implications"
+      ],
+      "source_period_id": "Y12-P014"
+    },
+    {
+      "number": 15,
+      "type": "Site/theory",
+      "focus": "Drivers, timing and the success of innovation — site/theory",
+      "student_work": "Teach drivers, timing and the success of innovation through the named theory, purposeful visual, non-video pathway and adjacent formative package.",
+      "evidence": "Formative learning package at modules/module-02.html#m02s02-learning: ten feedback-rich questions, one higher-order response and one applied activity.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H2.1",
+        "H2.2",
+        "H3.1",
+        "H6.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-TASK1-2025"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-02.html#m02s02-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-17",
+        "TTC-19"
+      ],
+      "syllabus_content": [
+        "designs and design practice",
+        "factors affecting successful innovation",
+        "emerging technologies and implications"
+      ],
+      "source_period_id": "Y12-P015"
+    },
+    {
+      "number": 16,
+      "type": "Site/theory",
+      "focus": "Emerging technologies and their implications — site/theory",
+      "student_work": "Teach emerging technologies and their implications through the named theory, purposeful visual, non-video pathway and adjacent formative package.",
+      "evidence": "Formative learning package at modules/module-02.html#m02s03-learning: ten feedback-rich questions, one higher-order response and one applied activity.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H2.1",
+        "H2.2",
+        "H3.1",
+        "H6.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-TASK1-2025"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-02.html#m02s03-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-17",
+        "TTC-19"
+      ],
+      "syllabus_content": [
+        "designs and design practice",
+        "factors affecting successful innovation",
+        "emerging technologies and implications"
+      ],
+      "source_period_id": "Y12-P016"
+    },
+    {
+      "number": 17,
+      "type": "Site/theory",
+      "focus": "Emerging technologies and their implications — site/theory",
+      "student_work": "Teach emerging technologies and their implications through the named theory, purposeful visual, non-video pathway and adjacent formative package.",
+      "evidence": "Formative learning package at modules/module-02.html#m02s03-learning: ten feedback-rich questions, one higher-order response and one applied activity.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H2.1",
+        "H2.2",
+        "H3.1",
+        "H6.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-TASK1-2025"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-02.html#m02s03-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-17",
+        "TTC-19"
+      ],
+      "syllabus_content": [
+        "designs and design practice",
+        "factors affecting successful innovation",
+        "emerging technologies and implications"
+      ],
+      "source_period_id": "Y12-P017"
+    },
+    {
+      "number": 18,
+      "type": "Site/theory",
+      "focus": "Emerging technologies and their implications — site/theory",
+      "student_work": "Teach emerging technologies and their implications through the named theory, purposeful visual, non-video pathway and adjacent formative package.",
+      "evidence": "Formative learning package at modules/module-02.html#m02s03-learning: ten feedback-rich questions, one higher-order response and one applied activity.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H2.1",
+        "H2.2",
+        "H3.1",
+        "H6.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-TASK1-2025"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-02.html#m02s03-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-17",
+        "TTC-19"
+      ],
+      "syllabus_content": [
+        "designs and design practice",
+        "factors affecting successful innovation",
+        "emerging technologies and implications"
+      ],
+      "source_period_id": "Y12-P018"
+    },
+    {
+      "number": 19,
+      "type": "Site/theory",
+      "focus": "Designer practice, entrepreneurship and evidence — site/theory",
+      "student_work": "Teach designer practice, entrepreneurship and evidence through the named theory, purposeful visual, non-video pathway and adjacent formative package.",
+      "evidence": "Formative learning package at modules/module-03.html#m03s01-learning: ten feedback-rich questions, one higher-order response and one applied activity.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H1.2",
+        "H2.1",
+        "H2.2",
+        "H3.1",
+        "H5.2",
+        "H6.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-TASK1-2025"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-03.html#m03s01-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-17",
+        "TTC-19"
+      ],
+      "syllabus_content": [
+        "designer and producer practice",
+        "entrepreneurial activity and contextual influences",
+        "ethical, environmental and Australian societal impact"
+      ],
+      "source_period_id": "Y12-P019"
+    },
+    {
+      "number": 20,
+      "type": "Project/folio",
+      "focus": "Designer practice, entrepreneurship and evidence — project/folio",
+      "student_work": "Apply designer practice, entrepreneurship and evidence to the individual MDP decision or folio record; make the evidence-to-decision link explicit.",
+      "evidence": "Formative MDP folio or management evidence linked to m03s01; not a formal submission record.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H1.2",
+        "H2.1",
+        "H2.2",
+        "H3.1",
+        "H5.2",
+        "H6.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-TASK1-2025"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-03.html#m03s01-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-17",
+        "TTC-19"
+      ],
+      "syllabus_content": [
+        "designer and producer practice",
+        "entrepreneurial activity and contextual influences",
+        "ethical, environmental and Australian societal impact"
+      ],
+      "source_period_id": "Y12-P020"
+    },
+    {
+      "number": 21,
+      "type": "Site/theory",
+      "focus": "Designer practice, entrepreneurship and evidence — site/theory",
+      "student_work": "Teach designer practice, entrepreneurship and evidence through the named theory, purposeful visual, non-video pathway and adjacent formative package.",
+      "evidence": "Formative learning package at modules/module-03.html#m03s01-learning: ten feedback-rich questions, one higher-order response and one applied activity.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H1.2",
+        "H2.1",
+        "H2.2",
+        "H3.1",
+        "H5.2",
+        "H6.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-TASK1-2025"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-03.html#m03s01-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-17",
+        "TTC-19"
+      ],
+      "syllabus_content": [
+        "designer and producer practice",
+        "entrepreneurial activity and contextual influences",
+        "ethical, environmental and Australian societal impact"
+      ],
+      "source_period_id": "Y12-P021"
+    },
+    {
+      "number": 22,
+      "type": "Project/folio",
+      "focus": "Designer practice, entrepreneurship and evidence — project/folio",
+      "student_work": "Apply designer practice, entrepreneurship and evidence to the individual MDP decision or folio record; make the evidence-to-decision link explicit.",
+      "evidence": "Formative MDP folio or management evidence linked to m03s01; not a formal submission record.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H1.2",
+        "H2.1",
+        "H2.2",
+        "H3.1",
+        "H5.2",
+        "H6.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-TASK1-2025"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-03.html#m03s01-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-17",
+        "TTC-19"
+      ],
+      "syllabus_content": [
+        "designer and producer practice",
+        "entrepreneurial activity and contextual influences",
+        "ethical, environmental and Australian societal impact"
+      ],
+      "source_period_id": "Y12-P022"
+    },
+    {
+      "number": 23,
+      "type": "Site/theory",
+      "focus": "Historical, cultural, political and economic influences — site/theory",
+      "student_work": "Teach historical, cultural, political and economic influences through the named theory, purposeful visual, non-video pathway and adjacent formative package.",
+      "evidence": "Formative learning package at modules/module-03.html#m03s02-learning: ten feedback-rich questions, one higher-order response and one applied activity.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H1.2",
+        "H2.1",
+        "H2.2",
+        "H3.1",
+        "H5.2",
+        "H6.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-TASK1-2025"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-03.html#m03s02-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-17",
+        "TTC-19"
+      ],
+      "syllabus_content": [
+        "designer and producer practice",
+        "entrepreneurial activity and contextual influences",
+        "ethical, environmental and Australian societal impact"
+      ],
+      "source_period_id": "Y12-P023"
+    },
+    {
+      "number": 24,
+      "type": "Site/theory",
+      "focus": "Historical, cultural, political and economic influences — site/theory",
+      "student_work": "Teach historical, cultural, political and economic influences through the named theory, purposeful visual, non-video pathway and adjacent formative package.",
+      "evidence": "Formative learning package at modules/module-03.html#m03s02-learning: ten feedback-rich questions, one higher-order response and one applied activity.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H1.2",
+        "H2.1",
+        "H2.2",
+        "H3.1",
+        "H5.2",
+        "H6.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-TASK1-2025"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-03.html#m03s02-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-17",
+        "TTC-19"
+      ],
+      "syllabus_content": [
+        "designer and producer practice",
+        "entrepreneurial activity and contextual influences",
+        "ethical, environmental and Australian societal impact"
+      ],
+      "source_period_id": "Y12-P024"
+    },
+    {
+      "number": 25,
+      "type": "Site/theory",
+      "focus": "Historical, cultural, political and economic influences — site/theory",
+      "student_work": "Teach historical, cultural, political and economic influences through the named theory, purposeful visual, non-video pathway and adjacent formative package.",
+      "evidence": "Formative learning package at modules/module-03.html#m03s02-learning: ten feedback-rich questions, one higher-order response and one applied activity.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H1.2",
+        "H2.1",
+        "H2.2",
+        "H3.1",
+        "H5.2",
+        "H6.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-TASK1-2025"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-03.html#m03s02-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-17",
+        "TTC-19"
+      ],
+      "syllabus_content": [
+        "designer and producer practice",
+        "entrepreneurial activity and contextual influences",
+        "ethical, environmental and Australian societal impact"
+      ],
+      "source_period_id": "Y12-P025"
+    },
+    {
+      "number": 26,
+      "type": "Site/theory",
+      "focus": "Ethical, environmental and Australian societal impact — site/theory",
+      "student_work": "Teach ethical, environmental and australian societal impact through the named theory, purposeful visual, non-video pathway and adjacent formative package.",
+      "evidence": "Formative learning package at modules/module-03.html#m03s03-learning: ten feedback-rich questions, one higher-order response and one applied activity.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H1.2",
+        "H2.1",
+        "H2.2",
+        "H3.1",
+        "H5.2",
+        "H6.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-TASK1-2025"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-03.html#m03s03-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-17",
+        "TTC-19"
+      ],
+      "syllabus_content": [
+        "designer and producer practice",
+        "entrepreneurial activity and contextual influences",
+        "ethical, environmental and Australian societal impact"
+      ],
+      "source_period_id": "Y12-P026"
+    },
+    {
+      "number": 27,
+      "type": "Site/theory",
+      "focus": "Ethical, environmental and Australian societal impact — site/theory",
+      "student_work": "Teach ethical, environmental and australian societal impact through the named theory, purposeful visual, non-video pathway and adjacent formative package.",
+      "evidence": "Formative learning package at modules/module-03.html#m03s03-learning: ten feedback-rich questions, one higher-order response and one applied activity.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H1.2",
+        "H2.1",
+        "H2.2",
+        "H3.1",
+        "H5.2",
+        "H6.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-TASK1-2025"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-03.html#m03s03-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-17",
+        "TTC-19"
+      ],
+      "syllabus_content": [
+        "designer and producer practice",
+        "entrepreneurial activity and contextual influences",
+        "ethical, environmental and Australian societal impact"
+      ],
+      "source_period_id": "Y12-P027"
+    },
+    {
+      "number": 28,
+      "type": "Site/theory",
+      "focus": "Ethical, environmental and Australian societal impact — site/theory",
+      "student_work": "Teach ethical, environmental and australian societal impact through the named theory, purposeful visual, non-video pathway and adjacent formative package.",
+      "evidence": "Formative learning package at modules/module-03.html#m03s03-learning: ten feedback-rich questions, one higher-order response and one applied activity.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H1.2",
+        "H2.1",
+        "H2.2",
+        "H3.1",
+        "H5.2",
+        "H6.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-TASK1-2025"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-03.html#m03s03-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-17",
+        "TTC-19"
+      ],
+      "syllabus_content": [
+        "designer and producer practice",
+        "entrepreneurial activity and contextual influences",
+        "ethical, environmental and Australian societal impact"
+      ],
+      "source_period_id": "Y12-P028"
+    },
+    {
+      "number": 29,
+      "type": "Site/theory",
+      "focus": "Need identification, target users and design situation — site/theory",
+      "student_work": "Teach need identification, target users and design situation through the named theory, purposeful visual, non-video pathway and adjacent formative package.",
+      "evidence": "Formative learning package at modules/module-04.html#m04s01-learning: ten feedback-rich questions, one higher-order response and one applied activity.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H1.1",
+        "H4.1",
+        "H5.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-FOLIO-GUIDE"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-04.html#m04s01-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-04",
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "identification and exploration of need",
+        "areas of investigation",
+        "criteria to evaluate success"
+      ],
+      "source_period_id": "Y12-P029"
+    },
+    {
+      "number": 30,
+      "type": "Project/folio",
+      "focus": "Need identification, target users and design situation — project/folio",
+      "student_work": "Apply need identification, target users and design situation to the individual MDP decision or folio record; make the evidence-to-decision link explicit.",
+      "evidence": "Formative MDP folio or management evidence linked to m04s01; not a formal submission record.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H1.1",
+        "H4.1",
+        "H5.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-FOLIO-GUIDE"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-04.html#m04s01-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-04",
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "identification and exploration of need",
+        "areas of investigation",
+        "criteria to evaluate success"
+      ],
+      "source_period_id": "Y12-P030"
+    },
+    {
+      "number": 31,
+      "type": "Site/theory",
+      "focus": "Need identification, target users and design situation — site/theory",
+      "student_work": "Teach need identification, target users and design situation through the named theory, purposeful visual, non-video pathway and adjacent formative package.",
+      "evidence": "Formative learning package at modules/module-04.html#m04s01-learning: ten feedback-rich questions, one higher-order response and one applied activity.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H1.1",
+        "H4.1",
+        "H5.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-FOLIO-GUIDE"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-04.html#m04s01-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-04",
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "identification and exploration of need",
+        "areas of investigation",
+        "criteria to evaluate success"
+      ],
+      "source_period_id": "Y12-P031"
+    },
+    {
+      "number": 32,
+      "type": "Project/folio",
+      "focus": "Need identification, target users and design situation — project/folio",
+      "student_work": "Apply need identification, target users and design situation to the individual MDP decision or folio record; make the evidence-to-decision link explicit.",
+      "evidence": "Formative MDP folio or management evidence linked to m04s01; not a formal submission record.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H1.1",
+        "H4.1",
+        "H5.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-FOLIO-GUIDE"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-04.html#m04s01-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-04",
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "identification and exploration of need",
+        "areas of investigation",
+        "criteria to evaluate success"
+      ],
+      "source_period_id": "Y12-P032"
+    },
+    {
+      "number": 33,
+      "type": "Site/theory",
+      "focus": "Areas of investigation and an evidence plan — site/theory",
+      "student_work": "Teach areas of investigation and an evidence plan through the named theory, purposeful visual, non-video pathway and adjacent formative package.",
+      "evidence": "Formative learning package at modules/module-04.html#m04s02-learning: ten feedback-rich questions, one higher-order response and one applied activity.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H1.1",
+        "H4.1",
+        "H5.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-FOLIO-GUIDE"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-04.html#m04s02-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-04",
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "identification and exploration of need",
+        "areas of investigation",
+        "criteria to evaluate success"
+      ],
+      "source_period_id": "Y12-P033"
+    },
+    {
+      "number": 34,
+      "type": "Project/folio",
+      "focus": "Areas of investigation and an evidence plan — project/folio",
+      "student_work": "Apply areas of investigation and an evidence plan to the individual MDP decision or folio record; make the evidence-to-decision link explicit.",
+      "evidence": "Formative MDP folio or management evidence linked to m04s02; not a formal submission record.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H1.1",
+        "H4.1",
+        "H5.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-FOLIO-GUIDE"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-04.html#m04s02-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-04",
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "identification and exploration of need",
+        "areas of investigation",
+        "criteria to evaluate success"
+      ],
+      "source_period_id": "Y12-P034"
+    },
+    {
+      "number": 35,
+      "type": "Site/theory",
+      "focus": "Areas of investigation and an evidence plan — site/theory",
+      "student_work": "Teach areas of investigation and an evidence plan through the named theory, purposeful visual, non-video pathway and adjacent formative package.",
+      "evidence": "Formative learning package at modules/module-04.html#m04s02-learning: ten feedback-rich questions, one higher-order response and one applied activity.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H1.1",
+        "H4.1",
+        "H5.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-FOLIO-GUIDE"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-04.html#m04s02-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-04",
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "identification and exploration of need",
+        "areas of investigation",
+        "criteria to evaluate success"
+      ],
+      "source_period_id": "Y12-P035"
+    },
+    {
+      "number": 36,
+      "type": "Project/folio",
+      "focus": "Areas of investigation and an evidence plan — project/folio",
+      "student_work": "Apply areas of investigation and an evidence plan to the individual MDP decision or folio record; make the evidence-to-decision link explicit.",
+      "evidence": "Formative MDP folio or management evidence linked to m04s02; not a formal submission record.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H1.1",
+        "H4.1",
+        "H5.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-FOLIO-GUIDE"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-04.html#m04s02-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-04",
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "identification and exploration of need",
+        "areas of investigation",
+        "criteria to evaluate success"
+      ],
+      "source_period_id": "Y12-P036"
+    },
+    {
+      "number": 37,
+      "type": "Site/theory",
+      "focus": "Measurable criteria to evaluate success — site/theory",
+      "student_work": "Teach measurable criteria to evaluate success through the named theory, purposeful visual, non-video pathway and adjacent formative package.",
+      "evidence": "Formative learning package at modules/module-04.html#m04s03-learning: ten feedback-rich questions, one higher-order response and one applied activity.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H1.1",
+        "H4.1",
+        "H5.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-FOLIO-GUIDE"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-04.html#m04s03-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-04",
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "identification and exploration of need",
+        "areas of investigation",
+        "criteria to evaluate success"
+      ],
+      "source_period_id": "Y12-P037"
+    },
+    {
+      "number": 38,
+      "type": "Project/folio",
+      "focus": "Measurable criteria to evaluate success — project/folio",
+      "student_work": "Apply measurable criteria to evaluate success to the individual MDP decision or folio record; make the evidence-to-decision link explicit.",
+      "evidence": "Formative MDP folio or management evidence linked to m04s03; not a formal submission record.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H1.1",
+        "H4.1",
+        "H5.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-FOLIO-GUIDE"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-04.html#m04s03-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-04",
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "identification and exploration of need",
+        "areas of investigation",
+        "criteria to evaluate success"
+      ],
+      "source_period_id": "Y12-P038"
+    },
+    {
+      "number": 39,
+      "type": "Project/folio",
+      "focus": "Measurable criteria to evaluate success — project/folio",
+      "student_work": "Apply measurable criteria to evaluate success to the individual MDP decision or folio record; make the evidence-to-decision link explicit.",
+      "evidence": "Formative MDP folio or management evidence linked to m04s03; not a formal submission record.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H1.1",
+        "H4.1",
+        "H5.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-FOLIO-GUIDE"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-04.html#m04s03-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-04",
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "identification and exploration of need",
+        "areas of investigation",
+        "criteria to evaluate success"
+      ],
+      "source_period_id": "Y12-P039"
+    },
+    {
+      "number": 40,
+      "type": "Project/folio",
+      "focus": "Measurable criteria to evaluate success — project/folio",
+      "student_work": "Apply measurable criteria to evaluate success to the individual MDP decision or folio record; make the evidence-to-decision link explicit.",
+      "evidence": "Formative MDP folio or management evidence linked to m04s03; not a formal submission record.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H1.1",
+        "H4.1",
+        "H5.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-FOLIO-GUIDE"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-04.html#m04s03-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-04",
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "identification and exploration of need",
+        "areas of investigation",
+        "criteria to evaluate success"
+      ],
+      "source_period_id": "Y12-P040"
+    },
+    {
+      "number": 41,
+      "type": "Site/theory",
+      "focus": "Primary and secondary research choices — site/theory",
+      "student_work": "Teach primary and secondary research choices through the named theory, purposeful visual, non-video pathway and adjacent formative package.",
+      "evidence": "Formative learning package at modules/module-05.html#m05s01-learning: ten feedback-rich questions, one higher-order response and one applied activity.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H4.1",
+        "H5.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-FOLIO-GUIDE"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-05.html#m05s01-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-04",
+        "TTC-05",
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "research methods",
+        "data quality, bias and ethics",
+        "analysis and application of findings"
+      ],
+      "source_period_id": "Y12-P041"
+    },
+    {
+      "number": 42,
+      "type": "Project/folio",
+      "focus": "Primary and secondary research choices — project/folio",
+      "student_work": "Apply primary and secondary research choices to the individual MDP decision or folio record; make the evidence-to-decision link explicit.",
+      "evidence": "Formative MDP folio or management evidence linked to m05s01; not a formal submission record.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H4.1",
+        "H5.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-FOLIO-GUIDE"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-05.html#m05s01-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-04",
+        "TTC-05",
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "research methods",
+        "data quality, bias and ethics",
+        "analysis and application of findings"
+      ],
+      "source_period_id": "Y12-P042"
+    },
+    {
+      "number": 43,
+      "type": "Site/theory",
+      "focus": "Primary and secondary research choices — site/theory",
+      "student_work": "Teach primary and secondary research choices through the named theory, purposeful visual, non-video pathway and adjacent formative package.",
+      "evidence": "Formative learning package at modules/module-05.html#m05s01-learning: ten feedback-rich questions, one higher-order response and one applied activity.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H4.1",
+        "H5.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-FOLIO-GUIDE"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-05.html#m05s01-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-04",
+        "TTC-05",
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "research methods",
+        "data quality, bias and ethics",
+        "analysis and application of findings"
+      ],
+      "source_period_id": "Y12-P043"
+    },
+    {
+      "number": 44,
+      "type": "Project/folio",
+      "focus": "Primary and secondary research choices — project/folio",
+      "student_work": "Apply primary and secondary research choices to the individual MDP decision or folio record; make the evidence-to-decision link explicit.",
+      "evidence": "Formative MDP folio or management evidence linked to m05s01; not a formal submission record.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H4.1",
+        "H5.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-FOLIO-GUIDE"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-05.html#m05s01-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-04",
+        "TTC-05",
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "research methods",
+        "data quality, bias and ethics",
+        "analysis and application of findings"
+      ],
+      "source_period_id": "Y12-P044"
+    },
+    {
+      "number": 45,
+      "type": "Site/theory",
+      "focus": "Data quality, bias, consent and source acknowledgement — site/theory",
+      "student_work": "Teach data quality, bias, consent and source acknowledgement through the named theory, purposeful visual, non-video pathway and adjacent formative package.",
+      "evidence": "Formative learning package at modules/module-05.html#m05s02-learning: ten feedback-rich questions, one higher-order response and one applied activity.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H4.1",
+        "H5.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-FOLIO-GUIDE",
+        "SRC-NESA-DT-MDP-ADVICE"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-05.html#m05s02-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-04",
+        "TTC-05",
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "research methods",
+        "data quality, bias and ethics",
+        "analysis and application of findings"
+      ],
+      "source_period_id": "Y12-P045"
+    },
+    {
+      "number": 46,
+      "type": "Project/folio",
+      "focus": "Data quality, bias, consent and source acknowledgement — project/folio",
+      "student_work": "Apply data quality, bias, consent and source acknowledgement to the individual MDP decision or folio record; make the evidence-to-decision link explicit.",
+      "evidence": "Formative MDP folio or management evidence linked to m05s02; not a formal submission record.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H4.1",
+        "H5.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-FOLIO-GUIDE",
+        "SRC-NESA-DT-MDP-ADVICE"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-05.html#m05s02-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-04",
+        "TTC-05",
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "research methods",
+        "data quality, bias and ethics",
+        "analysis and application of findings"
+      ],
+      "source_period_id": "Y12-P046"
+    },
+    {
+      "number": 47,
+      "type": "Site/theory",
+      "focus": "Data quality, bias, consent and source acknowledgement — site/theory",
+      "student_work": "Teach data quality, bias, consent and source acknowledgement through the named theory, purposeful visual, non-video pathway and adjacent formative package.",
+      "evidence": "Formative learning package at modules/module-05.html#m05s02-learning: ten feedback-rich questions, one higher-order response and one applied activity.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H4.1",
+        "H5.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-FOLIO-GUIDE",
+        "SRC-NESA-DT-MDP-ADVICE"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-05.html#m05s02-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-04",
+        "TTC-05",
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "research methods",
+        "data quality, bias and ethics",
+        "analysis and application of findings"
+      ],
+      "source_period_id": "Y12-P047"
+    },
+    {
+      "number": 48,
+      "type": "Project/folio",
+      "focus": "Analysing findings and applying conclusions — project/folio",
+      "student_work": "Apply analysing findings and applying conclusions to the individual MDP decision or folio record; make the evidence-to-decision link explicit.",
+      "evidence": "Formative MDP folio or management evidence linked to m05s03; not a formal submission record.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H4.1",
+        "H5.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-FOLIO-GUIDE"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-05.html#m05s03-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-04",
+        "TTC-05",
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "research methods",
+        "data quality, bias and ethics",
+        "analysis and application of findings"
+      ],
+      "source_period_id": "Y12-P048"
+    },
+    {
+      "number": 49,
+      "type": "Site/theory",
+      "focus": "Analysing findings and applying conclusions — site/theory",
+      "student_work": "Teach analysing findings and applying conclusions through the named theory, purposeful visual, non-video pathway and adjacent formative package.",
+      "evidence": "Formative learning package at modules/module-05.html#m05s03-learning: ten feedback-rich questions, one higher-order response and one applied activity.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H4.1",
+        "H5.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-FOLIO-GUIDE"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-05.html#m05s03-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-04",
+        "TTC-05",
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "research methods",
+        "data quality, bias and ethics",
+        "analysis and application of findings"
+      ],
+      "source_period_id": "Y12-P049"
+    },
+    {
+      "number": 50,
+      "type": "Project/folio",
+      "focus": "Analysing findings and applying conclusions — project/folio",
+      "student_work": "Apply analysing findings and applying conclusions to the individual MDP decision or folio record; make the evidence-to-decision link explicit.",
+      "evidence": "Formative MDP folio or management evidence linked to m05s03; not a formal submission record.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H4.1",
+        "H5.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-FOLIO-GUIDE"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-05.html#m05s03-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-04",
+        "TTC-05",
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "research methods",
+        "data quality, bias and ethics",
+        "analysis and application of findings"
+      ],
+      "source_period_id": "Y12-P050"
+    },
+    {
+      "number": 51,
+      "type": "Site/theory",
+      "focus": "Action planning and dependency control — site/theory",
+      "student_work": "Teach action planning and dependency control through the named theory, purposeful visual, non-video pathway and adjacent formative package.",
+      "evidence": "Formative learning package at modules/module-06.html#m06s01-learning: ten feedback-rich questions, one higher-order response and one applied activity.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H5.1",
+        "H5.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-FOLIO-GUIDE"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-06.html#m06s01-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-05",
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "action planning",
+        "time planning and variance",
+        "finance planning and resource revision"
+      ],
+      "source_period_id": "Y12-P051"
+    },
+    {
+      "number": 52,
+      "type": "Project/folio",
+      "focus": "Action planning and dependency control — project/folio",
+      "student_work": "Apply action planning and dependency control to the individual MDP decision or folio record; make the evidence-to-decision link explicit.",
+      "evidence": "Formative MDP folio or management evidence linked to m06s01; not a formal submission record.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H5.1",
+        "H5.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-FOLIO-GUIDE"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-06.html#m06s01-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-05",
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "action planning",
+        "time planning and variance",
+        "finance planning and resource revision"
+      ],
+      "source_period_id": "Y12-P052"
+    },
+    {
+      "number": 53,
+      "type": "Site/theory",
+      "focus": "Action planning and dependency control — site/theory",
+      "student_work": "Teach action planning and dependency control through the named theory, purposeful visual, non-video pathway and adjacent formative package.",
+      "evidence": "Formative learning package at modules/module-06.html#m06s01-learning: ten feedback-rich questions, one higher-order response and one applied activity.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H5.1",
+        "H5.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-FOLIO-GUIDE"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-06.html#m06s01-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-05",
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "action planning",
+        "time planning and variance",
+        "finance planning and resource revision"
+      ],
+      "source_period_id": "Y12-P053"
+    },
+    {
+      "number": 54,
+      "type": "Project/folio",
+      "focus": "Action planning and dependency control — project/folio",
+      "student_work": "Apply action planning and dependency control to the individual MDP decision or folio record; make the evidence-to-decision link explicit.",
+      "evidence": "Formative MDP folio or management evidence linked to m06s01; not a formal submission record.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H5.1",
+        "H5.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-FOLIO-GUIDE"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-06.html#m06s01-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-05",
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "action planning",
+        "time planning and variance",
+        "finance planning and resource revision"
+      ],
+      "source_period_id": "Y12-P054"
+    },
+    {
+      "number": 55,
+      "type": "Site/theory",
+      "focus": "Time planning, milestones and variance — site/theory",
+      "student_work": "Teach time planning, milestones and variance through the named theory, purposeful visual, non-video pathway and adjacent formative package.",
+      "evidence": "Formative learning package at modules/module-06.html#m06s02-learning: ten feedback-rich questions, one higher-order response and one applied activity.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H5.1",
+        "H5.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-FOLIO-GUIDE"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-06.html#m06s02-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-05",
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "action planning",
+        "time planning and variance",
+        "finance planning and resource revision"
+      ],
+      "source_period_id": "Y12-P055"
+    },
+    {
+      "number": 56,
+      "type": "Project/folio",
+      "focus": "Time planning, milestones and variance — project/folio",
+      "student_work": "Apply time planning, milestones and variance to the individual MDP decision or folio record; make the evidence-to-decision link explicit.",
+      "evidence": "Formative MDP folio or management evidence linked to m06s02; not a formal submission record.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H5.1",
+        "H5.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-FOLIO-GUIDE"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-06.html#m06s02-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-05",
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "action planning",
+        "time planning and variance",
+        "finance planning and resource revision"
+      ],
+      "source_period_id": "Y12-P056"
+    },
+    {
+      "number": 57,
+      "type": "Site/theory",
+      "focus": "Time planning, milestones and variance — site/theory",
+      "student_work": "Teach time planning, milestones and variance through the named theory, purposeful visual, non-video pathway and adjacent formative package.",
+      "evidence": "Formative learning package at modules/module-06.html#m06s02-learning: ten feedback-rich questions, one higher-order response and one applied activity.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H5.1",
+        "H5.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-FOLIO-GUIDE"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-06.html#m06s02-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-05",
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "action planning",
+        "time planning and variance",
+        "finance planning and resource revision"
+      ],
+      "source_period_id": "Y12-P057"
+    },
+    {
+      "number": 58,
+      "type": "Project/folio",
+      "focus": "Finance planning, resource decisions and revision — project/folio",
+      "student_work": "Apply finance planning, resource decisions and revision to the individual MDP decision or folio record; make the evidence-to-decision link explicit.",
+      "evidence": "Formative MDP folio or management evidence linked to m06s03; not a formal submission record.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H5.1",
+        "H5.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-FOLIO-GUIDE"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-06.html#m06s03-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-05",
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "action planning",
+        "time planning and variance",
+        "finance planning and resource revision"
+      ],
+      "source_period_id": "Y12-P058"
+    },
+    {
+      "number": 59,
+      "type": "Project/folio",
+      "focus": "Finance planning, resource decisions and revision — project/folio",
+      "student_work": "Apply finance planning, resource decisions and revision to the individual MDP decision or folio record; make the evidence-to-decision link explicit.",
+      "evidence": "Formative MDP folio or management evidence linked to m06s03; not a formal submission record.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H5.1",
+        "H5.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-FOLIO-GUIDE"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-06.html#m06s03-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-05",
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "action planning",
+        "time planning and variance",
+        "finance planning and resource revision"
+      ],
+      "source_period_id": "Y12-P059"
+    },
+    {
+      "number": 60,
+      "type": "Project/folio",
+      "focus": "Finance planning, resource decisions and revision — project/folio",
+      "student_work": "Apply finance planning, resource decisions and revision to the individual MDP decision or folio record; make the evidence-to-decision link explicit.",
+      "evidence": "Formative MDP folio or management evidence linked to m06s03; not a formal submission record.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H5.1",
+        "H5.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-FOLIO-GUIDE"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-06.html#m06s03-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-05",
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "action planning",
+        "time planning and variance",
+        "finance planning and resource revision"
+      ],
+      "source_period_id": "Y12-P060"
+    },
+    {
+      "number": 61,
+      "type": "Site/theory",
+      "focus": "Divergent thinking and purposeful idea generation — site/theory",
+      "student_work": "Teach divergent thinking and purposeful idea generation through the named theory, purposeful visual, non-video pathway and adjacent formative package.",
+      "evidence": "Formative learning package at modules/module-07.html#m07s01-learning: ten feedback-rich questions, one higher-order response and one applied activity.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H1.1",
+        "H3.2",
+        "H4.1"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-FOLIO-GUIDE"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-07.html#m07s01-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "creativity and concept development",
+        "factors affecting design decisions",
+        "selection and justification of ideas"
+      ],
+      "source_period_id": "Y12-P061"
+    },
+    {
+      "number": 62,
+      "type": "Project/folio",
+      "focus": "Divergent thinking and purposeful idea generation — project/folio",
+      "student_work": "Apply divergent thinking and purposeful idea generation to the individual MDP decision or folio record; make the evidence-to-decision link explicit.",
+      "evidence": "Formative MDP folio or management evidence linked to m07s01; not a formal submission record.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H1.1",
+        "H3.2",
+        "H4.1"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-FOLIO-GUIDE"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-07.html#m07s01-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "creativity and concept development",
+        "factors affecting design decisions",
+        "selection and justification of ideas"
+      ],
+      "source_period_id": "Y12-P062"
+    },
+    {
+      "number": 63,
+      "type": "Practical",
+      "focus": "Divergent thinking and purposeful idea generation — practical",
+      "student_work": "Complete only teacher-authorised MDP work connected to divergent thinking and purposeful idea generation and preserve a truthful progress record; specific methods, tools, PPE and controls remain teacher-controlled.",
+      "evidence": "Student progress evidence linked to m07s01; not proof of teacher observation or safe independent work.",
+      "site_alignment": "mapped",
+      "practical_authority": "teacher-to-confirm",
+      "outcome_codes": [
+        "H1.1",
+        "H3.2",
+        "H4.1"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-FOLIO-GUIDE"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-07.html#m07s01-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-03",
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "creativity and concept development",
+        "factors affecting design decisions",
+        "selection and justification of ideas"
+      ],
+      "source_period_id": "Y12-P063"
+    },
+    {
+      "number": 64,
+      "type": "Site/theory",
+      "focus": "Divergent thinking and purposeful idea generation — site/theory",
+      "student_work": "Teach divergent thinking and purposeful idea generation through the named theory, purposeful visual, non-video pathway and adjacent formative package.",
+      "evidence": "Formative learning package at modules/module-07.html#m07s01-learning: ten feedback-rich questions, one higher-order response and one applied activity.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H1.1",
+        "H3.2",
+        "H4.1"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-FOLIO-GUIDE"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-07.html#m07s01-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "creativity and concept development",
+        "factors affecting design decisions",
+        "selection and justification of ideas"
+      ],
+      "source_period_id": "Y12-P064"
+    },
+    {
+      "number": 65,
+      "type": "Project/folio",
+      "focus": "Factors affecting design decisions — project/folio",
+      "student_work": "Apply factors affecting design decisions to the individual MDP decision or folio record; make the evidence-to-decision link explicit.",
+      "evidence": "Formative MDP folio or management evidence linked to m07s02; not a formal submission record.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H1.1",
+        "H3.2",
+        "H4.1"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-FOLIO-GUIDE"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-07.html#m07s02-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "creativity and concept development",
+        "factors affecting design decisions",
+        "selection and justification of ideas"
+      ],
+      "source_period_id": "Y12-P065"
+    },
+    {
+      "number": 66,
+      "type": "Practical",
+      "focus": "Factors affecting design decisions — practical",
+      "student_work": "Complete only teacher-authorised MDP work connected to factors affecting design decisions and preserve a truthful progress record; specific methods, tools, PPE and controls remain teacher-controlled.",
+      "evidence": "Student progress evidence linked to m07s02; not proof of teacher observation or safe independent work.",
+      "site_alignment": "mapped",
+      "practical_authority": "teacher-to-confirm",
+      "outcome_codes": [
+        "H1.1",
+        "H3.2",
+        "H4.1"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-FOLIO-GUIDE"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-07.html#m07s02-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-03",
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "creativity and concept development",
+        "factors affecting design decisions",
+        "selection and justification of ideas"
+      ],
+      "source_period_id": "Y12-P066"
+    },
+    {
+      "number": 67,
+      "type": "Site/theory",
+      "focus": "Factors affecting design decisions — site/theory",
+      "student_work": "Teach factors affecting design decisions through the named theory, purposeful visual, non-video pathway and adjacent formative package.",
+      "evidence": "Formative learning package at modules/module-07.html#m07s02-learning: ten feedback-rich questions, one higher-order response and one applied activity.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H1.1",
+        "H3.2",
+        "H4.1"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-FOLIO-GUIDE"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-07.html#m07s02-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "creativity and concept development",
+        "factors affecting design decisions",
+        "selection and justification of ideas"
+      ],
+      "source_period_id": "Y12-P067"
+    },
+    {
+      "number": 68,
+      "type": "Project/folio",
+      "focus": "Selecting and justifying a direction — project/folio",
+      "student_work": "Apply selecting and justifying a direction to the individual MDP decision or folio record; make the evidence-to-decision link explicit.",
+      "evidence": "Formative MDP folio or management evidence linked to m07s03; not a formal submission record.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H1.1",
+        "H3.2",
+        "H4.1"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-FOLIO-GUIDE"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-07.html#m07s03-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "creativity and concept development",
+        "factors affecting design decisions",
+        "selection and justification of ideas"
+      ],
+      "source_period_id": "Y12-P068"
+    },
+    {
+      "number": 69,
+      "type": "Practical",
+      "focus": "Selecting and justifying a direction — practical",
+      "student_work": "Complete only teacher-authorised MDP work connected to selecting and justifying a direction and preserve a truthful progress record; specific methods, tools, PPE and controls remain teacher-controlled.",
+      "evidence": "Student progress evidence linked to m07s03; not proof of teacher observation or safe independent work.",
+      "site_alignment": "mapped",
+      "practical_authority": "teacher-to-confirm",
+      "outcome_codes": [
+        "H1.1",
+        "H3.2",
+        "H4.1"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-FOLIO-GUIDE"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-07.html#m07s03-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-03",
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "creativity and concept development",
+        "factors affecting design decisions",
+        "selection and justification of ideas"
+      ],
+      "source_period_id": "Y12-P069"
+    },
+    {
+      "number": 70,
+      "type": "Project/folio",
+      "focus": "Selecting and justifying a direction — project/folio",
+      "student_work": "Apply selecting and justifying a direction to the individual MDP decision or folio record; make the evidence-to-decision link explicit.",
+      "evidence": "Formative MDP folio or management evidence linked to m07s03; not a formal submission record.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H1.1",
+        "H3.2",
+        "H4.1"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-FOLIO-GUIDE"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-07.html#m07s03-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "creativity and concept development",
+        "factors affecting design decisions",
+        "selection and justification of ideas"
+      ],
+      "source_period_id": "Y12-P070"
+    },
+    {
+      "number": 71,
+      "type": "Site/theory",
+      "focus": "Planning useful experiments and prototypes — site/theory",
+      "student_work": "Teach planning useful experiments and prototypes through the named theory, purposeful visual, non-video pathway and adjacent formative package.",
+      "evidence": "Formative learning package at modules/module-08.html#m08s01-learning: ten feedback-rich questions, one higher-order response and one applied activity.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H3.2",
+        "H4.1",
+        "H4.2",
+        "H4.3",
+        "H5.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-FOLIO-GUIDE"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-08.html#m08s01-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "research and experimentation",
+        "testing against criteria",
+        "application of conclusions to refinement"
+      ],
+      "source_period_id": "Y12-P071"
+    },
+    {
+      "number": 72,
+      "type": "Project/folio",
+      "focus": "Planning useful experiments and prototypes — project/folio",
+      "student_work": "Apply planning useful experiments and prototypes to the individual MDP decision or folio record; make the evidence-to-decision link explicit.",
+      "evidence": "Formative MDP folio or management evidence linked to m08s01; not a formal submission record.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H3.2",
+        "H4.1",
+        "H4.2",
+        "H4.3",
+        "H5.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-FOLIO-GUIDE"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-08.html#m08s01-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "research and experimentation",
+        "testing against criteria",
+        "application of conclusions to refinement"
+      ],
+      "source_period_id": "Y12-P072"
+    },
+    {
+      "number": 73,
+      "type": "Practical",
+      "focus": "Planning useful experiments and prototypes — practical",
+      "student_work": "Complete only teacher-authorised MDP work connected to planning useful experiments and prototypes and preserve a truthful progress record; specific methods, tools, PPE and controls remain teacher-controlled.",
+      "evidence": "Student progress evidence linked to m08s01; not proof of teacher observation or safe independent work.",
+      "site_alignment": "mapped",
+      "practical_authority": "teacher-to-confirm",
+      "outcome_codes": [
+        "H3.2",
+        "H4.1",
+        "H4.2",
+        "H4.3",
+        "H5.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-FOLIO-GUIDE"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-08.html#m08s01-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-03",
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "research and experimentation",
+        "testing against criteria",
+        "application of conclusions to refinement"
+      ],
+      "source_period_id": "Y12-P073"
+    },
+    {
+      "number": 74,
+      "type": "Site/theory",
+      "focus": "Planning useful experiments and prototypes — site/theory",
+      "student_work": "Teach planning useful experiments and prototypes through the named theory, purposeful visual, non-video pathway and adjacent formative package.",
+      "evidence": "Formative learning package at modules/module-08.html#m08s01-learning: ten feedback-rich questions, one higher-order response and one applied activity.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H3.2",
+        "H4.1",
+        "H4.2",
+        "H4.3",
+        "H5.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-FOLIO-GUIDE"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-08.html#m08s01-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "research and experimentation",
+        "testing against criteria",
+        "application of conclusions to refinement"
+      ],
+      "source_period_id": "Y12-P074"
+    },
+    {
+      "number": 75,
+      "type": "Project/folio",
+      "focus": "Recording results and testing against criteria — project/folio",
+      "student_work": "Apply recording results and testing against criteria to the individual MDP decision or folio record; make the evidence-to-decision link explicit.",
+      "evidence": "Formative MDP folio or management evidence linked to m08s02; not a formal submission record.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H3.2",
+        "H4.1",
+        "H4.2",
+        "H4.3",
+        "H5.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-FOLIO-GUIDE"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-08.html#m08s02-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "research and experimentation",
+        "testing against criteria",
+        "application of conclusions to refinement"
+      ],
+      "source_period_id": "Y12-P075"
+    },
+    {
+      "number": 76,
+      "type": "Practical",
+      "focus": "Recording results and testing against criteria — practical",
+      "student_work": "Complete only teacher-authorised MDP work connected to recording results and testing against criteria and preserve a truthful progress record; specific methods, tools, PPE and controls remain teacher-controlled.",
+      "evidence": "Student progress evidence linked to m08s02; not proof of teacher observation or safe independent work.",
+      "site_alignment": "mapped",
+      "practical_authority": "teacher-to-confirm",
+      "outcome_codes": [
+        "H3.2",
+        "H4.1",
+        "H4.2",
+        "H4.3",
+        "H5.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-FOLIO-GUIDE"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-08.html#m08s02-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-03",
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "research and experimentation",
+        "testing against criteria",
+        "application of conclusions to refinement"
+      ],
+      "source_period_id": "Y12-P076"
+    },
+    {
+      "number": 77,
+      "type": "Project/folio",
+      "focus": "Recording results and testing against criteria — project/folio",
+      "student_work": "Apply recording results and testing against criteria to the individual MDP decision or folio record; make the evidence-to-decision link explicit.",
+      "evidence": "Formative MDP folio or management evidence linked to m08s02; not a formal submission record.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H3.2",
+        "H4.1",
+        "H4.2",
+        "H4.3",
+        "H5.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-FOLIO-GUIDE"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-08.html#m08s02-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "research and experimentation",
+        "testing against criteria",
+        "application of conclusions to refinement"
+      ],
+      "source_period_id": "Y12-P077"
+    },
+    {
+      "number": 78,
+      "type": "Practical",
+      "focus": "Recording results and testing against criteria — practical",
+      "student_work": "Complete only teacher-authorised MDP work connected to recording results and testing against criteria and preserve a truthful progress record; specific methods, tools, PPE and controls remain teacher-controlled.",
+      "evidence": "Student progress evidence linked to m08s02; not proof of teacher observation or safe independent work.",
+      "site_alignment": "mapped",
+      "practical_authority": "teacher-to-confirm",
+      "outcome_codes": [
+        "H3.2",
+        "H4.1",
+        "H4.2",
+        "H4.3",
+        "H5.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-FOLIO-GUIDE"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-08.html#m08s02-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-03",
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "research and experimentation",
+        "testing against criteria",
+        "application of conclusions to refinement"
+      ],
+      "source_period_id": "Y12-P078"
+    },
+    {
+      "number": 79,
+      "type": "Project/folio",
+      "focus": "Using conclusions to refine the design — project/folio",
+      "student_work": "Apply using conclusions to refine the design to the individual MDP decision or folio record; make the evidence-to-decision link explicit.",
+      "evidence": "Formative MDP folio or management evidence linked to m08s03; not a formal submission record.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H3.2",
+        "H4.1",
+        "H4.2",
+        "H4.3",
+        "H5.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-FOLIO-GUIDE"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-08.html#m08s03-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "research and experimentation",
+        "testing against criteria",
+        "application of conclusions to refinement"
+      ],
+      "source_period_id": "Y12-P079"
+    },
+    {
+      "number": 80,
+      "type": "Practical",
+      "focus": "Using conclusions to refine the design — practical",
+      "student_work": "Complete only teacher-authorised MDP work connected to using conclusions to refine the design and preserve a truthful progress record; specific methods, tools, PPE and controls remain teacher-controlled.",
+      "evidence": "Student progress evidence linked to m08s03; not proof of teacher observation or safe independent work.",
+      "site_alignment": "mapped",
+      "practical_authority": "teacher-to-confirm",
+      "outcome_codes": [
+        "H3.2",
+        "H4.1",
+        "H4.2",
+        "H4.3",
+        "H5.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-FOLIO-GUIDE"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-08.html#m08s03-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-03",
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "research and experimentation",
+        "testing against criteria",
+        "application of conclusions to refinement"
+      ],
+      "source_period_id": "Y12-P080"
+    },
+    {
+      "number": 81,
+      "type": "Project/folio",
+      "focus": "Using conclusions to refine the design — project/folio",
+      "student_work": "Apply using conclusions to refine the design to the individual MDP decision or folio record; make the evidence-to-decision link explicit.",
+      "evidence": "Formative MDP folio or management evidence linked to m08s03; not a formal submission record.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H3.2",
+        "H4.1",
+        "H4.2",
+        "H4.3",
+        "H5.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-FOLIO-GUIDE"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-08.html#m08s03-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "research and experimentation",
+        "testing against criteria",
+        "application of conclusions to refinement"
+      ],
+      "source_period_id": "Y12-P081"
+    },
+    {
+      "number": 82,
+      "type": "Practical",
+      "focus": "Using conclusions to refine the design — practical",
+      "student_work": "Complete only teacher-authorised MDP work connected to using conclusions to refine the design and preserve a truthful progress record; specific methods, tools, PPE and controls remain teacher-controlled.",
+      "evidence": "Student progress evidence linked to m08s03; not proof of teacher observation or safe independent work.",
+      "site_alignment": "mapped",
+      "practical_authority": "teacher-to-confirm",
+      "outcome_codes": [
+        "H3.2",
+        "H4.1",
+        "H4.2",
+        "H4.3",
+        "H5.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-FOLIO-GUIDE"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-08.html#m08s03-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-03",
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "research and experimentation",
+        "testing against criteria",
+        "application of conclusions to refinement"
+      ],
+      "source_period_id": "Y12-P082"
+    },
+    {
+      "number": 83,
+      "type": "Site/theory",
+      "focus": "Resource selection and responsible use — site/theory",
+      "student_work": "Teach resource selection and responsible use through the named theory, purposeful visual, non-video pathway and adjacent formative package.",
+      "evidence": "Formative learning package at modules/module-09.html#m09s01-learning: ten feedback-rich questions, one higher-order response and one applied activity.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H4.2",
+        "H5.1",
+        "H6.1"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-FOLIO-GUIDE"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-09.html#m09s01-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "resource selection and responsible use",
+        "production planning and quality",
+        "industrial and commercial practice"
+      ],
+      "source_period_id": "Y12-P083"
+    },
+    {
+      "number": 84,
+      "type": "Project/folio",
+      "focus": "Resource selection and responsible use — project/folio",
+      "student_work": "Apply resource selection and responsible use to the individual MDP decision or folio record; make the evidence-to-decision link explicit.",
+      "evidence": "Formative MDP folio or management evidence linked to m09s01; not a formal submission record.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H4.2",
+        "H5.1",
+        "H6.1"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-FOLIO-GUIDE"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-09.html#m09s01-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "resource selection and responsible use",
+        "production planning and quality",
+        "industrial and commercial practice"
+      ],
+      "source_period_id": "Y12-P084"
+    },
+    {
+      "number": 85,
+      "type": "Practical",
+      "focus": "Resource selection and responsible use — practical",
+      "student_work": "Complete only teacher-authorised MDP work connected to resource selection and responsible use and preserve a truthful progress record; specific methods, tools, PPE and controls remain teacher-controlled.",
+      "evidence": "Student progress evidence linked to m09s01; not proof of teacher observation or safe independent work.",
+      "site_alignment": "mapped",
+      "practical_authority": "teacher-to-confirm",
+      "outcome_codes": [
+        "H4.2",
+        "H5.1",
+        "H6.1"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-FOLIO-GUIDE"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-09.html#m09s01-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-03",
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "resource selection and responsible use",
+        "production planning and quality",
+        "industrial and commercial practice"
+      ],
+      "source_period_id": "Y12-P085"
+    },
+    {
+      "number": 86,
+      "type": "Project/folio",
+      "focus": "Resource selection and responsible use — project/folio",
+      "student_work": "Apply resource selection and responsible use to the individual MDP decision or folio record; make the evidence-to-decision link explicit.",
+      "evidence": "Formative MDP folio or management evidence linked to m09s01; not a formal submission record.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H4.2",
+        "H5.1",
+        "H6.1"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-FOLIO-GUIDE"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-09.html#m09s01-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "resource selection and responsible use",
+        "production planning and quality",
+        "industrial and commercial practice"
+      ],
+      "source_period_id": "Y12-P086"
+    },
+    {
+      "number": 87,
+      "type": "Practical",
+      "focus": "Production planning, safe practice and quality control — practical",
+      "student_work": "Complete only teacher-authorised MDP work connected to production planning, safe practice and quality control and preserve a truthful progress record; specific methods, tools, PPE and controls remain teacher-controlled.",
+      "evidence": "Student progress evidence linked to m09s02; not proof of teacher observation or safe independent work.",
+      "site_alignment": "mapped",
+      "practical_authority": "teacher-to-confirm",
+      "outcome_codes": [
+        "H4.2",
+        "H5.1",
+        "H6.1"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-NESA-DT-MDP-ADVICE",
+        "SRC-WWHS-DT-FOLIO-GUIDE"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-09.html#m09s02-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-03",
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "resource selection and responsible use",
+        "production planning and quality",
+        "industrial and commercial practice"
+      ],
+      "source_period_id": "Y12-P087"
+    },
+    {
+      "number": 88,
+      "type": "Project/folio",
+      "focus": "Production planning, safe practice and quality control — project/folio",
+      "student_work": "Apply production planning, safe practice and quality control to the individual MDP decision or folio record; make the evidence-to-decision link explicit.",
+      "evidence": "Formative MDP folio or management evidence linked to m09s02; not a formal submission record.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H4.2",
+        "H5.1",
+        "H6.1"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-NESA-DT-MDP-ADVICE",
+        "SRC-WWHS-DT-FOLIO-GUIDE"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-09.html#m09s02-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "resource selection and responsible use",
+        "production planning and quality",
+        "industrial and commercial practice"
+      ],
+      "source_period_id": "Y12-P088"
+    },
+    {
+      "number": 89,
+      "type": "Practical",
+      "focus": "Production planning, safe practice and quality control — practical",
+      "student_work": "Complete only teacher-authorised MDP work connected to production planning, safe practice and quality control and preserve a truthful progress record; specific methods, tools, PPE and controls remain teacher-controlled.",
+      "evidence": "Student progress evidence linked to m09s02; not proof of teacher observation or safe independent work.",
+      "site_alignment": "mapped",
+      "practical_authority": "teacher-to-confirm",
+      "outcome_codes": [
+        "H4.2",
+        "H5.1",
+        "H6.1"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-NESA-DT-MDP-ADVICE",
+        "SRC-WWHS-DT-FOLIO-GUIDE"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-09.html#m09s02-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-03",
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "resource selection and responsible use",
+        "production planning and quality",
+        "industrial and commercial practice"
+      ],
+      "source_period_id": "Y12-P089"
+    },
+    {
+      "number": 90,
+      "type": "Project/folio",
+      "focus": "Production planning, safe practice and quality control — project/folio",
+      "student_work": "Apply production planning, safe practice and quality control to the individual MDP decision or folio record; make the evidence-to-decision link explicit.",
+      "evidence": "Formative MDP folio or management evidence linked to m09s02; not a formal submission record.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H4.2",
+        "H5.1",
+        "H6.1"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-NESA-DT-MDP-ADVICE",
+        "SRC-WWHS-DT-FOLIO-GUIDE"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-09.html#m09s02-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "resource selection and responsible use",
+        "production planning and quality",
+        "industrial and commercial practice"
+      ],
+      "source_period_id": "Y12-P090"
+    },
+    {
+      "number": 91,
+      "type": "Practical",
+      "focus": "Industrial and commercial practice connections — practical",
+      "student_work": "Complete only teacher-authorised MDP work connected to industrial and commercial practice connections and preserve a truthful progress record; specific methods, tools, PPE and controls remain teacher-controlled.",
+      "evidence": "Student progress evidence linked to m09s03; not proof of teacher observation or safe independent work.",
+      "site_alignment": "mapped",
+      "practical_authority": "teacher-to-confirm",
+      "outcome_codes": [
+        "H4.2",
+        "H5.1",
+        "H6.1"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-STRUCTURE"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-09.html#m09s03-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-03",
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "resource selection and responsible use",
+        "production planning and quality",
+        "industrial and commercial practice"
+      ],
+      "source_period_id": "Y12-P091"
+    },
+    {
+      "number": 92,
+      "type": "Practical",
+      "focus": "Industrial and commercial practice connections — practical",
+      "student_work": "Complete only teacher-authorised MDP work connected to industrial and commercial practice connections and preserve a truthful progress record; specific methods, tools, PPE and controls remain teacher-controlled.",
+      "evidence": "Student progress evidence linked to m09s03; not proof of teacher observation or safe independent work.",
+      "site_alignment": "mapped",
+      "practical_authority": "teacher-to-confirm",
+      "outcome_codes": [
+        "H4.2",
+        "H5.1",
+        "H6.1"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-STRUCTURE"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-09.html#m09s03-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-03",
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "resource selection and responsible use",
+        "production planning and quality",
+        "industrial and commercial practice"
+      ],
+      "source_period_id": "Y12-P092"
+    },
+    {
+      "number": 93,
+      "type": "Practical",
+      "focus": "Industrial and commercial practice connections — practical",
+      "student_work": "Complete only teacher-authorised MDP work connected to industrial and commercial practice connections and preserve a truthful progress record; specific methods, tools, PPE and controls remain teacher-controlled.",
+      "evidence": "Student progress evidence linked to m09s03; not proof of teacher observation or safe independent work.",
+      "site_alignment": "mapped",
+      "practical_authority": "teacher-to-confirm",
+      "outcome_codes": [
+        "H4.2",
+        "H5.1",
+        "H6.1"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-STRUCTURE"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-09.html#m09s03-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-03",
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "resource selection and responsible use",
+        "production planning and quality",
+        "industrial and commercial practice"
+      ],
+      "source_period_id": "Y12-P093"
+    },
+    {
+      "number": 94,
+      "type": "Practical",
+      "focus": "Industrial and commercial practice connections — practical",
+      "student_work": "Complete only teacher-authorised MDP work connected to industrial and commercial practice connections and preserve a truthful progress record; specific methods, tools, PPE and controls remain teacher-controlled.",
+      "evidence": "Student progress evidence linked to m09s03; not proof of teacher observation or safe independent work.",
+      "site_alignment": "mapped",
+      "practical_authority": "teacher-to-confirm",
+      "outcome_codes": [
+        "H4.2",
+        "H5.1",
+        "H6.1"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-STRUCTURE"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-09.html#m09s03-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-03",
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "resource selection and responsible use",
+        "production planning and quality",
+        "industrial and commercial practice"
+      ],
+      "source_period_id": "Y12-P094"
+    },
+    {
+      "number": 95,
+      "type": "Site/theory",
+      "focus": "Communicating ideas with the right technique — site/theory",
+      "student_work": "Teach communicating ideas with the right technique through the named theory, purposeful visual, non-video pathway and adjacent formative package.",
+      "evidence": "Formative learning package at modules/module-10.html#m10s01-learning: ten feedback-rich questions, one higher-order response and one applied activity.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H1.2",
+        "H5.2",
+        "H6.1"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-FOLIO-GUIDE"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-10.html#m10s01-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "communication techniques",
+        "development and production evidence",
+        "coherent folio structure"
+      ],
+      "source_period_id": "Y12-P095"
+    },
+    {
+      "number": 96,
+      "type": "Project/folio",
+      "focus": "Communicating ideas with the right technique — project/folio",
+      "student_work": "Apply communicating ideas with the right technique to the individual MDP decision or folio record; make the evidence-to-decision link explicit.",
+      "evidence": "Formative MDP folio or management evidence linked to m10s01; not a formal submission record.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H1.2",
+        "H5.2",
+        "H6.1"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-FOLIO-GUIDE"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-10.html#m10s01-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "communication techniques",
+        "development and production evidence",
+        "coherent folio structure"
+      ],
+      "source_period_id": "Y12-P096"
+    },
+    {
+      "number": 97,
+      "type": "Practical",
+      "focus": "Communicating ideas with the right technique — practical",
+      "student_work": "Complete only teacher-authorised MDP work connected to communicating ideas with the right technique and preserve a truthful progress record; specific methods, tools, PPE and controls remain teacher-controlled.",
+      "evidence": "Student progress evidence linked to m10s01; not proof of teacher observation or safe independent work.",
+      "site_alignment": "mapped",
+      "practical_authority": "teacher-to-confirm",
+      "outcome_codes": [
+        "H1.2",
+        "H5.2",
+        "H6.1"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-FOLIO-GUIDE"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-10.html#m10s01-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-03",
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "communication techniques",
+        "development and production evidence",
+        "coherent folio structure"
+      ],
+      "source_period_id": "Y12-P097"
+    },
+    {
+      "number": 98,
+      "type": "Site/theory",
+      "focus": "Communicating ideas with the right technique — site/theory",
+      "student_work": "Teach communicating ideas with the right technique through the named theory, purposeful visual, non-video pathway and adjacent formative package.",
+      "evidence": "Formative learning package at modules/module-10.html#m10s01-learning: ten feedback-rich questions, one higher-order response and one applied activity.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H1.2",
+        "H5.2",
+        "H6.1"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-FOLIO-GUIDE"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-10.html#m10s01-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "communication techniques",
+        "development and production evidence",
+        "coherent folio structure"
+      ],
+      "source_period_id": "Y12-P098"
+    },
+    {
+      "number": 99,
+      "type": "Project/folio",
+      "focus": "Documenting development, production and decisions — project/folio",
+      "student_work": "Apply documenting development, production and decisions to the individual MDP decision or folio record; make the evidence-to-decision link explicit.",
+      "evidence": "Formative MDP folio or management evidence linked to m10s02; not a formal submission record.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H1.2",
+        "H5.2",
+        "H6.1"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-FOLIO-GUIDE"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-10.html#m10s02-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "communication techniques",
+        "development and production evidence",
+        "coherent folio structure"
+      ],
+      "source_period_id": "Y12-P099"
+    },
+    {
+      "number": 100,
+      "type": "Practical",
+      "focus": "Documenting development, production and decisions — practical",
+      "student_work": "Complete only teacher-authorised MDP work connected to documenting development, production and decisions and preserve a truthful progress record; specific methods, tools, PPE and controls remain teacher-controlled.",
+      "evidence": "Student progress evidence linked to m10s02; not proof of teacher observation or safe independent work.",
+      "site_alignment": "mapped",
+      "practical_authority": "teacher-to-confirm",
+      "outcome_codes": [
+        "H1.2",
+        "H5.2",
+        "H6.1"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-FOLIO-GUIDE"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-10.html#m10s02-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-03",
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "communication techniques",
+        "development and production evidence",
+        "coherent folio structure"
+      ],
+      "source_period_id": "Y12-P100"
+    },
+    {
+      "number": 101,
+      "type": "Site/theory",
+      "focus": "Documenting development, production and decisions — site/theory",
+      "student_work": "Teach documenting development, production and decisions through the named theory, purposeful visual, non-video pathway and adjacent formative package.",
+      "evidence": "Formative learning package at modules/module-10.html#m10s02-learning: ten feedback-rich questions, one higher-order response and one applied activity.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H1.2",
+        "H5.2",
+        "H6.1"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-FOLIO-GUIDE"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-10.html#m10s02-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "communication techniques",
+        "development and production evidence",
+        "coherent folio structure"
+      ],
+      "source_period_id": "Y12-P101"
+    },
+    {
+      "number": 102,
+      "type": "Project/folio",
+      "focus": "Building a coherent evidence story — project/folio",
+      "student_work": "Apply building a coherent evidence story to the individual MDP decision or folio record; make the evidence-to-decision link explicit.",
+      "evidence": "Formative MDP folio or management evidence linked to m10s03; not a formal submission record.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H1.2",
+        "H5.2",
+        "H6.1"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-FOLIO-GUIDE",
+        "SRC-WWHS-DT-TASK3-2026"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-10.html#m10s03-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "communication techniques",
+        "development and production evidence",
+        "coherent folio structure"
+      ],
+      "source_period_id": "Y12-P102"
+    },
+    {
+      "number": 103,
+      "type": "Project/folio",
+      "focus": "Building a coherent evidence story — project/folio",
+      "student_work": "Apply building a coherent evidence story to the individual MDP decision or folio record; make the evidence-to-decision link explicit.",
+      "evidence": "Formative MDP folio or management evidence linked to m10s03; not a formal submission record.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H1.2",
+        "H5.2",
+        "H6.1"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-FOLIO-GUIDE",
+        "SRC-WWHS-DT-TASK3-2026"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-10.html#m10s03-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "communication techniques",
+        "development and production evidence",
+        "coherent folio structure"
+      ],
+      "source_period_id": "Y12-P103"
+    },
+    {
+      "number": 104,
+      "type": "Project/folio",
+      "focus": "Building a coherent evidence story — project/folio",
+      "student_work": "Apply building a coherent evidence story to the individual MDP decision or folio record; make the evidence-to-decision link explicit.",
+      "evidence": "Formative MDP folio or management evidence linked to m10s03; not a formal submission record.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H1.2",
+        "H5.2",
+        "H6.1"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-FOLIO-GUIDE",
+        "SRC-WWHS-DT-TASK3-2026"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-10.html#m10s03-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "communication techniques",
+        "development and production evidence",
+        "coherent folio structure"
+      ],
+      "source_period_id": "Y12-P104"
+    },
+    {
+      "number": 105,
+      "type": "Site/theory",
+      "focus": "Ongoing evaluation that changes the project — site/theory",
+      "student_work": "Teach ongoing evaluation that changes the project through the named theory, purposeful visual, non-video pathway and adjacent formative package.",
+      "evidence": "Formative learning package at modules/module-11.html#m11s01-learning: ten feedback-rich questions, one higher-order response and one applied activity.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H2.2",
+        "H4.3",
+        "H5.1"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-FOLIO-GUIDE"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-11.html#m11s01-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "ongoing evaluation",
+        "functional and aesthetic evaluation",
+        "impact on individual, society and environment"
+      ],
+      "source_period_id": "Y12-P105"
+    },
+    {
+      "number": 106,
+      "type": "Project/folio",
+      "focus": "Ongoing evaluation that changes the project — project/folio",
+      "student_work": "Apply ongoing evaluation that changes the project to the individual MDP decision or folio record; make the evidence-to-decision link explicit.",
+      "evidence": "Formative MDP folio or management evidence linked to m11s01; not a formal submission record.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H2.2",
+        "H4.3",
+        "H5.1"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-FOLIO-GUIDE"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-11.html#m11s01-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "ongoing evaluation",
+        "functional and aesthetic evaluation",
+        "impact on individual, society and environment"
+      ],
+      "source_period_id": "Y12-P106"
+    },
+    {
+      "number": 107,
+      "type": "Practical",
+      "focus": "Ongoing evaluation that changes the project — practical",
+      "student_work": "Complete only teacher-authorised MDP work connected to ongoing evaluation that changes the project and preserve a truthful progress record; specific methods, tools, PPE and controls remain teacher-controlled.",
+      "evidence": "Student progress evidence linked to m11s01; not proof of teacher observation or safe independent work.",
+      "site_alignment": "mapped",
+      "practical_authority": "teacher-to-confirm",
+      "outcome_codes": [
+        "H2.2",
+        "H4.3",
+        "H5.1"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-FOLIO-GUIDE"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-11.html#m11s01-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-03",
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "ongoing evaluation",
+        "functional and aesthetic evaluation",
+        "impact on individual, society and environment"
+      ],
+      "source_period_id": "Y12-P107"
+    },
+    {
+      "number": 108,
+      "type": "Site/theory",
+      "focus": "Functional and aesthetic evaluation against criteria — site/theory",
+      "student_work": "Teach functional and aesthetic evaluation against criteria through the named theory, purposeful visual, non-video pathway and adjacent formative package.",
+      "evidence": "Formative learning package at modules/module-11.html#m11s02-learning: ten feedback-rich questions, one higher-order response and one applied activity.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H2.2",
+        "H4.3",
+        "H5.1"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-FOLIO-GUIDE",
+        "SRC-NESA-DT-MDP-MARKING-2024"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-11.html#m11s02-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "ongoing evaluation",
+        "functional and aesthetic evaluation",
+        "impact on individual, society and environment"
+      ],
+      "source_period_id": "Y12-P108"
+    },
+    {
+      "number": 109,
+      "type": "Project/folio",
+      "focus": "Functional and aesthetic evaluation against criteria — project/folio",
+      "student_work": "Apply functional and aesthetic evaluation against criteria to the individual MDP decision or folio record; make the evidence-to-decision link explicit.",
+      "evidence": "Formative MDP folio or management evidence linked to m11s02; not a formal submission record.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H2.2",
+        "H4.3",
+        "H5.1"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-FOLIO-GUIDE",
+        "SRC-NESA-DT-MDP-MARKING-2024"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-11.html#m11s02-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "ongoing evaluation",
+        "functional and aesthetic evaluation",
+        "impact on individual, society and environment"
+      ],
+      "source_period_id": "Y12-P109"
+    },
+    {
+      "number": 110,
+      "type": "Practical",
+      "focus": "Functional and aesthetic evaluation against criteria — practical",
+      "student_work": "Complete only teacher-authorised MDP work connected to functional and aesthetic evaluation against criteria and preserve a truthful progress record; specific methods, tools, PPE and controls remain teacher-controlled.",
+      "evidence": "Student progress evidence linked to m11s02; not proof of teacher observation or safe independent work.",
+      "site_alignment": "mapped",
+      "practical_authority": "teacher-to-confirm",
+      "outcome_codes": [
+        "H2.2",
+        "H4.3",
+        "H5.1"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-FOLIO-GUIDE",
+        "SRC-NESA-DT-MDP-MARKING-2024"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-11.html#m11s02-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-03",
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "ongoing evaluation",
+        "functional and aesthetic evaluation",
+        "impact on individual, society and environment"
+      ],
+      "source_period_id": "Y12-P110"
+    },
+    {
+      "number": 111,
+      "type": "Project/folio",
+      "focus": "Final impact on the individual, society and environment — project/folio",
+      "student_work": "Apply final impact on the individual, society and environment to the individual MDP decision or folio record; make the evidence-to-decision link explicit.",
+      "evidence": "Formative MDP folio or management evidence linked to m11s03; not a formal submission record.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H2.2",
+        "H4.3",
+        "H5.1"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-FOLIO-GUIDE"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-11.html#m11s03-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "ongoing evaluation",
+        "functional and aesthetic evaluation",
+        "impact on individual, society and environment"
+      ],
+      "source_period_id": "Y12-P111"
+    },
+    {
+      "number": 112,
+      "type": "Practical",
+      "focus": "Final impact on the individual, society and environment — practical",
+      "student_work": "Complete only teacher-authorised MDP work connected to final impact on the individual, society and environment and preserve a truthful progress record; specific methods, tools, PPE and controls remain teacher-controlled.",
+      "evidence": "Student progress evidence linked to m11s03; not proof of teacher observation or safe independent work.",
+      "site_alignment": "mapped",
+      "practical_authority": "teacher-to-confirm",
+      "outcome_codes": [
+        "H2.2",
+        "H4.3",
+        "H5.1"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-FOLIO-GUIDE"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-11.html#m11s03-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-03",
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "ongoing evaluation",
+        "functional and aesthetic evaluation",
+        "impact on individual, society and environment"
+      ],
+      "source_period_id": "Y12-P112"
+    },
+    {
+      "number": 113,
+      "type": "Site/theory",
+      "focus": "Final product, folio and supporting evidence readiness — site/theory",
+      "student_work": "Teach final product, folio and supporting evidence readiness through the named theory, purposeful visual, non-video pathway and adjacent formative package.",
+      "evidence": "Formative learning package at modules/module-12.html#m12s01-learning: ten feedback-rich questions, one higher-order response and one applied activity.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H1.1",
+        "H1.2",
+        "H2.1",
+        "H2.2",
+        "H3.1",
+        "H4.2",
+        "H4.3",
+        "H5.1",
+        "H6.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-NESA-DT-MDP-ADVICE",
+        "SRC-WWHS-DT-FOLIO-GUIDE",
+        "SRC-WWHS-DT-MDP-CHECKLIST-2026"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-12.html#m12s01-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-02",
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "MDP readiness and authentication",
+        "written examination response strategy",
+        "whole-course synthesis"
+      ],
+      "source_period_id": "Y12-P113"
+    },
+    {
+      "number": 114,
+      "type": "Project/folio",
+      "focus": "Final product, folio and supporting evidence readiness — project/folio",
+      "student_work": "Apply final product, folio and supporting evidence readiness to the individual MDP decision or folio record; make the evidence-to-decision link explicit.",
+      "evidence": "Formative MDP folio or management evidence linked to m12s01; not a formal submission record.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H1.1",
+        "H1.2",
+        "H2.1",
+        "H2.2",
+        "H3.1",
+        "H4.2",
+        "H4.3",
+        "H5.1",
+        "H6.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-NESA-DT-MDP-ADVICE",
+        "SRC-WWHS-DT-FOLIO-GUIDE",
+        "SRC-WWHS-DT-MDP-CHECKLIST-2026"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-12.html#m12s01-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-02",
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "MDP readiness and authentication",
+        "written examination response strategy",
+        "whole-course synthesis"
+      ],
+      "source_period_id": "Y12-P114"
+    },
+    {
+      "number": 115,
+      "type": "Practical",
+      "focus": "Final product, folio and supporting evidence readiness — practical",
+      "student_work": "Complete only teacher-authorised MDP work connected to final product, folio and supporting evidence readiness and preserve a truthful progress record; specific methods, tools, PPE and controls remain teacher-controlled.",
+      "evidence": "Student progress evidence linked to m12s01; not proof of teacher observation or safe independent work.",
+      "site_alignment": "mapped",
+      "practical_authority": "teacher-to-confirm",
+      "outcome_codes": [
+        "H1.1",
+        "H1.2",
+        "H2.1",
+        "H2.2",
+        "H3.1",
+        "H4.2",
+        "H4.3",
+        "H5.1",
+        "H6.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-NESA-DT-MDP-ADVICE",
+        "SRC-WWHS-DT-FOLIO-GUIDE",
+        "SRC-WWHS-DT-MDP-CHECKLIST-2026"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-12.html#m12s01-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-02",
+        "TTC-03",
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "MDP readiness and authentication",
+        "written examination response strategy",
+        "whole-course synthesis"
+      ],
+      "source_period_id": "Y12-P115"
+    },
+    {
+      "number": 116,
+      "type": "Site/theory",
+      "focus": "Trial and HSC response strategy — site/theory",
+      "student_work": "Teach trial and hsc response strategy through the named theory, purposeful visual, non-video pathway and adjacent formative package.",
+      "evidence": "Formative learning package at modules/module-12.html#m12s02-learning: ten feedback-rich questions, one higher-order response and one applied activity.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H1.1",
+        "H1.2",
+        "H2.1",
+        "H2.2",
+        "H3.1",
+        "H4.2",
+        "H4.3",
+        "H5.1",
+        "H6.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-NESA-DT-ASSESS",
+        "SRC-WWHS-DT-REVISION-V3-2026"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-12.html#m12s02-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-02",
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "MDP readiness and authentication",
+        "written examination response strategy",
+        "whole-course synthesis"
+      ],
+      "source_period_id": "Y12-P116"
+    },
+    {
+      "number": 117,
+      "type": "Practical",
+      "focus": "Trial and HSC response strategy — practical",
+      "student_work": "Complete only teacher-authorised MDP work connected to trial and hsc response strategy and preserve a truthful progress record; specific methods, tools, PPE and controls remain teacher-controlled.",
+      "evidence": "Student progress evidence linked to m12s02; not proof of teacher observation or safe independent work.",
+      "site_alignment": "mapped",
+      "practical_authority": "teacher-to-confirm",
+      "outcome_codes": [
+        "H1.1",
+        "H1.2",
+        "H2.1",
+        "H2.2",
+        "H3.1",
+        "H4.2",
+        "H4.3",
+        "H5.1",
+        "H6.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-NESA-DT-ASSESS",
+        "SRC-WWHS-DT-REVISION-V3-2026"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-12.html#m12s02-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-02",
+        "TTC-03",
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "MDP readiness and authentication",
+        "written examination response strategy",
+        "whole-course synthesis"
+      ],
+      "source_period_id": "Y12-P117"
+    },
+    {
+      "number": 118,
+      "type": "Site/theory",
+      "focus": "Trial and HSC response strategy — site/theory",
+      "student_work": "Teach trial and hsc response strategy through the named theory, purposeful visual, non-video pathway and adjacent formative package.",
+      "evidence": "Formative learning package at modules/module-12.html#m12s02-learning: ten feedback-rich questions, one higher-order response and one applied activity.",
+      "site_alignment": "mapped",
+      "practical_authority": "not-applicable",
+      "outcome_codes": [
+        "H1.1",
+        "H1.2",
+        "H2.1",
+        "H2.2",
+        "H3.1",
+        "H4.2",
+        "H4.3",
+        "H5.1",
+        "H6.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-NESA-DT-ASSESS",
+        "SRC-WWHS-DT-REVISION-V3-2026"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-12.html#m12s02-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-02",
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "MDP readiness and authentication",
+        "written examination response strategy",
+        "whole-course synthesis"
+      ],
+      "source_period_id": "Y12-P118"
+    },
+    {
+      "number": 119,
+      "type": "Practical",
+      "focus": "Whole-course synthesis and reflective handoff — practical",
+      "student_work": "Complete only teacher-authorised MDP work connected to whole-course synthesis and reflective handoff and preserve a truthful progress record; specific methods, tools, PPE and controls remain teacher-controlled.",
+      "evidence": "Student progress evidence linked to m12s03; not proof of teacher observation or safe independent work.",
+      "site_alignment": "mapped",
+      "practical_authority": "teacher-to-confirm",
+      "outcome_codes": [
+        "H1.1",
+        "H1.2",
+        "H2.1",
+        "H2.2",
+        "H3.1",
+        "H4.2",
+        "H4.3",
+        "H5.1",
+        "H6.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-STRUCTURE",
+        "SRC-WWHS-DT-REVISION-V3-2026"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-12.html#m12s03-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-02",
+        "TTC-03",
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "MDP readiness and authentication",
+        "written examination response strategy",
+        "whole-course synthesis"
+      ],
+      "source_period_id": "Y12-P119"
+    },
+    {
+      "number": 120,
+      "type": "Practical",
+      "focus": "Whole-course synthesis and reflective handoff — practical",
+      "student_work": "Complete only teacher-authorised MDP work connected to whole-course synthesis and reflective handoff and preserve a truthful progress record; specific methods, tools, PPE and controls remain teacher-controlled.",
+      "evidence": "Student progress evidence linked to m12s03; not proof of teacher observation or safe independent work.",
+      "site_alignment": "mapped",
+      "practical_authority": "teacher-to-confirm",
+      "outcome_codes": [
+        "H1.1",
+        "H1.2",
+        "H2.1",
+        "H2.2",
+        "H3.1",
+        "H4.2",
+        "H4.3",
+        "H5.1",
+        "H6.2"
+      ],
+      "source_ids": [
+        "SRC-NESA-DT-SYL-2013",
+        "SRC-WWHS-DT-STRUCTURE",
+        "SRC-WWHS-DT-REVISION-V3-2026"
+      ],
+      "site_destinations": [
+        "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-12.html#m12s03-theory"
+      ],
+      "teacher_to_confirm_ids": [
+        "TTC-02",
+        "TTC-03",
+        "TTC-17"
+      ],
+      "syllabus_content": [
+        "MDP readiness and authentication",
+        "written examination response strategy",
+        "whole-course synthesis"
+      ],
+      "source_period_id": "Y12-P120"
+    }
+  ],
+  "site_route_map": [
+    {
+      "destination": "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-01.html#m01s01-theory",
+      "purpose": "Confirmed live HSC module theory destination bound to the source period.",
+      "audience": "both",
+      "period_numbers": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-01.html#m01s02-theory",
+      "purpose": "Confirmed live HSC module theory destination bound to the source period.",
+      "audience": "both",
+      "period_numbers": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-01.html#m01s03-theory",
+      "purpose": "Confirmed live HSC module theory destination bound to the source period.",
+      "audience": "both",
+      "period_numbers": [
+        7,
+        8
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-02.html#m02s01-theory",
+      "purpose": "Confirmed live HSC module theory destination bound to the source period.",
+      "audience": "both",
+      "period_numbers": [
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-02.html#m02s02-theory",
+      "purpose": "Confirmed live HSC module theory destination bound to the source period.",
+      "audience": "both",
+      "period_numbers": [
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-02.html#m02s03-theory",
+      "purpose": "Confirmed live HSC module theory destination bound to the source period.",
+      "audience": "both",
+      "period_numbers": [
+        16,
+        17,
+        18
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-03.html#m03s01-theory",
+      "purpose": "Confirmed live HSC module theory destination bound to the source period.",
+      "audience": "both",
+      "period_numbers": [
+        19,
+        20,
+        21,
+        22
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-03.html#m03s02-theory",
+      "purpose": "Confirmed live HSC module theory destination bound to the source period.",
+      "audience": "both",
+      "period_numbers": [
+        23,
+        24,
+        25
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-03.html#m03s03-theory",
+      "purpose": "Confirmed live HSC module theory destination bound to the source period.",
+      "audience": "both",
+      "period_numbers": [
+        26,
+        27,
+        28
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-04.html#m04s01-theory",
+      "purpose": "Confirmed live HSC module theory destination bound to the source period.",
+      "audience": "both",
+      "period_numbers": [
+        29,
+        30,
+        31,
+        32
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-04.html#m04s02-theory",
+      "purpose": "Confirmed live HSC module theory destination bound to the source period.",
+      "audience": "both",
+      "period_numbers": [
+        33,
+        34,
+        35,
+        36
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-04.html#m04s03-theory",
+      "purpose": "Confirmed live HSC module theory destination bound to the source period.",
+      "audience": "both",
+      "period_numbers": [
+        37,
+        38,
+        39,
+        40
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-05.html#m05s01-theory",
+      "purpose": "Confirmed live HSC module theory destination bound to the source period.",
+      "audience": "both",
+      "period_numbers": [
+        41,
+        42,
+        43,
+        44
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-05.html#m05s02-theory",
+      "purpose": "Confirmed live HSC module theory destination bound to the source period.",
+      "audience": "both",
+      "period_numbers": [
+        45,
+        46,
+        47
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-05.html#m05s03-theory",
+      "purpose": "Confirmed live HSC module theory destination bound to the source period.",
+      "audience": "both",
+      "period_numbers": [
+        48,
+        49,
+        50
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-06.html#m06s01-theory",
+      "purpose": "Confirmed live HSC module theory destination bound to the source period.",
+      "audience": "both",
+      "period_numbers": [
+        51,
+        52,
+        53,
+        54
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-06.html#m06s02-theory",
+      "purpose": "Confirmed live HSC module theory destination bound to the source period.",
+      "audience": "both",
+      "period_numbers": [
+        55,
+        56,
+        57
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-06.html#m06s03-theory",
+      "purpose": "Confirmed live HSC module theory destination bound to the source period.",
+      "audience": "both",
+      "period_numbers": [
+        58,
+        59,
+        60
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-07.html#m07s01-theory",
+      "purpose": "Confirmed live HSC module theory destination bound to the source period.",
+      "audience": "both",
+      "period_numbers": [
+        61,
+        62,
+        63,
+        64
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-07.html#m07s02-theory",
+      "purpose": "Confirmed live HSC module theory destination bound to the source period.",
+      "audience": "both",
+      "period_numbers": [
+        65,
+        66,
+        67
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-07.html#m07s03-theory",
+      "purpose": "Confirmed live HSC module theory destination bound to the source period.",
+      "audience": "both",
+      "period_numbers": [
+        68,
+        69,
+        70
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-08.html#m08s01-theory",
+      "purpose": "Confirmed live HSC module theory destination bound to the source period.",
+      "audience": "both",
+      "period_numbers": [
+        71,
+        72,
+        73,
+        74
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-08.html#m08s02-theory",
+      "purpose": "Confirmed live HSC module theory destination bound to the source period.",
+      "audience": "both",
+      "period_numbers": [
+        75,
+        76,
+        77,
+        78
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-08.html#m08s03-theory",
+      "purpose": "Confirmed live HSC module theory destination bound to the source period.",
+      "audience": "both",
+      "period_numbers": [
+        79,
+        80,
+        81,
+        82
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-09.html#m09s01-theory",
+      "purpose": "Confirmed live HSC module theory destination bound to the source period.",
+      "audience": "both",
+      "period_numbers": [
+        83,
+        84,
+        85,
+        86
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-09.html#m09s02-theory",
+      "purpose": "Confirmed live HSC module theory destination bound to the source period.",
+      "audience": "both",
+      "period_numbers": [
+        87,
+        88,
+        89,
+        90
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-09.html#m09s03-theory",
+      "purpose": "Confirmed live HSC module theory destination bound to the source period.",
+      "audience": "both",
+      "period_numbers": [
+        91,
+        92,
+        93,
+        94
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-10.html#m10s01-theory",
+      "purpose": "Confirmed live HSC module theory destination bound to the source period.",
+      "audience": "both",
+      "period_numbers": [
+        95,
+        96,
+        97,
+        98
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-10.html#m10s02-theory",
+      "purpose": "Confirmed live HSC module theory destination bound to the source period.",
+      "audience": "both",
+      "period_numbers": [
+        99,
+        100,
+        101
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-10.html#m10s03-theory",
+      "purpose": "Confirmed live HSC module theory destination bound to the source period.",
+      "audience": "both",
+      "period_numbers": [
+        102,
+        103,
+        104
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-11.html#m11s01-theory",
+      "purpose": "Confirmed live HSC module theory destination bound to the source period.",
+      "audience": "both",
+      "period_numbers": [
+        105,
+        106,
+        107
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-11.html#m11s02-theory",
+      "purpose": "Confirmed live HSC module theory destination bound to the source period.",
+      "audience": "both",
+      "period_numbers": [
+        108,
+        109,
+        110
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-11.html#m11s03-theory",
+      "purpose": "Confirmed live HSC module theory destination bound to the source period.",
+      "audience": "both",
+      "period_numbers": [
+        111,
+        112
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-12.html#m12s01-theory",
+      "purpose": "Confirmed live HSC module theory destination bound to the source period.",
+      "audience": "both",
+      "period_numbers": [
+        113,
+        114,
+        115
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-12.html#m12s02-theory",
+      "purpose": "Confirmed live HSC module theory destination bound to the source period.",
+      "audience": "both",
+      "period_numbers": [
+        116,
+        117,
+        118
+      ]
+    },
+    {
+      "destination": "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-12.html#m12s03-theory",
+      "purpose": "Confirmed live HSC module theory destination bound to the source period.",
+      "audience": "both",
+      "period_numbers": [
+        119,
+        120
+      ]
+    }
+  ],
+  "teacher_to_confirm": [
+    {
+      "id": "TTC-01",
+      "item": "Actual class timetable and conversion of 120 indicative hours into local periods",
+      "owner": "Head Teacher/teacher",
+      "due_before": "Program registration or first delivery",
+      "affected_periods": []
+    },
+    {
+      "id": "TTC-02",
+      "item": "Current Schools Online MDP submission date and all school progress-check dates",
+      "owner": "Teacher/HSC coordinator",
+      "due_before": "Publishing dates to students",
+      "affected_periods": [
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120
+      ]
+    },
+    {
+      "id": "TTC-03",
+      "item": "Approved project scope, facilities, tools, materials, PPE, WHS controls, off-site work and outside-assistance arrangements",
+      "owner": "Teacher/faculty",
+      "due_before": "Any practical or production activity",
+      "affected_periods": [
+        63,
+        66,
+        69,
+        73,
+        76,
+        78,
+        80,
+        82,
+        85,
+        87,
+        89,
+        91,
+        92,
+        93,
+        94,
+        97,
+        100,
+        107,
+        110,
+        112,
+        115,
+        117,
+        119,
+        120
+      ]
+    },
+    {
+      "id": "TTC-04",
+      "item": "Task 2 issue date conflict between the 2025 issue line and 2026 task use",
+      "owner": "Teacher/faculty",
+      "due_before": "Reissuing Task 2 notification",
+      "affected_periods": [
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50
+      ]
+    },
+    {
+      "id": "TTC-05",
+      "item": "Task 3 version and date conflict between filename and internal 2026 content",
+      "owner": "Teacher/faculty",
+      "due_before": "Reissuing Task 3 notification",
+      "affected_periods": [
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60
+      ]
+    },
+    {
+      "id": "TTC-06",
+      "item": "Final MDP checklist conflict between Wednesday 26 August 2026 and Thursday 27 August 2026",
+      "owner": "Teacher/HSC coordinator",
+      "due_before": "Displaying an exact final submission date",
+      "affected_periods": []
+    },
+    {
+      "id": "TTC-07",
+      "item": "Local academic-integrity and generative-AI instructions for each formal task",
+      "owner": "Teacher/faculty",
+      "due_before": "Formal task issue",
+      "affected_periods": []
+    },
+    {
+      "id": "TTC-08",
+      "item": "Program delivery year and syllabus decision if reused into the planned 2029 transition",
+      "owner": "Head Teacher",
+      "due_before": "Any 2029 reuse",
+      "affected_periods": []
+    },
+    {
+      "id": "TTC-16",
+      "item": "Assessment dates and weightings before reusing either unit beyond the confirmed cohort/year",
+      "owner": "Head Teacher",
+      "due_before": "Any later-cohort reuse",
+      "affected_periods": []
+    },
+    {
+      "id": "TTC-17",
+      "item": "Current approved individual adjustments and accessible equivalent response modes",
+      "owner": "Teacher/learning support",
+      "due_before": "Before each affected lesson or assessment",
+      "affected_periods": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120
+      ]
+    },
+    {
+      "id": "TTC-18",
+      "item": "Public rights and privacy for every image or document; student-named work, grades, responses and identifiable media remain excluded",
+      "owner": "Steve/course owner",
+      "due_before": "Any public integration or release",
+      "affected_periods": []
+    },
+    {
+      "id": "TTC-19",
+      "item": "Task 1 outcome-code conflict: handbook H1.2; approved notice H1.1.",
+      "owner": "Teacher/faculty",
+      "due_before": "Task 1 reuse",
+      "affected_periods": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28
+      ]
+    }
+  ],
+  "files": [
+    {
+      "path": "year12-hsc-design-technology-program-v1.0.0.docx",
+      "purpose": "editable-program",
+      "version": "v1.0.0"
+    },
+    {
+      "path": "year12-hsc-design-technology-program-v1.0.0.pdf",
+      "purpose": "rendered-program",
+      "version": "v1.0.0"
+    },
+    {
+      "path": "year12-hsc-design-technology-alignment-manifest-v1.0.0.json",
+      "purpose": "alignment-manifest",
+      "version": "v1.0.0"
+    },
+    {
+      "path": "year12-hsc-design-technology-site-map-v1.0.0.json",
+      "purpose": "site-map",
+      "version": "v1.0.0"
+    },
+    {
+      "path": "year12-hsc-design-technology-delivery-register-v1.0.0.docx",
+      "purpose": "delivery-register",
+      "version": "v1.0.0"
+    }
+  ]
+}

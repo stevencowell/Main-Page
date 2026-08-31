@@ -79,6 +79,7 @@ h1 span { color: #f0d49f; }
 .syllabus-family--textiles { --syllabus-accent: #9b1463; --syllabus-soft: #fbe8f3; }
 .syllabus-family--agriculture { --syllabus-accent: #617400; --syllabus-soft: #f1f6d8; }
 .syllabus-family--senior-textiles { --syllabus-accent: #5b2387; --syllabus-soft: #f1e8fa; }
+.syllabus-family--design-technology { --syllabus-accent: #1f5c73; --syllabus-soft: #e7f2f5; }
 .syllabus-family--science { --syllabus-accent: #5946a8; --syllabus-soft: #eeebfb; }
 .syllabus-family--pending { --syllabus-accent: #69736f; --syllabus-soft: #eef1ef; }
 .syllabus-family-header { display: flex; align-items: end; justify-content: space-between; gap: 24px; margin-bottom: 20px; padding: 22px 24px; border: 1px solid var(--line); border-left: 8px solid var(--syllabus-accent); border-radius: 16px; background: linear-gradient(115deg, var(--syllabus-soft), white 72%); }
