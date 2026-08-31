@@ -1,0 +1,578 @@
+{
+  "schema_version": "1.0",
+  "program_id": "design-technology-stage6-master-240h",
+  "version": "v1.0.0",
+  "state": "handoff-ready-local",
+  "course_sites": [
+    {
+      "relationship": "Preliminary course support",
+      "url": "https://stevencowell.github.io/Main-Page/Year-11-Design-and-Technology/",
+      "state": "confirmed-public",
+      "http_status": 200,
+      "checked_date": "2026-09-01"
+    },
+    {
+      "relationship": "HSC course and named module destinations",
+      "url": "https://stevencowell.github.io/Year-12-Design-and-Technology/",
+      "state": "confirmed-public",
+      "http_status": 200,
+      "checked_date": "2026-09-01"
+    }
+  ],
+  "primary_public_route": "https://stevencowell.github.io/Main-Page/Year-11-Design-and-Technology/master-program.html",
+  "teacher_resources": {
+    "url": "https://stevencowell.github.io/Main-Page/Year-11-Design-and-Technology/teacher-resources.html",
+    "state": "confirmed-public",
+    "http_status": 200,
+    "checked_date": "2026-09-01",
+    "canonical_links": [
+      {
+        "label": "Teaching program PDF",
+        "file": "stage6-design-technology-master-program-v1.0.0.pdf"
+      },
+      {
+        "label": "Editable teaching program",
+        "file": "stage6-design-technology-master-program-v1.0.0.docx"
+      }
+    ]
+  },
+  "support_routes": {
+    "assessment": "https://stevencowell.github.io/Year-12-Design-and-Technology/assessment.html",
+    "folio": "https://stevencowell.github.io/Year-12-Design-and-Technology/folio.html"
+  },
+  "mapping_control": {
+    "mapped_period_count": 240,
+    "destination_count": 37,
+    "granularity": "course-root support only for Preliminary; named section mapping for HSC",
+    "routes": [
+      {
+        "destination": "https://stevencowell.github.io/Main-Page/Year-11-Design-and-Technology/",
+        "purpose": "Confirmed live Preliminary course support root; exact section equivalence is not asserted.",
+        "audience": "both",
+        "period_numbers": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39,
+          40,
+          41,
+          42,
+          43,
+          44,
+          45,
+          46,
+          47,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55,
+          56,
+          57,
+          58,
+          59,
+          60,
+          61,
+          62,
+          63,
+          64,
+          65,
+          66,
+          67,
+          68,
+          69,
+          70,
+          71,
+          72,
+          73,
+          74,
+          75,
+          76,
+          77,
+          78,
+          79,
+          80,
+          81,
+          82,
+          83,
+          84,
+          85,
+          86,
+          87,
+          88,
+          89,
+          90,
+          91,
+          92,
+          93,
+          94,
+          95,
+          96,
+          97,
+          98,
+          99,
+          100,
+          101,
+          102,
+          103,
+          104,
+          105,
+          106,
+          107,
+          108,
+          109,
+          110,
+          111,
+          112,
+          113,
+          114,
+          115,
+          116,
+          117,
+          118,
+          119,
+          120
+        ]
+      },
+      {
+        "destination": "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-01.html#m01s01-theory",
+        "purpose": "Confirmed live HSC module theory destination bound to the source period.",
+        "audience": "both",
+        "period_numbers": [
+          121,
+          122,
+          123
+        ]
+      },
+      {
+        "destination": "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-01.html#m01s02-theory",
+        "purpose": "Confirmed live HSC module theory destination bound to the source period.",
+        "audience": "both",
+        "period_numbers": [
+          124,
+          125,
+          126
+        ]
+      },
+      {
+        "destination": "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-01.html#m01s03-theory",
+        "purpose": "Confirmed live HSC module theory destination bound to the source period.",
+        "audience": "both",
+        "period_numbers": [
+          127,
+          128
+        ]
+      },
+      {
+        "destination": "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-02.html#m02s01-theory",
+        "purpose": "Confirmed live HSC module theory destination bound to the source period.",
+        "audience": "both",
+        "period_numbers": [
+          129,
+          130,
+          131,
+          132
+        ]
+      },
+      {
+        "destination": "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-02.html#m02s02-theory",
+        "purpose": "Confirmed live HSC module theory destination bound to the source period.",
+        "audience": "both",
+        "period_numbers": [
+          133,
+          134,
+          135
+        ]
+      },
+      {
+        "destination": "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-02.html#m02s03-theory",
+        "purpose": "Confirmed live HSC module theory destination bound to the source period.",
+        "audience": "both",
+        "period_numbers": [
+          136,
+          137,
+          138
+        ]
+      },
+      {
+        "destination": "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-03.html#m03s01-theory",
+        "purpose": "Confirmed live HSC module theory destination bound to the source period.",
+        "audience": "both",
+        "period_numbers": [
+          139,
+          140,
+          141,
+          142
+        ]
+      },
+      {
+        "destination": "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-03.html#m03s02-theory",
+        "purpose": "Confirmed live HSC module theory destination bound to the source period.",
+        "audience": "both",
+        "period_numbers": [
+          143,
+          144,
+          145
+        ]
+      },
+      {
+        "destination": "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-03.html#m03s03-theory",
+        "purpose": "Confirmed live HSC module theory destination bound to the source period.",
+        "audience": "both",
+        "period_numbers": [
+          146,
+          147,
+          148
+        ]
+      },
+      {
+        "destination": "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-04.html#m04s01-theory",
+        "purpose": "Confirmed live HSC module theory destination bound to the source period.",
+        "audience": "both",
+        "period_numbers": [
+          149,
+          150,
+          151,
+          152
+        ]
+      },
+      {
+        "destination": "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-04.html#m04s02-theory",
+        "purpose": "Confirmed live HSC module theory destination bound to the source period.",
+        "audience": "both",
+        "period_numbers": [
+          153,
+          154,
+          155,
+          156
+        ]
+      },
+      {
+        "destination": "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-04.html#m04s03-theory",
+        "purpose": "Confirmed live HSC module theory destination bound to the source period.",
+        "audience": "both",
+        "period_numbers": [
+          157,
+          158,
+          159,
+          160
+        ]
+      },
+      {
+        "destination": "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-05.html#m05s01-theory",
+        "purpose": "Confirmed live HSC module theory destination bound to the source period.",
+        "audience": "both",
+        "period_numbers": [
+          161,
+          162,
+          163,
+          164
+        ]
+      },
+      {
+        "destination": "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-05.html#m05s02-theory",
+        "purpose": "Confirmed live HSC module theory destination bound to the source period.",
+        "audience": "both",
+        "period_numbers": [
+          165,
+          166,
+          167
+        ]
+      },
+      {
+        "destination": "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-05.html#m05s03-theory",
+        "purpose": "Confirmed live HSC module theory destination bound to the source period.",
+        "audience": "both",
+        "period_numbers": [
+          168,
+          169,
+          170
+        ]
+      },
+      {
+        "destination": "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-06.html#m06s01-theory",
+        "purpose": "Confirmed live HSC module theory destination bound to the source period.",
+        "audience": "both",
+        "period_numbers": [
+          171,
+          172,
+          173,
+          174
+        ]
+      },
+      {
+        "destination": "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-06.html#m06s02-theory",
+        "purpose": "Confirmed live HSC module theory destination bound to the source period.",
+        "audience": "both",
+        "period_numbers": [
+          175,
+          176,
+          177
+        ]
+      },
+      {
+        "destination": "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-06.html#m06s03-theory",
+        "purpose": "Confirmed live HSC module theory destination bound to the source period.",
+        "audience": "both",
+        "period_numbers": [
+          178,
+          179,
+          180
+        ]
+      },
+      {
+        "destination": "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-07.html#m07s01-theory",
+        "purpose": "Confirmed live HSC module theory destination bound to the source period.",
+        "audience": "both",
+        "period_numbers": [
+          181,
+          182,
+          183,
+          184
+        ]
+      },
+      {
+        "destination": "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-07.html#m07s02-theory",
+        "purpose": "Confirmed live HSC module theory destination bound to the source period.",
+        "audience": "both",
+        "period_numbers": [
+          185,
+          186,
+          187
+        ]
+      },
+      {
+        "destination": "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-07.html#m07s03-theory",
+        "purpose": "Confirmed live HSC module theory destination bound to the source period.",
+        "audience": "both",
+        "period_numbers": [
+          188,
+          189,
+          190
+        ]
+      },
+      {
+        "destination": "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-08.html#m08s01-theory",
+        "purpose": "Confirmed live HSC module theory destination bound to the source period.",
+        "audience": "both",
+        "period_numbers": [
+          191,
+          192,
+          193,
+          194
+        ]
+      },
+      {
+        "destination": "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-08.html#m08s02-theory",
+        "purpose": "Confirmed live HSC module theory destination bound to the source period.",
+        "audience": "both",
+        "period_numbers": [
+          195,
+          196,
+          197,
+          198
+        ]
+      },
+      {
+        "destination": "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-08.html#m08s03-theory",
+        "purpose": "Confirmed live HSC module theory destination bound to the source period.",
+        "audience": "both",
+        "period_numbers": [
+          199,
+          200,
+          201,
+          202
+        ]
+      },
+      {
+        "destination": "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-09.html#m09s01-theory",
+        "purpose": "Confirmed live HSC module theory destination bound to the source period.",
+        "audience": "both",
+        "period_numbers": [
+          203,
+          204,
+          205,
+          206
+        ]
+      },
+      {
+        "destination": "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-09.html#m09s02-theory",
+        "purpose": "Confirmed live HSC module theory destination bound to the source period.",
+        "audience": "both",
+        "period_numbers": [
+          207,
+          208,
+          209,
+          210
+        ]
+      },
+      {
+        "destination": "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-09.html#m09s03-theory",
+        "purpose": "Confirmed live HSC module theory destination bound to the source period.",
+        "audience": "both",
+        "period_numbers": [
+          211,
+          212,
+          213,
+          214
+        ]
+      },
+      {
+        "destination": "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-10.html#m10s01-theory",
+        "purpose": "Confirmed live HSC module theory destination bound to the source period.",
+        "audience": "both",
+        "period_numbers": [
+          215,
+          216,
+          217,
+          218
+        ]
+      },
+      {
+        "destination": "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-10.html#m10s02-theory",
+        "purpose": "Confirmed live HSC module theory destination bound to the source period.",
+        "audience": "both",
+        "period_numbers": [
+          219,
+          220,
+          221
+        ]
+      },
+      {
+        "destination": "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-10.html#m10s03-theory",
+        "purpose": "Confirmed live HSC module theory destination bound to the source period.",
+        "audience": "both",
+        "period_numbers": [
+          222,
+          223,
+          224
+        ]
+      },
+      {
+        "destination": "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-11.html#m11s01-theory",
+        "purpose": "Confirmed live HSC module theory destination bound to the source period.",
+        "audience": "both",
+        "period_numbers": [
+          225,
+          226,
+          227
+        ]
+      },
+      {
+        "destination": "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-11.html#m11s02-theory",
+        "purpose": "Confirmed live HSC module theory destination bound to the source period.",
+        "audience": "both",
+        "period_numbers": [
+          228,
+          229,
+          230
+        ]
+      },
+      {
+        "destination": "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-11.html#m11s03-theory",
+        "purpose": "Confirmed live HSC module theory destination bound to the source period.",
+        "audience": "both",
+        "period_numbers": [
+          231,
+          232
+        ]
+      },
+      {
+        "destination": "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-12.html#m12s01-theory",
+        "purpose": "Confirmed live HSC module theory destination bound to the source period.",
+        "audience": "both",
+        "period_numbers": [
+          233,
+          234,
+          235
+        ]
+      },
+      {
+        "destination": "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-12.html#m12s02-theory",
+        "purpose": "Confirmed live HSC module theory destination bound to the source period.",
+        "audience": "both",
+        "period_numbers": [
+          236,
+          237,
+          238
+        ]
+      },
+      {
+        "destination": "https://stevencowell.github.io/Year-12-Design-and-Technology/modules/module-12.html#m12s03-theory",
+        "purpose": "Confirmed live HSC module theory destination bound to the source period.",
+        "audience": "both",
+        "period_numbers": [
+          239,
+          240
+        ]
+      }
+    ]
+  },
+  "alignment_manifest": {
+    "file": "stage6-design-technology-master-alignment-manifest-v1.0.0.json",
+    "sha256": "604487458ed340fed7a73835efc46868812ccba515ed36f8af5923d21421126d"
+  },
+  "teacher_to_confirm": {
+    "open_ids": [
+      "TTC-01",
+      "TTC-02",
+      "TTC-03",
+      "TTC-04",
+      "TTC-05",
+      "TTC-06",
+      "TTC-07",
+      "TTC-08",
+      "TTC-09",
+      "TTC-10",
+      "TTC-11",
+      "TTC-12",
+      "TTC-13",
+      "TTC-14",
+      "TTC-16",
+      "TTC-17",
+      "TTC-18",
+      "TTC-19"
+    ],
+    "resolved_ids": [
+      "TTC-15"
+    ]
+  }
+}

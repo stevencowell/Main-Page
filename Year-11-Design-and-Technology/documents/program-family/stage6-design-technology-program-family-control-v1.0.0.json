@@ -1,0 +1,240 @@
+{
+  "schema_version": "1.0",
+  "artifact_id": "dt-stage6-program-family-control-v1.0.0",
+  "version": "v1.0.0",
+  "state": "handoff-ready-local",
+  "generated_date": "2026-09-01",
+  "source_binding": {
+    "source_map": {
+      "id": "year12-design-technology-source-map-v1.0.0",
+      "path": "stage-01/course-source-map-v1.0.0.json",
+      "sha256": "d8c6d7077294eac5ebe62a83aebff0ec907f34c3cfac0201a25f977f4fa46e67"
+    },
+    "integration_baseline": {
+      "id": "year12-design-technology-stage20-integration-manifest-v2.0.0",
+      "path": "stage-20/qa/integration-manifest-v2.0.0.json",
+      "sha256": "6c6e725f93c9f2e7692c35628b9d614ff82c1d2dedd5483c5a0c941757e52b66"
+    },
+    "canonical_program_data": {
+      "path": "programs/drafts/program-family-data.json",
+      "sha256": "3141053a730cc9297459df4cfa1966754a44fd3fa69ed2b8233f66595aeda21a"
+    },
+    "phase1_structural_qa": {
+      "path": "qa/program-family-validation.json",
+      "sha256": "21e2e90eb832dcca41a1011e2cf2212f481efdeaf519d3db4e78ba9bcfda7d6e",
+      "state": "PASS"
+    },
+    "phase1_pdf_visual_qa": {
+      "path": "qa/program-family-phase1-visual-inspection.json",
+      "sha256": "a2bdb4b061d175e4124f8885f2222ef022f51ff6e0a6a8975432061437df614f",
+      "state": "PASS"
+    }
+  },
+  "teacher_resources_labels": [
+    "Teaching program PDF",
+    "Editable teaching program"
+  ],
+  "teacher_to_confirm": {
+    "register": "teacher-to-confirm-register-v1.0.0.json",
+    "sha256": "9aba1e3131b03bc9ade95244a365a4b5783f8ca772a9704efbf2f362d9d3b90b",
+    "open_ids": [
+      "TTC-01",
+      "TTC-02",
+      "TTC-03",
+      "TTC-04",
+      "TTC-05",
+      "TTC-06",
+      "TTC-07",
+      "TTC-08",
+      "TTC-09",
+      "TTC-10",
+      "TTC-11",
+      "TTC-12",
+      "TTC-13",
+      "TTC-14",
+      "TTC-16",
+      "TTC-17",
+      "TTC-18",
+      "TTC-19"
+    ],
+    "resolved": {
+      "id": "TTC-15",
+      "item": "Year 11 website relationship: no public site or a later authorised destination",
+      "status": "Resolved",
+      "resolution": "The public Year 11 Preliminary Design and Technology site and Teacher Resources route are live.",
+      "evidence": {
+        "site_url": "https://stevencowell.github.io/Main-Page/Year-11-Design-and-Technology/",
+        "teacher_resources_url": "https://stevencowell.github.io/Main-Page/Year-11-Design-and-Technology/teacher-resources.html",
+        "http_status": 200,
+        "checked_date": "2026-09-01",
+        "site_title": "Course | Year 11 Design and Technology",
+        "teacher_resources_title": "Teacher resources | Year 11 Design and Technology"
+      }
+    }
+  },
+  "master_relationship": {
+    "master_program_id": "design-technology-stage6-master-240h",
+    "component_program_ids": [
+      "year11-preliminary-dt-120h",
+      "year12-hsc-dt-120h"
+    ],
+    "coverage": "240 periods: 120 Preliminary followed by 120 HSC",
+    "assurance_state": "current-binaries; cohort pairing remains TTC-09"
+  },
+  "program_records": [
+    {
+      "program_id": "year11-preliminary-dt-120h",
+      "public_route": "https://stevencowell.github.io/Main-Page/Year-11-Design-and-Technology/",
+      "teacher_resources_route": "https://stevencowell.github.io/Main-Page/Year-11-Design-and-Technology/teacher-resources.html",
+      "binaries": [
+        {
+          "role": "editable-program",
+          "file": "year11-preliminary-design-technology-program-v1.0.0.docx",
+          "sha256": "fb535c81e96b99e4bbfdeac891e716d349b089d578fe4e7da17fb564f9ddcb98",
+          "bytes": 52617
+        },
+        {
+          "role": "rendered-program",
+          "file": "year11-preliminary-design-technology-program-v1.0.0.pdf",
+          "sha256": "34724da5939403bb767fcf29e46c52f792f080084975291c8c38374bea6aaf36",
+          "bytes": 85907,
+          "pages": 19
+        },
+        {
+          "role": "delivery-register",
+          "file": "year11-preliminary-design-technology-delivery-register-v1.0.0.docx",
+          "sha256": "2ca06887f79581dff15bc96e3e9061a92200ef74e9e1a177a2920532aa00d2db",
+          "bytes": 45222
+        }
+      ],
+      "alignment_manifest": {
+        "role": "alignment-manifest",
+        "file": "year11-preliminary-design-technology-alignment-manifest-v1.0.0.json",
+        "sha256": "1f8ee17f9c2e1d4175b92688badb82311314c4f928aa2dad18e1a2677beb294e",
+        "bytes": 146974
+      },
+      "site_map": {
+        "role": "site-map",
+        "file": "year11-preliminary-design-technology-site-map-v1.0.0.json",
+        "sha256": "526ff632e1c8ac72eb0f781e5afc824295b06b7ad9bf5148727fd58f88c91597",
+        "bytes": 4142
+      },
+      "master_relationship": {
+        "state": "linked",
+        "master_program_id": "design-technology-stage6-master-240h",
+        "coverage_state": "current"
+      },
+      "teacher_program_manifest": {
+        "role": "teacher-program-manifest",
+        "file": "year11-preliminary-design-technology-teacher-program-manifest-v1.0.0.json",
+        "sha256": "6e0d3665d90fd1d574a989498863c144bec6bb8852a65295b5f942c180df129e",
+        "bytes": 307063,
+        "validator": "Stage 14 validate_teacher_program.py"
+      }
+    },
+    {
+      "program_id": "year12-hsc-dt-120h",
+      "public_route": "https://stevencowell.github.io/Year-12-Design-and-Technology/",
+      "teacher_resources_route": "https://stevencowell.github.io/Year-12-Design-and-Technology/teacher-resources.html",
+      "binaries": [
+        {
+          "role": "editable-program",
+          "file": "year12-hsc-design-technology-program-v1.0.0.docx",
+          "sha256": "588b5e70c6f79a765496e4389991544d7d644cd3effceec91da942e58e5ddf60",
+          "bytes": 51116
+        },
+        {
+          "role": "rendered-program",
+          "file": "year12-hsc-design-technology-program-v1.0.0.pdf",
+          "sha256": "bd22c8f7fb87324ce3013517c4417a93c782f10bc8a5951f4418e85b5dc9fc7d",
+          "bytes": 95814,
+          "pages": 23
+        },
+        {
+          "role": "delivery-register",
+          "file": "year12-hsc-design-technology-delivery-register-v1.0.0.docx",
+          "sha256": "83c9ce6dcd922d8a72c7001fcad57f11cc87da1e1c4e98ce5407681219e62db3",
+          "bytes": 44925
+        }
+      ],
+      "alignment_manifest": {
+        "role": "alignment-manifest",
+        "file": "year12-hsc-design-technology-alignment-manifest-v1.0.0.json",
+        "sha256": "8abbb004c048eaba1717348ea0eab5d205895676c9c3c6b3f4019c60b013147e",
+        "bytes": 174482
+      },
+      "site_map": {
+        "role": "site-map",
+        "file": "year12-hsc-design-technology-site-map-v1.0.0.json",
+        "sha256": "6b2997412b10c35549fe6ef4367ff8b8c512b48109178c14cf6e150306f11e67",
+        "bytes": 15053
+      },
+      "master_relationship": {
+        "state": "linked",
+        "master_program_id": "design-technology-stage6-master-240h",
+        "coverage_state": "current"
+      },
+      "teacher_program_manifest": {
+        "role": "teacher-program-manifest",
+        "file": "year12-hsc-design-technology-teacher-program-manifest-v1.0.0.json",
+        "sha256": "a908a6010ef9cf9c400668c49d5fb1a7ef563be691a99554114c3011b252bb07",
+        "bytes": 255774,
+        "validator": "Stage 14 validate_teacher_program.py"
+      }
+    },
+    {
+      "program_id": "design-technology-stage6-master-240h",
+      "public_route": "https://stevencowell.github.io/Main-Page/Year-11-Design-and-Technology/master-program.html",
+      "teacher_resources_route": "https://stevencowell.github.io/Main-Page/Year-11-Design-and-Technology/teacher-resources.html",
+      "binaries": [
+        {
+          "role": "editable-program",
+          "file": "stage6-design-technology-master-program-v1.0.0.docx",
+          "sha256": "e5863114755cd27db022fc89abdcaef0b50ce89af7b82fc9f701d91c0c31acfe",
+          "bytes": 62516
+        },
+        {
+          "role": "rendered-program",
+          "file": "stage6-design-technology-master-program-v1.0.0.pdf",
+          "sha256": "964d7a898a291593a8b00e5ca952836b1db684fecb264f30504bc83a22b66fbc",
+          "bytes": 176874,
+          "pages": 40
+        },
+        {
+          "role": "delivery-register",
+          "file": "stage6-design-technology-delivery-register-v1.0.0.docx",
+          "sha256": "2a75fff443042b8c9870de44c1c0b7ff2733d464270047630643f4855a30f07f",
+          "bytes": 50781
+        }
+      ],
+      "alignment_manifest": {
+        "role": "alignment-manifest",
+        "file": "stage6-design-technology-master-alignment-manifest-v1.0.0.json",
+        "sha256": "604487458ed340fed7a73835efc46868812ccba515ed36f8af5923d21421126d",
+        "bytes": 316795
+      },
+      "site_map": {
+        "role": "site-map",
+        "file": "stage6-design-technology-master-site-map-v1.0.0.json",
+        "sha256": "6b3c20efccfdcbf35180aad4698fabc0a0c60aaad943facd173868045492c1cc",
+        "bytes": 17499
+      },
+      "master_relationship": {
+        "state": "this-is-master",
+        "coverage_state": "assurance",
+        "component_program_ids": [
+          "year11-preliminary-dt-120h",
+          "year12-hsc-dt-120h"
+        ]
+      },
+      "teacher_program_manifest": {
+        "role": "teacher-program-manifest",
+        "file": "stage6-design-technology-master-teacher-program-manifest-v1.0.0.json",
+        "sha256": "500f51b4d0f5a8e272d3a77bf94788a8635bb1b8b119ca6c1c716fb8e03b4850",
+        "bytes": 566306,
+        "validator": "Stage 14 validate_teacher_program.py"
+      }
+    }
+  ],
+  "release_boundary": "Local handoff only. Central library, site code, Git, deployment and presentation files are unchanged."
+}

@@ -12,7 +12,22 @@
 <body data-root="" data-active="folio" >
 <a class="skip-link" href="#main">Skip to content</a>
 <header data-site-nav></header>
-<main id="main"><section class="page-hero"><div class="wrap"><p class="kicker">Local practice folio</p><h1>Keep the evidence, not the clutter.</h1><p class="lede">Use ten cards to collect concise evidence and decision notes. Entries save only in this browser, so export or print a backup. Formal project folios must follow current teacher instructions.</p><div class="button-row"><button class="button" type="button" data-export-folio>Export folio backup</button><button class="button secondary" type="button" data-print>Print</button><button class="text-button danger" type="button" data-clear-folio>Clear local folio</button></div><p class="save-status" data-folio-status aria-live="polite"></p></div></section><section><div class="wrap"><div class="folio-grid" data-folio-grid></div></div></section></main>
+<main id="main">
+  <section class="page-hero folio-hero"><div class="wrap"><p class="kicker">Local project folio</p><h1>Keep the evidence, not the clutter.</h1><p class="lede">Use ten cards to collect concise evidence and decision notes. Work autosaves only in this browser. A JSON backup stays editable; the self-contained HTML export and print tools create readable copies. Formal project folios must follow current teacher instructions.</p>
+    <div class="folio-toolbar">
+      <div class="folio-progress-panel"><p class="eyebrow">Folio progress</p><p data-folio-progress>Loading saved notes…</p><a class="button" href="#folio-01" data-folio-resume>Continue with Card 1</a></div>
+      <div class="folio-controls" aria-label="Folio backup and print controls">
+        <button class="button" type="button" data-export-folio>Export editable JSON backup</button>
+        <label class="button secondary folio-file-button">Restore JSON backup<input class="sr-only" type="file" accept=".json,application/json" data-import-folio></label>
+        <button class="button secondary" type="button" data-export-folio-html>Export readable HTML</button>
+        <button class="button secondary" type="button" data-print-folio-all>Print all cards</button>
+        <button class="text-button danger" type="button" data-clear-folio>Clear local folio</button>
+      </div>
+    </div>
+    <p class="fine">The backup contains folio-card text and saved module written responses. This folio does not store photographs or upload anything.</p><p class="save-status" data-folio-status aria-live="polite"></p>
+  </div></section>
+  <section><div class="wrap"><div class="folio-grid" data-folio-grid></div></div></section>
+</main>
 <footer class="site-footer">
   <div class="wrap footer-grid">
     <div><strong>Year 11 Design and Technology</strong><p>Stage 6 Preliminary learning site · built 31 August 2026</p></div>

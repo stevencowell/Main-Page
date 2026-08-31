@@ -1,0 +1,126 @@
+{
+  "schema_version": "1.0",
+  "program_id": "year11-preliminary-dt-120h",
+  "program_kind": "unit",
+  "source_binding": {
+    "source_map_id": "year12-design-technology-source-map-v1.0.0",
+    "source_map_sha256": "d8c6d7077294eac5ebe62a83aebff0ec907f34c3cfac0201a25f977f4fa46e67",
+    "integration_baseline_id": "year12-design-technology-stage20-integration-manifest-v2.0.0",
+    "integration_baseline_sha256": "6c6e725f93c9f2e7692c35628b9d614ff82c1d2dedd5483c5a0c941757e52b66"
+  },
+  "course": {
+    "title": "Year 11 Preliminary Design and Technology Teaching Program",
+    "family": "Design and Technology",
+    "stage": "Year 11 Preliminary",
+    "course": "Design and Technology Stage 6",
+    "version": "v1.0.0",
+    "site_state": "confirmed-public",
+    "site_url": "https://stevencowell.github.io/Main-Page/Year-11-Design-and-Technology/",
+    "duration": {
+      "value": 120,
+      "unit": "periods"
+    }
+  },
+  "syllabus": {
+    "family_key": "design-and-technology-stage-6-2013",
+    "title": "Design and Technology Stage 6 Syllabus (2013)",
+    "version": "2013",
+    "official_url": "https://www.nsw.gov.au/education-and-training/nesa/curriculum/tas/design-and-technology-stage-6-2013",
+    "status": "Current 2013 syllabus for 2026 delivery; replacement planned for implementation in 2029.",
+    "verified_date": "2026-08-31",
+    "implementation_basis": "Use the current 2013 syllabus and official P/H outcomes; do not mix unreleased replacement outcomes.",
+    "outcome_code_family": "P"
+  },
+  "palette": {
+    "mode": "existing-syllabus-tone",
+    "syllabus_tone": "design-and-technology-stage-6"
+  },
+  "master_relationship": {
+    "state": "linked",
+    "master_program_id": "design-technology-stage6-master-240h",
+    "coverage_state": "current"
+  },
+  "teacher_resources": {
+    "route": "teacher-resources.html",
+    "links": [
+      {
+        "label": "Teaching program PDF",
+        "artifact_role": "rendered-program"
+      },
+      {
+        "label": "Editable teaching program",
+        "artifact_role": "editable-program"
+      }
+    ]
+  },
+  "artifacts": [
+    {
+      "role": "editable-program",
+      "sha256": "fb535c81e96b99e4bbfdeac891e716d349b089d578fe4e7da17fb564f9ddcb98",
+      "path": "year11-preliminary-design-technology-program-v1.0.0.docx"
+    },
+    {
+      "role": "rendered-program",
+      "sha256": "34724da5939403bb767fcf29e46c52f792f080084975291c8c38374bea6aaf36",
+      "path": "year11-preliminary-design-technology-program-v1.0.0.pdf"
+    },
+    {
+      "role": "alignment-manifest",
+      "sha256": "1f8ee17f9c2e1d4175b92688badb82311314c4f928aa2dad18e1a2677beb294e",
+      "path": "year11-preliminary-design-technology-alignment-manifest-v1.0.0.json"
+    },
+    {
+      "role": "site-map",
+      "sha256": "526ff632e1c8ac72eb0f781e5afc824295b06b7ad9bf5148727fd58f88c91597",
+      "path": "year11-preliminary-design-technology-site-map-v1.0.0.json"
+    },
+    {
+      "role": "delivery-register",
+      "sha256": "2ca06887f79581dff15bc96e3e9061a92200ef74e9e1a177a2920532aa00d2db",
+      "path": "year11-preliminary-design-technology-delivery-register-v1.0.0.docx"
+    },
+    {
+      "role": "teacher-to-confirm-register",
+      "sha256": "9aba1e3131b03bc9ade95244a365a4b5783f8ca772a9704efbf2f362d9d3b90b",
+      "path": "teacher-to-confirm-register-v1.0.0.json"
+    },
+    {
+      "role": "teacher-program-manifest",
+      "path": "year11-preliminary-design-technology-teacher-program-manifest-v1.0.0.json",
+      "sha256": "6e0d3665d90fd1d574a989498863c144bec6bb8852a65295b5f942c180df129e"
+    },
+    {
+      "role": "program-family-control",
+      "path": "stage6-design-technology-program-family-control-v1.0.0.json",
+      "sha256": "12f4fb19f7fb091dfe7249d6688a95de94048c6d742574e85c9ae02192e041bf"
+    }
+  ],
+  "library_card": {
+    "title": "Year 11 Preliminary Design and Technology Teaching Program",
+    "family": "Design and Technology",
+    "stage": "Year 11 Preliminary",
+    "course": "Design and Technology Stage 6",
+    "version": "v1.0.0",
+    "periods": 120,
+    "pdf": "programs/year11-preliminary-design-technology-program-v1.0.0.pdf",
+    "docx": "programs/year11-preliminary-design-technology-program-v1.0.0.docx",
+    "manifest": "programs/year11-preliminary-design-technology-alignment-manifest-v1.0.0.json",
+    "syllabusAligned": true,
+    "syllabusTitle": "Design and Technology Stage 6 Syllabus (2013)",
+    "syllabusUrl": "https://www.nsw.gov.au/education-and-training/nesa/curriculum/tas/design-and-technology-stage-6-2013",
+    "syllabusStatus": "Current 2013 syllabus for 2026 delivery; replacement planned for implementation in 2029.",
+    "syllabusVerified": "2026-08-31",
+    "site": "https://stevencowell.github.io/Main-Page/Year-11-Design-and-Technology/"
+  },
+  "registration": {
+    "state": "handoff-ready",
+    "canonical_library_url": "https://stevencowell.github.io/Main-Page/subject-program-library/",
+    "note": "Prepared locally only; central library registration and release are not part of this phase."
+  },
+  "teacher_program_manifest": {
+    "path": "year11-preliminary-design-technology-teacher-program-manifest-v1.0.0.json",
+    "sha256": "6e0d3665d90fd1d574a989498863c144bec6bb8852a65295b5f942c180df129e",
+    "validator_state": "PASS",
+    "validator": "Stage 14 validate_teacher_program.py"
+  }
+}
