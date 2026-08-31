@@ -24,7 +24,7 @@ jobs:
         run: python -m pip install --quiet gdown
 
       - name: Download current Year 11 site package
-        run: gdown --id 1RhAPqvNp5BWAOSfqtVRNArd21HTS8xMA --output /tmp/year11-design-technology-site.zip
+        run: gdown 1RhAPqvNp5BWAOSfqtVRNArd21HTS8xMA -O /tmp/year11-design-technology-site.zip
 
       - name: Prepare course and main-menu entry
         run: python scripts/publish-year11-design-technology.py
