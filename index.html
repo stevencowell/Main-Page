@@ -79,12 +79,11 @@
         url("assets/tas-faculty-hero-v1.webp") center / cover no-repeat;
     }
     .hero-content {
-      max-width: 620px;
-      width: min(620px, calc(100% - 40px));
-      margin-left: max(20px, calc((100vw - 1500px) / 2));
-      margin-right: 0;
+      display: grid; grid-template-columns: minmax(0, 1fr) minmax(320px, 360px);
+      align-items: end; gap: clamp(32px, 5vw, 72px);
       padding: 160px 0 80px;
     }
+    .hero-copy { max-width: 620px; }
     .eyebrow {
       display: inline-flex; align-items: center; gap: 9px; margin: 0 0 18px;
       color: #f0d49f; font-size: .78rem; font-weight: 800; letter-spacing: .13em; text-transform: uppercase;
@@ -102,6 +101,20 @@
     .button:hover { transform: translateY(-2px); }
     .button-primary { background: white; color: var(--forest-deep); box-shadow: 0 10px 30px rgba(0,0,0,.2); }
     .button-ghost { color: white; border: 1px solid rgba(255,255,255,.5); background: rgba(255,255,255,.08); }
+    .network-summary {
+      padding: 28px; border: 1px solid rgba(255,255,255,.26); border-radius: 24px;
+      background: rgba(31, 92, 69, .48); box-shadow: 0 24px 54px rgba(0,0,0,.2); backdrop-filter: blur(12px);
+    }
+    .network-kicker {
+      margin: 0 0 13px; color: #f0d49f; font-size: .78rem; font-weight: 800;
+      letter-spacing: .12em; text-transform: uppercase;
+    }
+    .network-summary h2 { margin: 0; font-size: clamp(1.7rem, 3vw, 2.35rem); }
+    .network-summary dl { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin: 26px 0 18px; }
+    .network-summary dl div { padding: 14px 9px; border-radius: 14px; background: rgba(255,255,255,.1); text-align: center; }
+    .network-summary dt { font-family: Manrope, sans-serif; font-size: 1.5rem; font-weight: 800; line-height: 1.2; }
+    .network-summary dd { margin: 4px 0 0; color: rgba(255,255,255,.72); font-size: .72rem; line-height: 1.35; }
+    .network-note { margin: 0; color: rgba(255,255,255,.78); font-size: .88rem; }
 
     main { overflow: hidden; }
     .section { padding: 88px 0; }
@@ -197,6 +210,8 @@
       .nav-links a:not(.nav-solid) { display: none; }
     }
     @media (max-width: 900px) {
+      .hero-content { grid-template-columns: 1fr; align-items: start; }
+      .network-summary { width: min(100%, 520px); }
       .card-grid, .resource-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
       .featured-course { grid-template-columns: 1fr; }
       .featured-image { min-height: 310px; }
@@ -217,11 +232,14 @@
       .hero-content {
         width: min(100% - 28px, 1180px);
         margin-inline: auto;
-        padding: 170px 0 52px;
+        padding: 150px 0 52px;
       }
       h1 { font-size: clamp(3.1rem, 17vw, 4.7rem); }
       .hero-actions { align-items: stretch; flex-direction: column; }
       .button { width: 100%; }
+      .network-summary { padding: 24px 20px; }
+      .network-summary dl { gap: 8px; }
+      .network-summary dl div { padding-inline: 6px; }
       .section { padding: 64px 0; }
       .featured-image { min-height: 240px; }
       .featured-copy { padding: 30px 24px 34px; }
@@ -262,13 +280,25 @@
 
   <header class="hero" id="top">
     <div class="shell hero-content">
-      <p class="eyebrow">Technology and Applied Studies</p>
-      <h1>Think.<br>Make.<br>Improve.</h1>
-      <p class="hero-lead">Explore practical learning across timber, metalwork, engineering, design and technology, graphics, textiles, food technology, agriculture, multimedia and vocational education.</p>
-      <div class="hero-actions">
-        <a class="button button-primary" href="#projects">Explore TAS course sites <span aria-hidden="true">↓</span></a>
-        <a class="button button-ghost" href="#resources">Open VET courses and resources</a>
+      <div class="hero-copy">
+        <p class="eyebrow">Technology and Applied Studies</p>
+        <h1>Think.<br>Make.<br>Improve.</h1>
+        <p class="hero-lead">Explore practical learning across timber, metalwork, engineering, design and technology, graphics, textiles, food technology, agriculture, multimedia and vocational education.</p>
+        <div class="hero-actions">
+          <a class="button button-primary" href="#projects">Explore TAS course sites <span aria-hidden="true">↓</span></a>
+          <a class="button button-ghost" href="#resources">Open VET courses and resources</a>
+        </div>
       </div>
+      <aside class="network-summary" aria-labelledby="network-summary-title">
+        <p class="network-kicker">Learning network snapshot</p>
+        <h2 id="network-summary-title"><span data-network-card-count>48</span> learning pathways ready now</h2>
+        <dl>
+          <div><dt data-network-card-count>48</dt><dd>course and resource cards</dd></div>
+          <div><dt data-network-area-count>12</dt><dd>learning areas</dd></div>
+          <div><dt>7–12</dt><dd>student pathways</dd></div>
+        </dl>
+        <p class="network-note">Every card opens a purpose-built course, project or specialist resource. The totals update as this hub grows.</p>
+      </aside>
     </div>
   </header>
 
@@ -890,5 +920,11 @@
       <p>Timber · Metalwork · Engineering · Design and Technology · Graphics · Multimedia · Design &amp; Technology · Textiles · Agriculture · Hospitality · Business Services · Construction · Manufacturing</p>
     </div>
   </footer>
+  <script>
+    const networkCardCount = document.querySelectorAll("main .project-card").length;
+    const networkAreaCount = document.querySelectorAll("main > section[id]").length;
+    document.querySelectorAll("[data-network-card-count]").forEach(element => { element.textContent = networkCardCount; });
+    document.querySelectorAll("[data-network-area-count]").forEach(element => { element.textContent = networkAreaCount; });
+  </script>
 </body>
 </html>
