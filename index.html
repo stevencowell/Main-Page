@@ -60,10 +60,13 @@
       border: 1px solid rgba(255, 255, 255, .52); border-radius: 11px;
       background: rgba(255, 255, 255, .12); font-size: 18px;
     }
-    .nav-links { display: flex; align-items: center; gap: 12px; }
+    .nav-links {
+      display: flex; flex: 1 1 auto; min-width: 0; align-items: center;
+      justify-content: space-between; gap: 0;
+    }
     .nav-links a {
-      color: white; text-decoration: none; font-size: .91rem; font-weight: 700;
-      padding: 9px 12px; border-radius: 999px;
+      flex: 0 0 auto; color: white; text-decoration: none; font-size: .91rem; font-weight: 700;
+      padding: 9px 10px; border-radius: 999px; white-space: nowrap;
     }
     .nav-links a:hover, .nav-links a:focus-visible { background: rgba(255, 255, 255, .15); }
     .nav-links .nav-solid { background: white; color: var(--forest-deep); }
@@ -189,6 +192,10 @@
 
     :focus-visible { outline: 3px solid #f1bd5d; outline-offset: 4px; }
 
+    @media (max-width: 1160px) {
+      .nav-links { flex: 0 0 auto; }
+      .nav-links a:not(.nav-solid) { display: none; }
+    }
     @media (max-width: 900px) {
       .card-grid, .resource-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
       .featured-course { grid-template-columns: 1fr; }
@@ -200,7 +207,6 @@
       .site-nav { position: absolute; }
       .nav-inner { min-height: 68px; }
       .brand span:last-child { display: none; }
-      .nav-links a:not(.nav-solid) { display: none; }
       .hero {
         min-height: 700px;
         background-position: 62% center;
@@ -862,7 +868,7 @@
             <p>Open the source-mapped Year 8 Science course and its five-module learning pathway.</p>
             <div class="featured-actions">
               <a class="button button-primary" href="https://stevencowell.github.io/Year-8-Science-Guided-Course/" target="_blank" rel="noopener">Open Year 8 Science <span aria-hidden="true">&nearr;</span></a>
-              <a class="button button-ghost" href="https://stevencowell.github.io/busy-worksheets/?library=science" target="_blank" rel="noopener">Science Worksheets <span aria-hidden="true">&nearr;</span></a>
+              <a class="button button-ghost" href="https://stevencowell.github.io/Year-8-Science-Guided-Course/busy-work/" target="_blank" rel="noopener">Science Worksheets <span aria-hidden="true">&nearr;</span></a>
               <a class="button button-ghost" href="https://curriculum.nsw.edu.au/learning-areas/science/science-7-10-2023/overview/course" target="_blank" rel="noopener">Official syllabus <span aria-hidden="true">&nearr;</span></a>
             </div>
           </div>
