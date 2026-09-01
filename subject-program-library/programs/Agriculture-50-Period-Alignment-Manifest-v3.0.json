@@ -1,0 +1,2765 @@
+{
+  "schema_version": "1.0",
+  "program_id": "year-8-agriculture-elective-program",
+  "version": "v3.0",
+  "course": {
+    "title": "Year 8 Agriculture",
+    "classification": "Introductory unit contributing to a 100-hour Agriculture Technology elective",
+    "stage_or_year": "Stage 4 | Year 8",
+    "delivery_year": 2027,
+    "project": "Complete the authorised Year 8 Agriculture sequence and teacher-approved practical or fieldwork evidence",
+    "course_requirement": "This 50-period unit requires additional enterprise study and the broader-course collaborative activity before the 100-hour elective requirements can be claimed.",
+    "stage4_adjustment_advice": "Stage 5 outcomes adjusted for Year 8 under AGT4-ADJ-01; the adjustment advice is not an outcome code."
+  },
+  "site": {
+    "name": "Year 8 Agriculture",
+    "reference": "https://stevencowell.github.io/Year-8-Agriculture-Guided-Course/",
+    "inspection_date": "2026-09-01",
+    "state": "mixed"
+  },
+  "syllabus": {
+    "title": "Agriculture Technology 7–10 Syllabus (2024)",
+    "version": "2024",
+    "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/overview/course",
+    "verified_date": "2026-09-01",
+    "mandatory_from": "2027",
+    "early_implementation": "not-applicable",
+    "steve_decision": "use-new-mandatory",
+    "implementation_status": "mandatory-for-delivery"
+  },
+  "timetable": {
+    "weeks": 20,
+    "period_minutes": 60,
+    "periods_per_fortnight": 5,
+    "total_periods": 50
+  },
+  "outcomes": [
+    {
+      "code": "AGT5-SAF-01",
+      "statement": "applies production processes and safe work practices in agricultural contexts",
+      "source_id": "S04",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/outcomes"
+    },
+    {
+      "code": "AGT5-APG-01",
+      "statement": "explains factors that influence animal and plant selection, growth and development in agricultural enterprises and systems",
+      "source_id": "S04",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/outcomes"
+    },
+    {
+      "code": "AGT5-PRA-01",
+      "statement": "explains industry practices in agricultural enterprises and systems",
+      "source_id": "S04",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/outcomes"
+    },
+    {
+      "code": "AGT5-ENV-01",
+      "statement": "analyses relationships between agricultural production, sustainability and consumers",
+      "source_id": "S04",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/outcomes"
+    },
+    {
+      "code": "AGT5-IVT-01",
+      "statement": "investigates and assesses the influence of innovation and management practices on agricultural enterprises and systems",
+      "source_id": "S04",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/outcomes"
+    },
+    {
+      "code": "AGT5-USE-01",
+      "statement": "selects and justifies the use of technologies and processes in agricultural production and systems",
+      "source_id": "S04",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/outcomes"
+    },
+    {
+      "code": "AGT5-COM-01",
+      "statement": "communicates ideas and concepts in agricultural technology contexts",
+      "source_id": "S04",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/outcomes"
+    }
+  ],
+  "source_register": [
+    {
+      "id": "S01",
+      "title": "Steve's Agriculture course realignment direction",
+      "authority": "local-program",
+      "location": "Current Codex task",
+      "revision": "received 2026-09-01",
+      "use": "course identity, Year 8 elective status and network timetable pattern"
+    },
+    {
+      "id": "S02",
+      "title": "Authorised Year 8 Agriculture 2026 Drive sequence",
+      "authority": "teacher-technical",
+      "location": "Private Drive folder ID 1Xs_4kwIpp1b-tNongrs2STuOo_GNnMkm",
+      "revision": "45-file inventory verified 2026-09-01",
+      "use": "11 supplied lesson packages and their order; no supplied 22-week program"
+    },
+    {
+      "id": "S03",
+      "title": "Agriculture Technology 7–10 Syllabus (2024) – course overview",
+      "authority": "official-syllabus",
+      "location": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/overview/course",
+      "revision": "verified 2026-09-01",
+      "use": "course identity, 2027 implementation and 100-hour requirements"
+    },
+    {
+      "id": "S04",
+      "title": "Agriculture Technology 7–10 Syllabus (2024) – outcomes",
+      "authority": "official-syllabus",
+      "location": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/outcomes",
+      "revision": "verified 2026-09-01",
+      "use": "exact outcome wording and Stage 4 adjustment"
+    },
+    {
+      "id": "S05",
+      "title": "Plant production content",
+      "authority": "official-syllabus",
+      "location": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa1b886033",
+      "revision": "verified 2026-09-01",
+      "use": "selected plant-production content points"
+    },
+    {
+      "id": "S06",
+      "title": "Animal production content",
+      "authority": "official-syllabus",
+      "location": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa84e43857",
+      "revision": "verified 2026-09-01",
+      "use": "selected animal-production content points"
+    },
+    {
+      "id": "S07",
+      "title": "Agriculture systems and practice content",
+      "authority": "official-syllabus",
+      "location": "https://curriculum.nsw.edu.au/learning-areas/tas/agriculture-technology-7-10-2024/content/stage-5/fa51218d9b",
+      "revision": "verified 2026-09-01",
+      "use": "selected systems, management, food-security and industry content points"
+    },
+    {
+      "id": "S08",
+      "title": "Year 8 Agriculture guided course",
+      "authority": "website",
+      "location": "candidate root",
+      "revision": "local baseline 756f62dd8bd8",
+      "use": "11-module learning sequence, checks and evidence routes"
+    },
+    {
+      "id": "S09",
+      "title": "The Riv Burger network benchmark",
+      "authority": "quality-reference",
+      "location": "https://stevencowell.github.io/Year-8-The-Riv-Burger/",
+      "revision": "verified 2026-09-01",
+      "use": "rendered structure and Year 8 elective pattern only"
+    }
+  ],
+  "periods": [
+    {
+      "number": 1,
+      "type": "Site/theory",
+      "focus": "Agriculture and everyday life",
+      "student_work": "Teach Agriculture and everyday life; students complete the adjacent ten-question check and one saved response.",
+      "evidence": "Saved check feedback and source-grounded response.",
+      "syllabus_content": [
+        "S07 — Explain how Australian agricultural systems changed from early European to current practices",
+        "S07 — Investigate Australian agricultural production and industry trends"
+      ],
+      "outcome_codes": [
+        "AGT5-PRA-01",
+        "AGT5-ENV-01",
+        "AGT5-COM-01"
+      ],
+      "source_ids": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S07",
+        "S08"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "module.html?module=1#theory-1-1",
+        "module.html?module=1#knowledge-checks",
+        "module.html?module=1#written-evidence-1-1-1"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "number": 2,
+      "type": "Site/theory",
+      "focus": "Agricultural industry sectors",
+      "student_work": "Teach Agricultural industry sectors; students compare evidence, complete the ten-question check and save a response.",
+      "evidence": "Saved check feedback and evidence-based explanation.",
+      "syllabus_content": [
+        "S07 — Explain how Australian agricultural systems changed from early European to current practices",
+        "S07 — Investigate Australian agricultural production and industry trends"
+      ],
+      "outcome_codes": [
+        "AGT5-PRA-01",
+        "AGT5-ENV-01",
+        "AGT5-COM-01"
+      ],
+      "source_ids": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S07",
+        "S08"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "module.html?module=1#theory-1-2",
+        "module.html?module=1#knowledge-checks-1-2",
+        "module.html?module=1#written-evidence-1-2-1"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "number": 3,
+      "type": "Project/folio",
+      "focus": "Change in Australian agriculture",
+      "student_work": "Teach Change in Australian agriculture; students complete the check, select a response for the folio and explain the evidence used.",
+      "evidence": "Saved check, written response and organised folio evidence.",
+      "syllabus_content": [
+        "S07 — Explain how Australian agricultural systems changed from early European to current practices",
+        "S07 — Investigate Australian agricultural production and industry trends"
+      ],
+      "outcome_codes": [
+        "AGT5-PRA-01",
+        "AGT5-ENV-01",
+        "AGT5-COM-01"
+      ],
+      "source_ids": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S07",
+        "S08"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "module.html?module=1#theory-1-3",
+        "module.html?module=1#knowledge-checks-1-3",
+        "module.html?module=1#written-evidence-1-3-1",
+        "folio.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "number": 4,
+      "type": "Practical",
+      "focus": "Module 1: teacher-approved practical or fieldwork 1",
+      "student_work": "Use the current teacher demonstration, local risk controls and approved materials. Students record genuine observations or progress; no practical method is supplied by the Drive lesson sequence.",
+      "evidence": "Teacher observation and authentic practical/fieldwork record. Activity, resources, method and controls: Teacher to confirm.",
+      "syllabus_content": [
+        "S07 — Explain how Australian agricultural systems changed from early European to current practices",
+        "S07 — Investigate Australian agricultural production and industry trends"
+      ],
+      "outcome_codes": [
+        "AGT5-PRA-01"
+      ],
+      "source_ids": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S07",
+        "S08"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-01"
+      ]
+    },
+    {
+      "number": 5,
+      "type": "Practical",
+      "focus": "Module 1: teacher-approved practical or fieldwork 2",
+      "student_work": "Use the current teacher demonstration, local risk controls and approved materials. Students record genuine observations or progress; no practical method is supplied by the Drive lesson sequence.",
+      "evidence": "Teacher observation and authentic practical/fieldwork record. Activity, resources, method and controls: Teacher to confirm.",
+      "syllabus_content": [
+        "S07 — Explain how Australian agricultural systems changed from early European to current practices",
+        "S07 — Investigate Australian agricultural production and industry trends"
+      ],
+      "outcome_codes": [
+        "AGT5-PRA-01"
+      ],
+      "source_ids": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S07",
+        "S08"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-01"
+      ]
+    },
+    {
+      "number": 6,
+      "type": "Site/theory",
+      "focus": "Agriculture and connected markets",
+      "student_work": "Teach Agriculture and connected markets; students complete the adjacent ten-question check and one saved response.",
+      "evidence": "Saved check feedback and source-grounded response.",
+      "syllabus_content": [
+        "S07 — Investigate environmental, social and political influences on food security",
+        "S07 — Compare short- and long-term sustainability effects of production systems"
+      ],
+      "outcome_codes": [
+        "AGT5-PRA-01",
+        "AGT5-ENV-01",
+        "AGT5-IVT-01"
+      ],
+      "source_ids": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S07",
+        "S08"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "module.html?module=2#theory-2-1",
+        "module.html?module=2#knowledge-checks",
+        "module.html?module=2#written-evidence-2-1-1"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "number": 7,
+      "type": "Site/theory",
+      "focus": "The four dimensions of food security",
+      "student_work": "Teach The four dimensions of food security; students compare evidence, complete the ten-question check and save a response.",
+      "evidence": "Saved check feedback and evidence-based explanation.",
+      "syllabus_content": [
+        "S07 — Investigate environmental, social and political influences on food security",
+        "S07 — Compare short- and long-term sustainability effects of production systems"
+      ],
+      "outcome_codes": [
+        "AGT5-IVT-01",
+        "AGT5-COM-01",
+        "AGT5-PRA-01"
+      ],
+      "source_ids": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S07",
+        "S08"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "module.html?module=2#theory-2-2",
+        "module.html?module=2#knowledge-checks-2-2",
+        "module.html?module=2#written-evidence-2-2-1"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "number": 8,
+      "type": "Project/folio",
+      "focus": "Threats and resilient responses",
+      "student_work": "Teach Threats and resilient responses; students complete the check, select a response for the folio and explain the evidence used.",
+      "evidence": "Saved check, written response and organised folio evidence.",
+      "syllabus_content": [
+        "S07 — Investigate environmental, social and political influences on food security",
+        "S07 — Compare short- and long-term sustainability effects of production systems"
+      ],
+      "outcome_codes": [
+        "AGT5-PRA-01",
+        "AGT5-ENV-01",
+        "AGT5-IVT-01"
+      ],
+      "source_ids": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S07",
+        "S08"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "module.html?module=2#theory-2-3",
+        "module.html?module=2#knowledge-checks-2-3",
+        "module.html?module=2#written-evidence-2-3-1",
+        "folio.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "number": 9,
+      "type": "Practical",
+      "focus": "Module 2: teacher-approved practical or fieldwork 1",
+      "student_work": "Use the current teacher demonstration, local risk controls and approved materials. Students record genuine observations or progress; no practical method is supplied by the Drive lesson sequence.",
+      "evidence": "Teacher observation and authentic practical/fieldwork record. Activity, resources, method and controls: Teacher to confirm.",
+      "syllabus_content": [
+        "S07 — Investigate environmental, social and political influences on food security",
+        "S07 — Compare short- and long-term sustainability effects of production systems"
+      ],
+      "outcome_codes": [
+        "AGT5-PRA-01"
+      ],
+      "source_ids": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S07",
+        "S08"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-01"
+      ]
+    },
+    {
+      "number": 10,
+      "type": "Practical",
+      "focus": "Module 2: teacher-approved practical or fieldwork 2",
+      "student_work": "Use the current teacher demonstration, local risk controls and approved materials. Students record genuine observations or progress; no practical method is supplied by the Drive lesson sequence.",
+      "evidence": "Teacher observation and authentic practical/fieldwork record. Activity, resources, method and controls: Teacher to confirm.",
+      "syllabus_content": [
+        "S07 — Investigate environmental, social and political influences on food security",
+        "S07 — Compare short- and long-term sustainability effects of production systems"
+      ],
+      "outcome_codes": [
+        "AGT5-PRA-01"
+      ],
+      "source_ids": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S07",
+        "S08"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-01"
+      ]
+    },
+    {
+      "number": 11,
+      "type": "Site/theory",
+      "focus": "Cattle groups and adaptation clues",
+      "student_work": "Teach Cattle groups and adaptation clues; students complete the adjacent ten-question check and one saved response.",
+      "evidence": "Saved check feedback and source-grounded response.",
+      "syllabus_content": [
+        "S06 — Explain breed suitability for animal enterprises, climates and markets",
+        "S06 — Identify animal-breeding programs, techniques and technologies"
+      ],
+      "outcome_codes": [
+        "AGT5-APG-01",
+        "AGT5-PRA-01",
+        "AGT5-USE-01"
+      ],
+      "source_ids": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S06",
+        "S08"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "module.html?module=3#theory-3-1",
+        "module.html?module=3#knowledge-checks",
+        "module.html?module=3#written-evidence-3-1-1"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "number": 12,
+      "type": "Site/theory",
+      "focus": "Selective breeding and evidence",
+      "student_work": "Teach Selective breeding and evidence; students compare evidence, complete the ten-question check and save a response.",
+      "evidence": "Saved check feedback and evidence-based explanation.",
+      "syllabus_content": [
+        "S06 — Explain breed suitability for animal enterprises, climates and markets",
+        "S06 — Identify animal-breeding programs, techniques and technologies"
+      ],
+      "outcome_codes": [
+        "AGT5-USE-01",
+        "AGT5-COM-01",
+        "AGT5-APG-01"
+      ],
+      "source_ids": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S06",
+        "S08"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "module.html?module=3#theory-3-2",
+        "module.html?module=3#knowledge-checks-3-2",
+        "module.html?module=3#written-evidence-3-2-1"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "number": 13,
+      "type": "Project/folio",
+      "focus": "Matching cattle to a production environment",
+      "student_work": "Teach Matching cattle to a production environment; students complete the check, select a response for the folio and explain the evidence used.",
+      "evidence": "Saved check, written response and organised folio evidence.",
+      "syllabus_content": [
+        "S06 — Explain breed suitability for animal enterprises, climates and markets",
+        "S06 — Identify animal-breeding programs, techniques and technologies"
+      ],
+      "outcome_codes": [
+        "AGT5-APG-01",
+        "AGT5-PRA-01",
+        "AGT5-USE-01"
+      ],
+      "source_ids": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S06",
+        "S08"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "module.html?module=3#theory-3-3",
+        "module.html?module=3#knowledge-checks-3-3",
+        "module.html?module=3#written-evidence-3-3-1",
+        "folio.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "number": 14,
+      "type": "Practical",
+      "focus": "Module 3: teacher-approved practical or fieldwork 1",
+      "student_work": "Use the current teacher demonstration, local risk controls and approved materials. Students record genuine observations or progress; no practical method is supplied by the Drive lesson sequence.",
+      "evidence": "Teacher observation and authentic practical/fieldwork record. Activity, resources, method and controls: Teacher to confirm.",
+      "syllabus_content": [
+        "S06 — Explain breed suitability for animal enterprises, climates and markets",
+        "S06 — Identify animal-breeding programs, techniques and technologies"
+      ],
+      "outcome_codes": [
+        "AGT5-APG-01",
+        "AGT5-PRA-01",
+        "AGT5-USE-01"
+      ],
+      "source_ids": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S06",
+        "S08"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-01"
+      ]
+    },
+    {
+      "number": 15,
+      "type": "Practical",
+      "focus": "Module 3: teacher-approved practical or fieldwork 2",
+      "student_work": "Use the current teacher demonstration, local risk controls and approved materials. Students record genuine observations or progress; no practical method is supplied by the Drive lesson sequence.",
+      "evidence": "Teacher observation and authentic practical/fieldwork record. Activity, resources, method and controls: Teacher to confirm.",
+      "syllabus_content": [
+        "S06 — Explain breed suitability for animal enterprises, climates and markets",
+        "S06 — Identify animal-breeding programs, techniques and technologies"
+      ],
+      "outcome_codes": [
+        "AGT5-APG-01",
+        "AGT5-PRA-01",
+        "AGT5-USE-01"
+      ],
+      "source_ids": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S06",
+        "S08"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-01"
+      ]
+    },
+    {
+      "number": 16,
+      "type": "Site/theory",
+      "focus": "Extensive and intensive beef systems",
+      "student_work": "Teach Extensive and intensive beef systems; students complete the adjacent ten-question check and one saved response.",
+      "evidence": "Saved check feedback and source-grounded response.",
+      "syllabus_content": [
+        "S06 — Explain nutritional requirements across stages of animal production",
+        "S07 — Explain production techniques for selected agricultural systems and enterprises"
+      ],
+      "outcome_codes": [
+        "AGT5-SAF-01",
+        "AGT5-APG-01",
+        "AGT5-PRA-01"
+      ],
+      "source_ids": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S06",
+        "S07",
+        "S08"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "module.html?module=4#theory-4-1",
+        "module.html?module=4#knowledge-checks",
+        "module.html?module=4#written-evidence-4-1-1"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "number": 17,
+      "type": "Site/theory",
+      "focus": "Pasture and feedlot feeding pathways",
+      "student_work": "Teach Pasture and feedlot feeding pathways; students compare evidence, complete the ten-question check and save a response.",
+      "evidence": "Saved check feedback and evidence-based explanation.",
+      "syllabus_content": [
+        "S06 — Explain nutritional requirements across stages of animal production",
+        "S07 — Explain production techniques for selected agricultural systems and enterprises"
+      ],
+      "outcome_codes": [
+        "AGT5-PRA-01",
+        "AGT5-ENV-01",
+        "AGT5-USE-01"
+      ],
+      "source_ids": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S06",
+        "S07",
+        "S08"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "module.html?module=4#theory-4-2",
+        "module.html?module=4#knowledge-checks-4-2",
+        "module.html?module=4#written-evidence-4-2-1"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "number": 18,
+      "type": "Project/folio",
+      "focus": "Comparing systems with evidence",
+      "student_work": "Teach Comparing systems with evidence; students complete the check, select a response for the folio and explain the evidence used.",
+      "evidence": "Saved check, written response and organised folio evidence.",
+      "syllabus_content": [
+        "S06 — Explain nutritional requirements across stages of animal production",
+        "S07 — Explain production techniques for selected agricultural systems and enterprises"
+      ],
+      "outcome_codes": [
+        "AGT5-USE-01",
+        "AGT5-SAF-01",
+        "AGT5-APG-01"
+      ],
+      "source_ids": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S06",
+        "S07",
+        "S08"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "module.html?module=4#theory-4-3",
+        "module.html?module=4#knowledge-checks-4-3",
+        "module.html?module=4#written-evidence-4-3-1",
+        "folio.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "number": 19,
+      "type": "Practical",
+      "focus": "Module 4: teacher-approved practical or fieldwork 1",
+      "student_work": "Use the current teacher demonstration, local risk controls and approved materials. Students record genuine observations or progress; no practical method is supplied by the Drive lesson sequence.",
+      "evidence": "Teacher observation and authentic practical/fieldwork record. Activity, resources, method and controls: Teacher to confirm.",
+      "syllabus_content": [
+        "S06 — Explain nutritional requirements across stages of animal production",
+        "S07 — Explain production techniques for selected agricultural systems and enterprises"
+      ],
+      "outcome_codes": [
+        "AGT5-SAF-01",
+        "AGT5-APG-01",
+        "AGT5-PRA-01"
+      ],
+      "source_ids": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S06",
+        "S07",
+        "S08"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-01"
+      ]
+    },
+    {
+      "number": 20,
+      "type": "Practical",
+      "focus": "Module 4: teacher-approved practical or fieldwork 2",
+      "student_work": "Use the current teacher demonstration, local risk controls and approved materials. Students record genuine observations or progress; no practical method is supplied by the Drive lesson sequence.",
+      "evidence": "Teacher observation and authentic practical/fieldwork record. Activity, resources, method and controls: Teacher to confirm.",
+      "syllabus_content": [
+        "S06 — Explain nutritional requirements across stages of animal production",
+        "S07 — Explain production techniques for selected agricultural systems and enterprises"
+      ],
+      "outcome_codes": [
+        "AGT5-SAF-01",
+        "AGT5-APG-01",
+        "AGT5-PRA-01"
+      ],
+      "source_ids": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S06",
+        "S07",
+        "S08"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-01"
+      ]
+    },
+    {
+      "number": 21,
+      "type": "Site/theory",
+      "focus": "Dairy breeds: traits and evidence",
+      "student_work": "Teach Dairy breeds: traits and evidence; students complete the adjacent ten-question check and one saved response.",
+      "evidence": "Saved check feedback and source-grounded response.",
+      "syllabus_content": [
+        "S06 — Identify resources needed to establish an animal enterprise",
+        "S06 — Explain farm-gate-to-consumer steps for animal products"
+      ],
+      "outcome_codes": [
+        "AGT5-APG-01",
+        "AGT5-PRA-01",
+        "AGT5-USE-01"
+      ],
+      "source_ids": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S06",
+        "S08"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "module.html?module=5#theory-5-1",
+        "module.html?module=5#knowledge-checks",
+        "module.html?module=5#written-evidence-5-1-1"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "number": 22,
+      "type": "Site/theory",
+      "focus": "Conditions, resources and dairy production",
+      "student_work": "Teach Conditions, resources and dairy production; students compare evidence, complete the ten-question check and save a response.",
+      "evidence": "Saved check feedback and evidence-based explanation.",
+      "syllabus_content": [
+        "S06 — Identify resources needed to establish an animal enterprise",
+        "S06 — Explain farm-gate-to-consumer steps for animal products"
+      ],
+      "outcome_codes": [
+        "AGT5-USE-01",
+        "AGT5-COM-01",
+        "AGT5-APG-01"
+      ],
+      "source_ids": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S06",
+        "S08"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "module.html?module=5#theory-5-2",
+        "module.html?module=5#knowledge-checks-5-2",
+        "module.html?module=5#written-evidence-5-2-1"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "number": 23,
+      "type": "Project/folio",
+      "focus": "From milk to value-added products",
+      "student_work": "Teach From milk to value-added products; students complete the check, select a response for the folio and explain the evidence used.",
+      "evidence": "Saved check, written response and organised folio evidence.",
+      "syllabus_content": [
+        "S06 — Identify resources needed to establish an animal enterprise",
+        "S06 — Explain farm-gate-to-consumer steps for animal products"
+      ],
+      "outcome_codes": [
+        "AGT5-APG-01",
+        "AGT5-PRA-01",
+        "AGT5-USE-01"
+      ],
+      "source_ids": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S06",
+        "S08"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "module.html?module=5#theory-5-3",
+        "module.html?module=5#knowledge-checks-5-3",
+        "module.html?module=5#written-evidence-5-3-1",
+        "folio.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "number": 24,
+      "type": "Practical",
+      "focus": "Module 5: teacher-approved practical or fieldwork 1",
+      "student_work": "Use the current teacher demonstration, local risk controls and approved materials. Students record genuine observations or progress; no practical method is supplied by the Drive lesson sequence.",
+      "evidence": "Teacher observation and authentic practical/fieldwork record. Activity, resources, method and controls: Teacher to confirm.",
+      "syllabus_content": [
+        "S06 — Identify resources needed to establish an animal enterprise",
+        "S06 — Explain farm-gate-to-consumer steps for animal products"
+      ],
+      "outcome_codes": [
+        "AGT5-APG-01",
+        "AGT5-PRA-01",
+        "AGT5-USE-01"
+      ],
+      "source_ids": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S06",
+        "S08"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-01"
+      ]
+    },
+    {
+      "number": 25,
+      "type": "Practical",
+      "focus": "Module 5: teacher-approved practical or fieldwork 2",
+      "student_work": "Use the current teacher demonstration, local risk controls and approved materials. Students record genuine observations or progress; no practical method is supplied by the Drive lesson sequence.",
+      "evidence": "Teacher observation and authentic practical/fieldwork record. Activity, resources, method and controls: Teacher to confirm.",
+      "syllabus_content": [
+        "S06 — Identify resources needed to establish an animal enterprise",
+        "S06 — Explain farm-gate-to-consumer steps for animal products"
+      ],
+      "outcome_codes": [
+        "AGT5-APG-01",
+        "AGT5-PRA-01",
+        "AGT5-USE-01"
+      ],
+      "source_ids": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S06",
+        "S08"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-01"
+      ]
+    },
+    {
+      "number": 26,
+      "type": "Site/theory",
+      "focus": "Why milk is processed",
+      "student_work": "Teach Why milk is processed; students complete the adjacent ten-question check and one saved response.",
+      "evidence": "Saved check feedback and source-grounded response.",
+      "syllabus_content": [
+        "S06 — Identify risks and demonstrate safe work practices in animal enterprises",
+        "S06 — Assess animal-product quality against identified market specifications"
+      ],
+      "outcome_codes": [
+        "AGT5-SAF-01",
+        "AGT5-PRA-01",
+        "AGT5-ENV-01"
+      ],
+      "source_ids": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S06",
+        "S08"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "module.html?module=6#theory-6-1",
+        "module.html?module=6#knowledge-checks",
+        "module.html?module=6#written-evidence-6-1-1"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "number": 27,
+      "type": "Site/theory",
+      "focus": "Food safety controls from farm to fridge",
+      "student_work": "Teach Food safety controls from farm to fridge; students compare evidence, complete the ten-question check and save a response.",
+      "evidence": "Saved check feedback and evidence-based explanation.",
+      "syllabus_content": [
+        "S06 — Identify risks and demonstrate safe work practices in animal enterprises",
+        "S06 — Assess animal-product quality against identified market specifications"
+      ],
+      "outcome_codes": [
+        "AGT5-ENV-01",
+        "AGT5-USE-01",
+        "AGT5-SAF-01"
+      ],
+      "source_ids": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S06",
+        "S08"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "module.html?module=6#theory-6-2",
+        "module.html?module=6#knowledge-checks-6-2",
+        "module.html?module=6#written-evidence-6-2-1"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "number": 28,
+      "type": "Project/folio",
+      "focus": "Nutrition information and informed choice",
+      "student_work": "Teach Nutrition information and informed choice; students complete the check, select a response for the folio and explain the evidence used.",
+      "evidence": "Saved check, written response and organised folio evidence.",
+      "syllabus_content": [
+        "S06 — Identify risks and demonstrate safe work practices in animal enterprises",
+        "S06 — Assess animal-product quality against identified market specifications"
+      ],
+      "outcome_codes": [
+        "AGT5-SAF-01",
+        "AGT5-PRA-01",
+        "AGT5-ENV-01"
+      ],
+      "source_ids": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S06",
+        "S08"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "module.html?module=6#theory-6-3",
+        "module.html?module=6#knowledge-checks-6-3",
+        "module.html?module=6#written-evidence-6-3-1",
+        "folio.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "number": 29,
+      "type": "Practical",
+      "focus": "Module 6: teacher-approved practical or fieldwork 1",
+      "student_work": "Use the current teacher demonstration, local risk controls and approved materials. Students record genuine observations or progress; no practical method is supplied by the Drive lesson sequence.",
+      "evidence": "Teacher observation and authentic practical/fieldwork record. Activity, resources, method and controls: Teacher to confirm.",
+      "syllabus_content": [
+        "S06 — Identify risks and demonstrate safe work practices in animal enterprises",
+        "S06 — Assess animal-product quality against identified market specifications"
+      ],
+      "outcome_codes": [
+        "AGT5-SAF-01",
+        "AGT5-PRA-01",
+        "AGT5-USE-01"
+      ],
+      "source_ids": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S06",
+        "S08"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-01"
+      ]
+    },
+    {
+      "number": 30,
+      "type": "Practical",
+      "focus": "Module 6: teacher-approved practical or fieldwork 2",
+      "student_work": "Use the current teacher demonstration, local risk controls and approved materials. Students record genuine observations or progress; no practical method is supplied by the Drive lesson sequence.",
+      "evidence": "Teacher observation and authentic practical/fieldwork record. Activity, resources, method and controls: Teacher to confirm.",
+      "syllabus_content": [
+        "S06 — Identify risks and demonstrate safe work practices in animal enterprises",
+        "S06 — Assess animal-product quality against identified market specifications"
+      ],
+      "outcome_codes": [
+        "AGT5-SAF-01",
+        "AGT5-PRA-01",
+        "AGT5-USE-01"
+      ],
+      "source_ids": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S06",
+        "S08"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-01"
+      ]
+    },
+    {
+      "number": 31,
+      "type": "Site/theory",
+      "focus": "What horticulture includes",
+      "student_work": "Teach What horticulture includes; students complete the adjacent ten-question check and one saved response.",
+      "evidence": "Saved check feedback and source-grounded response.",
+      "syllabus_content": [
+        "S05 — Select plants and explain their suitability to enterprise, climate and market",
+        "S05 — Investigate seasonal plant-product market specifications and availability"
+      ],
+      "outcome_codes": [
+        "AGT5-APG-01",
+        "AGT5-PRA-01",
+        "AGT5-ENV-01"
+      ],
+      "source_ids": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S05",
+        "S08"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "module.html?module=7#theory-7-1",
+        "module.html?module=7#knowledge-checks",
+        "module.html?module=7#written-evidence-7-1-1"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "number": 32,
+      "type": "Site/theory",
+      "focus": "Why crops suit particular regions",
+      "student_work": "Teach Why crops suit particular regions; students compare evidence, complete the ten-question check and save a response.",
+      "evidence": "Saved check feedback and evidence-based explanation.",
+      "syllabus_content": [
+        "S05 — Select plants and explain their suitability to enterprise, climate and market",
+        "S05 — Investigate seasonal plant-product market specifications and availability"
+      ],
+      "outcome_codes": [
+        "AGT5-ENV-01",
+        "AGT5-USE-01",
+        "AGT5-APG-01"
+      ],
+      "source_ids": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S05",
+        "S08"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "module.html?module=7#theory-7-2",
+        "module.html?module=7#knowledge-checks-7-2",
+        "module.html?module=7#written-evidence-7-2-1"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "number": 33,
+      "type": "Project/folio",
+      "focus": "Seasonality, markets and production decisions",
+      "student_work": "Teach Seasonality, markets and production decisions; students complete the check, select a response for the folio and explain the evidence used.",
+      "evidence": "Saved check, written response and organised folio evidence.",
+      "syllabus_content": [
+        "S05 — Select plants and explain their suitability to enterprise, climate and market",
+        "S05 — Investigate seasonal plant-product market specifications and availability"
+      ],
+      "outcome_codes": [
+        "AGT5-APG-01",
+        "AGT5-PRA-01",
+        "AGT5-ENV-01"
+      ],
+      "source_ids": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S05",
+        "S08"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "module.html?module=7#theory-7-3",
+        "module.html?module=7#knowledge-checks-7-3",
+        "module.html?module=7#written-evidence-7-3-1",
+        "folio.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "number": 34,
+      "type": "Practical",
+      "focus": "Module 7: teacher-approved practical or fieldwork 1",
+      "student_work": "Use the current teacher demonstration, local risk controls and approved materials. Students record genuine observations or progress; no practical method is supplied by the Drive lesson sequence.",
+      "evidence": "Teacher observation and authentic practical/fieldwork record. Activity, resources, method and controls: Teacher to confirm.",
+      "syllabus_content": [
+        "S05 — Select plants and explain their suitability to enterprise, climate and market",
+        "S05 — Investigate seasonal plant-product market specifications and availability"
+      ],
+      "outcome_codes": [
+        "AGT5-APG-01",
+        "AGT5-PRA-01",
+        "AGT5-USE-01"
+      ],
+      "source_ids": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S05",
+        "S08"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-01"
+      ]
+    },
+    {
+      "number": 35,
+      "type": "Site/theory",
+      "focus": "Tracing a horticultural product from paddock to plate",
+      "student_work": "Teach Tracing a horticultural product from paddock to plate; students complete the adjacent ten-question check and one saved response.",
+      "evidence": "Saved check feedback and source-grounded response.",
+      "syllabus_content": [
+        "S05 — Explain farm-gate-to-consumer steps and emerging plant traceability technologies",
+        "S05 — Justify technologies used to collect and manage plant-production data"
+      ],
+      "outcome_codes": [
+        "AGT5-PRA-01",
+        "AGT5-ENV-01",
+        "AGT5-IVT-01"
+      ],
+      "source_ids": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S05",
+        "S08"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "module.html?module=8#theory-8-1",
+        "module.html?module=8#knowledge-checks",
+        "module.html?module=8#written-evidence-8-1-1"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "number": 36,
+      "type": "Site/theory",
+      "focus": "Sensors, robotics and precision decisions",
+      "student_work": "Teach Sensors, robotics and precision decisions; students compare evidence, complete the ten-question check and save a response.",
+      "evidence": "Saved check feedback and evidence-based explanation.",
+      "syllabus_content": [
+        "S05 — Explain farm-gate-to-consumer steps and emerging plant traceability technologies",
+        "S05 — Justify technologies used to collect and manage plant-production data"
+      ],
+      "outcome_codes": [
+        "AGT5-IVT-01",
+        "AGT5-USE-01",
+        "AGT5-COM-01"
+      ],
+      "source_ids": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S05",
+        "S08"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "module.html?module=8#theory-8-2",
+        "module.html?module=8#knowledge-checks-8-2",
+        "module.html?module=8#written-evidence-8-2-1"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "number": 37,
+      "type": "Project/folio",
+      "focus": "Plant parts, food labels and balanced choices",
+      "student_work": "Teach Plant parts, food labels and balanced choices; students complete the check, select a response for the folio and explain the evidence used.",
+      "evidence": "Saved check, written response and organised folio evidence.",
+      "syllabus_content": [
+        "S05 — Explain farm-gate-to-consumer steps and emerging plant traceability technologies",
+        "S05 — Justify technologies used to collect and manage plant-production data"
+      ],
+      "outcome_codes": [
+        "AGT5-COM-01",
+        "AGT5-PRA-01",
+        "AGT5-ENV-01"
+      ],
+      "source_ids": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S05",
+        "S08"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "module.html?module=8#theory-8-3",
+        "module.html?module=8#knowledge-checks-8-3",
+        "module.html?module=8#written-evidence-8-3-1",
+        "folio.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "number": 38,
+      "type": "Practical",
+      "focus": "Module 8: teacher-approved practical or fieldwork 1",
+      "student_work": "Use the current teacher demonstration, local risk controls and approved materials. Students record genuine observations or progress; no practical method is supplied by the Drive lesson sequence.",
+      "evidence": "Teacher observation and authentic practical/fieldwork record. Activity, resources, method and controls: Teacher to confirm.",
+      "syllabus_content": [
+        "S05 — Explain farm-gate-to-consumer steps and emerging plant traceability technologies",
+        "S05 — Justify technologies used to collect and manage plant-production data"
+      ],
+      "outcome_codes": [
+        "AGT5-PRA-01",
+        "AGT5-USE-01"
+      ],
+      "source_ids": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S05",
+        "S08"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-01"
+      ]
+    },
+    {
+      "number": 39,
+      "type": "Site/theory",
+      "focus": "Pork products and value adding",
+      "student_work": "Teach Pork products and value adding; students complete the adjacent ten-question check and one saved response.",
+      "evidence": "Saved check feedback and source-grounded response.",
+      "syllabus_content": [
+        "S06 — Identify animal-breeding technologies and explain their effect on production",
+        "S06 — Investigate market specifications for agricultural animal products"
+      ],
+      "outcome_codes": [
+        "AGT5-APG-01",
+        "AGT5-PRA-01",
+        "AGT5-COM-01"
+      ],
+      "source_ids": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S06",
+        "S08"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "module.html?module=9#theory-9-1",
+        "module.html?module=9#knowledge-checks",
+        "module.html?module=9#written-evidence-9-1-1"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "number": 40,
+      "type": "Site/theory",
+      "focus": "Reading country-of-origin evidence",
+      "student_work": "Teach Reading country-of-origin evidence; students compare evidence, complete the ten-question check and save a response.",
+      "evidence": "Saved check feedback and evidence-based explanation.",
+      "syllabus_content": [
+        "S06 — Identify animal-breeding technologies and explain their effect on production",
+        "S06 — Investigate market specifications for agricultural animal products"
+      ],
+      "outcome_codes": [
+        "AGT5-APG-01",
+        "AGT5-PRA-01",
+        "AGT5-COM-01"
+      ],
+      "source_ids": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S06",
+        "S08"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "module.html?module=9#theory-9-2",
+        "module.html?module=9#knowledge-checks-9-2",
+        "module.html?module=9#written-evidence-9-2-1"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "number": 41,
+      "type": "Project/folio",
+      "focus": "Breed traits, crossbreeding and evidence",
+      "student_work": "Teach Breed traits, crossbreeding and evidence; students complete the check, select a response for the folio and explain the evidence used.",
+      "evidence": "Saved check, written response and organised folio evidence.",
+      "syllabus_content": [
+        "S06 — Identify animal-breeding technologies and explain their effect on production",
+        "S06 — Investigate market specifications for agricultural animal products"
+      ],
+      "outcome_codes": [
+        "AGT5-APG-01",
+        "AGT5-PRA-01",
+        "AGT5-COM-01"
+      ],
+      "source_ids": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S06",
+        "S08"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "module.html?module=9#theory-9-3",
+        "module.html?module=9#knowledge-checks-9-3",
+        "module.html?module=9#written-evidence-9-3-1",
+        "folio.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "number": 42,
+      "type": "Practical",
+      "focus": "Module 9: teacher-approved practical or fieldwork 1",
+      "student_work": "Use the current teacher demonstration, local risk controls and approved materials. Students record genuine observations or progress; no practical method is supplied by the Drive lesson sequence.",
+      "evidence": "Teacher observation and authentic practical/fieldwork record. Activity, resources, method and controls: Teacher to confirm.",
+      "syllabus_content": [
+        "S06 — Identify animal-breeding technologies and explain their effect on production",
+        "S06 — Investigate market specifications for agricultural animal products"
+      ],
+      "outcome_codes": [
+        "AGT5-APG-01",
+        "AGT5-PRA-01"
+      ],
+      "source_ids": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S06",
+        "S08"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-01"
+      ]
+    },
+    {
+      "number": 43,
+      "type": "Site/theory",
+      "focus": "Comparing pig housing systems",
+      "student_work": "Teach Comparing pig housing systems; students complete the adjacent ten-question check and one saved response.",
+      "evidence": "Saved check feedback and source-grounded response.",
+      "syllabus_content": [
+        "S06 — Explain animal nutritional requirements and apply welfare guidelines",
+        "S07 — Explain production techniques for selected agricultural systems and enterprises"
+      ],
+      "outcome_codes": [
+        "AGT5-SAF-01",
+        "AGT5-APG-01",
+        "AGT5-PRA-01"
+      ],
+      "source_ids": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S06",
+        "S07",
+        "S08"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "module.html?module=10#theory-10-1",
+        "module.html?module=10#knowledge-checks",
+        "module.html?module=10#written-evidence-10-1-1"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "number": 44,
+      "type": "Site/theory",
+      "focus": "Feed, growth and production goals",
+      "student_work": "Teach Feed, growth and production goals; students compare evidence, complete the ten-question check and save a response.",
+      "evidence": "Saved check feedback and evidence-based explanation.",
+      "syllabus_content": [
+        "S06 — Explain animal nutritional requirements and apply welfare guidelines",
+        "S07 — Explain production techniques for selected agricultural systems and enterprises"
+      ],
+      "outcome_codes": [
+        "AGT5-PRA-01",
+        "AGT5-ENV-01",
+        "AGT5-USE-01"
+      ],
+      "source_ids": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S06",
+        "S07",
+        "S08"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "module.html?module=10#theory-10-2",
+        "module.html?module=10#knowledge-checks-10-2",
+        "module.html?module=10#written-evidence-10-2-1"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "number": 45,
+      "type": "Project/folio",
+      "focus": "Welfare evidence and defensible choices",
+      "student_work": "Teach Welfare evidence and defensible choices; students complete the check, select a response for the folio and explain the evidence used.",
+      "evidence": "Saved check, written response and organised folio evidence.",
+      "syllabus_content": [
+        "S06 — Explain animal nutritional requirements and apply welfare guidelines",
+        "S07 — Explain production techniques for selected agricultural systems and enterprises"
+      ],
+      "outcome_codes": [
+        "AGT5-USE-01",
+        "AGT5-SAF-01",
+        "AGT5-APG-01"
+      ],
+      "source_ids": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S06",
+        "S07",
+        "S08"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "module.html?module=10#theory-10-3",
+        "module.html?module=10#knowledge-checks-10-3",
+        "module.html?module=10#written-evidence-10-3-1",
+        "folio.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "number": 46,
+      "type": "Practical",
+      "focus": "Module 10: teacher-approved practical or fieldwork 1",
+      "student_work": "Use the current teacher demonstration, local risk controls and approved materials. Students record genuine observations or progress; no practical method is supplied by the Drive lesson sequence.",
+      "evidence": "Teacher observation and authentic practical/fieldwork record. Activity, resources, method and controls: Teacher to confirm.",
+      "syllabus_content": [
+        "S06 — Explain animal nutritional requirements and apply welfare guidelines",
+        "S07 — Explain production techniques for selected agricultural systems and enterprises"
+      ],
+      "outcome_codes": [
+        "AGT5-SAF-01",
+        "AGT5-APG-01",
+        "AGT5-PRA-01"
+      ],
+      "source_ids": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S06",
+        "S07",
+        "S08"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-01"
+      ]
+    },
+    {
+      "number": 47,
+      "type": "Site/theory",
+      "focus": "Poultry, broilers and layers",
+      "student_work": "Teach Poultry, broilers and layers; students complete the adjacent ten-question check and one saved response.",
+      "evidence": "Saved check feedback and source-grounded response.",
+      "syllabus_content": [
+        "S06 — Explain animal-production steps from farm gate to consumer, including traceability",
+        "S06 — Apply animal-welfare guidelines and regulations in enterprise management"
+      ],
+      "outcome_codes": [
+        "AGT5-SAF-01",
+        "AGT5-APG-01",
+        "AGT5-PRA-01"
+      ],
+      "source_ids": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S06",
+        "S08"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "module.html?module=11#theory-11-1",
+        "module.html?module=11#knowledge-checks",
+        "module.html?module=11#written-evidence-11-1-1"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "number": 48,
+      "type": "Site/theory",
+      "focus": "A poultry supply chain and location decisions",
+      "student_work": "Teach A poultry supply chain and location decisions; students compare evidence, complete the ten-question check and save a response.",
+      "evidence": "Saved check feedback and evidence-based explanation.",
+      "syllabus_content": [
+        "S06 — Explain animal-production steps from farm gate to consumer, including traceability",
+        "S06 — Apply animal-welfare guidelines and regulations in enterprise management"
+      ],
+      "outcome_codes": [
+        "AGT5-PRA-01",
+        "AGT5-ENV-01",
+        "AGT5-USE-01"
+      ],
+      "source_ids": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S06",
+        "S08"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "module.html?module=11#theory-11-2",
+        "module.html?module=11#knowledge-checks-11-2",
+        "module.html?module=11#written-evidence-11-2-1"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "number": 49,
+      "type": "Project/folio",
+      "focus": "Layer systems, welfare indicators and trade-offs",
+      "student_work": "Teach Layer systems, welfare indicators and trade-offs; students complete the check, select a response for the folio and explain the evidence used.",
+      "evidence": "Saved check, written response and organised folio evidence.",
+      "syllabus_content": [
+        "S06 — Explain animal-production steps from farm gate to consumer, including traceability",
+        "S06 — Apply animal-welfare guidelines and regulations in enterprise management"
+      ],
+      "outcome_codes": [
+        "AGT5-USE-01",
+        "AGT5-COM-01",
+        "AGT5-SAF-01"
+      ],
+      "source_ids": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S06",
+        "S08"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "module.html?module=11#theory-11-3",
+        "module.html?module=11#knowledge-checks-11-3",
+        "module.html?module=11#written-evidence-11-3-1",
+        "folio.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "number": 50,
+      "type": "Practical",
+      "focus": "Module 11: teacher-approved practical or fieldwork 1",
+      "student_work": "Use the current teacher demonstration, local risk controls and approved materials. Students record genuine observations or progress; no practical method is supplied by the Drive lesson sequence.",
+      "evidence": "Teacher observation and authentic practical/fieldwork record. Activity, resources, method and controls: Teacher to confirm.",
+      "syllabus_content": [
+        "S06 — Explain animal-production steps from farm gate to consumer, including traceability",
+        "S06 — Apply animal-welfare guidelines and regulations in enterprise management"
+      ],
+      "outcome_codes": [
+        "AGT5-SAF-01",
+        "AGT5-APG-01",
+        "AGT5-PRA-01"
+      ],
+      "source_ids": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S06",
+        "S08"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-01"
+      ]
+    }
+  ],
+  "site_route_map": [
+    {
+      "destination": "module.html?module=1#theory-1-1",
+      "purpose": "Agriculture and everyday life",
+      "audience": "student",
+      "period_numbers": [
+        1
+      ]
+    },
+    {
+      "destination": "module.html?module=1#knowledge-checks",
+      "purpose": "Ten-question check for Agriculture and everyday life",
+      "audience": "student",
+      "period_numbers": [
+        1
+      ]
+    },
+    {
+      "destination": "module.html?module=1#written-evidence-1-1-1",
+      "purpose": "Two saved written responses adjacent to Agriculture and everyday life",
+      "audience": "student",
+      "period_numbers": [
+        1
+      ]
+    },
+    {
+      "destination": "module.html?module=1#theory-1-2",
+      "purpose": "Agricultural industry sectors",
+      "audience": "student",
+      "period_numbers": [
+        2
+      ]
+    },
+    {
+      "destination": "module.html?module=1#knowledge-checks-1-2",
+      "purpose": "Ten-question check for Agricultural industry sectors",
+      "audience": "student",
+      "period_numbers": [
+        2
+      ]
+    },
+    {
+      "destination": "module.html?module=1#written-evidence-1-2-1",
+      "purpose": "Two saved written responses adjacent to Agricultural industry sectors",
+      "audience": "student",
+      "period_numbers": [
+        2
+      ]
+    },
+    {
+      "destination": "module.html?module=1#theory-1-3",
+      "purpose": "Change in Australian agriculture",
+      "audience": "student",
+      "period_numbers": [
+        3
+      ]
+    },
+    {
+      "destination": "module.html?module=1#knowledge-checks-1-3",
+      "purpose": "Ten-question check for Change in Australian agriculture",
+      "audience": "student",
+      "period_numbers": [
+        3
+      ]
+    },
+    {
+      "destination": "module.html?module=1#written-evidence-1-3-1",
+      "purpose": "Two saved written responses adjacent to Change in Australian agriculture",
+      "audience": "student",
+      "period_numbers": [
+        3
+      ]
+    },
+    {
+      "destination": "folio.html",
+      "purpose": "Module 1 folio evidence",
+      "audience": "student",
+      "period_numbers": [
+        3,
+        8,
+        13,
+        18,
+        23,
+        28,
+        33,
+        37,
+        41,
+        45,
+        49
+      ]
+    },
+    {
+      "destination": "module.html?module=2#theory-2-1",
+      "purpose": "Agriculture and connected markets",
+      "audience": "student",
+      "period_numbers": [
+        6
+      ]
+    },
+    {
+      "destination": "module.html?module=2#knowledge-checks",
+      "purpose": "Ten-question check for Agriculture and connected markets",
+      "audience": "student",
+      "period_numbers": [
+        6
+      ]
+    },
+    {
+      "destination": "module.html?module=2#written-evidence-2-1-1",
+      "purpose": "Two saved written responses adjacent to Agriculture and connected markets",
+      "audience": "student",
+      "period_numbers": [
+        6
+      ]
+    },
+    {
+      "destination": "module.html?module=2#theory-2-2",
+      "purpose": "The four dimensions of food security",
+      "audience": "student",
+      "period_numbers": [
+        7
+      ]
+    },
+    {
+      "destination": "module.html?module=2#knowledge-checks-2-2",
+      "purpose": "Ten-question check for The four dimensions of food security",
+      "audience": "student",
+      "period_numbers": [
+        7
+      ]
+    },
+    {
+      "destination": "module.html?module=2#written-evidence-2-2-1",
+      "purpose": "Two saved written responses adjacent to The four dimensions of food security",
+      "audience": "student",
+      "period_numbers": [
+        7
+      ]
+    },
+    {
+      "destination": "module.html?module=2#theory-2-3",
+      "purpose": "Threats and resilient responses",
+      "audience": "student",
+      "period_numbers": [
+        8
+      ]
+    },
+    {
+      "destination": "module.html?module=2#knowledge-checks-2-3",
+      "purpose": "Ten-question check for Threats and resilient responses",
+      "audience": "student",
+      "period_numbers": [
+        8
+      ]
+    },
+    {
+      "destination": "module.html?module=2#written-evidence-2-3-1",
+      "purpose": "Two saved written responses adjacent to Threats and resilient responses",
+      "audience": "student",
+      "period_numbers": [
+        8
+      ]
+    },
+    {
+      "destination": "module.html?module=3#theory-3-1",
+      "purpose": "Cattle groups and adaptation clues",
+      "audience": "student",
+      "period_numbers": [
+        11
+      ]
+    },
+    {
+      "destination": "module.html?module=3#knowledge-checks",
+      "purpose": "Ten-question check for Cattle groups and adaptation clues",
+      "audience": "student",
+      "period_numbers": [
+        11
+      ]
+    },
+    {
+      "destination": "module.html?module=3#written-evidence-3-1-1",
+      "purpose": "Two saved written responses adjacent to Cattle groups and adaptation clues",
+      "audience": "student",
+      "period_numbers": [
+        11
+      ]
+    },
+    {
+      "destination": "module.html?module=3#theory-3-2",
+      "purpose": "Selective breeding and evidence",
+      "audience": "student",
+      "period_numbers": [
+        12
+      ]
+    },
+    {
+      "destination": "module.html?module=3#knowledge-checks-3-2",
+      "purpose": "Ten-question check for Selective breeding and evidence",
+      "audience": "student",
+      "period_numbers": [
+        12
+      ]
+    },
+    {
+      "destination": "module.html?module=3#written-evidence-3-2-1",
+      "purpose": "Two saved written responses adjacent to Selective breeding and evidence",
+      "audience": "student",
+      "period_numbers": [
+        12
+      ]
+    },
+    {
+      "destination": "module.html?module=3#theory-3-3",
+      "purpose": "Matching cattle to a production environment",
+      "audience": "student",
+      "period_numbers": [
+        13
+      ]
+    },
+    {
+      "destination": "module.html?module=3#knowledge-checks-3-3",
+      "purpose": "Ten-question check for Matching cattle to a production environment",
+      "audience": "student",
+      "period_numbers": [
+        13
+      ]
+    },
+    {
+      "destination": "module.html?module=3#written-evidence-3-3-1",
+      "purpose": "Two saved written responses adjacent to Matching cattle to a production environment",
+      "audience": "student",
+      "period_numbers": [
+        13
+      ]
+    },
+    {
+      "destination": "module.html?module=4#theory-4-1",
+      "purpose": "Extensive and intensive beef systems",
+      "audience": "student",
+      "period_numbers": [
+        16
+      ]
+    },
+    {
+      "destination": "module.html?module=4#knowledge-checks",
+      "purpose": "Ten-question check for Extensive and intensive beef systems",
+      "audience": "student",
+      "period_numbers": [
+        16
+      ]
+    },
+    {
+      "destination": "module.html?module=4#written-evidence-4-1-1",
+      "purpose": "Two saved written responses adjacent to Extensive and intensive beef systems",
+      "audience": "student",
+      "period_numbers": [
+        16
+      ]
+    },
+    {
+      "destination": "module.html?module=4#theory-4-2",
+      "purpose": "Pasture and feedlot feeding pathways",
+      "audience": "student",
+      "period_numbers": [
+        17
+      ]
+    },
+    {
+      "destination": "module.html?module=4#knowledge-checks-4-2",
+      "purpose": "Ten-question check for Pasture and feedlot feeding pathways",
+      "audience": "student",
+      "period_numbers": [
+        17
+      ]
+    },
+    {
+      "destination": "module.html?module=4#written-evidence-4-2-1",
+      "purpose": "Two saved written responses adjacent to Pasture and feedlot feeding pathways",
+      "audience": "student",
+      "period_numbers": [
+        17
+      ]
+    },
+    {
+      "destination": "module.html?module=4#theory-4-3",
+      "purpose": "Comparing systems with evidence",
+      "audience": "student",
+      "period_numbers": [
+        18
+      ]
+    },
+    {
+      "destination": "module.html?module=4#knowledge-checks-4-3",
+      "purpose": "Ten-question check for Comparing systems with evidence",
+      "audience": "student",
+      "period_numbers": [
+        18
+      ]
+    },
+    {
+      "destination": "module.html?module=4#written-evidence-4-3-1",
+      "purpose": "Two saved written responses adjacent to Comparing systems with evidence",
+      "audience": "student",
+      "period_numbers": [
+        18
+      ]
+    },
+    {
+      "destination": "module.html?module=5#theory-5-1",
+      "purpose": "Dairy breeds: traits and evidence",
+      "audience": "student",
+      "period_numbers": [
+        21
+      ]
+    },
+    {
+      "destination": "module.html?module=5#knowledge-checks",
+      "purpose": "Ten-question check for Dairy breeds: traits and evidence",
+      "audience": "student",
+      "period_numbers": [
+        21
+      ]
+    },
+    {
+      "destination": "module.html?module=5#written-evidence-5-1-1",
+      "purpose": "Two saved written responses adjacent to Dairy breeds: traits and evidence",
+      "audience": "student",
+      "period_numbers": [
+        21
+      ]
+    },
+    {
+      "destination": "module.html?module=5#theory-5-2",
+      "purpose": "Conditions, resources and dairy production",
+      "audience": "student",
+      "period_numbers": [
+        22
+      ]
+    },
+    {
+      "destination": "module.html?module=5#knowledge-checks-5-2",
+      "purpose": "Ten-question check for Conditions, resources and dairy production",
+      "audience": "student",
+      "period_numbers": [
+        22
+      ]
+    },
+    {
+      "destination": "module.html?module=5#written-evidence-5-2-1",
+      "purpose": "Two saved written responses adjacent to Conditions, resources and dairy production",
+      "audience": "student",
+      "period_numbers": [
+        22
+      ]
+    },
+    {
+      "destination": "module.html?module=5#theory-5-3",
+      "purpose": "From milk to value-added products",
+      "audience": "student",
+      "period_numbers": [
+        23
+      ]
+    },
+    {
+      "destination": "module.html?module=5#knowledge-checks-5-3",
+      "purpose": "Ten-question check for From milk to value-added products",
+      "audience": "student",
+      "period_numbers": [
+        23
+      ]
+    },
+    {
+      "destination": "module.html?module=5#written-evidence-5-3-1",
+      "purpose": "Two saved written responses adjacent to From milk to value-added products",
+      "audience": "student",
+      "period_numbers": [
+        23
+      ]
+    },
+    {
+      "destination": "module.html?module=6#theory-6-1",
+      "purpose": "Why milk is processed",
+      "audience": "student",
+      "period_numbers": [
+        26
+      ]
+    },
+    {
+      "destination": "module.html?module=6#knowledge-checks",
+      "purpose": "Ten-question check for Why milk is processed",
+      "audience": "student",
+      "period_numbers": [
+        26
+      ]
+    },
+    {
+      "destination": "module.html?module=6#written-evidence-6-1-1",
+      "purpose": "Two saved written responses adjacent to Why milk is processed",
+      "audience": "student",
+      "period_numbers": [
+        26
+      ]
+    },
+    {
+      "destination": "module.html?module=6#theory-6-2",
+      "purpose": "Food safety controls from farm to fridge",
+      "audience": "student",
+      "period_numbers": [
+        27
+      ]
+    },
+    {
+      "destination": "module.html?module=6#knowledge-checks-6-2",
+      "purpose": "Ten-question check for Food safety controls from farm to fridge",
+      "audience": "student",
+      "period_numbers": [
+        27
+      ]
+    },
+    {
+      "destination": "module.html?module=6#written-evidence-6-2-1",
+      "purpose": "Two saved written responses adjacent to Food safety controls from farm to fridge",
+      "audience": "student",
+      "period_numbers": [
+        27
+      ]
+    },
+    {
+      "destination": "module.html?module=6#theory-6-3",
+      "purpose": "Nutrition information and informed choice",
+      "audience": "student",
+      "period_numbers": [
+        28
+      ]
+    },
+    {
+      "destination": "module.html?module=6#knowledge-checks-6-3",
+      "purpose": "Ten-question check for Nutrition information and informed choice",
+      "audience": "student",
+      "period_numbers": [
+        28
+      ]
+    },
+    {
+      "destination": "module.html?module=6#written-evidence-6-3-1",
+      "purpose": "Two saved written responses adjacent to Nutrition information and informed choice",
+      "audience": "student",
+      "period_numbers": [
+        28
+      ]
+    },
+    {
+      "destination": "module.html?module=7#theory-7-1",
+      "purpose": "What horticulture includes",
+      "audience": "student",
+      "period_numbers": [
+        31
+      ]
+    },
+    {
+      "destination": "module.html?module=7#knowledge-checks",
+      "purpose": "Ten-question check for What horticulture includes",
+      "audience": "student",
+      "period_numbers": [
+        31
+      ]
+    },
+    {
+      "destination": "module.html?module=7#written-evidence-7-1-1",
+      "purpose": "Two saved written responses adjacent to What horticulture includes",
+      "audience": "student",
+      "period_numbers": [
+        31
+      ]
+    },
+    {
+      "destination": "module.html?module=7#theory-7-2",
+      "purpose": "Why crops suit particular regions",
+      "audience": "student",
+      "period_numbers": [
+        32
+      ]
+    },
+    {
+      "destination": "module.html?module=7#knowledge-checks-7-2",
+      "purpose": "Ten-question check for Why crops suit particular regions",
+      "audience": "student",
+      "period_numbers": [
+        32
+      ]
+    },
+    {
+      "destination": "module.html?module=7#written-evidence-7-2-1",
+      "purpose": "Two saved written responses adjacent to Why crops suit particular regions",
+      "audience": "student",
+      "period_numbers": [
+        32
+      ]
+    },
+    {
+      "destination": "module.html?module=7#theory-7-3",
+      "purpose": "Seasonality, markets and production decisions",
+      "audience": "student",
+      "period_numbers": [
+        33
+      ]
+    },
+    {
+      "destination": "module.html?module=7#knowledge-checks-7-3",
+      "purpose": "Ten-question check for Seasonality, markets and production decisions",
+      "audience": "student",
+      "period_numbers": [
+        33
+      ]
+    },
+    {
+      "destination": "module.html?module=7#written-evidence-7-3-1",
+      "purpose": "Two saved written responses adjacent to Seasonality, markets and production decisions",
+      "audience": "student",
+      "period_numbers": [
+        33
+      ]
+    },
+    {
+      "destination": "module.html?module=8#theory-8-1",
+      "purpose": "Tracing a horticultural product from paddock to plate",
+      "audience": "student",
+      "period_numbers": [
+        35
+      ]
+    },
+    {
+      "destination": "module.html?module=8#knowledge-checks",
+      "purpose": "Ten-question check for Tracing a horticultural product from paddock to plate",
+      "audience": "student",
+      "period_numbers": [
+        35
+      ]
+    },
+    {
+      "destination": "module.html?module=8#written-evidence-8-1-1",
+      "purpose": "Two saved written responses adjacent to Tracing a horticultural product from paddock to plate",
+      "audience": "student",
+      "period_numbers": [
+        35
+      ]
+    },
+    {
+      "destination": "module.html?module=8#theory-8-2",
+      "purpose": "Sensors, robotics and precision decisions",
+      "audience": "student",
+      "period_numbers": [
+        36
+      ]
+    },
+    {
+      "destination": "module.html?module=8#knowledge-checks-8-2",
+      "purpose": "Ten-question check for Sensors, robotics and precision decisions",
+      "audience": "student",
+      "period_numbers": [
+        36
+      ]
+    },
+    {
+      "destination": "module.html?module=8#written-evidence-8-2-1",
+      "purpose": "Two saved written responses adjacent to Sensors, robotics and precision decisions",
+      "audience": "student",
+      "period_numbers": [
+        36
+      ]
+    },
+    {
+      "destination": "module.html?module=8#theory-8-3",
+      "purpose": "Plant parts, food labels and balanced choices",
+      "audience": "student",
+      "period_numbers": [
+        37
+      ]
+    },
+    {
+      "destination": "module.html?module=8#knowledge-checks-8-3",
+      "purpose": "Ten-question check for Plant parts, food labels and balanced choices",
+      "audience": "student",
+      "period_numbers": [
+        37
+      ]
+    },
+    {
+      "destination": "module.html?module=8#written-evidence-8-3-1",
+      "purpose": "Two saved written responses adjacent to Plant parts, food labels and balanced choices",
+      "audience": "student",
+      "period_numbers": [
+        37
+      ]
+    },
+    {
+      "destination": "module.html?module=9#theory-9-1",
+      "purpose": "Pork products and value adding",
+      "audience": "student",
+      "period_numbers": [
+        39
+      ]
+    },
+    {
+      "destination": "module.html?module=9#knowledge-checks",
+      "purpose": "Ten-question check for Pork products and value adding",
+      "audience": "student",
+      "period_numbers": [
+        39
+      ]
+    },
+    {
+      "destination": "module.html?module=9#written-evidence-9-1-1",
+      "purpose": "Two saved written responses adjacent to Pork products and value adding",
+      "audience": "student",
+      "period_numbers": [
+        39
+      ]
+    },
+    {
+      "destination": "module.html?module=9#theory-9-2",
+      "purpose": "Reading country-of-origin evidence",
+      "audience": "student",
+      "period_numbers": [
+        40
+      ]
+    },
+    {
+      "destination": "module.html?module=9#knowledge-checks-9-2",
+      "purpose": "Ten-question check for Reading country-of-origin evidence",
+      "audience": "student",
+      "period_numbers": [
+        40
+      ]
+    },
+    {
+      "destination": "module.html?module=9#written-evidence-9-2-1",
+      "purpose": "Two saved written responses adjacent to Reading country-of-origin evidence",
+      "audience": "student",
+      "period_numbers": [
+        40
+      ]
+    },
+    {
+      "destination": "module.html?module=9#theory-9-3",
+      "purpose": "Breed traits, crossbreeding and evidence",
+      "audience": "student",
+      "period_numbers": [
+        41
+      ]
+    },
+    {
+      "destination": "module.html?module=9#knowledge-checks-9-3",
+      "purpose": "Ten-question check for Breed traits, crossbreeding and evidence",
+      "audience": "student",
+      "period_numbers": [
+        41
+      ]
+    },
+    {
+      "destination": "module.html?module=9#written-evidence-9-3-1",
+      "purpose": "Two saved written responses adjacent to Breed traits, crossbreeding and evidence",
+      "audience": "student",
+      "period_numbers": [
+        41
+      ]
+    },
+    {
+      "destination": "module.html?module=10#theory-10-1",
+      "purpose": "Comparing pig housing systems",
+      "audience": "student",
+      "period_numbers": [
+        43
+      ]
+    },
+    {
+      "destination": "module.html?module=10#knowledge-checks",
+      "purpose": "Ten-question check for Comparing pig housing systems",
+      "audience": "student",
+      "period_numbers": [
+        43
+      ]
+    },
+    {
+      "destination": "module.html?module=10#written-evidence-10-1-1",
+      "purpose": "Two saved written responses adjacent to Comparing pig housing systems",
+      "audience": "student",
+      "period_numbers": [
+        43
+      ]
+    },
+    {
+      "destination": "module.html?module=10#theory-10-2",
+      "purpose": "Feed, growth and production goals",
+      "audience": "student",
+      "period_numbers": [
+        44
+      ]
+    },
+    {
+      "destination": "module.html?module=10#knowledge-checks-10-2",
+      "purpose": "Ten-question check for Feed, growth and production goals",
+      "audience": "student",
+      "period_numbers": [
+        44
+      ]
+    },
+    {
+      "destination": "module.html?module=10#written-evidence-10-2-1",
+      "purpose": "Two saved written responses adjacent to Feed, growth and production goals",
+      "audience": "student",
+      "period_numbers": [
+        44
+      ]
+    },
+    {
+      "destination": "module.html?module=10#theory-10-3",
+      "purpose": "Welfare evidence and defensible choices",
+      "audience": "student",
+      "period_numbers": [
+        45
+      ]
+    },
+    {
+      "destination": "module.html?module=10#knowledge-checks-10-3",
+      "purpose": "Ten-question check for Welfare evidence and defensible choices",
+      "audience": "student",
+      "period_numbers": [
+        45
+      ]
+    },
+    {
+      "destination": "module.html?module=10#written-evidence-10-3-1",
+      "purpose": "Two saved written responses adjacent to Welfare evidence and defensible choices",
+      "audience": "student",
+      "period_numbers": [
+        45
+      ]
+    },
+    {
+      "destination": "module.html?module=11#theory-11-1",
+      "purpose": "Poultry, broilers and layers",
+      "audience": "student",
+      "period_numbers": [
+        47
+      ]
+    },
+    {
+      "destination": "module.html?module=11#knowledge-checks",
+      "purpose": "Ten-question check for Poultry, broilers and layers",
+      "audience": "student",
+      "period_numbers": [
+        47
+      ]
+    },
+    {
+      "destination": "module.html?module=11#written-evidence-11-1-1",
+      "purpose": "Two saved written responses adjacent to Poultry, broilers and layers",
+      "audience": "student",
+      "period_numbers": [
+        47
+      ]
+    },
+    {
+      "destination": "module.html?module=11#theory-11-2",
+      "purpose": "A poultry supply chain and location decisions",
+      "audience": "student",
+      "period_numbers": [
+        48
+      ]
+    },
+    {
+      "destination": "module.html?module=11#knowledge-checks-11-2",
+      "purpose": "Ten-question check for A poultry supply chain and location decisions",
+      "audience": "student",
+      "period_numbers": [
+        48
+      ]
+    },
+    {
+      "destination": "module.html?module=11#written-evidence-11-2-1",
+      "purpose": "Two saved written responses adjacent to A poultry supply chain and location decisions",
+      "audience": "student",
+      "period_numbers": [
+        48
+      ]
+    },
+    {
+      "destination": "module.html?module=11#theory-11-3",
+      "purpose": "Layer systems, welfare indicators and trade-offs",
+      "audience": "student",
+      "period_numbers": [
+        49
+      ]
+    },
+    {
+      "destination": "module.html?module=11#knowledge-checks-11-3",
+      "purpose": "Ten-question check for Layer systems, welfare indicators and trade-offs",
+      "audience": "student",
+      "period_numbers": [
+        49
+      ]
+    },
+    {
+      "destination": "module.html?module=11#written-evidence-11-3-1",
+      "purpose": "Two saved written responses adjacent to Layer systems, welfare indicators and trade-offs",
+      "audience": "student",
+      "period_numbers": [
+        49
+      ]
+    }
+  ],
+  "teacher_to_confirm": [
+    {
+      "id": "TTC-01",
+      "item": "Exact agriculture practical or fieldwork activities, resources, local risk controls and supervision",
+      "owner": "Course teacher",
+      "affected_periods": [
+        4,
+        5,
+        9,
+        10,
+        14,
+        15,
+        19,
+        20,
+        24,
+        25,
+        29,
+        30,
+        34,
+        38,
+        42,
+        46,
+        50
+      ],
+      "due_before": "Before each practical or fieldwork period"
+    },
+    {
+      "id": "TTC-02",
+      "item": "Formal assessment notification, weighting, due date and submission process",
+      "owner": "Course teacher",
+      "affected_periods": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50
+      ],
+      "due_before": "Before any formal assessment is issued"
+    },
+    {
+      "id": "TTC-03",
+      "item": "The additional study and enterprise sequence that completes the 100-hour Agriculture Technology elective",
+      "owner": "Course teacher",
+      "affected_periods": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50
+      ],
+      "due_before": "Before the whole-course scope and sequence is approved"
+    },
+    {
+      "id": "TTC-04",
+      "item": "The required collaborative activity within the broader 100-hour course",
+      "owner": "Course teacher",
+      "affected_periods": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50
+      ],
+      "due_before": "Before the collaborative activity is scheduled"
+    }
+  ],
+  "files": [
+    {
+      "path": "Agriculture-50-Period-Teaching-Program-v3.0-2027-Elective.docx",
+      "purpose": "editable-program",
+      "version": "v3.0",
+      "sha256": "c56e69ea629ba909d417c93c7de13b05526ebe0e5cbbc18e7a558492cc0e33e5"
+    },
+    {
+      "path": "Agriculture-50-Period-Teaching-Program-v3.0-2027-Elective.pdf",
+      "purpose": "rendered-program",
+      "version": "v3.0",
+      "sha256": "25d3285248516816a44a23c394961e1fd6692c1285a3fade51351a0132cc7392"
+    },
+    {
+      "path": "Agriculture-50-Period-Alignment-Manifest-v3.0.json",
+      "purpose": "alignment-manifest",
+      "version": "v3.0"
+    }
+  ],
+  "release_state": "Local candidate only; not committed, pushed or deployed."
+}
