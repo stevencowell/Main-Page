@@ -177,6 +177,10 @@
     .project-card:hover .card-link span:last-child { transform: translate(3px, -3px); }
     .card-actions { display: grid; gap: 8px; margin-top: auto; }
     .card-actions .card-link { margin-top: 0; text-decoration: none; }
+    .project-card .card-actions > .card-link:first-child::after {
+      content: ""; position: absolute; inset: 0;
+    }
+    .project-card .card-actions > a:not(:first-child) { position: relative; z-index: 1; }
     .program-card-link,
     .syllabus-card-link {
       display: inline-flex; align-items: center; justify-content: space-between; gap: 10px;
