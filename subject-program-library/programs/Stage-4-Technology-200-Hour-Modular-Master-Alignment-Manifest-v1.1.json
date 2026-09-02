@@ -17884,13 +17884,13 @@
       "path": "programs/Stage-4-Technology-200-Hour-Modular-Master-Teaching-Program-v1.1-Network-Benchmark.docx",
       "purpose": "editable-program",
       "version": "v1.1",
-      "sha256": "3F85E1534738A9A69BF4BEDB63DD7571936D7D0575260832B528354D2DA6F785"
+      "sha256": "2BC88DADA35BDD717E86E56032610FEB252766407D8F8480A992145F3709998F"
     },
     {
       "path": "programs/Stage-4-Technology-200-Hour-Modular-Master-Teaching-Program-v1.1-Network-Benchmark.pdf",
       "purpose": "rendered-program",
       "version": "v1.1",
-      "sha256": "95DA84BC80841802158C9EE4E883B275E9289AC43E51E23FB09D3D25B12572F0"
+      "sha256": "61597FD84569A1B517D3D2816DC36896C86A57B3E279A71C3254BECDE8F40CD2"
     },
     {
       "path": "programs/Stage-4-Technology-200-Hour-Modular-Master-Alignment-Manifest-v1.1.json",
