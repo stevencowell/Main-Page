@@ -2627,12 +2627,12 @@
     {
       "role": "editable-program",
       "path": "year-9-graphics-teaching-program.docx",
-      "sha256": "a23936f7f388cd04ac67106a1f9c8467a337ff5c0bbbd1f47636900ce4fa7b1b"
+      "sha256": "e86dce012eb0089ee201963ff0940fdbed64d195f46a9628ce8fc72ab939f5cf"
     },
     {
       "role": "rendered-program",
       "path": "year-9-graphics-teaching-program.pdf",
-      "sha256": "e18b50b006bf370b699e9ccd47089e110691e443537f9cde352bd9589ca549b0"
+      "sha256": "c58fe07f40ee420fc8882bf0222009b8e68f24b889642943886f135f1bb4e843"
     },
     {
       "role": "master-editable-program",
