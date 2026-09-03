@@ -2759,12 +2759,12 @@
     {
       "path": "teacher-program-v1.0.0.docx",
       "role": "editable-program",
-      "sha256": "885b38b51b4337cfeaea857d729cb8493d94c2aaa8236f254e96147e7784f205"
+      "sha256": "c42503e468e9742fe09848a020ad3ef16ab943cb0d6c30f63a77d4bd8f4dd5d8"
     },
     {
       "path": "teacher-program-v1.0.0.pdf",
       "role": "rendered-program",
-      "sha256": "cc296bb0169efdc03ec63a3b497a4ab1412e6ef799a707abf1468c94959f8d89"
+      "sha256": "5d848226b9fa3288309dc3f41d8c1435690bab2f8c918a6a6d8ea5d70fa3e189"
     },
     {
       "path": "teacher-program-site-map-v1.0.0.json",
