@@ -42,134 +42,323 @@
   },
   "mapping_control": {
     "mapped_period_count": 240,
-    "destination_count": 37,
-    "granularity": "course-root support only for Preliminary; named section mapping for HSC",
+    "destination_count": 64,
+    "granularity": "exact named-section support links for Preliminary and HSC periods",
     "routes": [
       {
-        "destination": "https://stevencowell.github.io/Main-Page/Year-11-Design-and-Technology/",
-        "purpose": "Confirmed live Preliminary course support root; exact section equivalence is not asserted.",
+        "destination": "https://stevencowell.github.io/Main-Page/Year-11-Design-and-Technology/modules/module-01.html#m01s01",
+        "purpose": "Direct Year 11 support link to named course section m01s01.",
         "audience": "both",
         "period_numbers": [
           1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20,
-          21,
+          5
+        ]
+      },
+      {
+        "destination": "https://stevencowell.github.io/Main-Page/Year-11-Design-and-Technology/modules/module-01.html#m01s02",
+        "purpose": "Direct Year 11 support link to named course section m01s02.",
+        "audience": "both",
+        "period_numbers": [
           22,
           23,
-          24,
-          25,
-          26,
-          27,
           28,
           29,
-          30,
-          31,
-          32,
-          33,
           34,
           35,
-          36,
-          37,
-          38,
-          39,
-          40,
-          41,
+          40
+        ]
+      },
+      {
+        "destination": "https://stevencowell.github.io/Main-Page/Year-11-Design-and-Technology/modules/module-02.html#m02s01",
+        "purpose": "Direct Year 11 support link to named course section m02s01.",
+        "audience": "both",
+        "period_numbers": [
+          66,
+          77,
+          88,
+          99
+        ]
+      },
+      {
+        "destination": "https://stevencowell.github.io/Main-Page/Year-11-Design-and-Technology/modules/module-03.html#m03s01",
+        "purpose": "Direct Year 11 support link to named course section m03s01.",
+        "audience": "both",
+        "period_numbers": [
           42,
-          43,
-          44,
-          45,
-          46,
-          47,
-          48,
-          49,
           50,
-          51,
+          58
+        ]
+      },
+      {
+        "destination": "https://stevencowell.github.io/Main-Page/Year-11-Design-and-Technology/modules/module-03.html#m03s03",
+        "purpose": "Direct Year 11 support link to named course section m03s03.",
+        "audience": "both",
+        "period_numbers": [
+          25,
+          31,
+          37
+        ]
+      },
+      {
+        "destination": "https://stevencowell.github.io/Main-Page/Year-11-Design-and-Technology/modules/module-04.html#m04s01",
+        "purpose": "Direct Year 11 support link to named course section m04s01.",
+        "audience": "both",
+        "period_numbers": [
+          21,
+          27,
+          33,
+          39
+        ]
+      },
+      {
+        "destination": "https://stevencowell.github.io/Main-Page/Year-11-Design-and-Technology/modules/module-04.html#m04s03",
+        "purpose": "Direct Year 11 support link to named course section m04s03.",
+        "audience": "both",
+        "period_numbers": [
+          24,
+          30,
+          36,
+          106,
+          111,
+          116
+        ]
+      },
+      {
+        "destination": "https://stevencowell.github.io/Main-Page/Year-11-Design-and-Technology/modules/module-05.html#m05s03",
+        "purpose": "Direct Year 11 support link to named course section m05s03.",
+        "audience": "both",
+        "period_numbers": [
+          26,
+          32,
+          38
+        ]
+      },
+      {
+        "destination": "https://stevencowell.github.io/Main-Page/Year-11-Design-and-Technology/modules/module-06.html#m06s02",
+        "purpose": "Direct Year 11 support link to named course section m06s02.",
+        "audience": "both",
+        "period_numbers": [
+          3,
+          4,
+          7,
+          8
+        ]
+      },
+      {
+        "destination": "https://stevencowell.github.io/Main-Page/Year-11-Design-and-Technology/modules/module-06.html#m06s03",
+        "purpose": "Direct Year 11 support link to named course section m06s03.",
+        "audience": "both",
+        "period_numbers": [
+          44,
           52,
-          53,
+          60
+        ]
+      },
+      {
+        "destination": "https://stevencowell.github.io/Main-Page/Year-11-Design-and-Technology/modules/module-07.html#m07s01",
+        "purpose": "Direct Year 11 support link to named course section m07s01.",
+        "audience": "both",
+        "period_numbers": [
+          2,
+          6
+        ]
+      },
+      {
+        "destination": "https://stevencowell.github.io/Main-Page/Year-11-Design-and-Technology/modules/module-07.html#m07s02",
+        "purpose": "Direct Year 11 support link to named course section m07s02.",
+        "audience": "both",
+        "period_numbers": [
+          41,
+          49,
+          57
+        ]
+      },
+      {
+        "destination": "https://stevencowell.github.io/Main-Page/Year-11-Design-and-Technology/modules/module-07.html#m07s03",
+        "purpose": "Direct Year 11 support link to named course section m07s03.",
+        "audience": "both",
+        "period_numbers": [
+          63,
+          74,
+          85,
+          96
+        ]
+      },
+      {
+        "destination": "https://stevencowell.github.io/Main-Page/Year-11-Design-and-Technology/modules/module-09.html#m09s01",
+        "purpose": "Direct Year 11 support link to named course section m09s01.",
+        "audience": "both",
+        "period_numbers": [
+          9,
+          13,
+          17
+        ]
+      },
+      {
+        "destination": "https://stevencowell.github.io/Main-Page/Year-11-Design-and-Technology/modules/module-09.html#m09s02",
+        "purpose": "Direct Year 11 support link to named course section m09s02.",
+        "audience": "both",
+        "period_numbers": [
+          11,
+          15,
+          19
+        ]
+      },
+      {
+        "destination": "https://stevencowell.github.io/Main-Page/Year-11-Design-and-Technology/modules/module-09.html#m09s03",
+        "purpose": "Direct Year 11 support link to named course section m09s03.",
+        "audience": "both",
+        "period_numbers": [
+          10,
+          14,
+          18
+        ]
+      },
+      {
+        "destination": "https://stevencowell.github.io/Main-Page/Year-11-Design-and-Technology/modules/module-10.html#m10s03",
+        "purpose": "Direct Year 11 support link to named course section m10s03.",
+        "audience": "both",
+        "period_numbers": [
+          46,
           54,
-          55,
-          56,
-          57,
-          58,
-          59,
-          60,
+          67,
+          78,
+          89,
+          100
+        ]
+      },
+      {
+        "destination": "https://stevencowell.github.io/Main-Page/Year-11-Design-and-Technology/modules/module-11.html#m11s01",
+        "purpose": "Direct Year 11 support link to named course section m11s01.",
+        "audience": "both",
+        "period_numbers": [
           61,
           62,
-          63,
-          64,
-          65,
-          66,
-          67,
-          68,
-          69,
-          70,
-          71,
           72,
           73,
-          74,
-          75,
-          76,
-          77,
-          78,
-          79,
-          80,
-          81,
-          82,
           83,
           84,
-          85,
-          86,
-          87,
-          88,
-          89,
-          90,
-          91,
-          92,
-          93,
           94,
-          95,
-          96,
-          97,
-          98,
-          99,
-          100,
-          101,
-          102,
-          103,
-          104,
+          95
+        ]
+      },
+      {
+        "destination": "https://stevencowell.github.io/Main-Page/Year-11-Design-and-Technology/modules/module-11.html#m11s03",
+        "purpose": "Direct Year 11 support link to named course section m11s03.",
+        "audience": "both",
+        "period_numbers": [
+          65,
+          76,
+          87,
+          98
+        ]
+      },
+      {
+        "destination": "https://stevencowell.github.io/Main-Page/Year-11-Design-and-Technology/modules/module-12.html#m12s01",
+        "purpose": "Direct Year 11 support link to named course section m12s01.",
+        "audience": "both",
+        "period_numbers": [
+          43,
+          51,
+          59,
+          64,
+          75,
+          86,
+          97
+        ]
+      },
+      {
+        "destination": "https://stevencowell.github.io/Main-Page/Year-11-Design-and-Technology/modules/module-12.html#m12s02",
+        "purpose": "Direct Year 11 support link to named course section m12s02.",
+        "audience": "both",
+        "period_numbers": [
+          68,
+          79,
+          90,
+          101
+        ]
+      },
+      {
+        "destination": "https://stevencowell.github.io/Main-Page/Year-11-Design-and-Technology/modules/module-12.html#m12s03",
+        "purpose": "Direct Year 11 support link to named course section m12s03.",
+        "audience": "both",
+        "period_numbers": [
+          45,
+          53
+        ]
+      },
+      {
+        "destination": "https://stevencowell.github.io/Main-Page/Year-11-Design-and-Technology/modules/module-13.html#m13s03",
+        "purpose": "Direct Year 11 support link to named course section m13s03.",
+        "audience": "both",
+        "period_numbers": [
+          69,
+          80,
+          91,
+          102
+        ]
+      },
+      {
+        "destination": "https://stevencowell.github.io/Main-Page/Year-11-Design-and-Technology/modules/module-14.html#m14s01",
+        "purpose": "Direct Year 11 support link to named course section m14s01.",
+        "audience": "both",
+        "period_numbers": [
+          12,
+          16,
+          20,
+          47,
+          55,
+          70,
+          81,
+          92,
+          103
+        ]
+      },
+      {
+        "destination": "https://stevencowell.github.io/Main-Page/Year-11-Design-and-Technology/modules/module-14.html#m14s02",
+        "purpose": "Direct Year 11 support link to named course section m14s02.",
+        "audience": "both",
+        "period_numbers": [
+          71,
+          82,
+          93,
+          104
+        ]
+      },
+      {
+        "destination": "https://stevencowell.github.io/Main-Page/Year-11-Design-and-Technology/modules/module-15.html#m15s01",
+        "purpose": "Direct Year 11 support link to named course section m15s01.",
+        "audience": "both",
+        "period_numbers": [
           105,
-          106,
           107,
-          108,
-          109,
           110,
-          111,
           112,
-          113,
-          114,
           115,
-          116,
           117,
-          118,
-          119,
           120
+        ]
+      },
+      {
+        "destination": "https://stevencowell.github.io/Main-Page/Year-11-Design-and-Technology/modules/module-15.html#m15s02",
+        "purpose": "Direct Year 11 support link to named course section m15s02.",
+        "audience": "both",
+        "period_numbers": [
+          108,
+          113,
+          118
+        ]
+      },
+      {
+        "destination": "https://stevencowell.github.io/Main-Page/Year-11-Design-and-Technology/modules/module-15.html#m15s03",
+        "purpose": "Direct Year 11 support link to named course section m15s03.",
+        "audience": "both",
+        "period_numbers": [
+          48,
+          56,
+          109,
+          114,
+          119
         ]
       },
       {
@@ -548,7 +737,7 @@
   },
   "alignment_manifest": {
     "file": "stage6-design-technology-master-alignment-manifest-v1.0.0.json",
-    "sha256": "604487458ed340fed7a73835efc46868812ccba515ed36f8af5923d21421126d"
+    "sha256": "a55450b4d90641360daf10addf72fd7e3ded81edf1b58deee59c1dc4051180d3"
   },
   "teacher_to_confirm": {
     "open_ids": [

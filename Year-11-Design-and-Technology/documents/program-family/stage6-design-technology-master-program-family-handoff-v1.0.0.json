@@ -60,22 +60,22 @@
   "artifacts": [
     {
       "role": "editable-program",
-      "sha256": "e5863114755cd27db022fc89abdcaef0b50ce89af7b82fc9f701d91c0c31acfe",
+      "sha256": "37879518ba8b119d8953ea4790f5c9683b6c190c04e6f03474869e8694c71a46",
       "path": "stage6-design-technology-master-program-v1.0.0.docx"
     },
     {
       "role": "rendered-program",
-      "sha256": "964d7a898a291593a8b00e5ca952836b1db684fecb264f30504bc83a22b66fbc",
+      "sha256": "a178a09c91a37f0eef2903635e45cec4fdf5b913f406d78523fd0f0f7a974ed9",
       "path": "stage6-design-technology-master-program-v1.0.0.pdf"
     },
     {
       "role": "alignment-manifest",
-      "sha256": "604487458ed340fed7a73835efc46868812ccba515ed36f8af5923d21421126d",
+      "sha256": "a55450b4d90641360daf10addf72fd7e3ded81edf1b58deee59c1dc4051180d3",
       "path": "stage6-design-technology-master-alignment-manifest-v1.0.0.json"
     },
     {
       "role": "site-map",
-      "sha256": "6b3c20efccfdcbf35180aad4698fabc0a0c60aaad943facd173868045492c1cc",
+      "sha256": "6e7abfbd74515e0df7bde4b925ca8c8e10915dc2f62ae6b45b251a57b2b65f10",
       "path": "stage6-design-technology-master-site-map-v1.0.0.json"
     },
     {
@@ -91,12 +91,12 @@
     {
       "role": "teacher-program-manifest",
       "path": "stage6-design-technology-master-teacher-program-manifest-v1.0.0.json",
-      "sha256": "500f51b4d0f5a8e272d3a77bf94788a8635bb1b8b119ca6c1c716fb8e03b4850"
+      "sha256": "f2bf3bb5b8807ff4daf2d9e534a129ec16d523a98545aacbcd45573ccef41914"
     },
     {
       "role": "program-family-control",
       "path": "stage6-design-technology-program-family-control-v1.0.0.json",
-      "sha256": "12f4fb19f7fb091dfe7249d6688a95de94048c6d742574e85c9ae02192e041bf"
+      "sha256": "cd86f8f935b72c1b1d598fef59395c01ebb05964ff416dd9a7c04d0cfee627d5"
     }
   ],
   "library_card": {
@@ -125,7 +125,7 @@
   },
   "teacher_program_manifest": {
     "path": "stage6-design-technology-master-teacher-program-manifest-v1.0.0.json",
-    "sha256": "500f51b4d0f5a8e272d3a77bf94788a8635bb1b8b119ca6c1c716fb8e03b4850",
+    "sha256": "f2bf3bb5b8807ff4daf2d9e534a129ec16d523a98545aacbcd45573ccef41914",
     "validator_state": "PASS",
     "validator": "Stage 14 validate_teacher_program.py"
   }

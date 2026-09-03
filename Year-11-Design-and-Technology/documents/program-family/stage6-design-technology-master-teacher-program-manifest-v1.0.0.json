@@ -9457,7 +9457,9 @@
       {
         "period": 1,
         "planned_focus": "Course launch and design situation — site/theory",
-        "site_ids": [],
+        "site_ids": [
+          "site-m01s01-theory"
+        ],
         "planned_evidence": "brief analysis and an open problem statement",
         "date_taught": "",
         "teacher_initials": "",
@@ -9466,12 +9468,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P001",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 2,
         "planned_focus": "Kitchen need and constraint analysis — project/folio",
-        "site_ids": [],
+        "site_ids": [
+          "site-m07s01-theory"
+        ],
         "planned_evidence": "need, user and constraint notes",
         "date_taught": "",
         "teacher_initials": "",
@@ -9480,12 +9484,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P002",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 3,
         "planned_focus": "Six Thinking Hats collaboration — practical",
-        "site_ids": [],
+        "site_ids": [
+          "site-m06s02-theory"
+        ],
         "planned_evidence": "group thinking record with distinct perspectives",
         "date_taught": "",
         "teacher_initials": "",
@@ -9494,12 +9500,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P003",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 4,
         "planned_focus": "Group roles and communication — site/theory",
-        "site_ids": [],
+        "site_ids": [
+          "site-m06s02-theory"
+        ],
         "planned_evidence": "role and evidence-management plan",
         "date_taught": "",
         "teacher_initials": "",
@@ -9508,12 +9516,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P004",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 5,
         "planned_focus": "Course launch and design situation — project/folio",
-        "site_ids": [],
+        "site_ids": [
+          "site-m01s01-theory"
+        ],
         "planned_evidence": "brief analysis and an open problem statement",
         "date_taught": "",
         "teacher_initials": "",
@@ -9522,12 +9532,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P005",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 6,
         "planned_focus": "Kitchen need and constraint analysis — practical",
-        "site_ids": [],
+        "site_ids": [
+          "site-m07s01-theory"
+        ],
         "planned_evidence": "need, user and constraint notes",
         "date_taught": "",
         "teacher_initials": "",
@@ -9536,12 +9548,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P006",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 7,
         "planned_focus": "Six Thinking Hats collaboration — site/theory",
-        "site_ids": [],
+        "site_ids": [
+          "site-m06s02-theory"
+        ],
         "planned_evidence": "group thinking record with distinct perspectives",
         "date_taught": "",
         "teacher_initials": "",
@@ -9550,12 +9564,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P007",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 8,
         "planned_focus": "Group roles and communication — project/folio",
-        "site_ids": [],
+        "site_ids": [
+          "site-m06s02-theory"
+        ],
         "planned_evidence": "role and evidence-management plan",
         "date_taught": "",
         "teacher_initials": "",
@@ -9564,12 +9580,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P008",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 9,
         "planned_focus": "CAD idea development — site/theory",
-        "site_ids": [],
+        "site_ids": [
+          "site-m09s01-theory"
+        ],
         "planned_evidence": "annotated digital development evidence",
         "date_taught": "",
         "teacher_initials": "",
@@ -9578,12 +9596,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P009",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 10,
         "planned_focus": "Tolerance-trial reasoning — project/folio",
-        "site_ids": [],
+        "site_ids": [
+          "site-m09s03-theory"
+        ],
         "planned_evidence": "0.2 mm tolerance-trial record and conclusion",
         "date_taught": "",
         "teacher_initials": "",
@@ -9592,12 +9612,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P010",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 11,
         "planned_focus": "Prototype and technical development — practical",
-        "site_ids": [],
+        "site_ids": [
+          "site-m09s02-theory"
+        ],
         "planned_evidence": "teacher-authorised progress record",
         "date_taught": "",
         "teacher_initials": "",
@@ -9606,12 +9628,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P011",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 12,
         "planned_focus": "Group folio and evaluation — site/theory",
-        "site_ids": [],
+        "site_ids": [
+          "site-m14s01-theory"
+        ],
         "planned_evidence": "selected evidence across the eight-page group folio",
         "date_taught": "",
         "teacher_initials": "",
@@ -9620,12 +9644,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P012",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 13,
         "planned_focus": "CAD idea development — project/folio",
-        "site_ids": [],
+        "site_ids": [
+          "site-m09s01-theory"
+        ],
         "planned_evidence": "annotated digital development evidence",
         "date_taught": "",
         "teacher_initials": "",
@@ -9634,12 +9660,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P013",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 14,
         "planned_focus": "Tolerance-trial reasoning — practical",
-        "site_ids": [],
+        "site_ids": [
+          "site-m09s03-theory"
+        ],
         "planned_evidence": "0.2 mm tolerance-trial record and conclusion",
         "date_taught": "",
         "teacher_initials": "",
@@ -9648,12 +9676,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P014",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 15,
         "planned_focus": "Prototype and technical development — project/folio",
-        "site_ids": [],
+        "site_ids": [
+          "site-m09s02-theory"
+        ],
         "planned_evidence": "teacher-authorised progress record",
         "date_taught": "",
         "teacher_initials": "",
@@ -9662,12 +9692,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P015",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 16,
         "planned_focus": "Group folio and evaluation — practical",
-        "site_ids": [],
+        "site_ids": [
+          "site-m14s01-theory"
+        ],
         "planned_evidence": "selected evidence across the eight-page group folio",
         "date_taught": "",
         "teacher_initials": "",
@@ -9676,12 +9708,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P016",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 17,
         "planned_focus": "CAD idea development — project/folio",
-        "site_ids": [],
+        "site_ids": [
+          "site-m09s01-theory"
+        ],
         "planned_evidence": "annotated digital development evidence",
         "date_taught": "",
         "teacher_initials": "",
@@ -9690,12 +9724,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P017",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 18,
         "planned_focus": "Tolerance-trial reasoning — practical",
-        "site_ids": [],
+        "site_ids": [
+          "site-m09s03-theory"
+        ],
         "planned_evidence": "0.2 mm tolerance-trial record and conclusion",
         "date_taught": "",
         "teacher_initials": "",
@@ -9704,12 +9740,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P018",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 19,
         "planned_focus": "Prototype and technical development — practical",
-        "site_ids": [],
+        "site_ids": [
+          "site-m09s02-theory"
+        ],
         "planned_evidence": "teacher-authorised progress record",
         "date_taught": "",
         "teacher_initials": "",
@@ -9718,12 +9756,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P019",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 20,
         "planned_focus": "Group folio and evaluation — practical",
-        "site_ids": [],
+        "site_ids": [
+          "site-m14s01-theory"
+        ],
         "planned_evidence": "selected evidence across the eight-page group folio",
         "date_taught": "",
         "teacher_initials": "",
@@ -9732,12 +9772,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P020",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 21,
         "planned_focus": "Design settings and research question — site/theory",
-        "site_ids": [],
+        "site_ids": [
+          "site-m04s01-theory"
+        ],
         "planned_evidence": "research question and setting classification",
         "date_taught": "",
         "teacher_initials": "",
@@ -9746,12 +9788,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P021",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 22,
         "planned_focus": "Design profession investigation — project/folio",
-        "site_ids": [],
+        "site_ids": [
+          "site-m01s02-theory"
+        ],
         "planned_evidence": "profession evidence notes with source acknowledgement",
         "date_taught": "",
         "teacher_initials": "",
@@ -9760,12 +9804,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P022",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 23,
         "planned_focus": "Australian designer and invention — site/theory",
-        "site_ids": [],
+        "site_ids": [
+          "site-m01s02-theory"
+        ],
         "planned_evidence": "evidence profile of an authorised selected example",
         "date_taught": "",
         "teacher_initials": "",
@@ -9774,12 +9820,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P023",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 24,
         "planned_focus": "Individual, social and environmental impact — project/folio",
-        "site_ids": [],
+        "site_ids": [
+          "site-m04s03-theory"
+        ],
         "planned_evidence": "three-lens impact analysis",
         "date_taught": "",
         "teacher_initials": "",
@@ -9788,12 +9836,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P024",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 25,
         "planned_focus": "Research quality and ethics — site/theory",
-        "site_ids": [],
+        "site_ids": [
+          "site-m03s03-theory"
+        ],
         "planned_evidence": "source-quality and acknowledgement record",
         "date_taught": "",
         "teacher_initials": "",
@@ -9802,12 +9852,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P025",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 26,
         "planned_focus": "Communication and revision — project/folio",
-        "site_ids": [],
+        "site_ids": [
+          "site-m05s03-theory"
+        ],
         "planned_evidence": "draft presentation review against the issued requirements",
         "date_taught": "",
         "teacher_initials": "",
@@ -9816,12 +9868,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P026",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 27,
         "planned_focus": "Design settings and research question — site/theory",
-        "site_ids": [],
+        "site_ids": [
+          "site-m04s01-theory"
+        ],
         "planned_evidence": "research question and setting classification",
         "date_taught": "",
         "teacher_initials": "",
@@ -9830,12 +9884,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P027",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 28,
         "planned_focus": "Design profession investigation — project/folio",
-        "site_ids": [],
+        "site_ids": [
+          "site-m01s02-theory"
+        ],
         "planned_evidence": "profession evidence notes with source acknowledgement",
         "date_taught": "",
         "teacher_initials": "",
@@ -9844,12 +9900,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P028",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 29,
         "planned_focus": "Australian designer and invention — site/theory",
-        "site_ids": [],
+        "site_ids": [
+          "site-m01s02-theory"
+        ],
         "planned_evidence": "evidence profile of an authorised selected example",
         "date_taught": "",
         "teacher_initials": "",
@@ -9858,12 +9916,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P029",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 30,
         "planned_focus": "Individual, social and environmental impact — site/theory",
-        "site_ids": [],
+        "site_ids": [
+          "site-m04s03-theory"
+        ],
         "planned_evidence": "three-lens impact analysis",
         "date_taught": "",
         "teacher_initials": "",
@@ -9872,12 +9932,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P030",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 31,
         "planned_focus": "Research quality and ethics — site/theory",
-        "site_ids": [],
+        "site_ids": [
+          "site-m03s03-theory"
+        ],
         "planned_evidence": "source-quality and acknowledgement record",
         "date_taught": "",
         "teacher_initials": "",
@@ -9886,12 +9948,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P031",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 32,
         "planned_focus": "Communication and revision — site/theory",
-        "site_ids": [],
+        "site_ids": [
+          "site-m05s03-theory"
+        ],
         "planned_evidence": "draft presentation review against the issued requirements",
         "date_taught": "",
         "teacher_initials": "",
@@ -9900,12 +9964,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P032",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 33,
         "planned_focus": "Design settings and research question — site/theory",
-        "site_ids": [],
+        "site_ids": [
+          "site-m04s01-theory"
+        ],
         "planned_evidence": "research question and setting classification",
         "date_taught": "",
         "teacher_initials": "",
@@ -9914,12 +9980,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P033",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 34,
         "planned_focus": "Design profession investigation — site/theory",
-        "site_ids": [],
+        "site_ids": [
+          "site-m01s02-theory"
+        ],
         "planned_evidence": "profession evidence notes with source acknowledgement",
         "date_taught": "",
         "teacher_initials": "",
@@ -9928,12 +9996,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P034",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 35,
         "planned_focus": "Australian designer and invention — site/theory",
-        "site_ids": [],
+        "site_ids": [
+          "site-m01s02-theory"
+        ],
         "planned_evidence": "evidence profile of an authorised selected example",
         "date_taught": "",
         "teacher_initials": "",
@@ -9942,12 +10012,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P035",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 36,
         "planned_focus": "Individual, social and environmental impact — site/theory",
-        "site_ids": [],
+        "site_ids": [
+          "site-m04s03-theory"
+        ],
         "planned_evidence": "three-lens impact analysis",
         "date_taught": "",
         "teacher_initials": "",
@@ -9956,12 +10028,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P036",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 37,
         "planned_focus": "Research quality and ethics — site/theory",
-        "site_ids": [],
+        "site_ids": [
+          "site-m03s03-theory"
+        ],
         "planned_evidence": "source-quality and acknowledgement record",
         "date_taught": "",
         "teacher_initials": "",
@@ -9970,12 +10044,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P037",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 38,
         "planned_focus": "Communication and revision — site/theory",
-        "site_ids": [],
+        "site_ids": [
+          "site-m05s03-theory"
+        ],
         "planned_evidence": "draft presentation review against the issued requirements",
         "date_taught": "",
         "teacher_initials": "",
@@ -9984,12 +10060,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P038",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 39,
         "planned_focus": "Design settings and research question — site/theory",
-        "site_ids": [],
+        "site_ids": [
+          "site-m04s01-theory"
+        ],
         "planned_evidence": "research question and setting classification",
         "date_taught": "",
         "teacher_initials": "",
@@ -9998,12 +10076,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P039",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 40,
         "planned_focus": "Design profession investigation — site/theory",
-        "site_ids": [],
+        "site_ids": [
+          "site-m01s02-theory"
+        ],
         "planned_evidence": "profession evidence notes with source acknowledgement",
         "date_taught": "",
         "teacher_initials": "",
@@ -10012,12 +10092,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P040",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 41,
         "planned_focus": "Target market and need — site/theory",
-        "site_ids": [],
+        "site_ids": [
+          "site-m07s02-theory"
+        ],
         "planned_evidence": "target-market and need statement",
         "date_taught": "",
         "teacher_initials": "",
@@ -10026,12 +10108,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P041",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 42,
         "planned_focus": "Market research — project/folio",
-        "site_ids": [],
+        "site_ids": [
+          "site-m03s01-theory"
+        ],
         "planned_evidence": "comparison of existing solutions",
         "date_taught": "",
         "teacher_initials": "",
@@ -10040,12 +10124,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P042",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 43,
         "planned_focus": "Criteria, action and finance planning — practical",
-        "site_ids": [],
+        "site_ids": [
+          "site-m12s01-theory"
+        ],
         "planned_evidence": "criteria and five-week planning evidence",
         "date_taught": "",
         "teacher_initials": "",
@@ -10054,12 +10140,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P043",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 44,
         "planned_focus": "Creativity and degree of difference — site/theory",
-        "site_ids": [],
+        "site_ids": [
+          "site-m06s03-theory"
+        ],
         "planned_evidence": "distinct concept alternatives and selection reasoning",
         "date_taught": "",
         "teacher_initials": "",
@@ -10068,12 +10156,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P044",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 45,
         "planned_focus": "Safety-research boundary — project/folio",
-        "site_ids": [],
+        "site_ids": [
+          "site-m12s03-theory"
+        ],
         "planned_evidence": "identified safety questions for teacher confirmation; no compliance claim",
         "date_taught": "",
         "teacher_initials": "",
@@ -10082,12 +10172,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P045",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 46,
         "planned_focus": "Prototype and testing — practical",
-        "site_ids": [],
+        "site_ids": [
+          "site-m10s03-theory"
+        ],
         "planned_evidence": "teacher-authorised prototype evidence and conclusion",
         "date_taught": "",
         "teacher_initials": "",
@@ -10096,12 +10188,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P046",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 47,
         "planned_focus": "Ongoing evaluation — site/theory",
-        "site_ids": [],
+        "site_ids": [
+          "site-m14s01-theory"
+        ],
         "planned_evidence": "change record linked to criteria",
         "date_taught": "",
         "teacher_initials": "",
@@ -10110,12 +10204,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P047",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 48,
         "planned_focus": "Simplified MDP folio reflection — project/folio",
-        "site_ids": [],
+        "site_ids": [
+          "site-m15s03-theory"
+        ],
         "planned_evidence": "concise proposal, development and evaluation evidence",
         "date_taught": "",
         "teacher_initials": "",
@@ -10124,12 +10220,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P048",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 49,
         "planned_focus": "Target market and need — practical",
-        "site_ids": [],
+        "site_ids": [
+          "site-m07s02-theory"
+        ],
         "planned_evidence": "target-market and need statement",
         "date_taught": "",
         "teacher_initials": "",
@@ -10138,12 +10236,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P049",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 50,
         "planned_focus": "Market research — site/theory",
-        "site_ids": [],
+        "site_ids": [
+          "site-m03s01-theory"
+        ],
         "planned_evidence": "comparison of existing solutions",
         "date_taught": "",
         "teacher_initials": "",
@@ -10152,12 +10252,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P050",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 51,
         "planned_focus": "Criteria, action and finance planning — project/folio",
-        "site_ids": [],
+        "site_ids": [
+          "site-m12s01-theory"
+        ],
         "planned_evidence": "criteria and five-week planning evidence",
         "date_taught": "",
         "teacher_initials": "",
@@ -10166,12 +10268,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P051",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 52,
         "planned_focus": "Creativity and degree of difference — practical",
-        "site_ids": [],
+        "site_ids": [
+          "site-m06s03-theory"
+        ],
         "planned_evidence": "distinct concept alternatives and selection reasoning",
         "date_taught": "",
         "teacher_initials": "",
@@ -10180,12 +10284,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P052",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 53,
         "planned_focus": "Safety-research boundary — site/theory",
-        "site_ids": [],
+        "site_ids": [
+          "site-m12s03-theory"
+        ],
         "planned_evidence": "identified safety questions for teacher confirmation; no compliance claim",
         "date_taught": "",
         "teacher_initials": "",
@@ -10194,12 +10300,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P053",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 54,
         "planned_focus": "Prototype and testing — project/folio",
-        "site_ids": [],
+        "site_ids": [
+          "site-m10s03-theory"
+        ],
         "planned_evidence": "teacher-authorised prototype evidence and conclusion",
         "date_taught": "",
         "teacher_initials": "",
@@ -10208,12 +10316,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P054",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 55,
         "planned_focus": "Ongoing evaluation — practical",
-        "site_ids": [],
+        "site_ids": [
+          "site-m14s01-theory"
+        ],
         "planned_evidence": "change record linked to criteria",
         "date_taught": "",
         "teacher_initials": "",
@@ -10222,12 +10332,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P055",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 56,
         "planned_focus": "Simplified MDP folio reflection — site/theory",
-        "site_ids": [],
+        "site_ids": [
+          "site-m15s03-theory"
+        ],
         "planned_evidence": "concise proposal, development and evaluation evidence",
         "date_taught": "",
         "teacher_initials": "",
@@ -10236,12 +10348,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P056",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 57,
         "planned_focus": "Target market and need — project/folio",
-        "site_ids": [],
+        "site_ids": [
+          "site-m07s02-theory"
+        ],
         "planned_evidence": "target-market and need statement",
         "date_taught": "",
         "teacher_initials": "",
@@ -10250,12 +10364,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P057",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 58,
         "planned_focus": "Market research — practical",
-        "site_ids": [],
+        "site_ids": [
+          "site-m03s01-theory"
+        ],
         "planned_evidence": "comparison of existing solutions",
         "date_taught": "",
         "teacher_initials": "",
@@ -10264,12 +10380,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P058",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 59,
         "planned_focus": "Criteria, action and finance planning — practical",
-        "site_ids": [],
+        "site_ids": [
+          "site-m12s01-theory"
+        ],
         "planned_evidence": "criteria and five-week planning evidence",
         "date_taught": "",
         "teacher_initials": "",
@@ -10278,12 +10396,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P059",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 60,
         "planned_focus": "Creativity and degree of difference — practical",
-        "site_ids": [],
+        "site_ids": [
+          "site-m06s03-theory"
+        ],
         "planned_evidence": "distinct concept alternatives and selection reasoning",
         "date_taught": "",
         "teacher_initials": "",
@@ -10292,12 +10412,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P060",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 61,
         "planned_focus": "Identify the camping need and target market — site/theory",
-        "site_ids": [],
+        "site_ids": [
+          "site-m11s01-theory"
+        ],
         "planned_evidence": "need and target-market justification",
         "date_taught": "",
         "teacher_initials": "",
@@ -10306,12 +10428,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P061",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 62,
         "planned_focus": "Areas of investigation and market evidence — project/folio",
-        "site_ids": [],
+        "site_ids": [
+          "site-m11s01-theory"
+        ],
         "planned_evidence": "investigation plan and existing-product analysis",
         "date_taught": "",
         "teacher_initials": "",
@@ -10320,12 +10444,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P062",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 63,
         "planned_focus": "Criteria to evaluate success — practical",
-        "site_ids": [],
+        "site_ids": [
+          "site-m07s03-theory"
+        ],
         "planned_evidence": "three-to-five evidence-ready criteria",
         "date_taught": "",
         "teacher_initials": "",
@@ -10334,12 +10460,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P063",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 64,
         "planned_focus": "Action and finance planning — site/theory",
-        "site_ids": [],
+        "site_ids": [
+          "site-m12s01-theory"
+        ],
         "planned_evidence": "eleven-week action plan and authorised 30-dollar limit record",
         "date_taught": "",
         "teacher_initials": "",
@@ -10348,12 +10476,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P064",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 65,
         "planned_focus": "Ideas and degree of difference — project/folio",
-        "site_ids": [],
+        "site_ids": [
+          "site-m11s03-theory"
+        ],
         "planned_evidence": "concept field and justified direction",
         "date_taught": "",
         "teacher_initials": "",
@@ -10362,12 +10492,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P065",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 66,
         "planned_focus": "Design factors analysis — practical",
-        "site_ids": [],
+        "site_ids": [
+          "site-m02s01-theory"
+        ],
         "planned_evidence": "factor-to-decision explanation",
         "date_taught": "",
         "teacher_initials": "",
@@ -10376,12 +10508,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P066",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 67,
         "planned_focus": "Experiment, test and conclude — site/theory",
-        "site_ids": [],
+        "site_ids": [
+          "site-m10s03-theory"
+        ],
         "planned_evidence": "teacher-authorised test record and applied conclusion",
         "date_taught": "",
         "teacher_initials": "",
@@ -10390,12 +10524,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P067",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 68,
         "planned_focus": "Resources and production planning — project/folio",
-        "site_ids": [],
+        "site_ids": [
+          "site-m12s02-theory"
+        ],
         "planned_evidence": "resource justification and teacher-confirmed production questions",
         "date_taught": "",
         "teacher_initials": "",
@@ -10404,12 +10540,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P068",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 69,
         "planned_focus": "Teacher-authorised realisation — practical",
-        "site_ids": [],
+        "site_ids": [
+          "site-m13s03-theory"
+        ],
         "planned_evidence": "progress record without invented method, PPE or control",
         "date_taught": "",
         "teacher_initials": "",
@@ -10418,12 +10556,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P069",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 70,
         "planned_focus": "Ongoing and final evaluation — site/theory",
-        "site_ids": [],
+        "site_ids": [
+          "site-m14s01-theory"
+        ],
         "planned_evidence": "criterion-led change record and balanced final judgement",
         "date_taught": "",
         "teacher_initials": "",
@@ -10432,12 +10572,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P070",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 71,
         "planned_focus": "Marketing and project handoff — project/folio",
-        "site_ids": [],
+        "site_ids": [
+          "site-m14s02-theory"
+        ],
         "planned_evidence": "marketability explanation and complete individual folio check",
         "date_taught": "",
         "teacher_initials": "",
@@ -10446,12 +10588,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P071",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 72,
         "planned_focus": "Identify the camping need and target market — practical",
-        "site_ids": [],
+        "site_ids": [
+          "site-m11s01-theory"
+        ],
         "planned_evidence": "need and target-market justification",
         "date_taught": "",
         "teacher_initials": "",
@@ -10460,12 +10604,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P072",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 73,
         "planned_focus": "Areas of investigation and market evidence — site/theory",
-        "site_ids": [],
+        "site_ids": [
+          "site-m11s01-theory"
+        ],
         "planned_evidence": "investigation plan and existing-product analysis",
         "date_taught": "",
         "teacher_initials": "",
@@ -10474,12 +10620,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P073",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 74,
         "planned_focus": "Criteria to evaluate success — project/folio",
-        "site_ids": [],
+        "site_ids": [
+          "site-m07s03-theory"
+        ],
         "planned_evidence": "three-to-five evidence-ready criteria",
         "date_taught": "",
         "teacher_initials": "",
@@ -10488,12 +10636,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P074",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 75,
         "planned_focus": "Action and finance planning — practical",
-        "site_ids": [],
+        "site_ids": [
+          "site-m12s01-theory"
+        ],
         "planned_evidence": "eleven-week action plan and authorised 30-dollar limit record",
         "date_taught": "",
         "teacher_initials": "",
@@ -10502,12 +10652,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P075",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 76,
         "planned_focus": "Ideas and degree of difference — site/theory",
-        "site_ids": [],
+        "site_ids": [
+          "site-m11s03-theory"
+        ],
         "planned_evidence": "concept field and justified direction",
         "date_taught": "",
         "teacher_initials": "",
@@ -10516,12 +10668,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P076",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 77,
         "planned_focus": "Design factors analysis — project/folio",
-        "site_ids": [],
+        "site_ids": [
+          "site-m02s01-theory"
+        ],
         "planned_evidence": "factor-to-decision explanation",
         "date_taught": "",
         "teacher_initials": "",
@@ -10530,12 +10684,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P077",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 78,
         "planned_focus": "Experiment, test and conclude — practical",
-        "site_ids": [],
+        "site_ids": [
+          "site-m10s03-theory"
+        ],
         "planned_evidence": "teacher-authorised test record and applied conclusion",
         "date_taught": "",
         "teacher_initials": "",
@@ -10544,12 +10700,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P078",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 79,
         "planned_focus": "Resources and production planning — site/theory",
-        "site_ids": [],
+        "site_ids": [
+          "site-m12s02-theory"
+        ],
         "planned_evidence": "resource justification and teacher-confirmed production questions",
         "date_taught": "",
         "teacher_initials": "",
@@ -10558,12 +10716,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P079",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 80,
         "planned_focus": "Teacher-authorised realisation — project/folio",
-        "site_ids": [],
+        "site_ids": [
+          "site-m13s03-theory"
+        ],
         "planned_evidence": "progress record without invented method, PPE or control",
         "date_taught": "",
         "teacher_initials": "",
@@ -10572,12 +10732,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P080",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 81,
         "planned_focus": "Ongoing and final evaluation — practical",
-        "site_ids": [],
+        "site_ids": [
+          "site-m14s01-theory"
+        ],
         "planned_evidence": "criterion-led change record and balanced final judgement",
         "date_taught": "",
         "teacher_initials": "",
@@ -10586,12 +10748,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P081",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 82,
         "planned_focus": "Marketing and project handoff — site/theory",
-        "site_ids": [],
+        "site_ids": [
+          "site-m14s02-theory"
+        ],
         "planned_evidence": "marketability explanation and complete individual folio check",
         "date_taught": "",
         "teacher_initials": "",
@@ -10600,12 +10764,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P082",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 83,
         "planned_focus": "Identify the camping need and target market — project/folio",
-        "site_ids": [],
+        "site_ids": [
+          "site-m11s01-theory"
+        ],
         "planned_evidence": "need and target-market justification",
         "date_taught": "",
         "teacher_initials": "",
@@ -10614,12 +10780,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P083",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 84,
         "planned_focus": "Areas of investigation and market evidence — practical",
-        "site_ids": [],
+        "site_ids": [
+          "site-m11s01-theory"
+        ],
         "planned_evidence": "investigation plan and existing-product analysis",
         "date_taught": "",
         "teacher_initials": "",
@@ -10628,12 +10796,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P084",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 85,
         "planned_focus": "Criteria to evaluate success — project/folio",
-        "site_ids": [],
+        "site_ids": [
+          "site-m07s03-theory"
+        ],
         "planned_evidence": "three-to-five evidence-ready criteria",
         "date_taught": "",
         "teacher_initials": "",
@@ -10642,12 +10812,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P085",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 86,
         "planned_focus": "Action and finance planning — practical",
-        "site_ids": [],
+        "site_ids": [
+          "site-m12s01-theory"
+        ],
         "planned_evidence": "eleven-week action plan and authorised 30-dollar limit record",
         "date_taught": "",
         "teacher_initials": "",
@@ -10656,12 +10828,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P086",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 87,
         "planned_focus": "Ideas and degree of difference — project/folio",
-        "site_ids": [],
+        "site_ids": [
+          "site-m11s03-theory"
+        ],
         "planned_evidence": "concept field and justified direction",
         "date_taught": "",
         "teacher_initials": "",
@@ -10670,12 +10844,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P087",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 88,
         "planned_focus": "Design factors analysis — practical",
-        "site_ids": [],
+        "site_ids": [
+          "site-m02s01-theory"
+        ],
         "planned_evidence": "factor-to-decision explanation",
         "date_taught": "",
         "teacher_initials": "",
@@ -10684,12 +10860,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P088",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 89,
         "planned_focus": "Experiment, test and conclude — project/folio",
-        "site_ids": [],
+        "site_ids": [
+          "site-m10s03-theory"
+        ],
         "planned_evidence": "teacher-authorised test record and applied conclusion",
         "date_taught": "",
         "teacher_initials": "",
@@ -10698,12 +10876,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P089",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 90,
         "planned_focus": "Resources and production planning — practical",
-        "site_ids": [],
+        "site_ids": [
+          "site-m12s02-theory"
+        ],
         "planned_evidence": "resource justification and teacher-confirmed production questions",
         "date_taught": "",
         "teacher_initials": "",
@@ -10712,12 +10892,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P090",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 91,
         "planned_focus": "Teacher-authorised realisation — project/folio",
-        "site_ids": [],
+        "site_ids": [
+          "site-m13s03-theory"
+        ],
         "planned_evidence": "progress record without invented method, PPE or control",
         "date_taught": "",
         "teacher_initials": "",
@@ -10726,12 +10908,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P091",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 92,
         "planned_focus": "Ongoing and final evaluation — practical",
-        "site_ids": [],
+        "site_ids": [
+          "site-m14s01-theory"
+        ],
         "planned_evidence": "criterion-led change record and balanced final judgement",
         "date_taught": "",
         "teacher_initials": "",
@@ -10740,12 +10924,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P092",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 93,
         "planned_focus": "Marketing and project handoff — project/folio",
-        "site_ids": [],
+        "site_ids": [
+          "site-m14s02-theory"
+        ],
         "planned_evidence": "marketability explanation and complete individual folio check",
         "date_taught": "",
         "teacher_initials": "",
@@ -10754,12 +10940,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P093",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 94,
         "planned_focus": "Identify the camping need and target market — practical",
-        "site_ids": [],
+        "site_ids": [
+          "site-m11s01-theory"
+        ],
         "planned_evidence": "need and target-market justification",
         "date_taught": "",
         "teacher_initials": "",
@@ -10768,12 +10956,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P094",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 95,
         "planned_focus": "Areas of investigation and market evidence — project/folio",
-        "site_ids": [],
+        "site_ids": [
+          "site-m11s01-theory"
+        ],
         "planned_evidence": "investigation plan and existing-product analysis",
         "date_taught": "",
         "teacher_initials": "",
@@ -10782,12 +10972,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P095",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 96,
         "planned_focus": "Criteria to evaluate success — practical",
-        "site_ids": [],
+        "site_ids": [
+          "site-m07s03-theory"
+        ],
         "planned_evidence": "three-to-five evidence-ready criteria",
         "date_taught": "",
         "teacher_initials": "",
@@ -10796,12 +10988,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P096",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 97,
         "planned_focus": "Action and finance planning — project/folio",
-        "site_ids": [],
+        "site_ids": [
+          "site-m12s01-theory"
+        ],
         "planned_evidence": "eleven-week action plan and authorised 30-dollar limit record",
         "date_taught": "",
         "teacher_initials": "",
@@ -10810,12 +11004,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P097",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 98,
         "planned_focus": "Ideas and degree of difference — practical",
-        "site_ids": [],
+        "site_ids": [
+          "site-m11s03-theory"
+        ],
         "planned_evidence": "concept field and justified direction",
         "date_taught": "",
         "teacher_initials": "",
@@ -10824,12 +11020,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P098",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 99,
         "planned_focus": "Design factors analysis — project/folio",
-        "site_ids": [],
+        "site_ids": [
+          "site-m02s01-theory"
+        ],
         "planned_evidence": "factor-to-decision explanation",
         "date_taught": "",
         "teacher_initials": "",
@@ -10838,12 +11036,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P099",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 100,
         "planned_focus": "Experiment, test and conclude — practical",
-        "site_ids": [],
+        "site_ids": [
+          "site-m10s03-theory"
+        ],
         "planned_evidence": "teacher-authorised test record and applied conclusion",
         "date_taught": "",
         "teacher_initials": "",
@@ -10852,12 +11052,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P100",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 101,
         "planned_focus": "Resources and production planning — practical",
-        "site_ids": [],
+        "site_ids": [
+          "site-m12s02-theory"
+        ],
         "planned_evidence": "resource justification and teacher-confirmed production questions",
         "date_taught": "",
         "teacher_initials": "",
@@ -10866,12 +11068,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P101",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 102,
         "planned_focus": "Teacher-authorised realisation — practical",
-        "site_ids": [],
+        "site_ids": [
+          "site-m13s03-theory"
+        ],
         "planned_evidence": "progress record without invented method, PPE or control",
         "date_taught": "",
         "teacher_initials": "",
@@ -10880,12 +11084,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P102",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 103,
         "planned_focus": "Ongoing and final evaluation — practical",
-        "site_ids": [],
+        "site_ids": [
+          "site-m14s01-theory"
+        ],
         "planned_evidence": "criterion-led change record and balanced final judgement",
         "date_taught": "",
         "teacher_initials": "",
@@ -10894,12 +11100,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P103",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 104,
         "planned_focus": "Marketing and project handoff — practical",
-        "site_ids": [],
+        "site_ids": [
+          "site-m14s02-theory"
+        ],
         "planned_evidence": "marketability explanation and complete individual folio check",
         "date_taught": "",
         "teacher_initials": "",
@@ -10908,12 +11116,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P104",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 105,
         "planned_focus": "Design theory retrieval — site/theory",
-        "site_ids": [],
+        "site_ids": [
+          "site-m15s01-theory"
+        ],
         "planned_evidence": "retrieval and correction record",
         "date_taught": "",
         "teacher_initials": "",
@@ -10922,12 +11132,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P105",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 106,
         "planned_focus": "Settings and impact synthesis — project/folio",
-        "site_ids": [],
+        "site_ids": [
+          "site-m04s03-theory"
+        ],
         "planned_evidence": "comparison and impact response",
         "date_taught": "",
         "teacher_initials": "",
@@ -10936,12 +11148,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P106",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 107,
         "planned_focus": "Creative and production-process synthesis — site/theory",
-        "site_ids": [],
+        "site_ids": [
+          "site-m15s01-theory"
+        ],
         "planned_evidence": "source-safe applied response",
         "date_taught": "",
         "teacher_initials": "",
@@ -10950,12 +11164,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P107",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 108,
         "planned_focus": "Examination response strategy — project/folio",
-        "site_ids": [],
+        "site_ids": [
+          "site-m15s02-theory"
+        ],
         "planned_evidence": "command-verb response plan",
         "date_taught": "",
         "teacher_initials": "",
@@ -10964,12 +11180,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P108",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 109,
         "planned_focus": "HSC bridge and individual MDP boundary — site/theory",
-        "site_ids": [],
+        "site_ids": [
+          "site-m15s03-theory"
+        ],
         "planned_evidence": "Preliminary-to-HSC transition note without beginning the MDP early",
         "date_taught": "",
         "teacher_initials": "",
@@ -10978,12 +11196,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P109",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 110,
         "planned_focus": "Design theory retrieval — project/folio",
-        "site_ids": [],
+        "site_ids": [
+          "site-m15s01-theory"
+        ],
         "planned_evidence": "retrieval and correction record",
         "date_taught": "",
         "teacher_initials": "",
@@ -10992,12 +11212,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P110",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 111,
         "planned_focus": "Settings and impact synthesis — site/theory",
-        "site_ids": [],
+        "site_ids": [
+          "site-m04s03-theory"
+        ],
         "planned_evidence": "comparison and impact response",
         "date_taught": "",
         "teacher_initials": "",
@@ -11006,12 +11228,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P111",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 112,
         "planned_focus": "Creative and production-process synthesis — site/theory",
-        "site_ids": [],
+        "site_ids": [
+          "site-m15s01-theory"
+        ],
         "planned_evidence": "source-safe applied response",
         "date_taught": "",
         "teacher_initials": "",
@@ -11020,12 +11244,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P112",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 113,
         "planned_focus": "Examination response strategy — site/theory",
-        "site_ids": [],
+        "site_ids": [
+          "site-m15s02-theory"
+        ],
         "planned_evidence": "command-verb response plan",
         "date_taught": "",
         "teacher_initials": "",
@@ -11034,12 +11260,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P113",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 114,
         "planned_focus": "HSC bridge and individual MDP boundary — site/theory",
-        "site_ids": [],
+        "site_ids": [
+          "site-m15s03-theory"
+        ],
         "planned_evidence": "Preliminary-to-HSC transition note without beginning the MDP early",
         "date_taught": "",
         "teacher_initials": "",
@@ -11048,12 +11276,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P114",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 115,
         "planned_focus": "Design theory retrieval — site/theory",
-        "site_ids": [],
+        "site_ids": [
+          "site-m15s01-theory"
+        ],
         "planned_evidence": "retrieval and correction record",
         "date_taught": "",
         "teacher_initials": "",
@@ -11062,12 +11292,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P115",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 116,
         "planned_focus": "Settings and impact synthesis — site/theory",
-        "site_ids": [],
+        "site_ids": [
+          "site-m04s03-theory"
+        ],
         "planned_evidence": "comparison and impact response",
         "date_taught": "",
         "teacher_initials": "",
@@ -11076,12 +11308,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P116",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 117,
         "planned_focus": "Creative and production-process synthesis — site/theory",
-        "site_ids": [],
+        "site_ids": [
+          "site-m15s01-theory"
+        ],
         "planned_evidence": "source-safe applied response",
         "date_taught": "",
         "teacher_initials": "",
@@ -11090,12 +11324,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P117",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 118,
         "planned_focus": "Examination response strategy — site/theory",
-        "site_ids": [],
+        "site_ids": [
+          "site-m15s02-theory"
+        ],
         "planned_evidence": "command-verb response plan",
         "date_taught": "",
         "teacher_initials": "",
@@ -11104,12 +11340,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P118",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 119,
         "planned_focus": "HSC bridge and individual MDP boundary — site/theory",
-        "site_ids": [],
+        "site_ids": [
+          "site-m15s03-theory"
+        ],
         "planned_evidence": "Preliminary-to-HSC transition note without beginning the MDP early",
         "date_taught": "",
         "teacher_initials": "",
@@ -11118,12 +11356,14 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P119",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 120,
         "planned_focus": "Design theory retrieval — site/theory",
-        "site_ids": [],
+        "site_ids": [
+          "site-m15s01-theory"
+        ],
         "planned_evidence": "retrieval and correction record",
         "date_taught": "",
         "teacher_initials": "",
@@ -11132,7 +11372,7 @@
         "adjustments": "Apply only current approved student adjustments; teacher to confirm before delivery.",
         "follow_up": "",
         "source_period_id": "Y11-P120",
-        "site_mapping_note": "The live Preliminary course is confirmed, but exact section-to-period equivalence is not asserted."
+        "site_mapping_note": "Direct link to the closest matching named Year 11 course section."
       },
       {
         "period": 121,
@@ -13300,12 +13540,12 @@
   "files": [
     {
       "path": "stage6-design-technology-master-program-v1.0.0.docx",
-      "sha256": "e5863114755cd27db022fc89abdcaef0b50ce89af7b82fc9f701d91c0c31acfe",
+      "sha256": "37879518ba8b119d8953ea4790f5c9683b6c190c04e6f03474869e8694c71a46",
       "purpose": "editable-program"
     },
     {
       "path": "stage6-design-technology-master-program-v1.0.0.pdf",
-      "sha256": "964d7a898a291593a8b00e5ca952836b1db684fecb264f30504bc83a22b66fbc",
+      "sha256": "a178a09c91a37f0eef2903635e45cec4fdf5b913f406d78523fd0f0f7a974ed9",
       "purpose": "rendered-program"
     },
     {
@@ -13315,17 +13555,17 @@
     },
     {
       "path": "stage6-design-technology-master-alignment-manifest-v1.0.0.json",
-      "sha256": "604487458ed340fed7a73835efc46868812ccba515ed36f8af5923d21421126d",
+      "sha256": "a55450b4d90641360daf10addf72fd7e3ded81edf1b58deee59c1dc4051180d3",
       "purpose": "alignment-manifest"
     },
     {
       "path": "stage6-design-technology-master-site-map-v1.0.0.json",
-      "sha256": "6b3c20efccfdcbf35180aad4698fabc0a0c60aaad943facd173868045492c1cc",
+      "sha256": "6e7abfbd74515e0df7bde4b925ca8c8e10915dc2f62ae6b45b251a57b2b65f10",
       "purpose": "site-map"
     }
   ],
   "control_notes": {
     "ttc_15": "Resolved by live Year 11 site and Teacher Resources HTTP-200 evidence dated 2026-09-01.",
-    "docx_visual_limitation": "LibreOffice/soffice unavailable; structural DOCX QA passed and no DOCX visual-render pass is claimed."
+    "docx_visual_limitation": "The repaired Word program and regenerated PDF were rendered and visually inspected before release."
   }
 }
