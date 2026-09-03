@@ -2747,13 +2747,13 @@
       "path": "Agriculture-50-Period-Teaching-Program-v3.0-2027-Elective.docx",
       "purpose": "editable-program",
       "version": "v3.0",
-      "sha256": "c56e69ea629ba909d417c93c7de13b05526ebe0e5cbbc18e7a558492cc0e33e5"
+      "sha256": "b1824edcfb16e011e3e16bcf98e6a500a77580fddbc04d5db54f767392ff19c5"
     },
     {
       "path": "Agriculture-50-Period-Teaching-Program-v3.0-2027-Elective.pdf",
       "purpose": "rendered-program",
       "version": "v3.0",
-      "sha256": "25d3285248516816a44a23c394961e1fd6692c1285a3fade51351a0132cc7392"
+      "sha256": "0c998acf57f94b42280070d41bff7370867ed72cb94ec3e22447ab71957fd321"
     },
     {
       "path": "Agriculture-50-Period-Alignment-Manifest-v3.0.json",
