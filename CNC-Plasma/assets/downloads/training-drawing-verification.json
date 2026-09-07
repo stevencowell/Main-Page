@@ -1,0 +1,36 @@
+{
+  "title": "Offline training drawing: 100 mm square with a central 30 mm hole",
+  "purpose": "Practise importing, measuring and inspecting a simple DXF in CAD/CAM software.",
+  "dimensions_status": "Proposed course teaching dimensions. Not a machine setting or approved cutting job.",
+  "source_relation": "The supplied SureControl manual p14 suggests a 100 mm square with a central hole. The 30 mm diameter is a course design choice; the manual does not specify it.",
+  "format": "DXF 2007 (AC1021)",
+  "units": "millimetres ($INSUNITS=4)",
+  "geometry": {
+    "outer_width_mm": 100,
+    "outer_height_mm": 100,
+    "hole_diameter_mm": 30,
+    "hole_centre_mm": [
+      50,
+      50
+    ],
+    "outer_contours": 1,
+    "inner_contours": 1
+  },
+  "contains": "One closed four-vertex LWPOLYLINE and one CIRCLE. Separate OUTLINE and HOLE layers.",
+  "checks_passed": [
+    "File reopened successfully",
+    "Millimetre header",
+    "Exact bounds and central hole geometry",
+    "Closed outline",
+    "No DXF audit errors or repairs"
+  ],
+  "not_tested": [
+    "2D Design import/export",
+    "Onshape import/export",
+    "SheetCam import/toolpath generation",
+    "SureControl import",
+    "Actual machine movement or cutting"
+  ],
+  "production_boundary": "No toolpaths, machine settings, lead-ins, kerf compensation, cutting order or executable machine code are supplied. A trained authorised teacher must validate these on the installed system before any cutting.",
+  "sha256": "47e43bee895c9668d0223038df146a55a4e6f48285c977ab485af94409d52b09"
+}

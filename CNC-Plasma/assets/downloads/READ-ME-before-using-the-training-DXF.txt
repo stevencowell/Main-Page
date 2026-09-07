@@ -1,0 +1,11 @@
+OFFLINE TRAINING DRAWING — NOT APPROVED FOR CUTTING
+
+Open training-square-100mm-hole-30mm-v1.dxf in a CAD or CAM document to practise checking a transfer.
+
+Expected drawing: one 100 mm by 100 mm closed square and one 30 mm diameter circle centred 50 mm from each edge. Coordinates run from (0,0) to (100,100). DXF 2007, with millimetres declared. The 30 mm diameter is a proposed teaching choice, not a dimension specified in the supplier manual.
+
+Before proceeding, measure the imported width, height and circle diameter. Confirm two closed contours, no extra lines, correct units and no unwanted resizing. Stop if the drawing differs; resolve the import rather than scaling by eye.
+
+This file has been reopened and its geometry audited programmatically. It has NOT been tested in the school's CAD/CAM/controller software or cut on the machine. It contains no cutting settings or machine code. Actual CAM preparation and cutting require the installed system's verified configuration and an authorised trained teacher.
+
+Keep your editable CAD master and export a separate, clearly named DXF revision. Use the website's CAD guide and teacher-controlled production walkthrough for the source-derived process and required local checks.
