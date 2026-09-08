@@ -254,6 +254,19 @@
       .teacher-strip, .footer-inner { align-items: flex-start; flex-direction: column; }
       .teacher-links { justify-content: flex-start; }
     }
+    .safety-intro { padding: 56px 0; }
+    .safety-card { display: grid; grid-template-columns: .9fr 1.1fr; }
+    .safety-card .card-image { height: auto; min-height: 350px; }
+    .safety-card .card-body { padding: 36px 40px; }
+    .safety-card h2 { margin: 0; font-size: clamp(1.7rem, 3vw, 2.2rem); line-height: 1.16; letter-spacing: -.035em; }
+    .safety-card .card-body p { font-size: 1rem; }
+    .safety-card .tag { margin-bottom: 14px; }
+    @media (max-width: 760px) {
+      .safety-intro { padding: 36px 0; }
+      .safety-card { grid-template-columns: 1fr; }
+      .safety-card .card-image { height: auto; min-height: 0; aspect-ratio: 3 / 2; }
+      .safety-card .card-body { padding: 26px 24px; }
+    }
     @media (prefers-reduced-motion: reduce) {
       *, *::before, *::after { scroll-behavior: auto !important; transition: none !important; }
     }
@@ -307,6 +320,24 @@
   </header>
 
   <main id="main">
+    <section class="safety-intro" id="tas-safety" aria-labelledby="tas-safety-heading">
+      <div class="shell">
+        <article class="project-card safety-card">
+          <div class="card-image"><img src="assets/tas-safety-classroom.png" width="1536" height="1024" alt="Two students wait at a TAS classroom doorway while a teacher speaks with them" loading="lazy"></div>
+          <div class="card-body">
+            <span class="tag">For all TAS subjects</span>
+            <h2 id="tas-safety-heading">Safety and expectations in the TAS classroom</h2>
+            <p>A shared starting point for any TAS subject. Explore classroom rules and expectations through clear lessons, presentations and interactive learning.</p>
+            <div class="card-actions">
+              <a class="card-link" href="https://stevencowell.github.io/tas-safety-learning-lab/" target="_blank" rel="noopener"><span>Open Safety unit</span><span aria-hidden="true">↗</span></a>
+              <a class="program-card-link" href="https://stevencowell.github.io/tas-safety-learning-lab/classroom-contract.html" target="_blank" rel="noopener"><span>Classroom rules &amp; presentation</span><span aria-hidden="true">↗</span></a>
+              <a class="program-card-link" href="https://stevencowell.github.io/tas-safety-learning-lab/interactive-learning/" target="_blank" rel="noopener"><span>Interactive Learning</span><span aria-hidden="true">↗</span></a>
+            </div>
+          </div>
+        </article>
+      </div>
+    </section>
+
     <section class="section section-white" aria-labelledby="course-hub-heading">
       <div class="shell">
         <div class="section-heading">
