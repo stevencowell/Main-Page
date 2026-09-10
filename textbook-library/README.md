@@ -2,7 +2,7 @@
 
 Public route: https://stevencowell.github.io/Main-Page/textbook-library/
 
-This is the central catalogue of completed TAS textbooks and workbooks. It includes Desk Tidy Editorial Edition 2.0 and Footstool Edition 1.0. Existing course sites remain the teaching hubs.
+This is the central catalogue of completed TAS textbooks and workbooks. It includes Desk Tidy Editorial Edition 2.0, Footstool Edition 1.0, Programmable Light Edition 1.0, Breadboard Edition 1.0 and Small Box Edition 1.1 (optional lid). Existing course sites remain the teaching hubs.
 
 ## Add a finished book
 
