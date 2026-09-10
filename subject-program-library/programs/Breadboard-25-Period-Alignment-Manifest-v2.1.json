@@ -56,11 +56,12 @@
   },
   "content_coverage": {
     "family_required_content_item_count": 82,
-    "individual_program_unique_content_item_count": 11,
+    "individual_program_unique_content_item_count": 12,
     "content_item_ids": [
       "ci2205366d",
       "ci2d7315ef",
       "ci340ed442",
+      "ci37fec2d6",
       "ci691cf158",
       "ci6986b695",
       "ci9889786f",
@@ -71,7 +72,9 @@
       "cicc0f6cc7"
     ],
     "relationship": "scheduled-core",
-    "allocation_source_id": "A1"
+    "allocation_source_id": "A1",
+    "correction_source_id": "S4",
+    "allocation_verification_note": "The inherited scheduled-core allocation remains the basis for other rows. Period 18 is a separately verified lesson-source correction; its family allocation has not been re-verified."
   },
   "outcomes": [
     {
@@ -210,6 +213,16 @@
       "revision": "benchmark inspected 2026-08-29",
       "sha256": "35305F05807C01BCD5AB334773ED3E83DFC5B5F5A3EA6579AC5CC4BFF1B07735",
       "use": "Program structure and visual pattern only"
+    },
+    {
+      "id": "S4",
+      "title": "Period 18 sustainability mapping correction and direct NESA verification",
+      "authority": "source-verification",
+      "location": "https://stevencowell.github.io/bread-board-guided-course/resources/teacher/Breadboard-Period-18-Syllabus-Correction-2026-09-11.json",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/industrial-technology-7-10-2025/content/stage-5/fa0e95d80e",
+      "revision": "verified 2026-09-11",
+      "sha256": "18B648DA5FA76348EDD926F38C7049B7E56C39335938CD7CE214CD493B120BFC",
+      "use": "Exact sustainable-practices content item, local outcome alignment and explicit family-allocation verification boundary for period 18."
     }
   ],
   "website_learning_inventory": [
@@ -1615,42 +1628,41 @@
       "student_work": "Before practical work, read and apply: Responsible material use, finishing waste and sustainability. Complete Weeks 7-8 knowledge checks (questions 5-6). Then complete the teacher-approved practical stage.",
       "evidence": "Observe approved setup, process, skill, quality and clean-down.",
       "syllabus_content": [
-        "Select and use a range of marking-out tools, processes and equipment to accurately measure and mark out materials when making timber projects"
+        "Investigate sustainable practices in the timber industry"
       ],
       "outcome_codes": [
-        "INT5-PRO-01",
-        "INT5-INP-01",
+        "INT5-ENV-01",
         "INT5-USE-01"
       ],
       "syllabus_alignments": [
         {
-          "plain_english": "Accurate measuring and marking-out for timber projects",
-          "content_item_id": "cia5a4382a",
-          "exact_official_content": "Select and use a range of marking-out tools, processes and equipment to accurately measure and mark out materials when making timber projects",
+          "plain_english": "Investigate sustainable practices in the timber industry",
+          "content_item_id": "ci37fec2d6",
+          "exact_official_content": "Investigate sustainable practices in the timber industry",
           "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/industrial-technology-7-10-2025/content/stage-5/fa0e95d80e",
           "outcome_codes": [
-            "INT5-PRO-01",
-            "INT5-INP-01",
+            "INT5-ENV-01",
             "INT5-USE-01"
           ],
-          "family_coverage_number": 50,
-          "allocation_relationship": "legacy-source-retained",
-          "allocation_source_id": "L2"
+          "family_coverage_number": null,
+          "allocation_relationship": "lesson-source-correction",
+          "allocation_source_id": "S4",
+          "alignment_basis": "Local lesson alignment against verified official content; see S4 for the family allocation boundary."
         }
       ],
       "syllabus_alignment": {
-        "plain_english": "Accurate measuring and marking-out for timber projects",
-        "content_item_id": "cia5a4382a",
-        "exact_official_content": "Select and use a range of marking-out tools, processes and equipment to accurately measure and mark out materials when making timber projects",
+        "plain_english": "Investigate sustainable practices in the timber industry",
+        "content_item_id": "ci37fec2d6",
+        "exact_official_content": "Investigate sustainable practices in the timber industry",
         "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/industrial-technology-7-10-2025/content/stage-5/fa0e95d80e",
         "outcome_codes": [
-          "INT5-PRO-01",
-          "INT5-INP-01",
+          "INT5-ENV-01",
           "INT5-USE-01"
         ],
-        "family_coverage_number": 50,
-        "allocation_relationship": "legacy-source-retained",
-        "allocation_source_id": "L2"
+        "family_coverage_number": null,
+        "allocation_relationship": "lesson-source-correction",
+        "allocation_source_id": "S4",
+        "alignment_basis": "Local lesson alignment against verified official content; see S4 for the family allocation boundary."
       },
       "source_ids": [
         "S1",
@@ -1660,7 +1672,8 @@
         "A1",
         "L1",
         "L2",
-        "L3"
+        "L3",
+        "S4"
       ],
       "site_alignment": "mapped",
       "site_destinations": [
@@ -2415,13 +2428,13 @@
       "path": "resources/teacher/Breadboard-25-Period-Teaching-Program-v2.1-Network-Benchmark.docx",
       "purpose": "editable-program",
       "version": "v2.1",
-      "sha256": "B41C575C96339EBC7819511742B6738BA6FC084D8AEB79C21C4D700B5C909836"
+      "sha256": "DD8AF9A468EE8CF2E3826D4FE753E24FBE6095D453EEE94E6352F46C10F3164E"
     },
     {
       "path": "resources/teacher/Breadboard-25-Period-Teaching-Program-v2.1-Network-Benchmark.pdf",
       "purpose": "rendered-program",
       "version": "v2.1",
-      "sha256": "EA1592815CF469F64A0601E63D4F7258100548106674714EE20D0F694F139D7B"
+      "sha256": "168BC291A9828C5241AD16C4C519B1D8B25A1D5E1C0A0367DA4EE1E99FB0DCC5"
     },
     {
       "path": "resources/teacher/Breadboard-25-Period-Alignment-Manifest-v2.1.json",
