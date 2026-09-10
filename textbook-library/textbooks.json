@@ -17,5 +17,24 @@
     "word": "books/desk-tidy/desk-tidy-student-workbook.docx",
     "teacherGuide": "books/desk-tidy/desk-tidy-teacher-guide.pdf",
     "course": "https://stevencowell.github.io/desk-tidy/"
+  },
+  {
+    "id": "footstool",
+    "title": "Footstool",
+    "subject": "Timber",
+    "stage": "Year 8 elective",
+    "type": "Student workbook",
+    "edition": "1.0",
+    "published": "2026-09-10",
+    "description": "Explore timber, tools and design through the Footstool project. Follow all ten course modules from workshop readiness and plan reading to personal design, making evidence and evaluation.",
+    "includes": "Illustrated readings, original project plans, knowledge checks, puzzles, drawing activities and project folio spaces.",
+    "pages": 50,
+    "sheets": 25,
+    "cover": "assets/footstool-cover.webp",
+    "preview": "assets/footstool-preview.webp",
+    "pdf": "books/footstool/footstool-student-workbook.pdf",
+    "word": "books/footstool/footstool-student-workbook.docx",
+    "teacherGuide": "books/footstool/footstool-teacher-guide.pdf",
+    "course": "https://stevencowell.github.io/Year-8-Intro-Timber-Technology/"
   }
 ]
