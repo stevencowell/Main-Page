@@ -1,0 +1,21 @@
+[
+  {
+    "id": "desk-tidy",
+    "title": "Desk Tidy",
+    "subject": "Timber",
+    "stage": "Stage 4",
+    "type": "Student workbook",
+    "edition": "2.0",
+    "published": "2026-09-10",
+    "description": "Design and make a useful timber organiser. Follow the project from the brief and early concepts through drawings, making, testing and evaluation.",
+    "includes": "Illustrated readings, design activities, knowledge checks, puzzles and a complete project folio.",
+    "pages": 50,
+    "sheets": 25,
+    "cover": "assets/desk-tidy-cover.webp",
+    "preview": "assets/desk-tidy-preview.webp",
+    "pdf": "books/desk-tidy/desk-tidy-student-workbook.pdf",
+    "word": "books/desk-tidy/desk-tidy-student-workbook.docx",
+    "teacherGuide": "books/desk-tidy/desk-tidy-teacher-guide.pdf",
+    "course": "https://stevencowell.github.io/desk-tidy/"
+  }
+]
