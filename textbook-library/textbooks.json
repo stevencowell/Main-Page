@@ -150,5 +150,24 @@
     "word": "books/mirror/mirror-student-workbook.docx",
     "teacherGuide": "books/mirror/mirror-teacher-guide.pdf",
     "course": "https://stevencowell.github.io/year-10-timber-mirror-project/"
+  },
+  {
+    "id": "folding-chair",
+    "title": "Folding Chair",
+    "subject": "Timber",
+    "stage": "Stage 5",
+    "type": "Student workbook",
+    "edition": "1.0",
+    "published": "2026-09-12",
+    "description": "Explore a moving timber product from the original drawing to the finished chair. Connect accurate marking, material choices, assembly and finishing with evidence of your decisions.",
+    "includes": "Ten illustrated course modules, worked examples, knowledge checks, all four original plan sheets, drawing tasks and project folio spaces.",
+    "pages": 50,
+    "sheets": 25,
+    "cover": "assets/folding-chair-cover.webp",
+    "preview": "assets/folding-chair-preview.webp",
+    "pdf": "books/folding-chair/folding-chair-student-workbook.pdf",
+    "word": "books/folding-chair/folding-chair-student-workbook.docx",
+    "teacherGuide": "books/folding-chair/folding-chair-teacher-guide.pdf",
+    "course": "https://stevencowell.github.io/folding-chair-guided-course/"
   }
 ]
