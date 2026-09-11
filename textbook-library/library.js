@@ -33,7 +33,7 @@ for (const link of document.querySelectorAll('[data-preview]')) {
     document.querySelector('#preview-title').textContent = `Inside ${link.dataset.title}`;
     const image = document.querySelector('#preview-image');
     image.src = link.href;
-    image.alt = `Selected cover, reading and diagram pages from the ${link.dataset.title} workbook`;
+    image.alt = `Selected pages from the ${link.dataset.title} workbook`;
     document.querySelector('#preview-pdf').href = link.dataset.pdf;
     dialog.showModal();
     document.body.classList.add('modal-open');
