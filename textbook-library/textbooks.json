@@ -188,5 +188,24 @@
     "word": "books/bedside-table/bedside-table-student-workbook.docx",
     "teacherGuide": "books/bedside-table/bedside-table-teacher-guide.pdf",
     "course": "https://stevencowell.github.io/bedside-table-guided-course/"
+  },
+  {
+    "id": "pen",
+    "title": "Timber Pen",
+    "subject": "Timber",
+    "stage": "Stage 5",
+    "type": "Student workbook",
+    "edition": "1.0",
+    "published": "2026-09-12",
+    "description": "Follow the Timber Pen course from selecting a blank to evaluating the finished pen. Explore tools and machinery, controlled turning, surface quality and careful assembly.",
+    "includes": "Ten course topics, 28 distinct images, worked examples, knowledge checks, the approved making guide and generous project folio spaces.",
+    "pages": 50,
+    "sheets": 25,
+    "cover": "assets/pen-cover.webp",
+    "preview": "assets/pen-preview.webp",
+    "pdf": "books/pen/pen-student-workbook.pdf",
+    "word": "books/pen/pen-student-workbook.docx",
+    "teacherGuide": "books/pen/pen-teacher-guide.pdf",
+    "course": "https://stevencowell.github.io/Yr-9-Pen/"
   }
 ]
