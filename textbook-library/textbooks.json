@@ -169,5 +169,24 @@
     "word": "books/folding-chair/folding-chair-student-workbook.docx",
     "teacherGuide": "books/folding-chair/folding-chair-teacher-guide.pdf",
     "course": "https://stevencowell.github.io/folding-chair-guided-course/"
+  },
+  {
+    "id": "bedside-table",
+    "title": "Bedside Table",
+    "subject": "Timber",
+    "stage": "Stage 5",
+    "type": "Student workbook",
+    "edition": "1.0",
+    "published": "2026-09-12",
+    "description": "Follow the Bedside Table course from the original drawing to a carefully made table. Study tools and machinery, test decisions and record authentic project evidence.",
+    "includes": "Ten course modules, 29 distinct images, worked examples, knowledge checks, the complete original plan and generous project folio spaces.",
+    "pages": 50,
+    "sheets": 25,
+    "cover": "assets/bedside-table-cover.webp",
+    "preview": "assets/bedside-table-preview.webp",
+    "pdf": "books/bedside-table/bedside-table-student-workbook.pdf",
+    "word": "books/bedside-table/bedside-table-student-workbook.docx",
+    "teacherGuide": "books/bedside-table/bedside-table-teacher-guide.pdf",
+    "course": "https://stevencowell.github.io/bedside-table-guided-course/"
   }
 ]
