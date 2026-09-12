@@ -226,5 +226,24 @@
     "word": "books/hose-reel-holder/hose-reel-holder-student-workbook.docx",
     "teacherGuide": "books/hose-reel-holder/hose-reel-holder-teacher-guide.pdf",
     "course": "https://stevencowell.github.io/Yr-8-Metal-Technology/"
+  },
+  {
+    "id": "swinging-sign",
+    "title": "Swinging Sign",
+    "subject": "Technology 7–8",
+    "stage": "Stage 4",
+    "type": "Student workbook",
+    "edition": "1.0",
+    "published": "2026-09-12",
+    "description": "Explore materials, design and safe workshop decisions through the Swinging Sign project. Develop ideas, communicate with sketches and Onshape, and evaluate the evidence from your own work.",
+    "includes": "Five illustrated course modules, worked examples, knowledge checks, practical planning and a complete project folio. Teacher-directed LED tea-light and pot-plant holder pathways are included. Use teacher-approved plans for construction details.",
+    "pages": 50,
+    "sheets": 25,
+    "cover": "assets/swinging-sign-cover.webp",
+    "preview": "assets/swinging-sign-preview.webp",
+    "pdf": "books/swinging-sign/swinging-sign-student-workbook.pdf",
+    "word": "books/swinging-sign/swinging-sign-student-workbook.docx",
+    "teacherGuide": "books/swinging-sign/swinging-sign-teacher-guide.pdf",
+    "course": "https://stevencowell.github.io/Swinging-Sign/"
   }
 ]
