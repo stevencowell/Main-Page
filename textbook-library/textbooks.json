@@ -245,5 +245,24 @@
     "word": "books/swinging-sign/swinging-sign-student-workbook.docx",
     "teacherGuide": "books/swinging-sign/swinging-sign-teacher-guide.pdf",
     "course": "https://stevencowell.github.io/Swinging-Sign/"
+  },
+  {
+    "id": "bucket-hat",
+    "title": "Bucket Hat for a Cause",
+    "subject": "Textiles",
+    "stage": "Stage 4",
+    "type": "Student workbook",
+    "edition": "1.0",
+    "published": "2026-09-12",
+    "description": "Design a reversible bucket hat that communicates a respectful cause. Explore textiles, develop original ideas, trial decorative techniques and record the making and evaluation of your own hat.",
+    "includes": "Ten course modules, 19 captioned figures, 105 tasks and a complete project folio. Printable PDF, editable Word workbook and a 19-page teacher guide with answers. Use the teacher-issued pattern for construction.",
+    "pages": 50,
+    "sheets": 25,
+    "cover": "assets/bucket-hat-cover.webp",
+    "preview": "assets/bucket-hat-preview.webp",
+    "pdf": "books/bucket-hat/bucket-hat-student-workbook.pdf",
+    "word": "books/bucket-hat/bucket-hat-student-workbook.docx",
+    "teacherGuide": "books/bucket-hat/bucket-hat-teacher-guide.pdf",
+    "course": "https://stevencowell.github.io/Year-7-8-Bucket-Hat/"
   }
 ]
