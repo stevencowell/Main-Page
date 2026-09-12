@@ -9,6 +9,6 @@
 @media(max-width:700px){.shell{width:calc(100% - 32px)}.header-inner{flex-wrap:wrap;gap:0;padding:14px 0}.brand{min-height:44px}.header-inner nav{gap:4px;width:100%;justify-content:space-between}.header-inner nav a{font-size:.78rem;padding:10px 3px}.intro{padding-top:34px}.lead{font-size:1.15rem}.intro-copy{font-size:.98rem}.intro-meta{flex-direction:column;gap:4px}.section-heading{display:block}.section-heading h2{font-size:1.8rem}.section-heading a{display:inline-block}.classroom-grid{grid-template-columns:1fr;gap:32px}.card-banner{aspect-ratio:2.9}.banner-copy h3{font-size:1.6rem}.learning-note{padding:28px 6px 0}.learning-note ol{grid-template-columns:1fr}.learning-note h2 br{display:none}.learning-note h2{font-size:2rem}.joining{grid-template-columns:1fr;gap:20px;padding:36px 0 44px}.joining h2{font-size:2.1rem}.joining h2 br{display:none}.joining>div>p:not(.eyebrow){max-width:none}.footer-inner{align-items:start;flex-direction:column;gap:5px}}
 .card-facts li:last-child{flex-basis:100%}
 .card-banner{min-height:150px}
-.footstool-banner img,.breadboard-banner img,.clock-banner img{object-position:right center}
+.footstool-banner img,.breadboard-banner img,.clock-banner img,.desk-tidy-banner img{object-position:right center}
 @media(max-width:900px){.companion-links{flex-direction:column;gap:0}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{transition:none!important}}
