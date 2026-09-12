@@ -49,7 +49,7 @@
       background: linear-gradient(180deg, rgba(7, 30, 23, .64), transparent);
     }
     .nav-inner {
-      min-height: 76px; display: flex; align-items: center; justify-content: space-between; gap: 24px;
+      min-height: 76px; display: flex; align-items: center; justify-content: space-between; gap: 24px; padding-block: 8px;
     }
     .brand {
       display: inline-flex; flex: 0 0 auto; align-items: center; gap: 11px; white-space: nowrap;
@@ -61,8 +61,8 @@
       background: rgba(255, 255, 255, .12); font-size: 18px;
     }
     .nav-links {
-      display: flex; flex: 1 1 auto; min-width: 0; align-items: center;
-      justify-content: space-between; gap: 0;
+      display: flex; flex: 1 1 auto; min-width: 0; align-items: center; flex-wrap: wrap;
+      justify-content: flex-end; gap: 2px 4px;
     }
     .nav-links a {
       flex: 0 0 auto; color: white; text-decoration: none; font-size: .91rem; font-weight: 700;
@@ -284,6 +284,7 @@
       <div class="nav-links">
         <a href="subject-program-library/">Programs</a>
         <a href="textbook-library/">Textbooks</a>
+        <a href="classroom-library/">Classrooms</a>
         <a href="#projects">Timber</a>
         <a href="#metalwork">Metalwork</a>
         <a href="#engineering">Engineering</a>
@@ -305,6 +306,7 @@
         <div class="hero-actions">
           <a class="button button-primary" href="#projects">Explore TAS course sites <span aria-hidden="true">↓</span></a>
           <a class="button button-ghost" href="textbook-library/">Open Textbook Library <span aria-hidden="true">&rarr;</span></a>
+          <a class="button button-ghost" href="classroom-library/">Open Classroom Library <span aria-hidden="true">&rarr;</span></a>
           <a class="button button-ghost" href="#resources">Open VET courses and resources</a>
         </div>
       </div>
@@ -422,6 +424,7 @@
           <article class="project-card">
             <div class="card-image"><img src="assets/mirror-workshop-landscape.webp" alt="Complete oak-framed mirror standing on a school workshop bench" loading="lazy"></div>
             <div class="card-body"><span class="tag">Stage 5 · Industrial Technology – Timber</span><h3>Mirror</h3><p>Develop precision, planning and evidence through the Mirror course.</p><div class="card-actions"><a class="card-link" href="https://stevencowell.github.io/year-10-timber-mirror-project/" target="_blank" rel="noopener"><span>Open guided course</span><span aria-hidden="true">↗</span></a>
+          <a class="program-card-link" href="classroom-library/#mirror" aria-label="Mirror Google Classroom and joining instructions"><span>Google Classroom</span><span aria-hidden="true">&rarr;</span></a>
           <a class="program-card-link" href="textbook-library/#mirror" aria-label="Mirror textbook and workbook"><span>Textbook / workbook</span><span aria-hidden="true">&rarr;</span></a><a class="program-card-link" href="subject-program-library/programs/Mirror-50-Period-Teaching-Program-v2.1-Network-Benchmark.pdf"><span>Course project programs</span><span aria-hidden="true">&rarr;</span></a><a class="syllabus-card-link" href="https://curriculum.nsw.edu.au/learning-areas/tas/industrial-technology-7-10-2025/overview/course" target="_blank" rel="noopener"><span>Official syllabus</span><span aria-hidden="true">↗</span></a></div></div>
           </article>
 
