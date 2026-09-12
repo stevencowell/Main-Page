@@ -12,3 +12,4 @@
 .footstool-banner img,.breadboard-banner img,.clock-banner img,.desk-tidy-banner img{object-position:right center}
 @media(max-width:900px){.companion-links{flex-direction:column;gap:0}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{transition:none!important}}
+@media(max-width:700px){.bedside-table-banner:after{background:linear-gradient(90deg,#142530b3 0%,#14253070 52%,transparent 85%)}}
