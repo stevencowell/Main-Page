@@ -207,5 +207,24 @@
     "word": "books/pen/pen-student-workbook.docx",
     "teacherGuide": "books/pen/pen-teacher-guide.pdf",
     "course": "https://stevencowell.github.io/Yr-9-Pen/"
+  },
+  {
+    "id": "hose-reel-holder",
+    "title": "Hose Reel Holder",
+    "subject": "Metal",
+    "stage": "Year 8 elective",
+    "type": "Student workbook",
+    "edition": "1.0",
+    "published": "2026-09-12",
+    "description": "Explore metal, design and safe workshop decisions through the Hose Reel Holder project. Connect plan reading, accurate making, surface protection and evaluation with evidence of your own work.",
+    "includes": "Five illustrated course modules, worked examples, knowledge checks, drawing activities and a complete project folio. Use the teacher-issued plan for construction details.",
+    "pages": 50,
+    "sheets": 25,
+    "cover": "assets/hose-reel-holder-cover.webp",
+    "preview": "assets/hose-reel-holder-preview.webp",
+    "pdf": "books/hose-reel-holder/hose-reel-holder-student-workbook.pdf",
+    "word": "books/hose-reel-holder/hose-reel-holder-student-workbook.docx",
+    "teacherGuide": "books/hose-reel-holder/hose-reel-holder-teacher-guide.pdf",
+    "course": "https://stevencowell.github.io/Yr-8-Metal-Technology/"
   }
 ]
