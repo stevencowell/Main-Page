@@ -13,3 +13,4 @@
 @media(max-width:900px){.companion-links{flex-direction:column;gap:0}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{transition:none!important}}
 @media(max-width:700px){.bedside-table-banner:after{background:linear-gradient(90deg,#142530b3 0%,#14253070 52%,transparent 85%)}}
+.bbq-carry-all-banner:after{background:linear-gradient(90deg,#142530b3 0%,#14253090 52%,transparent 85%)}
