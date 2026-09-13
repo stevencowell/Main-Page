@@ -14,3 +14,10 @@
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{transition:none!important}}
 @media(max-width:700px){.bedside-table-banner:after{background:linear-gradient(90deg,#142530b3 0%,#14253070 52%,transparent 85%)}}
 .bbq-carry-all-banner:after{background:linear-gradient(90deg,#142530b3 0%,#14253090 52%,transparent 85%)}
+@media(max-width:700px){
+  #programmable-light .card-banner{height:220px;min-height:220px;aspect-ratio:auto;background:#082b36}
+  #programmable-light .card-banner img{object-fit:contain;object-position:right bottom}
+  #programmable-light .banner-copy{top:18px;left:20px;width:62%;max-width:calc(100% - 40px)}
+  #programmable-light .banner-copy>span{display:block;font-size:.62rem;line-height:1.4;letter-spacing:.06em}
+  #programmable-light .banner-copy h3{font-size:clamp(1.15rem,5.75vw,1.4rem);line-height:1.15;margin-top:8px}
+}
