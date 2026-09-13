@@ -7,7 +7,7 @@
   <meta name="theme-color" content="#153c40">
   <title>Google Classroom Library | TAS Learning Hub</title>
   <link rel="icon" href="data:,">
-  <link rel="stylesheet" href="library.css?v=programmable-light-20260913">
+  <link rel="stylesheet" href="library.css?v=subject-sections-20260914">
   <script src="library.js?v=breadboard-20260912" defer></script>
 </head>
 <body>
@@ -27,12 +27,24 @@
       <div class="intro-meta"><span>11 classrooms available</span><span>More classrooms will appear as they are completed.</span></div>
     </section>
     <section class="collection shell" id="classrooms" aria-labelledby="collection-title">
-      <div class="section-heading"><h2 id="collection-title">Choose your classroom</h2><a href="#joining">Joining for the first time? <span aria-hidden="true">↓</span></a></div>
-      <div class="classroom-grid">
+      <div class="section-heading"><h2 id="collection-title">Classrooms by subject</h2><a href="#joining">Joining for the first time? <span aria-hidden="true">↓</span></a></div>
+      <p class="collection-intro">Browse by subject, then open your project’s classroom.</p>
+      <nav class="subject-nav" aria-label="Jump to a classroom subject">
+        <a href="#subject-timber">Timber <span aria-label="10 classrooms">10</span></a>
+        <a href="#subject-technology">Technology 7–8 <span aria-label="1 classroom">1</span></a>
+        <a href="#subject-textiles">Textiles <span aria-label="1 classroom">1</span></a>
+      </nav>
+      <div class="subject-groups">
+        <section class="classroom-subject classroom-subject--timber" id="subject-timber" aria-labelledby="subject-timber-title">
+          <header class="subject-heading">
+            <div><h3 id="subject-timber-title">Timber</h3><p>Timber projects and workshop skills.</p></div>
+            <span class="subject-count">10 classrooms</span>
+          </header>
+          <div class="classroom-grid">
         <article class="classroom-card" id="mirror" aria-labelledby="mirror-title">
           <a class="card-banner" href="https://classroom.google.com/c/ODg0NjY4MzY5NDg1" target="_blank" rel="noopener" aria-label="Open Mirror Classroom (new tab)">
             <img src="assets/mirror-classroom-banner-v2.png" width="2172" height="724" style="object-position:right 25%" alt="Close view of a handcrafted timber mirror against a textured plum and teal wall">
-            <div class="banner-copy"><span>Yr 10 Timber Technology</span><h3 id="mirror-title">Mirror<br>Classroom</h3></div>
+            <div class="banner-copy"><span>Yr 10 Timber Technology</span><h4 id="mirror-title">Mirror<br>Classroom</h4></div>
             <span class="open-mark" aria-hidden="true">↗</span>
           </a>
           <div class="card-copy">
@@ -50,7 +62,7 @@
         <article class="classroom-card" id="footstool" aria-labelledby="footstool-title">
           <a class="card-banner footstool-banner" href="https://classroom.google.com/c/ODg0Njg5NDM5MTgx" target="_blank" rel="noopener" aria-label="Open Footstool Classroom (new tab)">
             <img src="assets/footstool-classroom-banner.png" width="1983" height="793" alt="Pine footstool on a warm timber workbench with deep teal space beside it">
-            <div class="banner-copy"><span>Yr 8 Timber Technology</span><h3 id="footstool-title">Footstool<br>Classroom</h3></div>
+            <div class="banner-copy"><span>Yr 8 Timber Technology</span><h4 id="footstool-title">Footstool<br>Classroom</h4></div>
             <span class="open-mark" aria-hidden="true">↗</span>
           </a>
           <div class="card-copy">
@@ -68,7 +80,7 @@
         <article class="classroom-card" id="breadboard" aria-labelledby="breadboard-title">
           <a class="card-banner breadboard-banner" href="https://classroom.google.com/c/ODg0NzA2OTk5MzYy" target="_blank" rel="noopener" aria-label="Open Bread Board Classroom (new tab)">
             <img src="assets/bread-board-classroom-banner.png" width="1983" height="793" alt="Timber bread board with curved end pieces on a warm workshop bench beside a deep teal background" loading="lazy">
-            <div class="banner-copy"><span>Yr 9 Timber Technology</span><h3 id="breadboard-title">Bread Board<br>Classroom</h3></div>
+            <div class="banner-copy"><span>Yr 9 Timber Technology</span><h4 id="breadboard-title">Bread Board<br>Classroom</h4></div>
             <span class="open-mark" aria-hidden="true">↗</span>
           </a>
           <div class="card-copy">
@@ -86,7 +98,7 @@
         <article class="classroom-card" id="clock" aria-labelledby="clock-title">
           <a class="card-banner clock-banner" href="https://classroom.google.com/c/ODg0NzEzODcwMDc2" target="_blank" rel="noopener" aria-label="Open Clock Classroom (new tab)">
             <img src="assets/clock-classroom-banner.png" width="1983" height="793" alt="Freestanding timber clock with a hidden drawer on a warm workshop bench beside a deep teal background" loading="lazy">
-            <div class="banner-copy"><span>Yr 9 Timber Technology</span><h3 id="clock-title">Clock<br>Classroom</h3></div>
+            <div class="banner-copy"><span>Yr 9 Timber Technology</span><h4 id="clock-title">Clock<br>Classroom</h4></div>
             <span class="open-mark" aria-hidden="true">↗</span>
           </a>
           <div class="card-copy">
@@ -101,29 +113,10 @@
           </div>
           <div class="class-code"><div><span>New to this class? Ask your teacher for an invitation.</span></div></div>
         </article>
-        <article class="classroom-card" id="bucket-hat" aria-labelledby="bucket-hat-title">
-          <a class="card-banner bucket-hat-banner" href="https://classroom.google.com/c/ODcyOTQ4NDA0MDk4" target="_blank" rel="noopener" aria-label="Open Bucket Hat Classroom (new tab)">
-            <img src="assets/bucket-hat-classroom-banner.png" width="2172" height="724" alt="Purple tie-dye reversible bucket hat on a plum textiles worktable" loading="lazy">
-            <div class="banner-copy"><span>Yr 7–8 Technology · Textiles</span><h3 id="bucket-hat-title">Bucket Hat<br>Classroom</h3></div>
-            <span class="open-mark" aria-hidden="true">↗</span>
-          </a>
-          <div class="card-copy">
-            <p class="eyebrow">Make a hat. Communicate a cause.</p>
-            <p>Ten learning modules guide you from a considered cause to a reversible bucket hat. Explore the illustrated readings, original presentations and selected videos, then record your thinking and practical evidence in your own editable portfolios.</p>
-            <ul class="card-facts" aria-label="Classroom resources"><li>12 organised topics</li><li>11 assignments</li><li>Personal response portfolios</li></ul>
-            <a class="button primary" href="https://classroom.google.com/c/ODcyOTQ4NDA0MDk4" target="_blank" rel="noopener">Open Bucket Hat Classroom <span aria-hidden="true">↗</span><span class="sr-only"> (new tab)</span></a>
-            <div class="companion-links">
-              <a href="https://stevencowell.github.io/Year-7-8-Bucket-Hat/" target="_blank" rel="noopener">Course website <span aria-hidden="true">↗</span></a>
-              <a href="../textbook-library/#bucket-hat">Illustrated workbook <span aria-hidden="true">→</span></a>
-            </div>
-          </div>
-          <div class="class-code"><div><span>New to this class? Ask your teacher for an invitation.</span></div></div>
-        </article>
-
         <article class="classroom-card" id="desk-tidy" aria-labelledby="desk-tidy-title">
           <a class="card-banner desk-tidy-banner" href="https://classroom.google.com/c/ODg0NzIyNzk1MTcz" target="_blank" rel="noopener" aria-label="Open Desk Tidy Classroom (new tab)">
             <img src="assets/desk-tidy-classroom-banner.png" width="1983" height="793" alt="Honey-coloured timber desk organiser with curved panels, pencils and a ruler on a workshop bench against a deep teal background" loading="lazy">
-            <div class="banner-copy"><span>Yr 7–8 Technology · Timber</span><h3 id="desk-tidy-title">Desk Tidy<br>Classroom</h3></div>
+            <div class="banner-copy"><span>Yr 7–8 Technology · Timber</span><h4 id="desk-tidy-title">Desk Tidy<br>Classroom</h4></div>
             <span class="open-mark" aria-hidden="true">↗</span>
           </a>
           <div class="card-copy">
@@ -135,11 +128,10 @@
           </div>
           <div class="class-code"><div><span>New to this class? Ask your teacher for an invitation.</span></div></div>
         </article>
-
         <article class="classroom-card" id="folding-chair" aria-labelledby="folding-chair-title">
           <a class="card-banner folding-chair-banner" href="https://classroom.google.com/c/ODg0NzIxOTk5NjA5" target="_blank" rel="noopener" aria-label="Open Folding Chair Classroom (new tab)">
             <img src="assets/folding-chair-classroom-banner.png" width="2172" height="724" alt="Warm timber folding chair against a deep teal studio backdrop" loading="lazy">
-            <div class="banner-copy"><span>Yr 10 Industrial Technology · Timber</span><h3 id="folding-chair-title">Folding Chair<br>Classroom</h3></div>
+            <div class="banner-copy"><span>Yr 10 Industrial Technology · Timber</span><h4 id="folding-chair-title">Folding Chair<br>Classroom</h4></div>
             <span class="open-mark" aria-hidden="true">↗</span>
           </a>
           <div class="card-copy">
@@ -154,11 +146,10 @@
           </div>
           <div class="class-code"><div><span>New to this class? Ask your teacher for an invitation.</span></div></div>
         </article>
-
         <article class="classroom-card" id="bedside-table" aria-labelledby="bedside-table-title">
           <a class="card-banner bedside-table-banner" href="https://classroom.google.com/c/ODcyOTUyNzA4NDYx" target="_blank" rel="noopener" aria-label="Open Bedside Table Classroom (new tab)">
             <img src="assets/bedside-table-classroom-banner.png" width="2170" height="725" style="object-position:right center" alt="Timber bedside table with tapered legs and straight aprons on a warm workshop bench beside a deep teal background" loading="lazy">
-            <div class="banner-copy"><span>Yr 10 Timber Technology</span><h3 id="bedside-table-title">Bedside Table<br>Classroom</h3></div>
+            <div class="banner-copy"><span>Yr 10 Timber Technology</span><h4 id="bedside-table-title">Bedside Table<br>Classroom</h4></div>
             <span class="open-mark" aria-hidden="true">↗</span>
           </a>
           <div class="card-copy">
@@ -173,11 +164,10 @@
           </div>
           <div class="class-code"><div><span>New to this class? Ask your teacher for an invitation.</span></div></div>
         </article>
-
         <article class="classroom-card" id="pen" aria-labelledby="pen-title">
           <a class="card-banner pen-banner" href="https://classroom.google.com/c/ODcyOTUyNjk4MTU0" target="_blank" rel="noopener" aria-label="Open Timber Pen Classroom (new tab)">
             <img src="assets/pen-classroom-banner.png" width="2172" height="724" alt="A turned timber ballpoint pen with warm metal fittings on a timber surface against deep teal" loading="lazy">
-            <div class="banner-copy"><span>Stage 5 Industrial Technology · Timber</span><h3 id="pen-title">Timber Pen<br>Classroom</h3></div>
+            <div class="banner-copy"><span>Stage 5 Industrial Technology · Timber</span><h4 id="pen-title">Timber Pen<br>Classroom</h4></div>
             <span class="open-mark" aria-hidden="true">↗</span>
           </a>
           <div class="card-copy">
@@ -192,7 +182,7 @@
         <article class="classroom-card" id="small-box" aria-labelledby="small-box-title">
           <a class="card-banner small-box-banner" href="https://classroom.google.com/c/ODcyOTUyNjM3NzU0" target="_blank" rel="noopener" aria-label="Open Small Box Classroom (new tab)">
             <img src="assets/small-box-classroom-banner.png" width="2170" height="725" alt="An open handcrafted timber box on a warm workshop bench against deep teal" loading="lazy">
-            <div class="banner-copy"><span>Stage 5 Industrial Technology · Timber</span><h3 id="small-box-title">Small Box<br>Classroom</h3></div>
+            <div class="banner-copy"><span>Stage 5 Industrial Technology · Timber</span><h4 id="small-box-title">Small Box<br>Classroom</h4></div>
             <span class="open-mark" aria-hidden="true">↗</span>
           </a>
           <div class="card-copy">
@@ -204,11 +194,10 @@
           </div>
           <div class="class-code"><div><span>New to this class? Ask your teacher for an invitation.</span></div></div>
         </article>
-
         <article class="classroom-card" id="bbq-carry-all" aria-labelledby="bbq-carry-all-title">
           <a class="card-banner bbq-carry-all-banner" href="https://classroom.google.com/c/ODcyOTUyNjMwMjky" target="_blank" rel="noopener" aria-label="Open BBQ Carry-All Classroom (new tab)">
             <img src="assets/bbq-carry-all-classroom-banner.png" width="2172" height="724" style="object-position:right center" alt="Timber Carry-All with a central handle and divided compartments on a warm workshop bench beside a deep teal background" loading="lazy">
-            <div class="banner-copy"><span>Yr 9 Timber Technology</span><h3 id="bbq-carry-all-title">BBQ Carry-All<br>Classroom</h3></div>
+            <div class="banner-copy"><span>Yr 9 Timber Technology</span><h4 id="bbq-carry-all-title">BBQ Carry-All<br>Classroom</h4></div>
             <span class="open-mark" aria-hidden="true">↗</span>
           </a>
           <div class="card-copy">
@@ -223,11 +212,19 @@
           </div>
           <div class="class-code"><div><span>New to this class? Ask your teacher for an invitation.</span></div></div>
         </article>
-
+          </div>
+          <a class="back-to-subjects" href="#classrooms">Back to subjects <span aria-hidden="true">↑</span></a>
+        </section>
+        <section class="classroom-subject classroom-subject--technology" id="subject-technology" aria-labelledby="subject-technology-title">
+          <header class="subject-heading">
+            <div><h3 id="subject-technology-title">Technology 7–8</h3><p>Materials, design and digital systems.</p></div>
+            <span class="subject-count">1 classroom · drafts ready for teacher publication</span>
+          </header>
+          <div class="classroom-grid">
         <article class="classroom-card" id="programmable-light" aria-labelledby="programmable-light-title" aria-describedby="programmable-light-status">
           <a class="card-banner" href="https://classroom.google.com/u/0/c/ODg0NzYwNjI3ODM0" target="_blank" rel="noopener" aria-label="Open Programmable Light Classroom (new tab)">
             <img src="assets/programmable-light-classroom-banner.png" width="2161" height="728" alt="Glowing acrylic programmable light on a timber base against a deep teal workshop backdrop" loading="lazy">
-            <div class="banner-copy"><span>Yr 7–8 Technology · Materials and digital systems</span><h3 id="programmable-light-title">Programmable Light<br>Classroom</h3></div>
+            <div class="banner-copy"><span>Yr 7–8 Technology · Materials and digital systems</span><h4 id="programmable-light-title">Programmable Light<br>Classroom</h4></div>
             <span class="open-mark" aria-hidden="true">↗</span>
           </a>
           <div class="card-copy">
@@ -239,7 +236,37 @@
           </div>
           <div class="class-code"><div><span>New to this class? Ask your teacher for an invitation.</span></div></div>
         </article>
-
+          </div>
+          <a class="back-to-subjects" href="#classrooms">Back to subjects <span aria-hidden="true">↑</span></a>
+        </section>
+        <section class="classroom-subject classroom-subject--textiles" id="subject-textiles" aria-labelledby="subject-textiles-title">
+          <header class="subject-heading">
+            <div><h3 id="subject-textiles-title">Textiles</h3><p>Fabric, construction and creative design.</p></div>
+            <span class="subject-count">1 classroom</span>
+          </header>
+          <div class="classroom-grid">
+        <article class="classroom-card" id="bucket-hat" aria-labelledby="bucket-hat-title">
+          <a class="card-banner bucket-hat-banner" href="https://classroom.google.com/c/ODcyOTQ4NDA0MDk4" target="_blank" rel="noopener" aria-label="Open Bucket Hat Classroom (new tab)">
+            <img src="assets/bucket-hat-classroom-banner.png" width="2172" height="724" alt="Purple tie-dye reversible bucket hat on a plum textiles worktable" loading="lazy">
+            <div class="banner-copy"><span>Yr 7–8 Technology · Textiles</span><h4 id="bucket-hat-title">Bucket Hat<br>Classroom</h4></div>
+            <span class="open-mark" aria-hidden="true">↗</span>
+          </a>
+          <div class="card-copy">
+            <p class="eyebrow">Make a hat. Communicate a cause.</p>
+            <p>Ten learning modules guide you from a considered cause to a reversible bucket hat. Explore the illustrated readings, original presentations and selected videos, then record your thinking and practical evidence in your own editable portfolios.</p>
+            <ul class="card-facts" aria-label="Classroom resources"><li>12 organised topics</li><li>11 assignments</li><li>Personal response portfolios</li></ul>
+            <a class="button primary" href="https://classroom.google.com/c/ODcyOTQ4NDA0MDk4" target="_blank" rel="noopener">Open Bucket Hat Classroom <span aria-hidden="true">↗</span><span class="sr-only"> (new tab)</span></a>
+            <div class="companion-links">
+              <a href="https://stevencowell.github.io/Year-7-8-Bucket-Hat/" target="_blank" rel="noopener">Course website <span aria-hidden="true">↗</span></a>
+              <a href="../textbook-library/#bucket-hat">Illustrated workbook <span aria-hidden="true">→</span></a>
+            </div>
+          </div>
+          <div class="class-code"><div><span>New to this class? Ask your teacher for an invitation.</span></div></div>
+        </article>
+          </div>
+          <a class="back-to-subjects" href="#classrooms">Back to subjects <span aria-hidden="true">↑</span></a>
+        </section>
+      </div>
         <aside class="learning-note" aria-labelledby="learning-title">
           <p class="eyebrow">One connected learning package</p>
           <h2 id="learning-title">Everything has its place.</h2>
@@ -250,7 +277,6 @@
           </ol>
           <a class="text-link" href="../textbook-library/">Browse all published workbooks <span aria-hidden="true">→</span></a>
         </aside>
-      </div>
     </section>
     <section class="joining shell" id="joining" aria-labelledby="joining-title">
       <div><p class="eyebrow">Start here</p><h2 id="joining-title">Join your<br> Classroom.</h2><p>Use the school Google account your teacher has asked you to use.</p></div>
