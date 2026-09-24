@@ -1,0 +1,1242 @@
+{
+  "schema_version": "1.0",
+  "program_id": "year-10-food-technology-2026-program",
+  "source_map_id": "year-10-food-technology-2026-source-map-v2",
+  "integration_baseline_id": "food-technology-2026-local-integrated-v1",
+  "integration_baseline_sha256": "c4e5ce868e2e12e2e0b59d6a7546a6625aed6fece36dac1ef8794b209307fb6d",
+  "candidate_digest_before_program": "fffa7254e347eb75a45f2251446d44acddab74ebb81916cd281e108069ef4c1e",
+  "site_root": "work/candidate-pre-program-sidebar-v8",
+  "video_candidate_manifest_sha256": "bfb5567baf221df6c5858161d7044225ec247cc51c6b63fae8db800d910e916c",
+  "accepted_workbook_sha256": "b6c999768d43c75b88c41d0658cad78c4a81313bbc73648c26e67498b8bc350e",
+  "destinations": [
+    {
+      "site_id": "module-01-deck",
+      "route": "modules/module-01.html#module-01-presentation",
+      "audience": "student",
+      "purpose": "Matching student PowerPoint",
+      "module_id": "module-01",
+      "anchor": "module-01-presentation"
+    },
+    {
+      "site_id": "module-01-review",
+      "route": "modules/module-01.html#module-01-review",
+      "audience": "student",
+      "purpose": "Three-link module review checklist",
+      "module_id": "module-01",
+      "anchor": "module-01-review"
+    },
+    {
+      "site_id": "module-01-activity",
+      "route": "activities.html#module-01-activity",
+      "audience": "student",
+      "purpose": "Applied scenario choice and justification",
+      "module_id": "module-01",
+      "anchor": "module-01-activity"
+    },
+    {
+      "site_id": "module-01-puzzle",
+      "route": "busy-work.html#puzzle-01",
+      "audience": "student",
+      "purpose": "Three-item source-grounded puzzle bank",
+      "module_id": "module-01",
+      "anchor": "puzzle-01"
+    },
+    {
+      "site_id": "module-01-folio",
+      "route": "folio.html#module-01-folio",
+      "audience": "student",
+      "purpose": "Selected formative folio evidence card",
+      "module_id": "module-01",
+      "anchor": "module-01-folio"
+    },
+    {
+      "site_id": "module-01-workbook",
+      "route": "assets/workbook/Year-10-Food-Technology-Student-Workbook-50-pages.pdf",
+      "audience": "student",
+      "purpose": "Shared 50-page student workbook companion",
+      "module_id": "module-01"
+    },
+    {
+      "site_id": "m01-section-1-theory",
+      "route": "modules/module-01.html#m01-section-1-theory",
+      "audience": "student",
+      "purpose": "Named theory section",
+      "module_id": "module-01",
+      "section_id": "m01-section-1",
+      "anchor": "m01-section-1-theory"
+    },
+    {
+      "site_id": "m01-section-1-check",
+      "route": "modules/module-01.html#m01-section-1-package",
+      "audience": "student",
+      "purpose": "Closed 10-MCQ learning check",
+      "module_id": "module-01",
+      "section_id": "m01-section-1",
+      "anchor": "m01-section-1-package"
+    },
+    {
+      "site_id": "m01-section-1-response",
+      "route": "modules/module-01.html#m01-section-1-response",
+      "audience": "student",
+      "purpose": "Scaffolded long response saved on device",
+      "module_id": "module-01",
+      "section_id": "m01-section-1",
+      "anchor": "m01-section-1-response"
+    },
+    {
+      "site_id": "m01-section-1-practice",
+      "route": "modules/module-01.html#m01-section-1-practice-choice",
+      "audience": "student",
+      "purpose": "Inline feedback-bearing practice choice",
+      "module_id": "module-01",
+      "section_id": "m01-section-1",
+      "anchor": "m01-section-1-practice-choice"
+    },
+    {
+      "site_id": "m01-section-1-media",
+      "route": "modules/module-01.html#m01-section-1-media",
+      "audience": "student",
+      "purpose": "Non-video learning pathway",
+      "module_id": "module-01",
+      "section_id": "m01-section-1",
+      "anchor": "m01-section-1-media"
+    },
+    {
+      "site_id": "m01-section-1-visual",
+      "route": "modules/module-01.html#m01-section-1-visual",
+      "audience": "student",
+      "purpose": "Purposeful explanatory visual",
+      "module_id": "module-01",
+      "section_id": "m01-section-1",
+      "anchor": "m01-section-1-visual"
+    },
+    {
+      "site_id": "m01-section-1-video-library",
+      "route": "videos.html#m01-section-1",
+      "audience": "student",
+      "purpose": "Section video rework record; use the equivalent non-video pathway",
+      "module_id": "module-01",
+      "section_id": "m01-section-1",
+      "anchor": "m01-section-1",
+      "source_status": "REWORK"
+    },
+    {
+      "site_id": "m01-section-2-theory",
+      "route": "modules/module-01.html#m01-section-2-theory",
+      "audience": "student",
+      "purpose": "Named theory section",
+      "module_id": "module-01",
+      "section_id": "m01-section-2",
+      "anchor": "m01-section-2-theory"
+    },
+    {
+      "site_id": "m01-section-2-check",
+      "route": "modules/module-01.html#m01-section-2-package",
+      "audience": "student",
+      "purpose": "Closed 10-MCQ learning check",
+      "module_id": "module-01",
+      "section_id": "m01-section-2",
+      "anchor": "m01-section-2-package"
+    },
+    {
+      "site_id": "m01-section-2-response",
+      "route": "modules/module-01.html#m01-section-2-response",
+      "audience": "student",
+      "purpose": "Scaffolded long response saved on device",
+      "module_id": "module-01",
+      "section_id": "m01-section-2",
+      "anchor": "m01-section-2-response"
+    },
+    {
+      "site_id": "m01-section-2-practice",
+      "route": "modules/module-01.html#m01-section-2-practice-choice",
+      "audience": "student",
+      "purpose": "Inline feedback-bearing practice choice",
+      "module_id": "module-01",
+      "section_id": "m01-section-2",
+      "anchor": "m01-section-2-practice-choice"
+    },
+    {
+      "site_id": "m01-section-2-media",
+      "route": "modules/module-01.html#m01-section-2-media",
+      "audience": "student",
+      "purpose": "Non-video learning pathway",
+      "module_id": "module-01",
+      "section_id": "m01-section-2",
+      "anchor": "m01-section-2-media"
+    },
+    {
+      "site_id": "m01-section-2-visual",
+      "route": "modules/module-01.html#m01-section-2-visual",
+      "audience": "student",
+      "purpose": "Purposeful explanatory visual",
+      "module_id": "module-01",
+      "section_id": "m01-section-2",
+      "anchor": "m01-section-2-visual"
+    },
+    {
+      "site_id": "m01-section-2-video-library",
+      "route": "videos.html#m01-section-2",
+      "audience": "student",
+      "purpose": "Section video rework record; use the equivalent non-video pathway",
+      "module_id": "module-01",
+      "section_id": "m01-section-2",
+      "anchor": "m01-section-2",
+      "source_status": "REWORK"
+    },
+    {
+      "site_id": "m01-section-3-theory",
+      "route": "modules/module-01.html#m01-section-3-theory",
+      "audience": "student",
+      "purpose": "Named theory section",
+      "module_id": "module-01",
+      "section_id": "m01-section-3",
+      "anchor": "m01-section-3-theory"
+    },
+    {
+      "site_id": "m01-section-3-check",
+      "route": "modules/module-01.html#m01-section-3-package",
+      "audience": "student",
+      "purpose": "Closed 10-MCQ learning check",
+      "module_id": "module-01",
+      "section_id": "m01-section-3",
+      "anchor": "m01-section-3-package"
+    },
+    {
+      "site_id": "m01-section-3-response",
+      "route": "modules/module-01.html#m01-section-3-response",
+      "audience": "student",
+      "purpose": "Scaffolded long response saved on device",
+      "module_id": "module-01",
+      "section_id": "m01-section-3",
+      "anchor": "m01-section-3-response"
+    },
+    {
+      "site_id": "m01-section-3-practice",
+      "route": "modules/module-01.html#m01-section-3-practice-choice",
+      "audience": "student",
+      "purpose": "Inline feedback-bearing practice choice",
+      "module_id": "module-01",
+      "section_id": "m01-section-3",
+      "anchor": "m01-section-3-practice-choice"
+    },
+    {
+      "site_id": "m01-section-3-media",
+      "route": "modules/module-01.html#m01-section-3-media",
+      "audience": "student",
+      "purpose": "Non-video learning pathway",
+      "module_id": "module-01",
+      "section_id": "m01-section-3",
+      "anchor": "m01-section-3-media"
+    },
+    {
+      "site_id": "m01-section-3-visual",
+      "route": "modules/module-01.html#m01-section-3-visual",
+      "audience": "student",
+      "purpose": "Purposeful explanatory visual",
+      "module_id": "module-01",
+      "section_id": "m01-section-3",
+      "anchor": "m01-section-3-visual"
+    },
+    {
+      "site_id": "m01-section-3-video-library",
+      "route": "videos.html#m01-section-3",
+      "audience": "student",
+      "purpose": "Section video rework record; use the equivalent non-video pathway",
+      "module_id": "module-01",
+      "section_id": "m01-section-3",
+      "anchor": "m01-section-3",
+      "source_status": "REWORK"
+    },
+    {
+      "site_id": "module-02-deck",
+      "route": "modules/module-02.html#module-02-presentation",
+      "audience": "student",
+      "purpose": "Matching student PowerPoint",
+      "module_id": "module-02",
+      "anchor": "module-02-presentation"
+    },
+    {
+      "site_id": "module-02-review",
+      "route": "modules/module-02.html#module-02-review",
+      "audience": "student",
+      "purpose": "Three-link module review checklist",
+      "module_id": "module-02",
+      "anchor": "module-02-review"
+    },
+    {
+      "site_id": "module-02-activity",
+      "route": "activities.html#module-02-activity",
+      "audience": "student",
+      "purpose": "Applied scenario choice and justification",
+      "module_id": "module-02",
+      "anchor": "module-02-activity"
+    },
+    {
+      "site_id": "module-02-puzzle",
+      "route": "busy-work.html#puzzle-02",
+      "audience": "student",
+      "purpose": "Three-item source-grounded puzzle bank",
+      "module_id": "module-02",
+      "anchor": "puzzle-02"
+    },
+    {
+      "site_id": "module-02-folio",
+      "route": "folio.html#module-02-folio",
+      "audience": "student",
+      "purpose": "Selected formative folio evidence card",
+      "module_id": "module-02",
+      "anchor": "module-02-folio"
+    },
+    {
+      "site_id": "module-02-workbook",
+      "route": "assets/workbook/Year-10-Food-Technology-Student-Workbook-50-pages.pdf",
+      "audience": "student",
+      "purpose": "Shared 50-page student workbook companion",
+      "module_id": "module-02"
+    },
+    {
+      "site_id": "module-02-assessment",
+      "route": "assessment.html#main",
+      "audience": "student",
+      "purpose": "Posted Food Trends assessment boundary and Classroom link",
+      "module_id": "module-02",
+      "anchor": "main"
+    },
+    {
+      "site_id": "m02-section-1-theory",
+      "route": "modules/module-02.html#m02-section-1-theory",
+      "audience": "student",
+      "purpose": "Named theory section",
+      "module_id": "module-02",
+      "section_id": "m02-section-1",
+      "anchor": "m02-section-1-theory"
+    },
+    {
+      "site_id": "m02-section-1-check",
+      "route": "modules/module-02.html#m02-section-1-package",
+      "audience": "student",
+      "purpose": "Closed 10-MCQ learning check",
+      "module_id": "module-02",
+      "section_id": "m02-section-1",
+      "anchor": "m02-section-1-package"
+    },
+    {
+      "site_id": "m02-section-1-response",
+      "route": "modules/module-02.html#m02-section-1-response",
+      "audience": "student",
+      "purpose": "Scaffolded long response saved on device",
+      "module_id": "module-02",
+      "section_id": "m02-section-1",
+      "anchor": "m02-section-1-response"
+    },
+    {
+      "site_id": "m02-section-1-practice",
+      "route": "modules/module-02.html#m02-section-1-practice-choice",
+      "audience": "student",
+      "purpose": "Inline feedback-bearing practice choice",
+      "module_id": "module-02",
+      "section_id": "m02-section-1",
+      "anchor": "m02-section-1-practice-choice"
+    },
+    {
+      "site_id": "m02-section-1-media",
+      "route": "modules/module-02.html#m02-section-1-media",
+      "audience": "student",
+      "purpose": "Non-video learning pathway",
+      "module_id": "module-02",
+      "section_id": "m02-section-1",
+      "anchor": "m02-section-1-media"
+    },
+    {
+      "site_id": "m02-section-1-visual",
+      "route": "modules/module-02.html#m02-section-1-visual",
+      "audience": "student",
+      "purpose": "Purposeful explanatory visual",
+      "module_id": "module-02",
+      "section_id": "m02-section-1",
+      "anchor": "m02-section-1-visual"
+    },
+    {
+      "site_id": "m02-section-1-video-library",
+      "route": "videos.html#m02-section-1",
+      "audience": "student",
+      "purpose": "Section video rework record; use the equivalent non-video pathway",
+      "module_id": "module-02",
+      "section_id": "m02-section-1",
+      "anchor": "m02-section-1",
+      "source_status": "REWORK"
+    },
+    {
+      "site_id": "m02-section-2-theory",
+      "route": "modules/module-02.html#m02-section-2-theory",
+      "audience": "student",
+      "purpose": "Named theory section",
+      "module_id": "module-02",
+      "section_id": "m02-section-2",
+      "anchor": "m02-section-2-theory"
+    },
+    {
+      "site_id": "m02-section-2-check",
+      "route": "modules/module-02.html#m02-section-2-package",
+      "audience": "student",
+      "purpose": "Closed 10-MCQ learning check",
+      "module_id": "module-02",
+      "section_id": "m02-section-2",
+      "anchor": "m02-section-2-package"
+    },
+    {
+      "site_id": "m02-section-2-response",
+      "route": "modules/module-02.html#m02-section-2-response",
+      "audience": "student",
+      "purpose": "Scaffolded long response saved on device",
+      "module_id": "module-02",
+      "section_id": "m02-section-2",
+      "anchor": "m02-section-2-response"
+    },
+    {
+      "site_id": "m02-section-2-practice",
+      "route": "modules/module-02.html#m02-section-2-practice-choice",
+      "audience": "student",
+      "purpose": "Inline feedback-bearing practice choice",
+      "module_id": "module-02",
+      "section_id": "m02-section-2",
+      "anchor": "m02-section-2-practice-choice"
+    },
+    {
+      "site_id": "m02-section-2-media",
+      "route": "modules/module-02.html#m02-section-2-media",
+      "audience": "student",
+      "purpose": "Non-video learning pathway",
+      "module_id": "module-02",
+      "section_id": "m02-section-2",
+      "anchor": "m02-section-2-media"
+    },
+    {
+      "site_id": "m02-section-2-visual",
+      "route": "modules/module-02.html#m02-section-2-visual",
+      "audience": "student",
+      "purpose": "Purposeful explanatory visual",
+      "module_id": "module-02",
+      "section_id": "m02-section-2",
+      "anchor": "m02-section-2-visual"
+    },
+    {
+      "site_id": "m02-section-2-video-library",
+      "route": "videos.html#m02-section-2",
+      "audience": "student",
+      "purpose": "Section video rework record; use the equivalent non-video pathway",
+      "module_id": "module-02",
+      "section_id": "m02-section-2",
+      "anchor": "m02-section-2",
+      "source_status": "REWORK"
+    },
+    {
+      "site_id": "m02-section-3-theory",
+      "route": "modules/module-02.html#m02-section-3-theory",
+      "audience": "student",
+      "purpose": "Named theory section",
+      "module_id": "module-02",
+      "section_id": "m02-section-3",
+      "anchor": "m02-section-3-theory"
+    },
+    {
+      "site_id": "m02-section-3-check",
+      "route": "modules/module-02.html#m02-section-3-package",
+      "audience": "student",
+      "purpose": "Closed 10-MCQ learning check",
+      "module_id": "module-02",
+      "section_id": "m02-section-3",
+      "anchor": "m02-section-3-package"
+    },
+    {
+      "site_id": "m02-section-3-response",
+      "route": "modules/module-02.html#m02-section-3-response",
+      "audience": "student",
+      "purpose": "Scaffolded long response saved on device",
+      "module_id": "module-02",
+      "section_id": "m02-section-3",
+      "anchor": "m02-section-3-response"
+    },
+    {
+      "site_id": "m02-section-3-practice",
+      "route": "modules/module-02.html#m02-section-3-practice-choice",
+      "audience": "student",
+      "purpose": "Inline feedback-bearing practice choice",
+      "module_id": "module-02",
+      "section_id": "m02-section-3",
+      "anchor": "m02-section-3-practice-choice"
+    },
+    {
+      "site_id": "m02-section-3-media",
+      "route": "modules/module-02.html#m02-section-3-media",
+      "audience": "student",
+      "purpose": "Non-video learning pathway",
+      "module_id": "module-02",
+      "section_id": "m02-section-3",
+      "anchor": "m02-section-3-media"
+    },
+    {
+      "site_id": "m02-section-3-visual",
+      "route": "modules/module-02.html#m02-section-3-visual",
+      "audience": "student",
+      "purpose": "Purposeful explanatory visual",
+      "module_id": "module-02",
+      "section_id": "m02-section-3",
+      "anchor": "m02-section-3-visual"
+    },
+    {
+      "site_id": "m02-section-3-video-library",
+      "route": "videos.html#m02-section-3",
+      "audience": "student",
+      "purpose": "Section video rework record; use the equivalent non-video pathway",
+      "module_id": "module-02",
+      "section_id": "m02-section-3",
+      "anchor": "m02-section-3",
+      "source_status": "REWORK"
+    },
+    {
+      "site_id": "module-03-deck",
+      "route": "modules/module-03.html#module-03-presentation",
+      "audience": "student",
+      "purpose": "Matching student PowerPoint",
+      "module_id": "module-03",
+      "anchor": "module-03-presentation"
+    },
+    {
+      "site_id": "module-03-review",
+      "route": "modules/module-03.html#module-03-review",
+      "audience": "student",
+      "purpose": "Three-link module review checklist",
+      "module_id": "module-03",
+      "anchor": "module-03-review"
+    },
+    {
+      "site_id": "module-03-activity",
+      "route": "activities.html#module-03-activity",
+      "audience": "student",
+      "purpose": "Applied scenario choice and justification",
+      "module_id": "module-03",
+      "anchor": "module-03-activity"
+    },
+    {
+      "site_id": "module-03-puzzle",
+      "route": "busy-work.html#puzzle-03",
+      "audience": "student",
+      "purpose": "Three-item source-grounded puzzle bank",
+      "module_id": "module-03",
+      "anchor": "puzzle-03"
+    },
+    {
+      "site_id": "module-03-folio",
+      "route": "folio.html#module-03-folio",
+      "audience": "student",
+      "purpose": "Selected formative folio evidence card",
+      "module_id": "module-03",
+      "anchor": "module-03-folio"
+    },
+    {
+      "site_id": "module-03-workbook",
+      "route": "assets/workbook/Year-10-Food-Technology-Student-Workbook-50-pages.pdf",
+      "audience": "student",
+      "purpose": "Shared 50-page student workbook companion",
+      "module_id": "module-03"
+    },
+    {
+      "site_id": "m03-section-1-theory",
+      "route": "modules/module-03.html#m03-section-1-theory",
+      "audience": "student",
+      "purpose": "Named theory section",
+      "module_id": "module-03",
+      "section_id": "m03-section-1",
+      "anchor": "m03-section-1-theory"
+    },
+    {
+      "site_id": "m03-section-1-check",
+      "route": "modules/module-03.html#m03-section-1-package",
+      "audience": "student",
+      "purpose": "Closed 10-MCQ learning check",
+      "module_id": "module-03",
+      "section_id": "m03-section-1",
+      "anchor": "m03-section-1-package"
+    },
+    {
+      "site_id": "m03-section-1-response",
+      "route": "modules/module-03.html#m03-section-1-response",
+      "audience": "student",
+      "purpose": "Scaffolded long response saved on device",
+      "module_id": "module-03",
+      "section_id": "m03-section-1",
+      "anchor": "m03-section-1-response"
+    },
+    {
+      "site_id": "m03-section-1-practice",
+      "route": "modules/module-03.html#m03-section-1-practice-choice",
+      "audience": "student",
+      "purpose": "Inline feedback-bearing practice choice",
+      "module_id": "module-03",
+      "section_id": "m03-section-1",
+      "anchor": "m03-section-1-practice-choice"
+    },
+    {
+      "site_id": "m03-section-1-media",
+      "route": "modules/module-03.html#m03-section-1-media",
+      "audience": "student",
+      "purpose": "Non-video learning pathway",
+      "module_id": "module-03",
+      "section_id": "m03-section-1",
+      "anchor": "m03-section-1-media"
+    },
+    {
+      "site_id": "m03-section-1-visual",
+      "route": "modules/module-03.html#m03-section-1-visual",
+      "audience": "student",
+      "purpose": "Purposeful explanatory visual",
+      "module_id": "module-03",
+      "section_id": "m03-section-1",
+      "anchor": "m03-section-1-visual"
+    },
+    {
+      "site_id": "m03-section-1-video-library",
+      "route": "videos.html#m03-section-1",
+      "audience": "student",
+      "purpose": "Section video rework record; use the equivalent non-video pathway",
+      "module_id": "module-03",
+      "section_id": "m03-section-1",
+      "anchor": "m03-section-1",
+      "source_status": "REWORK"
+    },
+    {
+      "site_id": "m03-section-2-theory",
+      "route": "modules/module-03.html#m03-section-2-theory",
+      "audience": "student",
+      "purpose": "Named theory section",
+      "module_id": "module-03",
+      "section_id": "m03-section-2",
+      "anchor": "m03-section-2-theory"
+    },
+    {
+      "site_id": "m03-section-2-check",
+      "route": "modules/module-03.html#m03-section-2-package",
+      "audience": "student",
+      "purpose": "Closed 10-MCQ learning check",
+      "module_id": "module-03",
+      "section_id": "m03-section-2",
+      "anchor": "m03-section-2-package"
+    },
+    {
+      "site_id": "m03-section-2-response",
+      "route": "modules/module-03.html#m03-section-2-response",
+      "audience": "student",
+      "purpose": "Scaffolded long response saved on device",
+      "module_id": "module-03",
+      "section_id": "m03-section-2",
+      "anchor": "m03-section-2-response"
+    },
+    {
+      "site_id": "m03-section-2-practice",
+      "route": "modules/module-03.html#m03-section-2-practice-choice",
+      "audience": "student",
+      "purpose": "Inline feedback-bearing practice choice",
+      "module_id": "module-03",
+      "section_id": "m03-section-2",
+      "anchor": "m03-section-2-practice-choice"
+    },
+    {
+      "site_id": "m03-section-2-media",
+      "route": "modules/module-03.html#m03-section-2-media",
+      "audience": "student",
+      "purpose": "Non-video learning pathway",
+      "module_id": "module-03",
+      "section_id": "m03-section-2",
+      "anchor": "m03-section-2-media"
+    },
+    {
+      "site_id": "m03-section-2-visual",
+      "route": "modules/module-03.html#m03-section-2-visual",
+      "audience": "student",
+      "purpose": "Purposeful explanatory visual",
+      "module_id": "module-03",
+      "section_id": "m03-section-2",
+      "anchor": "m03-section-2-visual"
+    },
+    {
+      "site_id": "m03-section-2-video-library",
+      "route": "videos.html#m03-section-2",
+      "audience": "student",
+      "purpose": "Section video rework record; use the equivalent non-video pathway",
+      "module_id": "module-03",
+      "section_id": "m03-section-2",
+      "anchor": "m03-section-2",
+      "source_status": "REWORK"
+    },
+    {
+      "site_id": "m03-section-3-theory",
+      "route": "modules/module-03.html#m03-section-3-theory",
+      "audience": "student",
+      "purpose": "Named theory section",
+      "module_id": "module-03",
+      "section_id": "m03-section-3",
+      "anchor": "m03-section-3-theory"
+    },
+    {
+      "site_id": "m03-section-3-check",
+      "route": "modules/module-03.html#m03-section-3-package",
+      "audience": "student",
+      "purpose": "Closed 10-MCQ learning check",
+      "module_id": "module-03",
+      "section_id": "m03-section-3",
+      "anchor": "m03-section-3-package"
+    },
+    {
+      "site_id": "m03-section-3-response",
+      "route": "modules/module-03.html#m03-section-3-response",
+      "audience": "student",
+      "purpose": "Scaffolded long response saved on device",
+      "module_id": "module-03",
+      "section_id": "m03-section-3",
+      "anchor": "m03-section-3-response"
+    },
+    {
+      "site_id": "m03-section-3-practice",
+      "route": "modules/module-03.html#m03-section-3-practice-choice",
+      "audience": "student",
+      "purpose": "Inline feedback-bearing practice choice",
+      "module_id": "module-03",
+      "section_id": "m03-section-3",
+      "anchor": "m03-section-3-practice-choice"
+    },
+    {
+      "site_id": "m03-section-3-media",
+      "route": "modules/module-03.html#m03-section-3-media",
+      "audience": "student",
+      "purpose": "Non-video learning pathway",
+      "module_id": "module-03",
+      "section_id": "m03-section-3",
+      "anchor": "m03-section-3-media"
+    },
+    {
+      "site_id": "m03-section-3-visual",
+      "route": "modules/module-03.html#m03-section-3-visual",
+      "audience": "student",
+      "purpose": "Purposeful explanatory visual",
+      "module_id": "module-03",
+      "section_id": "m03-section-3",
+      "anchor": "m03-section-3-visual"
+    },
+    {
+      "site_id": "m03-section-3-video-library",
+      "route": "videos.html#m03-section-3",
+      "audience": "student",
+      "purpose": "Section video gap record; use the equivalent non-video pathway",
+      "module_id": "module-03",
+      "section_id": "m03-section-3",
+      "anchor": "m03-section-3",
+      "source_status": "GAP"
+    },
+    {
+      "site_id": "module-04-deck",
+      "route": "modules/module-04.html#module-04-presentation",
+      "audience": "student",
+      "purpose": "Matching student PowerPoint",
+      "module_id": "module-04",
+      "anchor": "module-04-presentation"
+    },
+    {
+      "site_id": "module-04-review",
+      "route": "modules/module-04.html#module-04-review",
+      "audience": "student",
+      "purpose": "Three-link module review checklist",
+      "module_id": "module-04",
+      "anchor": "module-04-review"
+    },
+    {
+      "site_id": "module-04-activity",
+      "route": "activities.html#module-04-activity",
+      "audience": "student",
+      "purpose": "Applied scenario choice and justification",
+      "module_id": "module-04",
+      "anchor": "module-04-activity"
+    },
+    {
+      "site_id": "module-04-puzzle",
+      "route": "busy-work.html#puzzle-04",
+      "audience": "student",
+      "purpose": "Three-item source-grounded puzzle bank",
+      "module_id": "module-04",
+      "anchor": "puzzle-04"
+    },
+    {
+      "site_id": "module-04-folio",
+      "route": "folio.html#module-04-folio",
+      "audience": "student",
+      "purpose": "Selected formative folio evidence card",
+      "module_id": "module-04",
+      "anchor": "module-04-folio"
+    },
+    {
+      "site_id": "module-04-workbook",
+      "route": "assets/workbook/Year-10-Food-Technology-Student-Workbook-50-pages.pdf",
+      "audience": "student",
+      "purpose": "Shared 50-page student workbook companion",
+      "module_id": "module-04"
+    },
+    {
+      "site_id": "m04-section-1-theory",
+      "route": "modules/module-04.html#m04-section-1-theory",
+      "audience": "student",
+      "purpose": "Named theory section",
+      "module_id": "module-04",
+      "section_id": "m04-section-1",
+      "anchor": "m04-section-1-theory"
+    },
+    {
+      "site_id": "m04-section-1-check",
+      "route": "modules/module-04.html#m04-section-1-package",
+      "audience": "student",
+      "purpose": "Closed 10-MCQ learning check",
+      "module_id": "module-04",
+      "section_id": "m04-section-1",
+      "anchor": "m04-section-1-package"
+    },
+    {
+      "site_id": "m04-section-1-response",
+      "route": "modules/module-04.html#m04-section-1-response",
+      "audience": "student",
+      "purpose": "Scaffolded long response saved on device",
+      "module_id": "module-04",
+      "section_id": "m04-section-1",
+      "anchor": "m04-section-1-response"
+    },
+    {
+      "site_id": "m04-section-1-practice",
+      "route": "modules/module-04.html#m04-section-1-practice-choice",
+      "audience": "student",
+      "purpose": "Inline feedback-bearing practice choice",
+      "module_id": "module-04",
+      "section_id": "m04-section-1",
+      "anchor": "m04-section-1-practice-choice"
+    },
+    {
+      "site_id": "m04-section-1-media",
+      "route": "modules/module-04.html#m04-section-1-media",
+      "audience": "student",
+      "purpose": "Non-video learning pathway",
+      "module_id": "module-04",
+      "section_id": "m04-section-1",
+      "anchor": "m04-section-1-media"
+    },
+    {
+      "site_id": "m04-section-1-visual",
+      "route": "modules/module-04.html#m04-section-1-visual",
+      "audience": "student",
+      "purpose": "Purposeful explanatory visual",
+      "module_id": "module-04",
+      "section_id": "m04-section-1",
+      "anchor": "m04-section-1-visual"
+    },
+    {
+      "site_id": "m04-section-1-video-library",
+      "route": "videos.html#m04-section-1",
+      "audience": "student",
+      "purpose": "Section video rework record; use the equivalent non-video pathway",
+      "module_id": "module-04",
+      "section_id": "m04-section-1",
+      "anchor": "m04-section-1",
+      "source_status": "REWORK"
+    },
+    {
+      "site_id": "m04-section-2-theory",
+      "route": "modules/module-04.html#m04-section-2-theory",
+      "audience": "student",
+      "purpose": "Named theory section",
+      "module_id": "module-04",
+      "section_id": "m04-section-2",
+      "anchor": "m04-section-2-theory"
+    },
+    {
+      "site_id": "m04-section-2-check",
+      "route": "modules/module-04.html#m04-section-2-package",
+      "audience": "student",
+      "purpose": "Closed 10-MCQ learning check",
+      "module_id": "module-04",
+      "section_id": "m04-section-2",
+      "anchor": "m04-section-2-package"
+    },
+    {
+      "site_id": "m04-section-2-response",
+      "route": "modules/module-04.html#m04-section-2-response",
+      "audience": "student",
+      "purpose": "Scaffolded long response saved on device",
+      "module_id": "module-04",
+      "section_id": "m04-section-2",
+      "anchor": "m04-section-2-response"
+    },
+    {
+      "site_id": "m04-section-2-practice",
+      "route": "modules/module-04.html#m04-section-2-practice-choice",
+      "audience": "student",
+      "purpose": "Inline feedback-bearing practice choice",
+      "module_id": "module-04",
+      "section_id": "m04-section-2",
+      "anchor": "m04-section-2-practice-choice"
+    },
+    {
+      "site_id": "m04-section-2-media",
+      "route": "modules/module-04.html#m04-section-2-media",
+      "audience": "student",
+      "purpose": "Non-video learning pathway",
+      "module_id": "module-04",
+      "section_id": "m04-section-2",
+      "anchor": "m04-section-2-media"
+    },
+    {
+      "site_id": "m04-section-2-visual",
+      "route": "modules/module-04.html#m04-section-2-visual",
+      "audience": "student",
+      "purpose": "Purposeful explanatory visual",
+      "module_id": "module-04",
+      "section_id": "m04-section-2",
+      "anchor": "m04-section-2-visual"
+    },
+    {
+      "site_id": "m04-section-2-video-library",
+      "route": "videos.html#m04-section-2",
+      "audience": "student",
+      "purpose": "Section video gap record; use the equivalent non-video pathway",
+      "module_id": "module-04",
+      "section_id": "m04-section-2",
+      "anchor": "m04-section-2",
+      "source_status": "GAP"
+    },
+    {
+      "site_id": "m04-section-3-theory",
+      "route": "modules/module-04.html#m04-section-3-theory",
+      "audience": "student",
+      "purpose": "Named theory section",
+      "module_id": "module-04",
+      "section_id": "m04-section-3",
+      "anchor": "m04-section-3-theory"
+    },
+    {
+      "site_id": "m04-section-3-check",
+      "route": "modules/module-04.html#m04-section-3-package",
+      "audience": "student",
+      "purpose": "Closed 10-MCQ learning check",
+      "module_id": "module-04",
+      "section_id": "m04-section-3",
+      "anchor": "m04-section-3-package"
+    },
+    {
+      "site_id": "m04-section-3-response",
+      "route": "modules/module-04.html#m04-section-3-response",
+      "audience": "student",
+      "purpose": "Scaffolded long response saved on device",
+      "module_id": "module-04",
+      "section_id": "m04-section-3",
+      "anchor": "m04-section-3-response"
+    },
+    {
+      "site_id": "m04-section-3-practice",
+      "route": "modules/module-04.html#m04-section-3-practice-choice",
+      "audience": "student",
+      "purpose": "Inline feedback-bearing practice choice",
+      "module_id": "module-04",
+      "section_id": "m04-section-3",
+      "anchor": "m04-section-3-practice-choice"
+    },
+    {
+      "site_id": "m04-section-3-media",
+      "route": "modules/module-04.html#m04-section-3-media",
+      "audience": "student",
+      "purpose": "Non-video learning pathway",
+      "module_id": "module-04",
+      "section_id": "m04-section-3",
+      "anchor": "m04-section-3-media"
+    },
+    {
+      "site_id": "m04-section-3-visual",
+      "route": "modules/module-04.html#m04-section-3-visual",
+      "audience": "student",
+      "purpose": "Purposeful explanatory visual",
+      "module_id": "module-04",
+      "section_id": "m04-section-3",
+      "anchor": "m04-section-3-visual"
+    },
+    {
+      "site_id": "m04-section-3-video-library",
+      "route": "videos.html#m04-section-3",
+      "audience": "student",
+      "purpose": "Section video gap record; use the equivalent non-video pathway",
+      "module_id": "module-04",
+      "section_id": "m04-section-3",
+      "anchor": "m04-section-3",
+      "source_status": "GAP"
+    },
+    {
+      "site_id": "course-home",
+      "route": "index.html#main",
+      "audience": "student",
+      "purpose": "Student course map",
+      "module_id": "module-01",
+      "anchor": "main"
+    },
+    {
+      "site_id": "teacher-resources",
+      "route": "teacher-resources.html#main",
+      "audience": "teacher",
+      "purpose": "Teacher-facing source and program links",
+      "module_id": "module-01",
+      "anchor": "main"
+    }
+  ],
+  "section_packages": [
+    {
+      "section_id": "m01-section-1",
+      "module_id": "module-01",
+      "title": "What food equity means",
+      "route": "modules/module-01.html",
+      "sequence_slot": 1,
+      "question_count": 10,
+      "written_response_count": 1,
+      "site_ids": [
+        "m01-section-1-theory",
+        "m01-section-1-check",
+        "m01-section-1-response",
+        "m01-section-1-practice",
+        "m01-section-1-media",
+        "m01-section-1-visual",
+        "m01-section-1-video-library",
+        "module-01-workbook",
+        "module-01-deck"
+      ]
+    },
+    {
+      "section_id": "m01-section-2",
+      "module_id": "module-01",
+      "title": "Barriers to food and water",
+      "route": "modules/module-01.html",
+      "sequence_slot": 2,
+      "question_count": 10,
+      "written_response_count": 1,
+      "site_ids": [
+        "m01-section-2-theory",
+        "m01-section-2-check",
+        "m01-section-2-response",
+        "m01-section-2-practice",
+        "m01-section-2-media",
+        "m01-section-2-visual",
+        "m01-section-2-video-library",
+        "module-01-workbook"
+      ]
+    },
+    {
+      "section_id": "m01-section-3",
+      "module_id": "module-01",
+      "title": "Investigate and respond",
+      "route": "modules/module-01.html",
+      "sequence_slot": 3,
+      "question_count": 10,
+      "written_response_count": 1,
+      "site_ids": [
+        "m01-section-3-theory",
+        "m01-section-3-check",
+        "m01-section-3-response",
+        "m01-section-3-practice",
+        "m01-section-3-media",
+        "m01-section-3-visual",
+        "m01-section-3-video-library",
+        "module-01-workbook"
+      ]
+    },
+    {
+      "section_id": "m02-section-1",
+      "module_id": "module-02",
+      "title": "Why food trends emerge",
+      "route": "modules/module-02.html",
+      "sequence_slot": 6,
+      "question_count": 10,
+      "written_response_count": 1,
+      "site_ids": [
+        "m02-section-1-theory",
+        "m02-section-1-check",
+        "m02-section-1-response",
+        "m02-section-1-practice",
+        "m02-section-1-media",
+        "m02-section-1-visual",
+        "m02-section-1-video-library",
+        "module-02-workbook",
+        "module-02-deck"
+      ]
+    },
+    {
+      "section_id": "m02-section-2",
+      "module_id": "module-02",
+      "title": "Local produce, waste and value adding",
+      "route": "modules/module-02.html",
+      "sequence_slot": 7,
+      "question_count": 10,
+      "written_response_count": 1,
+      "site_ids": [
+        "m02-section-2-theory",
+        "m02-section-2-check",
+        "m02-section-2-response",
+        "m02-section-2-practice",
+        "m02-section-2-media",
+        "m02-section-2-visual",
+        "m02-section-2-video-library",
+        "module-02-workbook"
+      ]
+    },
+    {
+      "section_id": "m02-section-3",
+      "module_id": "module-02",
+      "title": "Evaluate a food trend",
+      "route": "modules/module-02.html",
+      "sequence_slot": 8,
+      "question_count": 10,
+      "written_response_count": 1,
+      "site_ids": [
+        "m02-section-3-theory",
+        "m02-section-3-check",
+        "m02-section-3-response",
+        "m02-section-3-practice",
+        "m02-section-3-media",
+        "m02-section-3-visual",
+        "m02-section-3-video-library",
+        "module-02-workbook"
+      ]
+    },
+    {
+      "section_id": "m03-section-1",
+      "module_id": "module-03",
+      "title": "Food, identity and significance",
+      "route": "modules/module-03.html",
+      "sequence_slot": 11,
+      "question_count": 10,
+      "written_response_count": 1,
+      "site_ids": [
+        "m03-section-1-theory",
+        "m03-section-1-check",
+        "m03-section-1-response",
+        "m03-section-1-practice",
+        "m03-section-1-media",
+        "m03-section-1-visual",
+        "m03-section-1-video-library",
+        "module-03-workbook",
+        "module-03-deck"
+      ]
+    },
+    {
+      "section_id": "m03-section-2",
+      "module_id": "module-03",
+      "title": "Celebrations across time and place",
+      "route": "modules/module-03.html",
+      "sequence_slot": 12,
+      "question_count": 10,
+      "written_response_count": 1,
+      "site_ids": [
+        "m03-section-2-theory",
+        "m03-section-2-check",
+        "m03-section-2-response",
+        "m03-section-2-practice",
+        "m03-section-2-media",
+        "m03-section-2-visual",
+        "m03-section-2-video-library",
+        "module-03-workbook"
+      ]
+    },
+    {
+      "section_id": "m03-section-3",
+      "module_id": "module-03",
+      "title": "Plan for an occasion",
+      "route": "modules/module-03.html",
+      "sequence_slot": 13,
+      "question_count": 10,
+      "written_response_count": 1,
+      "site_ids": [
+        "m03-section-3-theory",
+        "m03-section-3-check",
+        "m03-section-3-response",
+        "m03-section-3-practice",
+        "m03-section-3-media",
+        "m03-section-3-visual",
+        "m03-section-3-video-library",
+        "module-03-workbook"
+      ]
+    },
+    {
+      "section_id": "m04-section-1",
+      "module_id": "module-04",
+      "title": "Service settings and customers",
+      "route": "modules/module-04.html",
+      "sequence_slot": 16,
+      "question_count": 10,
+      "written_response_count": 1,
+      "site_ids": [
+        "m04-section-1-theory",
+        "m04-section-1-check",
+        "m04-section-1-response",
+        "m04-section-1-practice",
+        "m04-section-1-media",
+        "m04-section-1-visual",
+        "m04-section-1-video-library",
+        "module-04-workbook",
+        "module-04-deck"
+      ]
+    },
+    {
+      "section_id": "m04-section-2",
+      "module_id": "module-04",
+      "title": "Menus, teams and costs",
+      "route": "modules/module-04.html",
+      "sequence_slot": 17,
+      "question_count": 10,
+      "written_response_count": 1,
+      "site_ids": [
+        "m04-section-2-theory",
+        "m04-section-2-check",
+        "m04-section-2-response",
+        "m04-section-2-practice",
+        "m04-section-2-media",
+        "m04-section-2-visual",
+        "m04-section-2-video-library",
+        "module-04-workbook"
+      ]
+    },
+    {
+      "section_id": "m04-section-3",
+      "module_id": "module-04",
+      "title": "Functional properties and review",
+      "route": "modules/module-04.html",
+      "sequence_slot": 18,
+      "question_count": 10,
+      "written_response_count": 1,
+      "site_ids": [
+        "m04-section-3-theory",
+        "m04-section-3-check",
+        "m04-section-3-response",
+        "m04-section-3-practice",
+        "m04-section-3-media",
+        "m04-section-3-visual",
+        "m04-section-3-video-library",
+        "module-04-workbook"
+      ]
+    }
+  ],
+  "route_coverage": [
+    "activities.html",
+    "assessment.html",
+    "assets/workbook/Year-10-Food-Technology-Student-Workbook-50-pages.pdf",
+    "busy-work.html",
+    "folio.html",
+    "index.html",
+    "modules/module-01.html",
+    "modules/module-02.html",
+    "modules/module-03.html",
+    "modules/module-04.html",
+    "teacher-resources.html",
+    "videos.html"
+  ],
+  "teacher_resources_program_slot": "teacher-resources.html#program-links-slot"
+}

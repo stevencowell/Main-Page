@@ -1,0 +1,107 @@
+{
+  "schema_version": "1.0",
+  "program_id": "year-10-food-technology-2026-program",
+  "program_kind": "unit",
+  "source_binding": {
+    "source_map_id": "year-10-food-technology-2026-source-map-v2",
+    "source_map_sha256": "771dabbdf7d4bf15be0efea9ab7201d7a86fa8746a28646d103c967d87b9d594",
+    "integration_baseline_id": "food-technology-2026-local-integrated-v1",
+    "integration_baseline_sha256": "c4e5ce868e2e12e2e0b59d6a7546a6625aed6fece36dac1ef8794b209307fb6d"
+  },
+  "course": {
+    "title": "Year 10 Food Technology 2026",
+    "family": "Food Technology",
+    "stage": "Stage 5",
+    "course": "Food Technology 7–10",
+    "version": "v1.0.0",
+    "duration": {
+      "value": 4,
+      "unit": "blocks"
+    },
+    "duration_label": "Four 2026 term blocks; hours and periods Teacher to confirm",
+    "site_state": "local-only"
+  },
+  "syllabus": {
+    "family_key": "food-technology-7-10-2019",
+    "title": "Food Technology 7–10 Syllabus (2019)",
+    "version": "2019",
+    "official_url": "https://www.nsw.gov.au/education-and-training/nesa/curriculum/tas/food-technology-7-10-2019",
+    "status": "Current 2019 basis for 2026; successor 2025 implemented from 2028",
+    "verified_date": "2026-09-24",
+    "implementation_basis": "current 2019 for 2026; no local early-adoption evidence",
+    "outcome_code_family": "FT5"
+  },
+  "palette": {
+    "mode": "new-distinct",
+    "accent": "#126B61",
+    "soft": "#DCEFE8",
+    "text": "#142F2D",
+    "contrast_evidence": "Proposed teal family palette has readable dark text on pale background; Stage 91 must compare visually with the live registry before registration."
+  },
+  "master_relationship": {
+    "state": "master-not-established",
+    "coverage_state": "gap-recorded",
+    "note": "No 2019 Food Technology master was established in the source inventory; this unit claims only four mapped 2026 focus areas."
+  },
+  "teacher_resources": {
+    "route": "teacher-resources.html",
+    "links": [
+      {
+        "label": "Teaching program PDF",
+        "artifact_role": "rendered-program"
+      },
+      {
+        "label": "Editable teaching program",
+        "artifact_role": "editable-program"
+      }
+    ]
+  },
+  "artifacts": [
+    {
+      "role": "editable-program",
+      "path": "teacher-program-v1.0.0.docx",
+      "sha256": "3938d35c588928117175edb532c20c344aaed67809d94adafd0e85e26339e563"
+    },
+    {
+      "role": "rendered-program",
+      "path": "teacher-program-v1.0.0.pdf",
+      "sha256": "1d6b7c89db742c40216a09723e28b7c568991d7b7feb30d3975cf291787117e7"
+    },
+    {
+      "role": "delivery-register",
+      "path": "delivery-register-v1.0.0.docx",
+      "sha256": "b8c06b3f4cd968536869c4548df4110e1ba30fe5fb13a06305506d310fa2fece"
+    },
+    {
+      "role": "site-map",
+      "path": "teacher-program-site-map-v1.0.0.json",
+      "sha256": "f085eb0b1a8b44f8f9241521cdd4b9c2e8439f76bcca2fbbd622c5c1e0a5217b"
+    },
+    {
+      "role": "alignment-manifest",
+      "path": "program-alignment-v1.0.0.json",
+      "sha256": "e3028217ff515a81ecb40a371147f131396d161c2dd463ee22a9b6f6ac316758"
+    }
+  ],
+  "library_card": {
+    "title": "Year 10 Food Technology 2026",
+    "family": "Food Technology",
+    "stage": "Stage 5",
+    "course": "Food Technology 7–10",
+    "durationLabel": "4 blocks",
+    "version": "v1.0.0",
+    "syllabusAligned": true,
+    "pdf": "programs/teacher-program-v1.0.0.pdf",
+    "docx": "programs/teacher-program-v1.0.0.docx",
+    "manifest": "programs/program-alignment-v1.0.0.json",
+    "syllabusTitle": "Food Technology 7–10 Syllabus (2019)",
+    "syllabusUrl": "https://www.nsw.gov.au/education-and-training/nesa/curriculum/tas/food-technology-7-10-2019",
+    "syllabusStatus": "Current 2019 basis for 2026; successor 2025 implemented from 2028",
+    "syllabusVerified": "24 September 2026",
+    "masterNote": "Master not established; four 2026 focus areas only"
+  },
+  "registration": {
+    "state": "handoff-ready",
+    "canonical_library_url": "https://stevencowell.github.io/Main-Page/subject-program-library/"
+  }
+}

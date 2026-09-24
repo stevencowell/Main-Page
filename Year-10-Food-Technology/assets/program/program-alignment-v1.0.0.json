@@ -1,0 +1,1361 @@
+{
+  "schema_version": "1.0-stage14",
+  "program_id": "year-10-food-technology-2026-program",
+  "version": "v1.0.0",
+  "source_binding": {
+    "source_map_id": "year-10-food-technology-2026-source-map-v2",
+    "source_map_sha256": "771dabbdf7d4bf15be0efea9ab7201d7a86fa8746a28646d103c967d87b9d594",
+    "integration_baseline_id": "food-technology-2026-local-integrated-v1",
+    "integration_baseline_sha256": "c4e5ce868e2e12e2e0b59d6a7546a6625aed6fece36dac1ef8794b209307fb6d"
+  },
+  "syllabus_decision": {
+    "title": "Food Technology 7–10 Syllabus (2019)",
+    "version": "2019",
+    "official_url": "https://www.nsw.gov.au/education-and-training/nesa/curriculum/tas/food-technology-7-10-2019",
+    "official_docx_url": "https://www.nsw.gov.au/sites/default/files/noindex/2025-09/food-technology-years-7-10-syllabus-2019.docx",
+    "official_docx_sha256": "5a2c180d9e6f4b82d3b202dafa63e85f6972c093d8ff714a89ecff30d3040753",
+    "outcome_wording_source": "https://www.nsw.gov.au/sites/default/files/noindex/2025-09/food-technology-years-7-10-syllabus-2019.docx",
+    "delivery_year": 2026,
+    "implementation_basis": "2019 current for 2026; local early use of 2025 not evidenced"
+  },
+  "site_state": "local-only",
+  "period_allocation": {
+    "state": "Teacher to confirm",
+    "basis": "Twenty planning sequence slots; not approved periods or hours",
+    "four_term_spine": true
+  },
+  "source_register": [
+    {
+      "id": "nesa-2019",
+      "authority": "official-syllabus",
+      "title": "Food Technology 7–10 Syllabus (2019)",
+      "url": "https://www.nsw.gov.au/education-and-training/nesa/curriculum/tas/food-technology-7-10-2019"
+    },
+    {
+      "id": "nesa-outcomes",
+      "authority": "official-syllabus",
+      "title": "Official 2019 syllabus DOCX, Stage 5 outcome statements",
+      "url": "https://www.nsw.gov.au/sites/default/files/noindex/2025-09/food-technology-years-7-10-syllabus-2019.docx",
+      "sha256": "5a2c180d9e6f4b82d3b202dafa63e85f6972c093d8ff714a89ecff30d3040753"
+    },
+    {
+      "id": "classroom-2026",
+      "authority": "teacher-posted",
+      "title": "10FOTE1 2026 Classroom",
+      "url": "https://classroom.google.com/w/ODQxODU0NzM4OTcw/t/all"
+    },
+    {
+      "id": "food-trends-assessment",
+      "authority": "posted-assessment",
+      "title": "Food Trends assessment",
+      "url": "https://classroom.google.com/c/ODQxODU0NzM4OTcw/a/ODYyOTA0NDM2MjUx/details"
+    },
+    {
+      "id": "site-video-candidates",
+      "authority": "candidate-and-gap-register",
+      "title": "Section video candidates and non-video pathways",
+      "path": "work/site-video-manifest.json",
+      "sha256": "bfb5567baf221df6c5858161d7044225ec247cc51c6b63fae8db800d910e916c",
+      "status_counts": {
+        "REWORK": 9,
+        "GAP": 3
+      },
+      "status": "No accepted video claim; use the equivalent non-video path"
+    },
+    {
+      "id": "student-workbook",
+      "authority": "accepted-school-developed-companion",
+      "title": "50-page student workbook",
+      "path": "assets/workbook/Year-10-Food-Technology-Student-Workbook-50-pages.pdf",
+      "sha256": "b6c999768d43c75b88c41d0658cad78c4a81313bbc73648c26e67498b8bc350e"
+    },
+    {
+      "id": "source-evidence-v2",
+      "authority": "source-addendum",
+      "title": "Release source addendum",
+      "path": "source-evidence-v2.md",
+      "sha256": "8c84c52aa0ee85b43335fb586c953004238796246fd9ee860da1f1cb9b71e340"
+    },
+    {
+      "id": "source-evidence-v1",
+      "authority": "prior-source-evidence",
+      "title": "Original source observations",
+      "path": "source-evidence-v1.md",
+      "sha256": "2898b1d37ffd1333cdcb750e1c5ea0d6228fe2b378da2f0093a68678fd728b47"
+    },
+    {
+      "id": "site-candidate",
+      "authority": "integrated-site",
+      "title": "Local course website",
+      "digest": "fffa7254e347eb75a45f2251446d44acddab74ebb81916cd281e108069ef4c1e"
+    }
+  ],
+  "outcome_coverage": [
+    {
+      "code": "FT5-1",
+      "statement": "demonstrates hygienic handling of food to ensure a safe and appealing product",
+      "site_module_ids": [],
+      "state": "teacher-practical-confirmation-required"
+    },
+    {
+      "code": "FT5-2",
+      "statement": "identifies, assesses and manages the risks of injury and WHS issues associated with the handling of food",
+      "site_module_ids": [],
+      "state": "teacher-practical-confirmation-required"
+    },
+    {
+      "code": "FT5-3",
+      "statement": "describes the physical and chemical properties of a variety of foods",
+      "site_module_ids": [
+        "module-04"
+      ],
+      "state": "site-learning-mapped"
+    },
+    {
+      "code": "FT5-4",
+      "statement": "accounts for changes to the properties of food which occur during food processing, preparation and storage",
+      "site_module_ids": [
+        "module-04"
+      ],
+      "state": "site-learning-mapped"
+    },
+    {
+      "code": "FT5-5",
+      "statement": "applies appropriate methods of food processing, preparation and storage",
+      "site_module_ids": [],
+      "state": "teacher-practical-confirmation-required"
+    },
+    {
+      "code": "FT5-6",
+      "statement": "describes the relationship between food consumption, the nutritional value of foods and the health of individuals and communities",
+      "site_module_ids": [
+        "module-01",
+        "module-02"
+      ],
+      "state": "site-learning-mapped"
+    },
+    {
+      "code": "FT5-7",
+      "statement": "justifies food choices by analysing the factors that influence eating habits",
+      "site_module_ids": [
+        "module-01",
+        "module-02",
+        "module-03",
+        "module-04"
+      ],
+      "state": "site-learning-mapped"
+    },
+    {
+      "code": "FT5-8",
+      "statement": "collects, evaluates and applies information from a variety of sources",
+      "site_module_ids": [
+        "module-01",
+        "module-02",
+        "module-03"
+      ],
+      "state": "site-learning-mapped"
+    },
+    {
+      "code": "FT5-9",
+      "statement": "communicates ideas and information using a range of media and appropriate terminology",
+      "site_module_ids": [
+        "module-01",
+        "module-02",
+        "module-03"
+      ],
+      "state": "site-learning-mapped"
+    },
+    {
+      "code": "FT5-10",
+      "statement": "selects and employs appropriate techniques and equipment for a variety of food-specific purposes",
+      "site_module_ids": [],
+      "state": "teacher-practical-confirmation-required"
+    },
+    {
+      "code": "FT5-11",
+      "statement": "plans, prepares, presents and evaluates food solutions for specific purposes",
+      "site_module_ids": [
+        "module-03",
+        "module-04"
+      ],
+      "state": "partial-site-support; teacher practical confirmation required"
+    },
+    {
+      "code": "FT5-12",
+      "statement": "examines the relationship between food, technology and society",
+      "site_module_ids": [
+        "module-01",
+        "module-02",
+        "module-03",
+        "module-04"
+      ],
+      "state": "site-learning-mapped"
+    },
+    {
+      "code": "FT5-13",
+      "statement": "evaluates the impact of activities related to food on the individual, society and the environment",
+      "site_module_ids": [
+        "module-01",
+        "module-02",
+        "module-04"
+      ],
+      "state": "site-learning-mapped"
+    }
+  ],
+  "official_content_trace": [
+    {
+      "section_id": "m01-section-1",
+      "focus_area": "Food Equity",
+      "paragraphs": [
+        465,
+        475
+      ],
+      "match": "causes of food inequity and influences on availability"
+    },
+    {
+      "section_id": "m01-section-2",
+      "focus_area": "Food Equity",
+      "paragraphs": [
+        462,
+        465,
+        475
+      ],
+      "match": "food security, water and distribution barriers"
+    },
+    {
+      "section_id": "m01-section-3",
+      "focus_area": "Food Equity",
+      "paragraphs": [
+        470,
+        488,
+        489
+      ],
+      "match": "groups at risk and the role of local or global aid"
+    },
+    {
+      "section_id": "m02-section-1",
+      "focus_area": "Food Trends",
+      "paragraphs": [
+        843,
+        877
+      ],
+      "match": "current trends and factors affecting acceptance"
+    },
+    {
+      "section_id": "m02-section-2",
+      "focus_area": "Food Trends",
+      "paragraphs": [
+        843,
+        849
+      ],
+      "match": "local produce, waste, value adding and sustainability"
+    },
+    {
+      "section_id": "m02-section-3",
+      "focus_area": "Food Trends",
+      "paragraphs": [
+        865,
+        877
+      ],
+      "match": "media promotion and consumer acceptance; label task extends the core content"
+    },
+    {
+      "section_id": "m03-section-1",
+      "focus_area": "Food for Special Occasions",
+      "paragraphs": [
+        791,
+        792,
+        796
+      ],
+      "match": "historical, social and cultural meaning of celebration food"
+    },
+    {
+      "section_id": "m03-section-2",
+      "focus_area": "Food for Special Occasions",
+      "paragraphs": [
+        791,
+        792,
+        796
+      ],
+      "match": "historical and cultural celebration contexts"
+    },
+    {
+      "section_id": "m03-section-3",
+      "focus_area": "Food for Special Occasions",
+      "paragraphs": [
+        811,
+        816,
+        817
+      ],
+      "match": "menu factors, workflow and presentation for an occasion"
+    },
+    {
+      "section_id": "m04-section-1",
+      "focus_area": "Food Service and Catering",
+      "paragraphs": [
+        674,
+        682,
+        686,
+        688
+      ],
+      "match": "service operations, employment and responsibilities"
+    },
+    {
+      "section_id": "m04-section-2",
+      "focus_area": "Food Service and Catering",
+      "paragraphs": [
+        710,
+        711
+      ],
+      "match": "menu examples and planning factors including staff, time and finance"
+    },
+    {
+      "section_id": "m04-section-3",
+      "focus_area": "Food Service and Catering",
+      "paragraphs": [
+        691,
+        698,
+        702
+      ],
+      "match": "spoilage, functional properties and food preservation"
+    }
+  ],
+  "website_learning_inventory": [
+    {
+      "section_id": "m01-section-1",
+      "module_id": "module-01",
+      "title": "What food equity means",
+      "route": "modules/module-01.html",
+      "sequence_slot": 1,
+      "question_count": 10,
+      "written_response_count": 1,
+      "site_ids": [
+        "m01-section-1-theory",
+        "m01-section-1-check",
+        "m01-section-1-response",
+        "m01-section-1-practice",
+        "m01-section-1-media",
+        "m01-section-1-visual",
+        "m01-section-1-video-library",
+        "module-01-workbook",
+        "module-01-deck"
+      ]
+    },
+    {
+      "section_id": "m01-section-2",
+      "module_id": "module-01",
+      "title": "Barriers to food and water",
+      "route": "modules/module-01.html",
+      "sequence_slot": 2,
+      "question_count": 10,
+      "written_response_count": 1,
+      "site_ids": [
+        "m01-section-2-theory",
+        "m01-section-2-check",
+        "m01-section-2-response",
+        "m01-section-2-practice",
+        "m01-section-2-media",
+        "m01-section-2-visual",
+        "m01-section-2-video-library",
+        "module-01-workbook"
+      ]
+    },
+    {
+      "section_id": "m01-section-3",
+      "module_id": "module-01",
+      "title": "Investigate and respond",
+      "route": "modules/module-01.html",
+      "sequence_slot": 3,
+      "question_count": 10,
+      "written_response_count": 1,
+      "site_ids": [
+        "m01-section-3-theory",
+        "m01-section-3-check",
+        "m01-section-3-response",
+        "m01-section-3-practice",
+        "m01-section-3-media",
+        "m01-section-3-visual",
+        "m01-section-3-video-library",
+        "module-01-workbook"
+      ]
+    },
+    {
+      "section_id": "m02-section-1",
+      "module_id": "module-02",
+      "title": "Why food trends emerge",
+      "route": "modules/module-02.html",
+      "sequence_slot": 6,
+      "question_count": 10,
+      "written_response_count": 1,
+      "site_ids": [
+        "m02-section-1-theory",
+        "m02-section-1-check",
+        "m02-section-1-response",
+        "m02-section-1-practice",
+        "m02-section-1-media",
+        "m02-section-1-visual",
+        "m02-section-1-video-library",
+        "module-02-workbook",
+        "module-02-deck"
+      ]
+    },
+    {
+      "section_id": "m02-section-2",
+      "module_id": "module-02",
+      "title": "Local produce, waste and value adding",
+      "route": "modules/module-02.html",
+      "sequence_slot": 7,
+      "question_count": 10,
+      "written_response_count": 1,
+      "site_ids": [
+        "m02-section-2-theory",
+        "m02-section-2-check",
+        "m02-section-2-response",
+        "m02-section-2-practice",
+        "m02-section-2-media",
+        "m02-section-2-visual",
+        "m02-section-2-video-library",
+        "module-02-workbook"
+      ]
+    },
+    {
+      "section_id": "m02-section-3",
+      "module_id": "module-02",
+      "title": "Evaluate a food trend",
+      "route": "modules/module-02.html",
+      "sequence_slot": 8,
+      "question_count": 10,
+      "written_response_count": 1,
+      "site_ids": [
+        "m02-section-3-theory",
+        "m02-section-3-check",
+        "m02-section-3-response",
+        "m02-section-3-practice",
+        "m02-section-3-media",
+        "m02-section-3-visual",
+        "m02-section-3-video-library",
+        "module-02-workbook"
+      ]
+    },
+    {
+      "section_id": "m03-section-1",
+      "module_id": "module-03",
+      "title": "Food, identity and significance",
+      "route": "modules/module-03.html",
+      "sequence_slot": 11,
+      "question_count": 10,
+      "written_response_count": 1,
+      "site_ids": [
+        "m03-section-1-theory",
+        "m03-section-1-check",
+        "m03-section-1-response",
+        "m03-section-1-practice",
+        "m03-section-1-media",
+        "m03-section-1-visual",
+        "m03-section-1-video-library",
+        "module-03-workbook",
+        "module-03-deck"
+      ]
+    },
+    {
+      "section_id": "m03-section-2",
+      "module_id": "module-03",
+      "title": "Celebrations across time and place",
+      "route": "modules/module-03.html",
+      "sequence_slot": 12,
+      "question_count": 10,
+      "written_response_count": 1,
+      "site_ids": [
+        "m03-section-2-theory",
+        "m03-section-2-check",
+        "m03-section-2-response",
+        "m03-section-2-practice",
+        "m03-section-2-media",
+        "m03-section-2-visual",
+        "m03-section-2-video-library",
+        "module-03-workbook"
+      ]
+    },
+    {
+      "section_id": "m03-section-3",
+      "module_id": "module-03",
+      "title": "Plan for an occasion",
+      "route": "modules/module-03.html",
+      "sequence_slot": 13,
+      "question_count": 10,
+      "written_response_count": 1,
+      "site_ids": [
+        "m03-section-3-theory",
+        "m03-section-3-check",
+        "m03-section-3-response",
+        "m03-section-3-practice",
+        "m03-section-3-media",
+        "m03-section-3-visual",
+        "m03-section-3-video-library",
+        "module-03-workbook"
+      ]
+    },
+    {
+      "section_id": "m04-section-1",
+      "module_id": "module-04",
+      "title": "Service settings and customers",
+      "route": "modules/module-04.html",
+      "sequence_slot": 16,
+      "question_count": 10,
+      "written_response_count": 1,
+      "site_ids": [
+        "m04-section-1-theory",
+        "m04-section-1-check",
+        "m04-section-1-response",
+        "m04-section-1-practice",
+        "m04-section-1-media",
+        "m04-section-1-visual",
+        "m04-section-1-video-library",
+        "module-04-workbook",
+        "module-04-deck"
+      ]
+    },
+    {
+      "section_id": "m04-section-2",
+      "module_id": "module-04",
+      "title": "Menus, teams and costs",
+      "route": "modules/module-04.html",
+      "sequence_slot": 17,
+      "question_count": 10,
+      "written_response_count": 1,
+      "site_ids": [
+        "m04-section-2-theory",
+        "m04-section-2-check",
+        "m04-section-2-response",
+        "m04-section-2-practice",
+        "m04-section-2-media",
+        "m04-section-2-visual",
+        "m04-section-2-video-library",
+        "module-04-workbook"
+      ]
+    },
+    {
+      "section_id": "m04-section-3",
+      "module_id": "module-04",
+      "title": "Functional properties and review",
+      "route": "modules/module-04.html",
+      "sequence_slot": 18,
+      "question_count": 10,
+      "written_response_count": 1,
+      "site_ids": [
+        "m04-section-3-theory",
+        "m04-section-3-check",
+        "m04-section-3-response",
+        "m04-section-3-practice",
+        "m04-section-3-media",
+        "m04-section-3-visual",
+        "m04-section-3-video-library",
+        "module-04-workbook"
+      ]
+    }
+  ],
+  "planning_sequence": [
+    {
+      "period": "1",
+      "term": 1,
+      "kind": "Site/theory",
+      "planned_focus": "What food equity means",
+      "teaching": "Compare food availability with real access using two households and a stocked shop. Read, sort availability/access evidence, then explain a barrier without blaming people.",
+      "syllabus_content": "Food equity: investigate access to suitable food and factors shaping food choices.",
+      "planned_evidence": "The 10-question check and one written access comparison saved locally.",
+      "outcome_codes": [
+        "FT5-6",
+        "FT5-7",
+        "FT5-8",
+        "FT5-9",
+        "FT5-12",
+        "FT5-13"
+      ],
+      "official_content_refs": {
+        "focus_area": "Food Equity",
+        "paragraphs": [
+          465,
+          475
+        ],
+        "match": "causes of food inequity and influences on availability"
+      },
+      "site_ids": [
+        "m01-section-1-theory",
+        "m01-section-1-check",
+        "m01-section-1-response",
+        "m01-section-1-practice",
+        "m01-section-1-media",
+        "m01-section-1-visual",
+        "m01-section-1-video-library",
+        "module-01-workbook",
+        "module-01-deck"
+      ],
+      "date_taught": "",
+      "teacher_initials": "",
+      "completion_or_variance": "",
+      "evidence_checked": "",
+      "adjustments": "",
+      "follow_up": ""
+    },
+    {
+      "period": "2",
+      "term": 1,
+      "kind": "Site/theory",
+      "planned_focus": "Barriers to food and water",
+      "teaching": "Trace food and safe-water supply barriers; weigh what desalination can and cannot address. Use the systems visual to mark an interruption and test response trade-offs.",
+      "syllabus_content": "Food equity: examine barriers to food and water supply and possible responses.",
+      "planned_evidence": "The 10-question check and one comparison of responses saved locally.",
+      "outcome_codes": [
+        "FT5-6",
+        "FT5-7",
+        "FT5-8",
+        "FT5-9",
+        "FT5-12",
+        "FT5-13"
+      ],
+      "official_content_refs": {
+        "focus_area": "Food Equity",
+        "paragraphs": [
+          462,
+          465,
+          475
+        ],
+        "match": "food security, water and distribution barriers"
+      },
+      "site_ids": [
+        "m01-section-2-theory",
+        "m01-section-2-check",
+        "m01-section-2-response",
+        "m01-section-2-practice",
+        "m01-section-2-media",
+        "m01-section-2-visual",
+        "m01-section-2-video-library",
+        "module-01-workbook"
+      ],
+      "date_taught": "",
+      "teacher_initials": "",
+      "completion_or_variance": "",
+      "evidence_checked": "",
+      "adjustments": "",
+      "follow_up": ""
+    },
+    {
+      "period": "3",
+      "term": 1,
+      "kind": "Site/theory",
+      "planned_focus": "Investigate and respond",
+      "teaching": "Test a food-access claim against dated, local evidence and design a targeted response. Separate observation from inference; write a claim-evidence-limitation conclusion.",
+      "syllabus_content": "Food equity: investigate food inequity using evidence and evaluate strategies for change.",
+      "planned_evidence": "The 10-question check and one evaluated access plan saved locally.",
+      "outcome_codes": [
+        "FT5-6",
+        "FT5-7",
+        "FT5-8",
+        "FT5-9",
+        "FT5-12",
+        "FT5-13"
+      ],
+      "official_content_refs": {
+        "focus_area": "Food Equity",
+        "paragraphs": [
+          470,
+          488,
+          489
+        ],
+        "match": "groups at risk and the role of local or global aid"
+      },
+      "site_ids": [
+        "m01-section-3-theory",
+        "m01-section-3-check",
+        "m01-section-3-response",
+        "m01-section-3-practice",
+        "m01-section-3-media",
+        "m01-section-3-visual",
+        "m01-section-3-video-library",
+        "module-01-workbook"
+      ],
+      "date_taught": "",
+      "teacher_initials": "",
+      "completion_or_variance": "",
+      "evidence_checked": "",
+      "adjustments": "",
+      "follow_up": ""
+    },
+    {
+      "period": "4",
+      "term": 1,
+      "kind": "Project/folio",
+      "planned_focus": "Apply and select evidence - Food Equity",
+      "teaching": "Use the Module 1 applied scenario and puzzle bank. Review all three checks; select one meaningful folio record.",
+      "syllabus_content": "Food equity: apply and communicate a reasoned food decision using relevant evidence.",
+      "planned_evidence": "Formative activity choice/justification and one selected folio card; formal submission remains in Classroom.",
+      "outcome_codes": [
+        "FT5-6",
+        "FT5-7",
+        "FT5-8",
+        "FT5-9",
+        "FT5-12",
+        "FT5-13"
+      ],
+      "site_ids": [
+        "module-01-activity",
+        "module-01-puzzle",
+        "module-01-folio",
+        "module-01-review"
+      ],
+      "date_taught": "",
+      "teacher_initials": "",
+      "completion_or_variance": "",
+      "evidence_checked": "",
+      "adjustments": "",
+      "follow_up": ""
+    },
+    {
+      "period": "5",
+      "term": 1,
+      "kind": "Practical",
+      "planned_focus": "Teacher-approved practical sequence - Food Equity",
+      "teaching": "Reserved planning slot only. Enter the approved recipe/brief, equipment, supervision, risk controls, preparation and clean-down before use. Allocate actual time from the local timetable.",
+      "syllabus_content": "Food equity: practical food design, preparation and evaluation under current school procedures.",
+      "planned_evidence": "Teacher-controlled practical observations and product evidence - Teacher to confirm.",
+      "outcome_codes": [],
+      "site_ids": [],
+      "date_taught": "",
+      "teacher_initials": "",
+      "completion_or_variance": "",
+      "evidence_checked": "",
+      "adjustments": "",
+      "follow_up": "",
+      "teacher_to_confirm_ids": [
+        "TBC-TIME",
+        "TBC-PRACTICAL"
+      ]
+    },
+    {
+      "period": "6",
+      "term": 2,
+      "kind": "Site/theory",
+      "planned_focus": "Why food trends emerge",
+      "teaching": "Identify drivers of a food trend and distinguish popularity from evidence of benefit. Sort fictional trend headlines into description, claim and evidence.",
+      "syllabus_content": "Food trends: examine current trends and factors influencing their appeal.",
+      "planned_evidence": "The 10-question check and one evaluation of two trend claims saved locally.",
+      "outcome_codes": [
+        "FT5-6",
+        "FT5-7",
+        "FT5-8",
+        "FT5-9",
+        "FT5-12",
+        "FT5-13"
+      ],
+      "official_content_refs": {
+        "focus_area": "Food Trends",
+        "paragraphs": [
+          843,
+          877
+        ],
+        "match": "current trends and factors affecting acceptance"
+      },
+      "site_ids": [
+        "m02-section-1-theory",
+        "m02-section-1-check",
+        "m02-section-1-response",
+        "m02-section-1-practice",
+        "m02-section-1-media",
+        "m02-section-1-visual",
+        "m02-section-1-video-library",
+        "module-02-workbook",
+        "module-02-deck"
+      ],
+      "date_taught": "",
+      "teacher_initials": "",
+      "completion_or_variance": "",
+      "evidence_checked": "",
+      "adjustments": "",
+      "follow_up": ""
+    },
+    {
+      "period": "7",
+      "term": 2,
+      "kind": "Site/theory",
+      "planned_focus": "Local produce, waste and value adding",
+      "teaching": "Compare local produce, food miles, waste and value adding across a food journey. Trace two produce journeys and record missing impact information.",
+      "syllabus_content": "Food trends: discuss local produce, food miles, food waste, value-added products and sustainability.",
+      "planned_evidence": "The 10-question check and one surplus-produce decision saved locally.",
+      "outcome_codes": [
+        "FT5-6",
+        "FT5-7",
+        "FT5-8",
+        "FT5-9",
+        "FT5-12",
+        "FT5-13"
+      ],
+      "official_content_refs": {
+        "focus_area": "Food Trends",
+        "paragraphs": [
+          843,
+          849
+        ],
+        "match": "local produce, waste, value adding and sustainability"
+      },
+      "site_ids": [
+        "m02-section-2-theory",
+        "m02-section-2-check",
+        "m02-section-2-response",
+        "m02-section-2-practice",
+        "m02-section-2-media",
+        "m02-section-2-visual",
+        "m02-section-2-video-library",
+        "module-02-workbook"
+      ],
+      "date_taught": "",
+      "teacher_initials": "",
+      "completion_or_variance": "",
+      "evidence_checked": "",
+      "adjustments": "",
+      "follow_up": ""
+    },
+    {
+      "period": "8",
+      "term": 2,
+      "kind": "Site/theory",
+      "planned_focus": "Evaluate a food trend",
+      "teaching": "Read a label fairly and evaluate a trend claim for a named consumer. Compare fictional labels per 100 g and name an unanswered question.",
+      "syllabus_content": "Food trends: investigate consumer appeal and test nutrition and environmental claims.",
+      "planned_evidence": "The 10-question check and one conditional trend recommendation saved locally.",
+      "outcome_codes": [
+        "FT5-6",
+        "FT5-7",
+        "FT5-8",
+        "FT5-9",
+        "FT5-12",
+        "FT5-13"
+      ],
+      "official_content_refs": {
+        "focus_area": "Food Trends",
+        "paragraphs": [
+          865,
+          877
+        ],
+        "match": "media promotion and consumer acceptance; label task extends the core content"
+      },
+      "site_ids": [
+        "m02-section-3-theory",
+        "m02-section-3-check",
+        "m02-section-3-response",
+        "m02-section-3-practice",
+        "m02-section-3-media",
+        "m02-section-3-visual",
+        "m02-section-3-video-library",
+        "module-02-workbook"
+      ],
+      "date_taught": "",
+      "teacher_initials": "",
+      "completion_or_variance": "",
+      "evidence_checked": "",
+      "adjustments": "",
+      "follow_up": ""
+    },
+    {
+      "period": "9",
+      "term": 2,
+      "kind": "Project/folio",
+      "planned_focus": "Apply and select evidence - Food Trends",
+      "teaching": "Use the Module 2 applied scenario and puzzle bank. Review all three checks; select one meaningful folio record. Open the posted Food Trends task in Classroom for formal instructions.",
+      "syllabus_content": "Food trends: apply and communicate a reasoned food decision using relevant evidence.",
+      "planned_evidence": "Formative activity choice/justification and one selected folio card; formal submission remains in Classroom.",
+      "outcome_codes": [
+        "FT5-6",
+        "FT5-7",
+        "FT5-8",
+        "FT5-9",
+        "FT5-12",
+        "FT5-13"
+      ],
+      "site_ids": [
+        "module-02-activity",
+        "module-02-puzzle",
+        "module-02-folio",
+        "module-02-review",
+        "module-02-assessment"
+      ],
+      "date_taught": "",
+      "teacher_initials": "",
+      "completion_or_variance": "",
+      "evidence_checked": "",
+      "adjustments": "",
+      "follow_up": ""
+    },
+    {
+      "period": "10",
+      "term": 2,
+      "kind": "Practical",
+      "planned_focus": "Teacher-approved practical sequence - Food Trends",
+      "teaching": "Reserved planning slot only. Enter the approved recipe/brief, equipment, supervision, risk controls, preparation and clean-down before use. Allocate actual time from the local timetable.",
+      "syllabus_content": "Food trends: practical food design, preparation and evaluation under current school procedures.",
+      "planned_evidence": "Teacher-controlled practical observations and product evidence - Teacher to confirm.",
+      "outcome_codes": [],
+      "site_ids": [],
+      "date_taught": "",
+      "teacher_initials": "",
+      "completion_or_variance": "",
+      "evidence_checked": "",
+      "adjustments": "",
+      "follow_up": "",
+      "teacher_to_confirm_ids": [
+        "TBC-TIME",
+        "TBC-PRACTICAL"
+      ]
+    },
+    {
+      "period": "11",
+      "term": 3,
+      "kind": "Site/theory",
+      "planned_focus": "Food, identity and significance",
+      "teaching": "Explain food significance using people, occasion and trustworthy perspectives. Compare fictional occasion accounts; avoid treating one family as a whole culture.",
+      "syllabus_content": "Food for special occasions: explore food's social, cultural and personal significance.",
+      "planned_evidence": "The 10-question check and one inclusive occasion explanation saved locally.",
+      "outcome_codes": [
+        "FT5-7",
+        "FT5-8",
+        "FT5-9",
+        "FT5-11",
+        "FT5-12"
+      ],
+      "official_content_refs": {
+        "focus_area": "Food for Special Occasions",
+        "paragraphs": [
+          791,
+          792,
+          796
+        ],
+        "match": "historical, social and cultural meaning of celebration food"
+      },
+      "site_ids": [
+        "m03-section-1-theory",
+        "m03-section-1-check",
+        "m03-section-1-response",
+        "m03-section-1-practice",
+        "m03-section-1-media",
+        "m03-section-1-visual",
+        "m03-section-1-video-library",
+        "module-03-workbook",
+        "module-03-deck"
+      ],
+      "date_taught": "",
+      "teacher_initials": "",
+      "completion_or_variance": "",
+      "evidence_checked": "",
+      "adjustments": "",
+      "follow_up": ""
+    },
+    {
+      "period": "12",
+      "term": 3,
+      "kind": "Site/theory",
+      "planned_focus": "Celebrations across time and place",
+      "teaching": "Compare celebration foods across time and place without assuming one fixed tradition. Mark observation, inference and missing perspective in a dated-menu example.",
+      "syllabus_content": "Food for special occasions: investigate celebration traditions, change and global influences.",
+      "planned_evidence": "The 10-question check and one source-aware historical comparison saved locally.",
+      "outcome_codes": [
+        "FT5-7",
+        "FT5-8",
+        "FT5-9",
+        "FT5-11",
+        "FT5-12"
+      ],
+      "official_content_refs": {
+        "focus_area": "Food for Special Occasions",
+        "paragraphs": [
+          791,
+          792,
+          796
+        ],
+        "match": "historical and cultural celebration contexts"
+      },
+      "site_ids": [
+        "m03-section-2-theory",
+        "m03-section-2-check",
+        "m03-section-2-response",
+        "m03-section-2-practice",
+        "m03-section-2-media",
+        "m03-section-2-visual",
+        "m03-section-2-video-library",
+        "module-03-workbook"
+      ],
+      "date_taught": "",
+      "teacher_initials": "",
+      "completion_or_variance": "",
+      "evidence_checked": "",
+      "adjustments": "",
+      "follow_up": ""
+    },
+    {
+      "period": "13",
+      "term": 3,
+      "kind": "Site/theory",
+      "planned_focus": "Plan for an occasion",
+      "teaching": "Justify a hypothetical occasion menu against guest needs, meaning and resources. Compare two hypothetical menu proposals against a brief and one trade-off.",
+      "syllabus_content": "Food for special occasions: plan suitable food choices for a specified occasion.",
+      "planned_evidence": "The 10-question check and one justified menu approach saved locally.",
+      "outcome_codes": [
+        "FT5-7",
+        "FT5-8",
+        "FT5-9",
+        "FT5-11",
+        "FT5-12"
+      ],
+      "official_content_refs": {
+        "focus_area": "Food for Special Occasions",
+        "paragraphs": [
+          811,
+          816,
+          817
+        ],
+        "match": "menu factors, workflow and presentation for an occasion"
+      },
+      "site_ids": [
+        "m03-section-3-theory",
+        "m03-section-3-check",
+        "m03-section-3-response",
+        "m03-section-3-practice",
+        "m03-section-3-media",
+        "m03-section-3-visual",
+        "m03-section-3-video-library",
+        "module-03-workbook"
+      ],
+      "date_taught": "",
+      "teacher_initials": "",
+      "completion_or_variance": "",
+      "evidence_checked": "",
+      "adjustments": "",
+      "follow_up": ""
+    },
+    {
+      "period": "14",
+      "term": 3,
+      "kind": "Project/folio",
+      "planned_focus": "Apply and select evidence - Food for Special Occasions",
+      "teaching": "Use the Module 3 applied scenario and puzzle bank. Review all three checks; select one meaningful folio record.",
+      "syllabus_content": "Food for special occasions: apply and communicate a reasoned food decision using relevant evidence.",
+      "planned_evidence": "Formative activity choice/justification and one selected folio card; formal submission remains in Classroom.",
+      "outcome_codes": [
+        "FT5-7",
+        "FT5-8",
+        "FT5-9",
+        "FT5-11",
+        "FT5-12"
+      ],
+      "site_ids": [
+        "module-03-activity",
+        "module-03-puzzle",
+        "module-03-folio",
+        "module-03-review"
+      ],
+      "date_taught": "",
+      "teacher_initials": "",
+      "completion_or_variance": "",
+      "evidence_checked": "",
+      "adjustments": "",
+      "follow_up": ""
+    },
+    {
+      "period": "15",
+      "term": 3,
+      "kind": "Practical",
+      "planned_focus": "Teacher-approved practical sequence - Food for Special Occasions",
+      "teaching": "Reserved planning slot only. Enter the approved recipe/brief, equipment, supervision, risk controls, preparation and clean-down before use. Allocate actual time from the local timetable.",
+      "syllabus_content": "Food for special occasions: practical food design, preparation and evaluation under current school procedures.",
+      "planned_evidence": "Teacher-controlled practical observations and product evidence - Teacher to confirm.",
+      "outcome_codes": [],
+      "site_ids": [],
+      "date_taught": "",
+      "teacher_initials": "",
+      "completion_or_variance": "",
+      "evidence_checked": "",
+      "adjustments": "",
+      "follow_up": "",
+      "teacher_to_confirm_ids": [
+        "TBC-TIME",
+        "TBC-PRACTICAL"
+      ]
+    },
+    {
+      "period": "16",
+      "term": 4,
+      "kind": "Site/theory",
+      "planned_focus": "Service settings and customers",
+      "teaching": "Compare canteen, café, food truck and event-catering service models. Map an allergen-information question through front and back of house.",
+      "syllabus_content": "Food service and catering: examine ventures, customers, operations and staff roles.",
+      "planned_evidence": "The 10-question check and one service-setting comparison saved locally.",
+      "outcome_codes": [
+        "FT5-3",
+        "FT5-4",
+        "FT5-7",
+        "FT5-11",
+        "FT5-12",
+        "FT5-13"
+      ],
+      "official_content_refs": {
+        "focus_area": "Food Service and Catering",
+        "paragraphs": [
+          674,
+          682,
+          686,
+          688
+        ],
+        "match": "service operations, employment and responsibilities"
+      },
+      "site_ids": [
+        "m04-section-1-theory",
+        "m04-section-1-check",
+        "m04-section-1-response",
+        "m04-section-1-practice",
+        "m04-section-1-media",
+        "m04-section-1-visual",
+        "m04-section-1-video-library",
+        "module-04-workbook",
+        "module-04-deck"
+      ],
+      "date_taught": "",
+      "teacher_initials": "",
+      "completion_or_variance": "",
+      "evidence_checked": "",
+      "adjustments": "",
+      "follow_up": ""
+    },
+    {
+      "period": "17",
+      "term": 4,
+      "kind": "Site/theory",
+      "planned_focus": "Menus, teams and costs",
+      "teaching": "Weigh menu formats, yield, cost categories, team capacity and communication. Use a fictional brief to compare set and à la carte formats.",
+      "syllabus_content": "Food service and catering: investigate menus, costs, work roles and workflow planning.",
+      "planned_evidence": "The 10-question check and one menu-workflow evaluation saved locally.",
+      "outcome_codes": [
+        "FT5-3",
+        "FT5-4",
+        "FT5-7",
+        "FT5-11",
+        "FT5-12",
+        "FT5-13"
+      ],
+      "official_content_refs": {
+        "focus_area": "Food Service and Catering",
+        "paragraphs": [
+          710,
+          711
+        ],
+        "match": "menu examples and planning factors including staff, time and finance"
+      },
+      "site_ids": [
+        "m04-section-2-theory",
+        "m04-section-2-check",
+        "m04-section-2-response",
+        "m04-section-2-practice",
+        "m04-section-2-media",
+        "m04-section-2-visual",
+        "m04-section-2-video-library",
+        "module-04-workbook"
+      ],
+      "date_taught": "",
+      "teacher_initials": "",
+      "completion_or_variance": "",
+      "evidence_checked": "",
+      "adjustments": "",
+      "follow_up": ""
+    },
+    {
+      "period": "18",
+      "term": 4,
+      "kind": "Site/theory",
+      "planned_focus": "Functional properties and review",
+      "teaching": "Explain ingredient function, observable change and fair product comparison. Compare fictional observations without attributing changes to an uncontrolled factor.",
+      "syllabus_content": "Food service and catering: investigate food properties and evaluate a food solution.",
+      "planned_evidence": "The 10-question check and one controlled-improvement evaluation saved locally.",
+      "outcome_codes": [
+        "FT5-3",
+        "FT5-4",
+        "FT5-7",
+        "FT5-11",
+        "FT5-12",
+        "FT5-13"
+      ],
+      "official_content_refs": {
+        "focus_area": "Food Service and Catering",
+        "paragraphs": [
+          691,
+          698,
+          702
+        ],
+        "match": "spoilage, functional properties and food preservation"
+      },
+      "site_ids": [
+        "m04-section-3-theory",
+        "m04-section-3-check",
+        "m04-section-3-response",
+        "m04-section-3-practice",
+        "m04-section-3-media",
+        "m04-section-3-visual",
+        "m04-section-3-video-library",
+        "module-04-workbook"
+      ],
+      "date_taught": "",
+      "teacher_initials": "",
+      "completion_or_variance": "",
+      "evidence_checked": "",
+      "adjustments": "",
+      "follow_up": ""
+    },
+    {
+      "period": "19",
+      "term": 4,
+      "kind": "Project/folio",
+      "planned_focus": "Apply and select evidence - Food Service and Catering",
+      "teaching": "Use the Module 4 applied scenario and puzzle bank. Review all three checks; select one meaningful folio record.",
+      "syllabus_content": "Food service and catering: apply and communicate a reasoned food decision using relevant evidence.",
+      "planned_evidence": "Formative activity choice/justification and one selected folio card; formal submission remains in Classroom.",
+      "outcome_codes": [
+        "FT5-3",
+        "FT5-4",
+        "FT5-7",
+        "FT5-11",
+        "FT5-12",
+        "FT5-13"
+      ],
+      "site_ids": [
+        "module-04-activity",
+        "module-04-puzzle",
+        "module-04-folio",
+        "module-04-review"
+      ],
+      "date_taught": "",
+      "teacher_initials": "",
+      "completion_or_variance": "",
+      "evidence_checked": "",
+      "adjustments": "",
+      "follow_up": ""
+    },
+    {
+      "period": "20",
+      "term": 4,
+      "kind": "Practical",
+      "planned_focus": "Teacher-approved practical sequence - Food Service and Catering",
+      "teaching": "Reserved planning slot only. Enter the approved recipe/brief, equipment, supervision, risk controls, preparation and clean-down before use. Allocate actual time from the local timetable.",
+      "syllabus_content": "Food service and catering: practical food design, preparation and evaluation under current school procedures.",
+      "planned_evidence": "Teacher-controlled practical observations and product evidence - Teacher to confirm.",
+      "outcome_codes": [],
+      "site_ids": [],
+      "date_taught": "",
+      "teacher_initials": "",
+      "completion_or_variance": "",
+      "evidence_checked": "",
+      "adjustments": "",
+      "follow_up": "",
+      "teacher_to_confirm_ids": [
+        "TBC-TIME",
+        "TBC-PRACTICAL"
+      ]
+    }
+  ],
+  "teacher_to_confirm": [
+    {
+      "id": "TBC-TIME",
+      "status": "Teacher to confirm",
+      "owner": "Course teacher / faculty",
+      "affected_scope": "All four terms and all sequence slots",
+      "due_before": "Timetable approval",
+      "smallest_action": "Enter 100- or 200-hour course basis, lesson length, periods per cycle and actual dates; replace sequence slots with approved period allocation."
+    },
+    {
+      "id": "TBC-SYLLABUS",
+      "status": "Teacher to confirm",
+      "owner": "Faculty / school",
+      "affected_scope": "Syllabus implementation decision",
+      "due_before": "Program sign-off",
+      "smallest_action": "Confirm whether a documented 2026 early adoption of the 2025 syllabus applies; otherwise retain the 2019 basis."
+    },
+    {
+      "id": "TBC-PRACTICAL",
+      "status": "Teacher to confirm",
+      "owner": "Course teacher / faculty",
+      "affected_scope": "Practical majority, recipes, equipment, local WHS and evidence for FT5-1, FT5-2, FT5-5 and FT5-10",
+      "due_before": "Any practical delivery",
+      "smallest_action": "Insert the approved practical sequence, timetable share, recipe/equipment directions, risk controls and evidence checks from current school records."
+    },
+    {
+      "id": "TBC-ASSESSMENT",
+      "status": "Teacher to confirm",
+      "owner": "Course teacher / faculty",
+      "affected_scope": "Formal assessments other than the posted Food Trends task",
+      "due_before": "Assessment notification",
+      "smallest_action": "Attach approved full-year schedule and issued notices; confirm dates, weights, outcomes and submission rules."
+    },
+    {
+      "id": "TBC-EXAM",
+      "status": "Teacher to confirm",
+      "owner": "Course teacher / faculty",
+      "affected_scope": "Draft 2026 examination notification",
+      "due_before": "Any exam reference to students",
+      "smallest_action": "Confirm whether the draft notice was issued; keep it out of the student program until verified."
+    },
+    {
+      "id": "TBC-RIGHTS",
+      "status": "Teacher to confirm",
+      "owner": "Resource owner / faculty",
+      "affected_scope": "Publisher unit, recipe booklet and third-party media",
+      "due_before": "Public reuse",
+      "smallest_action": "Confirm reuse rights before adding full text, recipes, worksheets or images to a public site."
+    }
+  ],
+  "assessment_boundary": "Only the posted Food Trends task is confirmed; dates, weighting and submission remain in live Classroom. Draft exam is not issued evidence.",
+  "master_relationship": "master-not-established for 2019 syllabus; this unit records only its four term focus areas",
+  "exclusions": [
+    "Student work, names and marks",
+    "2025 exam and answers",
+    "Legacy Year 9/10 Food Product Development and Food in Australia files that conflict with the 2026 Classroom spine",
+    "Licensed publisher worksheets, recipe methods and images in a public site"
+  ],
+  "revision": [
+    {
+      "version": "v1.0.0",
+      "date": "2026-09-24",
+      "reason": "First site-aligned local teacher review package",
+      "source_map_sha256": "8f7cf7c830fb2f7bad9d6c164a34ee1d8f99bbd5f7581c51bdd87d13f85764ce",
+      "integration_baseline_sha256": "ff17d741d2504a591c99779015bc722713463efd83629bb5be7673d2c2187f2c"
+    },
+    {
+      "version": "v1.0.0",
+      "date": "2026-09-25",
+      "reason": "Metadata-only rebind to video library and accepted workbook; teacher documents unchanged",
+      "source_map_sha256": "771dabbdf7d4bf15be0efea9ab7201d7a86fa8746a28646d103c967d87b9d594",
+      "integration_baseline_sha256": "abca4d44e630c2826188b47ab7b59d9271d43957b926446b0beef54d05a90e7c"
+    },
+    {
+      "version": "v1.0.0",
+      "date": "2026-09-25",
+      "reason": "Metadata-only rebind after M3.1 video source-fit correction; teacher documents unchanged",
+      "source_map_sha256": "771dabbdf7d4bf15be0efea9ab7201d7a86fa8746a28646d103c967d87b9d594",
+      "integration_baseline_sha256": "b0cb43994aaca5e870ffd9e6c2e4ef9491b3889a5c395b5aa50b800422577b52"
+    },
+    {
+      "version": "v1.0.0",
+      "date": "2026-09-25",
+      "reason": "Metadata-only rebind after video lightbox correction; teacher documents unchanged",
+      "source_map_sha256": "771dabbdf7d4bf15be0efea9ab7201d7a86fa8746a28646d103c967d87b9d594",
+      "integration_baseline_sha256": "0493ca4406edf9d7b72fd36ecf34b67acdf5aa736fe5d137c50d0677774170f4"
+    },
+    {
+      "version": "v1.0.0",
+      "date": "2026-09-25",
+      "reason": "Metadata-only rebind after module sidebar removal; teacher documents unchanged",
+      "source_map_sha256": "771dabbdf7d4bf15be0efea9ab7201d7a86fa8746a28646d103c967d87b9d594",
+      "integration_baseline_sha256": "c4e5ce868e2e12e2e0b59d6a7546a6625aed6fece36dac1ef8794b209307fb6d"
+    }
+  ],
+  "sign_off": {
+    "teacher": "",
+    "head_teacher": "",
+    "date": "",
+    "state": "Pending school review"
+  }
+}

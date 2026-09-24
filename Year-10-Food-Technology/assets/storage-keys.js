@@ -1,0 +1,2 @@
+/* localStorage literal keys for isolated section evidence */
+window.FT10_PACKAGE_KEYS = ["ft10-2026-v1:m01-section-1", "ft10-2026-v1:m01-section-2", "ft10-2026-v1:m01-section-3", "ft10-2026-v1:m02-section-1", "ft10-2026-v1:m02-section-2", "ft10-2026-v1:m02-section-3", "ft10-2026-v1:m03-section-1", "ft10-2026-v1:m03-section-2", "ft10-2026-v1:m03-section-3", "ft10-2026-v1:m04-section-1", "ft10-2026-v1:m04-section-2", "ft10-2026-v1:m04-section-3"];
