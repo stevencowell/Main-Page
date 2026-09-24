@@ -22,7 +22,7 @@
   #programmable-light .banner-copy h4{font-size:clamp(1.15rem,5.75vw,1.4rem);line-height:1.15;margin-top:8px}
 }
 
-/* Subject sections follow the textbook library’s subject categories. */
+/* Subject sections follow the textbook library�s subject categories. */
 .collection-intro{color:var(--muted);margin:-12px 0 20px}
 .subject-nav{display:flex;flex-wrap:wrap;gap:12px;margin-bottom:36px}
 .subject-nav a{display:inline-flex;align-items:center;gap:16px;min-height:48px;padding:10px 18px;border:1px solid #b6c6c1;border-radius:10px;background:white;font-weight:700;text-decoration:none}
@@ -31,6 +31,7 @@
 .subject-groups{display:grid;gap:46px}
 .classroom-subject{--subject-accent:#86501f;--subject-soft:#f5eadb;min-width:0;scroll-margin-top:8px}
 .classroom-subject--technology{--subject-accent:#176046;--subject-soft:#e8f3ed}
+.classroom-subject--food{--subject-accent:#8c5727;--subject-soft:#fff0df}
 .classroom-subject--textiles{--subject-accent:#8a285d;--subject-soft:#f6e7ef}
 .subject-heading{display:flex;align-items:center;justify-content:space-between;gap:24px;margin-bottom:24px;padding:22px 24px;border:1px solid var(--line);border-left:7px solid var(--subject-accent);border-radius:14px;background:linear-gradient(115deg,var(--subject-soft),#fff 85%)}
 .subject-heading h3{margin:0;color:var(--subject-accent);font:700 clamp(1.65rem,3vw,2rem)/1.2 Georgia,"Times New Roman",serif;letter-spacing:-.025em}
