@@ -16,7 +16,9 @@
     "pdf": "books/desk-tidy/desk-tidy-student-workbook.pdf",
     "word": "books/desk-tidy/desk-tidy-student-workbook.docx",
     "teacherGuide": "books/desk-tidy/desk-tidy-teacher-guide.pdf",
-    "course": "https://stevencowell.github.io/desk-tidy/"
+    "course": "https://stevencowell.github.io/desk-tidy/",
+    "classroom": "../classroom-library/#desk-tidy",
+    "classroomLabel": "Open Desk Tidy Classroom and joining instructions"
   },
   {
     "id": "footstool",
@@ -92,7 +94,9 @@
     "pdf": "books/small-box/small-box-student-workbook.pdf",
     "word": "books/small-box/small-box-student-workbook.docx",
     "teacherGuide": "books/small-box/small-box-teacher-guide.pdf",
-    "course": "https://stevencowell.github.io/Small-Box/"
+    "course": "https://stevencowell.github.io/Small-Box/",
+    "classroom": "../classroom-library/#small-box",
+    "classroomLabel": "Open the matching Google Classroom"
   },
   {
     "id": "clock",
@@ -111,7 +115,9 @@
     "pdf": "books/clock/clock-student-workbook.pdf",
     "word": "books/clock/clock-student-workbook.docx",
     "teacherGuide": "books/clock/clock-teacher-guide.pdf",
-    "course": "https://stevencowell.github.io/Yr-9-Clock/"
+    "course": "https://stevencowell.github.io/Yr-9-Clock/",
+    "classroom": "../classroom-library/#clock",
+    "classroomLabel": "Open Clock Classroom and joining instructions"
   },
   {
     "id": "bbq-carry-all",
@@ -130,7 +136,9 @@
     "pdf": "books/bbq-carry-all/bbq-carry-all-student-workbook.pdf",
     "word": "books/bbq-carry-all/bbq-carry-all-student-workbook.docx",
     "teacherGuide": "books/bbq-carry-all/bbq-carry-all-teacher-guide.pdf",
-    "course": "https://stevencowell.github.io/Yr-9-Carry-All/"
+    "course": "https://stevencowell.github.io/Yr-9-Carry-All/",
+    "classroom": "../classroom-library/#bbq-carry-all",
+    "classroomLabel": "Open the matching Google Classroom"
   },
   {
     "id": "mirror",
@@ -168,7 +176,9 @@
     "pdf": "books/folding-chair/folding-chair-student-workbook.pdf",
     "word": "books/folding-chair/folding-chair-student-workbook.docx",
     "teacherGuide": "books/folding-chair/folding-chair-teacher-guide.pdf",
-    "course": "https://stevencowell.github.io/folding-chair-guided-course/"
+    "course": "https://stevencowell.github.io/folding-chair-guided-course/",
+    "classroom": "../classroom-library/#folding-chair",
+    "classroomLabel": "Open the matching Google Classroom"
   },
   {
     "id": "bedside-table",
@@ -187,7 +197,9 @@
     "pdf": "books/bedside-table/bedside-table-student-workbook.pdf",
     "word": "books/bedside-table/bedside-table-student-workbook.docx",
     "teacherGuide": "books/bedside-table/bedside-table-teacher-guide.pdf",
-    "course": "https://stevencowell.github.io/bedside-table-guided-course/"
+    "course": "https://stevencowell.github.io/bedside-table-guided-course/",
+    "classroom": "../classroom-library/#bedside-table",
+    "classroomLabel": "Open the matching Google Classroom"
   },
   {
     "id": "pen",
@@ -206,7 +218,9 @@
     "pdf": "books/pen/pen-student-workbook.pdf",
     "word": "books/pen/pen-student-workbook.docx",
     "teacherGuide": "books/pen/pen-teacher-guide.pdf",
-    "course": "https://stevencowell.github.io/Yr-9-Pen/"
+    "course": "https://stevencowell.github.io/Yr-9-Pen/",
+    "classroom": "../classroom-library/#pen",
+    "classroomLabel": "Open the matching Google Classroom"
   },
   {
     "id": "hose-reel-holder",
@@ -263,6 +277,27 @@
     "pdf": "books/bucket-hat/bucket-hat-student-workbook.pdf",
     "word": "books/bucket-hat/bucket-hat-student-workbook.docx",
     "teacherGuide": "books/bucket-hat/bucket-hat-teacher-guide.pdf",
-    "course": "https://stevencowell.github.io/Year-7-8-Bucket-Hat/"
+    "course": "https://stevencowell.github.io/Year-7-8-Bucket-Hat/",
+    "classroom": "../classroom-library/#bucket-hat",
+    "classroomLabel": "Open the matching Google Classroom"
+  },
+  {
+    "id": "year-10-food-technology",
+    "title": "Year 10 Food Technology",
+    "subject": "Food Technology",
+    "stage": "Stage 5",
+    "type": "Student workbook",
+    "edition": "2026",
+    "published": "2026-09-25",
+    "description": "Explore food equity, food trends, special occasions and food service through four Year 10 modules. Read, question evidence and record your thinking alongside the guided course.",
+    "includes": "Illustrated readings, food-system examples, practical thinking prompts and space for written responses. The 50-page PDF is ready for double-sided A4 printing.",
+    "pages": 50,
+    "sheets": 25,
+    "cover": "assets/year-10-food-technology-cover.jpg",
+    "preview": "assets/year-10-food-technology-inside-page-04.jpg",
+    "pdf": "../Year-10-Food-Technology/assets/workbook/Year-10-Food-Technology-Student-Workbook-50-pages.pdf",
+    "course": "https://stevencowell.github.io/Main-Page/Year-10-Food-Technology/",
+    "classroom": "../classroom-library/#food-technology",
+    "classroomLabel": "Open the matching Google Classroom"
   }
 ]
