@@ -9,7 +9,7 @@
 @media(max-width:700px){.shell{width:calc(100% - 32px)}.header-inner{flex-wrap:wrap;gap:0;padding:14px 0}.brand{min-height:44px}.header-inner nav{gap:4px;width:100%;justify-content:space-between}.header-inner nav a{font-size:.78rem;padding:10px 3px}.intro{padding-top:34px}.lead{font-size:1.15rem}.intro-copy{font-size:.98rem}.intro-meta{flex-direction:column;gap:4px}.section-heading{display:block}.section-heading h2{font-size:1.8rem}.section-heading a{display:inline-block}.classroom-grid{grid-template-columns:1fr;gap:32px}.card-banner{aspect-ratio:2.9}.banner-copy h4{font-size:1.6rem}.learning-note{padding:28px 6px 0}.learning-note ol{grid-template-columns:1fr}.learning-note h2 br{display:none}.learning-note h2{font-size:2rem}.joining{grid-template-columns:1fr;gap:20px;padding:36px 0 44px}.joining h2{font-size:2.1rem}.joining h2 br{display:none}.joining>div>p:not(.eyebrow){max-width:none}.footer-inner{align-items:start;flex-direction:column;gap:5px}}
 .card-facts li:last-child{flex-basis:100%}
 .card-banner{min-height:150px}
-.footstool-banner img,.breadboard-banner img,.clock-banner img,.desk-tidy-banner img{object-position:right center}
+.footstool-banner img,.breadboard-banner img,.clock-banner img,.desk-tidy-banner img,.bbq-case-banner img{object-position:right center}
 @media(max-width:900px){.companion-links{flex-direction:column;gap:0}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{transition:none!important}}
 @media(max-width:700px){.bedside-table-banner:after{background:linear-gradient(90deg,#142530b3 0%,#14253070 52%,transparent 85%)}}
@@ -30,6 +30,7 @@
 .subject-nav span{display:grid;place-items:center;min-width:27px;height:27px;padding-inline:6px;border-radius:50%;background:#edf2ef;font-size:.8rem;color:var(--teal)}
 .subject-groups{display:grid;gap:46px}
 .classroom-subject{--subject-accent:#86501f;--subject-soft:#f5eadb;min-width:0;scroll-margin-top:8px}
+.classroom-subject--metal{--subject-accent:#285364;--subject-soft:#e5eff2}
 .classroom-subject--technology{--subject-accent:#176046;--subject-soft:#e8f3ed}
 .classroom-subject--food{--subject-accent:#8c5727;--subject-soft:#fff0df}
 .classroom-subject--textiles{--subject-accent:#8a285d;--subject-soft:#f6e7ef}
@@ -40,3 +41,5 @@
 .back-to-subjects{display:inline-block;min-height:44px;padding:10px 0;margin-top:12px;font-size:.85rem;font-weight:650;text-underline-offset:4px}
 .collection>.learning-note{margin-top:42px}
 @media(max-width:700px){.subject-nav{gap:10px;margin-bottom:26px}.subject-nav a{padding:10px 14px;gap:12px;font-size:.88rem}.subject-groups{gap:30px}.subject-heading{align-items:flex-start;flex-direction:column;gap:12px;padding:19px 18px}.subject-count{text-align:left;max-width:none}.collection>.learning-note{margin-top:30px}}
+
+@media(max-width:700px){.bbq-case-banner .banner-copy{top:18px;left:20px;width:66%;max-width:calc(100% - 40px)}.bbq-case-banner .banner-copy>span{display:block;font-size:.62rem;line-height:1.4;letter-spacing:.06em}.bbq-case-banner .banner-copy h4{font-size:clamp(1.1rem,5.5vw,1.4rem);line-height:1.15;margin-top:8px}}
