@@ -316,7 +316,28 @@
     "pdf": "books/fishing-rod-holder/fishing-rod-holder-student-textbook.pdf",
     "word": "books/fishing-rod-holder/fishing-rod-holder-student-textbook.docx",
     "teacherGuide": "books/fishing-rod-holder/fishing-rod-holder-teacher-guide.pdf",
-    "course": "https://stevencowell.github.io/Yr-9-Metal/fishing-rod-holder/"
+    "course": "https://stevencowell.github.io/Yr-9-Metal/fishing-rod-holder/",
+    "classroom": "../classroom-library/#fishing-rod-holder",
+    "classroomLabel": "Open the matching Google Classroom"
+  },
+  {
+    "id": "cnc-plasma",
+    "title": "CNC Plasma Cutter",
+    "subject": "Metal",
+    "stage": "Optional Year 10",
+    "type": "Student workbook",
+    "edition": "1.0",
+    "published": "2026-09-25",
+    "description": "Develop accurate CAD drawings, check geometry and production files, understand teacher-controlled cutting and evaluate evidence from the CNC plasma process.",
+    "includes": "Five illustrated modules, 15 lessons, all 150 original knowledge-check questions, ten applied activities and five folio stages. Includes generous working space, an editable Word edition and a separate 33-page teacher guide with answers.",
+    "pages": 50,
+    "sheets": 25,
+    "cover": "assets/cnc-plasma-cover.webp",
+    "preview": "assets/cnc-plasma-preview.webp",
+    "pdf": "books/cnc-plasma/cnc-plasma-student-workbook.pdf",
+    "word": "books/cnc-plasma/cnc-plasma-student-workbook.docx",
+    "teacherGuide": "books/cnc-plasma/cnc-plasma-teacher-guide.pdf",
+    "course": "https://stevencowell.github.io/Main-Page/CNC-Plasma/"
   },
   {
     "id": "bucket-hat",
