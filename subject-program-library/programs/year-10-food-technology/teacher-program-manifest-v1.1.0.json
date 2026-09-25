@@ -1,0 +1,2336 @@
+{
+  "schema_version": "1.0",
+  "artifact_id": "year-10-food-technology-2026-teacher-program",
+  "version": "v1.1.0",
+  "build_id": "food-tech-2026-linked-program-v1.1.0",
+  "course": "Year 10 Food Technology",
+  "cohort": "10FOTE1 - 2026 Mrs Fuller",
+  "delivery_year": 2026,
+  "source_contract": {
+    "artifact_id": "year-10-food-technology-2026-source-map-v2",
+    "version": "v2",
+    "sha256": "771dabbdf7d4bf15be0efea9ab7201d7a86fa8746a28646d103c967d87b9d594"
+  },
+  "integration_baseline": {
+    "artifact_id": "food-technology-2026-local-integrated-v1",
+    "sha256": "c4e5ce868e2e12e2e0b59d6a7546a6625aed6fece36dac1ef8794b209307fb6d"
+  },
+  "syllabus_basis": {
+    "title": "Food Technology 7–10 Syllabus (2019)",
+    "version": "2019",
+    "outcome_code_family": "FT5",
+    "official_url": "https://www.nsw.gov.au/education-and-training/nesa/curriculum/tas/food-technology-7-10-2019",
+    "verified_date": "2026-09-24",
+    "mandatory_from": "2019 basis current for 2026; successor 2025 begins 2028",
+    "implementation_status": "current 2019 basis; local early adoption of 2025 Teacher to confirm",
+    "delivery_year": 2026
+  },
+  "authority_state": "School-developed review draft; teacher timetable, practical and assessment sign-off pending",
+  "release_state": "published teacher review draft; school sign-off pending",
+  "outcomes": [
+    {
+      "code": "FT5-3",
+      "statement": "describes the physical and chemical properties of a variety of foods",
+      "source_id": "nesa-outcomes",
+      "module_ids": [
+        "module-04"
+      ]
+    },
+    {
+      "code": "FT5-4",
+      "statement": "accounts for changes to the properties of food which occur during food processing, preparation and storage",
+      "source_id": "nesa-outcomes",
+      "module_ids": [
+        "module-04"
+      ]
+    },
+    {
+      "code": "FT5-6",
+      "statement": "describes the relationship between food consumption, the nutritional value of foods and the health of individuals and communities",
+      "source_id": "nesa-outcomes",
+      "module_ids": [
+        "module-01",
+        "module-02"
+      ]
+    },
+    {
+      "code": "FT5-7",
+      "statement": "justifies food choices by analysing the factors that influence eating habits",
+      "source_id": "nesa-outcomes",
+      "module_ids": [
+        "module-01",
+        "module-02",
+        "module-03",
+        "module-04"
+      ]
+    },
+    {
+      "code": "FT5-8",
+      "statement": "collects, evaluates and applies information from a variety of sources",
+      "source_id": "nesa-outcomes",
+      "module_ids": [
+        "module-01",
+        "module-02",
+        "module-03"
+      ]
+    },
+    {
+      "code": "FT5-9",
+      "statement": "communicates ideas and information using a range of media and appropriate terminology",
+      "source_id": "nesa-outcomes",
+      "module_ids": [
+        "module-01",
+        "module-02",
+        "module-03"
+      ]
+    },
+    {
+      "code": "FT5-11",
+      "statement": "plans, prepares, presents and evaluates food solutions for specific purposes",
+      "source_id": "nesa-outcomes",
+      "module_ids": [
+        "module-03",
+        "module-04"
+      ]
+    },
+    {
+      "code": "FT5-12",
+      "statement": "examines the relationship between food, technology and society",
+      "source_id": "nesa-outcomes",
+      "module_ids": [
+        "module-01",
+        "module-02",
+        "module-03",
+        "module-04"
+      ]
+    },
+    {
+      "code": "FT5-13",
+      "statement": "evaluates the impact of activities related to food on the individual, society and the environment",
+      "source_id": "nesa-outcomes",
+      "module_ids": [
+        "module-01",
+        "module-02",
+        "module-04"
+      ]
+    }
+  ],
+  "modules": [
+    {
+      "module_id": "module-01",
+      "title": "Food Equity",
+      "timing": "Term 1; actual periods Teacher to confirm",
+      "outcome_codes": [
+        "FT5-6",
+        "FT5-7",
+        "FT5-8",
+        "FT5-9",
+        "FT5-12",
+        "FT5-13"
+      ],
+      "sections": [
+        {
+          "section_id": "m01-section-1",
+          "title": "What food equity means",
+          "content_descriptors": [
+            "Food equity: investigate access to suitable food and factors shaping food choices."
+          ],
+          "source_ids": [
+            "nesa-2019",
+            "classroom-2026",
+            "site-video-candidates",
+            "student-workbook"
+          ],
+          "official_content_refs": {
+            "focus_area": "Food Equity",
+            "paragraphs": [
+              465,
+              475
+            ],
+            "match": "causes of food inequity and influences on availability"
+          },
+          "learning_intention": "Compare food availability with real access using two households and a stocked shop.",
+          "learning_sequence": "Read, sort availability/access evidence, then explain a barrier without blaming people.",
+          "evidence": "The 10-question check and one written access comparison saved locally.",
+          "formative_checks": "Exactly 10 feedback-rich MCQs and one scaffolded written response; formative device-local record.",
+          "adjustments": "Use the adjacent visual, vocabulary support, read-aloud or paired discussion as needed; keep the written response accessible.",
+          "literacy_numeracy_digital": "Explain a claim using evidence; interpret comparison information; use the device-local save and export controls.",
+          "safety_workplace": "No student practical directions are authorised here. Follow the teacher's current local controls for any making task.",
+          "resources": [
+            "Module 1 PowerPoint",
+            "Original section visual",
+            "Video candidate/gap record and equivalent non-video pathway",
+            "Student workbook companion",
+            "Current Classroom when teacher directs"
+          ],
+          "site_destinations": {
+            "theory": "m01-section-1-theory",
+            "knowledge_check": "m01-section-1-check",
+            "evidence": "m01-section-1-response",
+            "activity": "m01-section-1-practice",
+            "media": [
+              "m01-section-1-media",
+              "m01-section-1-visual",
+              "m01-section-1-video-library"
+            ],
+            "workbook": "module-01-workbook"
+          },
+          "outcome_codes": [
+            "FT5-6",
+            "FT5-7",
+            "FT5-8",
+            "FT5-9",
+            "FT5-12",
+            "FT5-13"
+          ]
+        },
+        {
+          "section_id": "m01-section-2",
+          "title": "Barriers to food and water",
+          "content_descriptors": [
+            "Food equity: examine barriers to food and water supply and possible responses."
+          ],
+          "source_ids": [
+            "nesa-2019",
+            "classroom-2026",
+            "site-video-candidates",
+            "student-workbook"
+          ],
+          "official_content_refs": {
+            "focus_area": "Food Equity",
+            "paragraphs": [
+              462,
+              465,
+              475
+            ],
+            "match": "food security, water and distribution barriers"
+          },
+          "learning_intention": "Trace food and safe-water supply barriers; weigh what desalination can and cannot address.",
+          "learning_sequence": "Use the systems visual to mark an interruption and test response trade-offs.",
+          "evidence": "The 10-question check and one comparison of responses saved locally.",
+          "formative_checks": "Exactly 10 feedback-rich MCQs and one scaffolded written response; formative device-local record.",
+          "adjustments": "Use the adjacent visual, vocabulary support, read-aloud or paired discussion as needed; keep the written response accessible.",
+          "literacy_numeracy_digital": "Explain a claim using evidence; interpret comparison information; use the device-local save and export controls.",
+          "safety_workplace": "No student practical directions are authorised here. Follow the teacher's current local controls for any making task.",
+          "resources": [
+            "Module 1 PowerPoint",
+            "Original section visual",
+            "Video candidate/gap record and equivalent non-video pathway",
+            "Student workbook companion",
+            "Current Classroom when teacher directs"
+          ],
+          "site_destinations": {
+            "theory": "m01-section-2-theory",
+            "knowledge_check": "m01-section-2-check",
+            "evidence": "m01-section-2-response",
+            "activity": "m01-section-2-practice",
+            "media": [
+              "m01-section-2-media",
+              "m01-section-2-visual",
+              "m01-section-2-video-library"
+            ],
+            "workbook": "module-01-workbook"
+          },
+          "outcome_codes": [
+            "FT5-6",
+            "FT5-7",
+            "FT5-8",
+            "FT5-9",
+            "FT5-12",
+            "FT5-13"
+          ]
+        },
+        {
+          "section_id": "m01-section-3",
+          "title": "Investigate and respond",
+          "content_descriptors": [
+            "Food equity: investigate food inequity using evidence and evaluate strategies for change."
+          ],
+          "source_ids": [
+            "nesa-2019",
+            "classroom-2026",
+            "site-video-candidates",
+            "student-workbook"
+          ],
+          "official_content_refs": {
+            "focus_area": "Food Equity",
+            "paragraphs": [
+              470,
+              488,
+              489
+            ],
+            "match": "groups at risk and the role of local or global aid"
+          },
+          "learning_intention": "Test a food-access claim against dated, local evidence and design a targeted response.",
+          "learning_sequence": "Separate observation from inference; write a claim-evidence-limitation conclusion.",
+          "evidence": "The 10-question check and one evaluated access plan saved locally.",
+          "formative_checks": "Exactly 10 feedback-rich MCQs and one scaffolded written response; formative device-local record.",
+          "adjustments": "Use the adjacent visual, vocabulary support, read-aloud or paired discussion as needed; keep the written response accessible.",
+          "literacy_numeracy_digital": "Explain a claim using evidence; interpret comparison information; use the device-local save and export controls.",
+          "safety_workplace": "No student practical directions are authorised here. Follow the teacher's current local controls for any making task.",
+          "resources": [
+            "Module 1 PowerPoint",
+            "Original section visual",
+            "Video candidate/gap record and equivalent non-video pathway",
+            "Student workbook companion",
+            "Current Classroom when teacher directs"
+          ],
+          "site_destinations": {
+            "theory": "m01-section-3-theory",
+            "knowledge_check": "m01-section-3-check",
+            "evidence": "m01-section-3-response",
+            "activity": "m01-section-3-practice",
+            "media": [
+              "m01-section-3-media",
+              "m01-section-3-visual",
+              "m01-section-3-video-library"
+            ],
+            "workbook": "module-01-workbook"
+          },
+          "outcome_codes": [
+            "FT5-6",
+            "FT5-7",
+            "FT5-8",
+            "FT5-9",
+            "FT5-12",
+            "FT5-13"
+          ]
+        }
+      ],
+      "module_review_site_id": "module-01-review",
+      "activity_site_id": "module-01-activity",
+      "puzzle_site_id": "module-01-puzzle",
+      "folio_site_id": "module-01-folio",
+      "workbook_site_id": "module-01-workbook"
+    },
+    {
+      "module_id": "module-02",
+      "title": "Food Trends",
+      "timing": "Term 2; actual periods Teacher to confirm",
+      "outcome_codes": [
+        "FT5-6",
+        "FT5-7",
+        "FT5-8",
+        "FT5-9",
+        "FT5-12",
+        "FT5-13"
+      ],
+      "sections": [
+        {
+          "section_id": "m02-section-1",
+          "title": "Why food trends emerge",
+          "content_descriptors": [
+            "Food trends: examine current trends and factors influencing their appeal."
+          ],
+          "source_ids": [
+            "nesa-2019",
+            "classroom-2026",
+            "site-video-candidates",
+            "student-workbook"
+          ],
+          "official_content_refs": {
+            "focus_area": "Food Trends",
+            "paragraphs": [
+              843,
+              877
+            ],
+            "match": "current trends and factors affecting acceptance"
+          },
+          "learning_intention": "Identify drivers of a food trend and distinguish popularity from evidence of benefit.",
+          "learning_sequence": "Sort fictional trend headlines into description, claim and evidence.",
+          "evidence": "The 10-question check and one evaluation of two trend claims saved locally.",
+          "formative_checks": "Exactly 10 feedback-rich MCQs and one scaffolded written response; formative device-local record.",
+          "adjustments": "Use the adjacent visual, vocabulary support, read-aloud or paired discussion as needed; keep the written response accessible.",
+          "literacy_numeracy_digital": "Explain a claim using evidence; interpret comparison information; use the device-local save and export controls.",
+          "safety_workplace": "No student practical directions are authorised here. Follow the teacher's current local controls for any making task.",
+          "resources": [
+            "Module 2 PowerPoint",
+            "Original section visual",
+            "Video candidate/gap record and equivalent non-video pathway",
+            "Student workbook companion",
+            "Current Classroom when teacher directs"
+          ],
+          "site_destinations": {
+            "theory": "m02-section-1-theory",
+            "knowledge_check": "m02-section-1-check",
+            "evidence": "m02-section-1-response",
+            "activity": "m02-section-1-practice",
+            "media": [
+              "m02-section-1-media",
+              "m02-section-1-visual",
+              "m02-section-1-video-library"
+            ],
+            "workbook": "module-02-workbook"
+          },
+          "outcome_codes": [
+            "FT5-6",
+            "FT5-7",
+            "FT5-8",
+            "FT5-9",
+            "FT5-12",
+            "FT5-13"
+          ]
+        },
+        {
+          "section_id": "m02-section-2",
+          "title": "Local produce, waste and value adding",
+          "content_descriptors": [
+            "Food trends: discuss local produce, food miles, food waste, value-added products and sustainability."
+          ],
+          "source_ids": [
+            "nesa-2019",
+            "classroom-2026",
+            "site-video-candidates",
+            "student-workbook"
+          ],
+          "official_content_refs": {
+            "focus_area": "Food Trends",
+            "paragraphs": [
+              843,
+              849
+            ],
+            "match": "local produce, waste, value adding and sustainability"
+          },
+          "learning_intention": "Compare local produce, food miles, waste and value adding across a food journey.",
+          "learning_sequence": "Trace two produce journeys and record missing impact information.",
+          "evidence": "The 10-question check and one surplus-produce decision saved locally.",
+          "formative_checks": "Exactly 10 feedback-rich MCQs and one scaffolded written response; formative device-local record.",
+          "adjustments": "Use the adjacent visual, vocabulary support, read-aloud or paired discussion as needed; keep the written response accessible.",
+          "literacy_numeracy_digital": "Explain a claim using evidence; interpret comparison information; use the device-local save and export controls.",
+          "safety_workplace": "No student practical directions are authorised here. Follow the teacher's current local controls for any making task.",
+          "resources": [
+            "Module 2 PowerPoint",
+            "Original section visual",
+            "Video candidate/gap record and equivalent non-video pathway",
+            "Student workbook companion",
+            "Current Classroom when teacher directs"
+          ],
+          "site_destinations": {
+            "theory": "m02-section-2-theory",
+            "knowledge_check": "m02-section-2-check",
+            "evidence": "m02-section-2-response",
+            "activity": "m02-section-2-practice",
+            "media": [
+              "m02-section-2-media",
+              "m02-section-2-visual",
+              "m02-section-2-video-library"
+            ],
+            "workbook": "module-02-workbook"
+          },
+          "outcome_codes": [
+            "FT5-6",
+            "FT5-7",
+            "FT5-8",
+            "FT5-9",
+            "FT5-12",
+            "FT5-13"
+          ]
+        },
+        {
+          "section_id": "m02-section-3",
+          "title": "Evaluate a food trend",
+          "content_descriptors": [
+            "Food trends: investigate consumer appeal and test nutrition and environmental claims."
+          ],
+          "source_ids": [
+            "nesa-2019",
+            "classroom-2026",
+            "site-video-candidates",
+            "student-workbook"
+          ],
+          "official_content_refs": {
+            "focus_area": "Food Trends",
+            "paragraphs": [
+              865,
+              877
+            ],
+            "match": "media promotion and consumer acceptance; label task extends the core content"
+          },
+          "learning_intention": "Read a label fairly and evaluate a trend claim for a named consumer.",
+          "learning_sequence": "Compare fictional labels per 100 g and name an unanswered question.",
+          "evidence": "The 10-question check and one conditional trend recommendation saved locally.",
+          "formative_checks": "Exactly 10 feedback-rich MCQs and one scaffolded written response; formative device-local record.",
+          "adjustments": "Use the adjacent visual, vocabulary support, read-aloud or paired discussion as needed; keep the written response accessible.",
+          "literacy_numeracy_digital": "Explain a claim using evidence; interpret comparison information; use the device-local save and export controls.",
+          "safety_workplace": "No student practical directions are authorised here. Follow the teacher's current local controls for any making task.",
+          "resources": [
+            "Module 2 PowerPoint",
+            "Original section visual",
+            "Video candidate/gap record and equivalent non-video pathway",
+            "Student workbook companion",
+            "Current Classroom when teacher directs"
+          ],
+          "site_destinations": {
+            "theory": "m02-section-3-theory",
+            "knowledge_check": "m02-section-3-check",
+            "evidence": "m02-section-3-response",
+            "activity": "m02-section-3-practice",
+            "media": [
+              "m02-section-3-media",
+              "m02-section-3-visual",
+              "m02-section-3-video-library"
+            ],
+            "workbook": "module-02-workbook"
+          },
+          "outcome_codes": [
+            "FT5-6",
+            "FT5-7",
+            "FT5-8",
+            "FT5-9",
+            "FT5-12",
+            "FT5-13"
+          ]
+        }
+      ],
+      "module_review_site_id": "module-02-review",
+      "activity_site_id": "module-02-activity",
+      "puzzle_site_id": "module-02-puzzle",
+      "folio_site_id": "module-02-folio",
+      "workbook_site_id": "module-02-workbook"
+    },
+    {
+      "module_id": "module-03",
+      "title": "Food for Special Occasions",
+      "timing": "Term 3; actual periods Teacher to confirm",
+      "outcome_codes": [
+        "FT5-7",
+        "FT5-8",
+        "FT5-9",
+        "FT5-11",
+        "FT5-12"
+      ],
+      "sections": [
+        {
+          "section_id": "m03-section-1",
+          "title": "Food, identity and significance",
+          "content_descriptors": [
+            "Food for special occasions: explore food's social, cultural and personal significance."
+          ],
+          "source_ids": [
+            "nesa-2019",
+            "classroom-2026",
+            "site-video-candidates",
+            "student-workbook"
+          ],
+          "official_content_refs": {
+            "focus_area": "Food for Special Occasions",
+            "paragraphs": [
+              791,
+              792,
+              796
+            ],
+            "match": "historical, social and cultural meaning of celebration food"
+          },
+          "learning_intention": "Explain food significance using people, occasion and trustworthy perspectives.",
+          "learning_sequence": "Compare fictional occasion accounts; avoid treating one family as a whole culture.",
+          "evidence": "The 10-question check and one inclusive occasion explanation saved locally.",
+          "formative_checks": "Exactly 10 feedback-rich MCQs and one scaffolded written response; formative device-local record.",
+          "adjustments": "Use the adjacent visual, vocabulary support, read-aloud or paired discussion as needed; keep the written response accessible.",
+          "literacy_numeracy_digital": "Explain a claim using evidence; interpret comparison information; use the device-local save and export controls.",
+          "safety_workplace": "No student practical directions are authorised here. Follow the teacher's current local controls for any making task.",
+          "resources": [
+            "Module 3 PowerPoint",
+            "Original section visual",
+            "Video candidate/gap record and equivalent non-video pathway",
+            "Student workbook companion",
+            "Current Classroom when teacher directs"
+          ],
+          "site_destinations": {
+            "theory": "m03-section-1-theory",
+            "knowledge_check": "m03-section-1-check",
+            "evidence": "m03-section-1-response",
+            "activity": "m03-section-1-practice",
+            "media": [
+              "m03-section-1-media",
+              "m03-section-1-visual",
+              "m03-section-1-video-library"
+            ],
+            "workbook": "module-03-workbook"
+          },
+          "outcome_codes": [
+            "FT5-7",
+            "FT5-8",
+            "FT5-9",
+            "FT5-11",
+            "FT5-12"
+          ]
+        },
+        {
+          "section_id": "m03-section-2",
+          "title": "Celebrations across time and place",
+          "content_descriptors": [
+            "Food for special occasions: investigate celebration traditions, change and global influences."
+          ],
+          "source_ids": [
+            "nesa-2019",
+            "classroom-2026",
+            "site-video-candidates",
+            "student-workbook"
+          ],
+          "official_content_refs": {
+            "focus_area": "Food for Special Occasions",
+            "paragraphs": [
+              791,
+              792,
+              796
+            ],
+            "match": "historical and cultural celebration contexts"
+          },
+          "learning_intention": "Compare celebration foods across time and place without assuming one fixed tradition.",
+          "learning_sequence": "Mark observation, inference and missing perspective in a dated-menu example.",
+          "evidence": "The 10-question check and one source-aware historical comparison saved locally.",
+          "formative_checks": "Exactly 10 feedback-rich MCQs and one scaffolded written response; formative device-local record.",
+          "adjustments": "Use the adjacent visual, vocabulary support, read-aloud or paired discussion as needed; keep the written response accessible.",
+          "literacy_numeracy_digital": "Explain a claim using evidence; interpret comparison information; use the device-local save and export controls.",
+          "safety_workplace": "No student practical directions are authorised here. Follow the teacher's current local controls for any making task.",
+          "resources": [
+            "Module 3 PowerPoint",
+            "Original section visual",
+            "Video candidate/gap record and equivalent non-video pathway",
+            "Student workbook companion",
+            "Current Classroom when teacher directs"
+          ],
+          "site_destinations": {
+            "theory": "m03-section-2-theory",
+            "knowledge_check": "m03-section-2-check",
+            "evidence": "m03-section-2-response",
+            "activity": "m03-section-2-practice",
+            "media": [
+              "m03-section-2-media",
+              "m03-section-2-visual",
+              "m03-section-2-video-library"
+            ],
+            "workbook": "module-03-workbook"
+          },
+          "outcome_codes": [
+            "FT5-7",
+            "FT5-8",
+            "FT5-9",
+            "FT5-11",
+            "FT5-12"
+          ]
+        },
+        {
+          "section_id": "m03-section-3",
+          "title": "Plan for an occasion",
+          "content_descriptors": [
+            "Food for special occasions: plan suitable food choices for a specified occasion."
+          ],
+          "source_ids": [
+            "nesa-2019",
+            "classroom-2026",
+            "site-video-candidates",
+            "student-workbook"
+          ],
+          "official_content_refs": {
+            "focus_area": "Food for Special Occasions",
+            "paragraphs": [
+              811,
+              816,
+              817
+            ],
+            "match": "menu factors, workflow and presentation for an occasion"
+          },
+          "learning_intention": "Justify a hypothetical occasion menu against guest needs, meaning and resources.",
+          "learning_sequence": "Compare two hypothetical menu proposals against a brief and one trade-off.",
+          "evidence": "The 10-question check and one justified menu approach saved locally.",
+          "formative_checks": "Exactly 10 feedback-rich MCQs and one scaffolded written response; formative device-local record.",
+          "adjustments": "Use the adjacent visual, vocabulary support, read-aloud or paired discussion as needed; keep the written response accessible.",
+          "literacy_numeracy_digital": "Explain a claim using evidence; interpret comparison information; use the device-local save and export controls.",
+          "safety_workplace": "No student practical directions are authorised here. Follow the teacher's current local controls for any making task.",
+          "resources": [
+            "Module 3 PowerPoint",
+            "Original section visual",
+            "Video candidate/gap record and equivalent non-video pathway",
+            "Student workbook companion",
+            "Current Classroom when teacher directs"
+          ],
+          "site_destinations": {
+            "theory": "m03-section-3-theory",
+            "knowledge_check": "m03-section-3-check",
+            "evidence": "m03-section-3-response",
+            "activity": "m03-section-3-practice",
+            "media": [
+              "m03-section-3-media",
+              "m03-section-3-visual",
+              "m03-section-3-video-library"
+            ],
+            "workbook": "module-03-workbook"
+          },
+          "outcome_codes": [
+            "FT5-7",
+            "FT5-8",
+            "FT5-9",
+            "FT5-11",
+            "FT5-12"
+          ]
+        }
+      ],
+      "module_review_site_id": "module-03-review",
+      "activity_site_id": "module-03-activity",
+      "puzzle_site_id": "module-03-puzzle",
+      "folio_site_id": "module-03-folio",
+      "workbook_site_id": "module-03-workbook"
+    },
+    {
+      "module_id": "module-04",
+      "title": "Food Service and Catering",
+      "timing": "Term 4; actual periods Teacher to confirm",
+      "outcome_codes": [
+        "FT5-3",
+        "FT5-4",
+        "FT5-7",
+        "FT5-11",
+        "FT5-12",
+        "FT5-13"
+      ],
+      "sections": [
+        {
+          "section_id": "m04-section-1",
+          "title": "Service settings and customers",
+          "content_descriptors": [
+            "Food service and catering: examine ventures, customers, operations and staff roles."
+          ],
+          "source_ids": [
+            "nesa-2019",
+            "classroom-2026",
+            "site-video-candidates",
+            "student-workbook"
+          ],
+          "official_content_refs": {
+            "focus_area": "Food Service and Catering",
+            "paragraphs": [
+              674,
+              682,
+              686,
+              688
+            ],
+            "match": "service operations, employment and responsibilities"
+          },
+          "learning_intention": "Compare canteen, café, food truck and event-catering service models.",
+          "learning_sequence": "Map an allergen-information question through front and back of house.",
+          "evidence": "The 10-question check and one service-setting comparison saved locally.",
+          "formative_checks": "Exactly 10 feedback-rich MCQs and one scaffolded written response; formative device-local record.",
+          "adjustments": "Use the adjacent visual, vocabulary support, read-aloud or paired discussion as needed; keep the written response accessible.",
+          "literacy_numeracy_digital": "Explain a claim using evidence; interpret comparison information; use the device-local save and export controls.",
+          "safety_workplace": "No student practical directions are authorised here. Follow the teacher's current local controls for any making task.",
+          "resources": [
+            "Module 4 PowerPoint",
+            "Original section visual",
+            "Video candidate/gap record and equivalent non-video pathway",
+            "Student workbook companion",
+            "Current Classroom when teacher directs"
+          ],
+          "site_destinations": {
+            "theory": "m04-section-1-theory",
+            "knowledge_check": "m04-section-1-check",
+            "evidence": "m04-section-1-response",
+            "activity": "m04-section-1-practice",
+            "media": [
+              "m04-section-1-media",
+              "m04-section-1-visual",
+              "m04-section-1-video-library"
+            ],
+            "workbook": "module-04-workbook"
+          },
+          "outcome_codes": [
+            "FT5-3",
+            "FT5-4",
+            "FT5-7",
+            "FT5-11",
+            "FT5-12",
+            "FT5-13"
+          ]
+        },
+        {
+          "section_id": "m04-section-2",
+          "title": "Menus, teams and costs",
+          "content_descriptors": [
+            "Food service and catering: investigate menus, costs, work roles and workflow planning."
+          ],
+          "source_ids": [
+            "nesa-2019",
+            "classroom-2026",
+            "site-video-candidates",
+            "student-workbook"
+          ],
+          "official_content_refs": {
+            "focus_area": "Food Service and Catering",
+            "paragraphs": [
+              710,
+              711
+            ],
+            "match": "menu examples and planning factors including staff, time and finance"
+          },
+          "learning_intention": "Weigh menu formats, yield, cost categories, team capacity and communication.",
+          "learning_sequence": "Use a fictional brief to compare set and à la carte formats.",
+          "evidence": "The 10-question check and one menu-workflow evaluation saved locally.",
+          "formative_checks": "Exactly 10 feedback-rich MCQs and one scaffolded written response; formative device-local record.",
+          "adjustments": "Use the adjacent visual, vocabulary support, read-aloud or paired discussion as needed; keep the written response accessible.",
+          "literacy_numeracy_digital": "Explain a claim using evidence; interpret comparison information; use the device-local save and export controls.",
+          "safety_workplace": "No student practical directions are authorised here. Follow the teacher's current local controls for any making task.",
+          "resources": [
+            "Module 4 PowerPoint",
+            "Original section visual",
+            "Video candidate/gap record and equivalent non-video pathway",
+            "Student workbook companion",
+            "Current Classroom when teacher directs"
+          ],
+          "site_destinations": {
+            "theory": "m04-section-2-theory",
+            "knowledge_check": "m04-section-2-check",
+            "evidence": "m04-section-2-response",
+            "activity": "m04-section-2-practice",
+            "media": [
+              "m04-section-2-media",
+              "m04-section-2-visual",
+              "m04-section-2-video-library"
+            ],
+            "workbook": "module-04-workbook"
+          },
+          "outcome_codes": [
+            "FT5-3",
+            "FT5-4",
+            "FT5-7",
+            "FT5-11",
+            "FT5-12",
+            "FT5-13"
+          ]
+        },
+        {
+          "section_id": "m04-section-3",
+          "title": "Functional properties and review",
+          "content_descriptors": [
+            "Food service and catering: investigate food properties and evaluate a food solution."
+          ],
+          "source_ids": [
+            "nesa-2019",
+            "classroom-2026",
+            "site-video-candidates",
+            "student-workbook"
+          ],
+          "official_content_refs": {
+            "focus_area": "Food Service and Catering",
+            "paragraphs": [
+              691,
+              698,
+              702
+            ],
+            "match": "spoilage, functional properties and food preservation"
+          },
+          "learning_intention": "Explain ingredient function, observable change and fair product comparison.",
+          "learning_sequence": "Compare fictional observations without attributing changes to an uncontrolled factor.",
+          "evidence": "The 10-question check and one controlled-improvement evaluation saved locally.",
+          "formative_checks": "Exactly 10 feedback-rich MCQs and one scaffolded written response; formative device-local record.",
+          "adjustments": "Use the adjacent visual, vocabulary support, read-aloud or paired discussion as needed; keep the written response accessible.",
+          "literacy_numeracy_digital": "Explain a claim using evidence; interpret comparison information; use the device-local save and export controls.",
+          "safety_workplace": "No student practical directions are authorised here. Follow the teacher's current local controls for any making task.",
+          "resources": [
+            "Module 4 PowerPoint",
+            "Original section visual",
+            "Video candidate/gap record and equivalent non-video pathway",
+            "Student workbook companion",
+            "Current Classroom when teacher directs"
+          ],
+          "site_destinations": {
+            "theory": "m04-section-3-theory",
+            "knowledge_check": "m04-section-3-check",
+            "evidence": "m04-section-3-response",
+            "activity": "m04-section-3-practice",
+            "media": [
+              "m04-section-3-media",
+              "m04-section-3-visual",
+              "m04-section-3-video-library"
+            ],
+            "workbook": "module-04-workbook"
+          },
+          "outcome_codes": [
+            "FT5-3",
+            "FT5-4",
+            "FT5-7",
+            "FT5-11",
+            "FT5-12",
+            "FT5-13"
+          ]
+        }
+      ],
+      "module_review_site_id": "module-04-review",
+      "activity_site_id": "module-04-activity",
+      "puzzle_site_id": "module-04-puzzle",
+      "folio_site_id": "module-04-folio",
+      "workbook_site_id": "module-04-workbook"
+    }
+  ],
+  "teacher_to_confirm": [
+    {
+      "id": "TBC-TIME",
+      "status": "Teacher to confirm",
+      "owner": "Course teacher / faculty",
+      "affected_scope": "All four terms and all sequence slots",
+      "due_before": "Timetable approval",
+      "smallest_action": "Enter 100- or 200-hour course basis, lesson length, periods per cycle and actual dates; replace sequence slots with approved period allocation."
+    },
+    {
+      "id": "TBC-SYLLABUS",
+      "status": "Teacher to confirm",
+      "owner": "Faculty / school",
+      "affected_scope": "Syllabus implementation decision",
+      "due_before": "Program sign-off",
+      "smallest_action": "Confirm whether a documented 2026 early adoption of the 2025 syllabus applies; otherwise retain the 2019 basis."
+    },
+    {
+      "id": "TBC-PRACTICAL",
+      "status": "Teacher to confirm",
+      "owner": "Course teacher / faculty",
+      "affected_scope": "Practical majority, recipes, equipment, local WHS and evidence for FT5-1, FT5-2, FT5-5 and FT5-10",
+      "due_before": "Any practical delivery",
+      "smallest_action": "Insert the approved practical sequence, timetable share, recipe/equipment directions, risk controls and evidence checks from current school records."
+    },
+    {
+      "id": "TBC-ASSESSMENT",
+      "status": "Teacher to confirm",
+      "owner": "Course teacher / faculty",
+      "affected_scope": "Formal assessments other than the posted Food Trends task",
+      "due_before": "Assessment notification",
+      "smallest_action": "Attach approved full-year schedule and issued notices; confirm dates, weights, outcomes and submission rules."
+    },
+    {
+      "id": "TBC-EXAM",
+      "status": "Teacher to confirm",
+      "owner": "Course teacher / faculty",
+      "affected_scope": "Draft 2026 examination notification",
+      "due_before": "Any exam reference to students",
+      "smallest_action": "Confirm whether the draft notice was issued; keep it out of the student program until verified."
+    },
+    {
+      "id": "TBC-RIGHTS",
+      "status": "Teacher to confirm",
+      "owner": "Resource owner / faculty",
+      "affected_scope": "Publisher unit, recipe booklet and third-party media",
+      "due_before": "Public reuse",
+      "smallest_action": "Confirm reuse rights before adding full text, recipes, worksheets or images to a public site."
+    }
+  ],
+  "site_mapping": [
+    {
+      "site_id": "module-01-deck",
+      "route": "modules/module-01.html#module-01-presentation",
+      "audience": "student",
+      "purpose": "Matching student PowerPoint",
+      "module_id": "module-01",
+      "anchor": "module-01-presentation"
+    },
+    {
+      "site_id": "module-01-review",
+      "route": "modules/module-01.html#module-01-review",
+      "audience": "student",
+      "purpose": "Three-link module review checklist",
+      "module_id": "module-01",
+      "anchor": "module-01-review"
+    },
+    {
+      "site_id": "module-01-activity",
+      "route": "activities.html#module-01-activity",
+      "audience": "student",
+      "purpose": "Applied scenario choice and justification",
+      "module_id": "module-01",
+      "anchor": "module-01-activity"
+    },
+    {
+      "site_id": "module-01-puzzle",
+      "route": "busy-work.html#puzzle-01",
+      "audience": "student",
+      "purpose": "Three-item source-grounded puzzle bank",
+      "module_id": "module-01",
+      "anchor": "puzzle-01"
+    },
+    {
+      "site_id": "module-01-folio",
+      "route": "folio.html#module-01-folio",
+      "audience": "student",
+      "purpose": "Selected formative folio evidence card",
+      "module_id": "module-01",
+      "anchor": "module-01-folio"
+    },
+    {
+      "site_id": "module-01-workbook",
+      "route": "assets/workbook/Year-10-Food-Technology-Student-Workbook-50-pages.pdf",
+      "audience": "student",
+      "purpose": "Shared 50-page student workbook companion",
+      "module_id": "module-01"
+    },
+    {
+      "site_id": "m01-section-1-theory",
+      "route": "modules/module-01.html#m01-section-1-theory",
+      "audience": "student",
+      "purpose": "Named theory section",
+      "module_id": "module-01",
+      "section_id": "m01-section-1",
+      "anchor": "m01-section-1-theory"
+    },
+    {
+      "site_id": "m01-section-1-check",
+      "route": "modules/module-01.html#m01-section-1-package",
+      "audience": "student",
+      "purpose": "Closed 10-MCQ learning check",
+      "module_id": "module-01",
+      "section_id": "m01-section-1",
+      "anchor": "m01-section-1-package"
+    },
+    {
+      "site_id": "m01-section-1-response",
+      "route": "modules/module-01.html#m01-section-1-response",
+      "audience": "student",
+      "purpose": "Scaffolded long response saved on device",
+      "module_id": "module-01",
+      "section_id": "m01-section-1",
+      "anchor": "m01-section-1-response"
+    },
+    {
+      "site_id": "m01-section-1-practice",
+      "route": "modules/module-01.html#m01-section-1-practice-choice",
+      "audience": "student",
+      "purpose": "Inline feedback-bearing practice choice",
+      "module_id": "module-01",
+      "section_id": "m01-section-1",
+      "anchor": "m01-section-1-practice-choice"
+    },
+    {
+      "site_id": "m01-section-1-media",
+      "route": "modules/module-01.html#m01-section-1-media",
+      "audience": "student",
+      "purpose": "Non-video learning pathway",
+      "module_id": "module-01",
+      "section_id": "m01-section-1",
+      "anchor": "m01-section-1-media"
+    },
+    {
+      "site_id": "m01-section-1-visual",
+      "route": "modules/module-01.html#m01-section-1-visual",
+      "audience": "student",
+      "purpose": "Purposeful explanatory visual",
+      "module_id": "module-01",
+      "section_id": "m01-section-1",
+      "anchor": "m01-section-1-visual"
+    },
+    {
+      "site_id": "m01-section-1-video-library",
+      "route": "videos.html#m01-section-1",
+      "audience": "student",
+      "purpose": "Section video rework record; use the equivalent non-video pathway",
+      "module_id": "module-01",
+      "section_id": "m01-section-1",
+      "anchor": "m01-section-1",
+      "source_status": "REWORK"
+    },
+    {
+      "site_id": "m01-section-2-theory",
+      "route": "modules/module-01.html#m01-section-2-theory",
+      "audience": "student",
+      "purpose": "Named theory section",
+      "module_id": "module-01",
+      "section_id": "m01-section-2",
+      "anchor": "m01-section-2-theory"
+    },
+    {
+      "site_id": "m01-section-2-check",
+      "route": "modules/module-01.html#m01-section-2-package",
+      "audience": "student",
+      "purpose": "Closed 10-MCQ learning check",
+      "module_id": "module-01",
+      "section_id": "m01-section-2",
+      "anchor": "m01-section-2-package"
+    },
+    {
+      "site_id": "m01-section-2-response",
+      "route": "modules/module-01.html#m01-section-2-response",
+      "audience": "student",
+      "purpose": "Scaffolded long response saved on device",
+      "module_id": "module-01",
+      "section_id": "m01-section-2",
+      "anchor": "m01-section-2-response"
+    },
+    {
+      "site_id": "m01-section-2-practice",
+      "route": "modules/module-01.html#m01-section-2-practice-choice",
+      "audience": "student",
+      "purpose": "Inline feedback-bearing practice choice",
+      "module_id": "module-01",
+      "section_id": "m01-section-2",
+      "anchor": "m01-section-2-practice-choice"
+    },
+    {
+      "site_id": "m01-section-2-media",
+      "route": "modules/module-01.html#m01-section-2-media",
+      "audience": "student",
+      "purpose": "Non-video learning pathway",
+      "module_id": "module-01",
+      "section_id": "m01-section-2",
+      "anchor": "m01-section-2-media"
+    },
+    {
+      "site_id": "m01-section-2-visual",
+      "route": "modules/module-01.html#m01-section-2-visual",
+      "audience": "student",
+      "purpose": "Purposeful explanatory visual",
+      "module_id": "module-01",
+      "section_id": "m01-section-2",
+      "anchor": "m01-section-2-visual"
+    },
+    {
+      "site_id": "m01-section-2-video-library",
+      "route": "videos.html#m01-section-2",
+      "audience": "student",
+      "purpose": "Section video rework record; use the equivalent non-video pathway",
+      "module_id": "module-01",
+      "section_id": "m01-section-2",
+      "anchor": "m01-section-2",
+      "source_status": "REWORK"
+    },
+    {
+      "site_id": "m01-section-3-theory",
+      "route": "modules/module-01.html#m01-section-3-theory",
+      "audience": "student",
+      "purpose": "Named theory section",
+      "module_id": "module-01",
+      "section_id": "m01-section-3",
+      "anchor": "m01-section-3-theory"
+    },
+    {
+      "site_id": "m01-section-3-check",
+      "route": "modules/module-01.html#m01-section-3-package",
+      "audience": "student",
+      "purpose": "Closed 10-MCQ learning check",
+      "module_id": "module-01",
+      "section_id": "m01-section-3",
+      "anchor": "m01-section-3-package"
+    },
+    {
+      "site_id": "m01-section-3-response",
+      "route": "modules/module-01.html#m01-section-3-response",
+      "audience": "student",
+      "purpose": "Scaffolded long response saved on device",
+      "module_id": "module-01",
+      "section_id": "m01-section-3",
+      "anchor": "m01-section-3-response"
+    },
+    {
+      "site_id": "m01-section-3-practice",
+      "route": "modules/module-01.html#m01-section-3-practice-choice",
+      "audience": "student",
+      "purpose": "Inline feedback-bearing practice choice",
+      "module_id": "module-01",
+      "section_id": "m01-section-3",
+      "anchor": "m01-section-3-practice-choice"
+    },
+    {
+      "site_id": "m01-section-3-media",
+      "route": "modules/module-01.html#m01-section-3-media",
+      "audience": "student",
+      "purpose": "Non-video learning pathway",
+      "module_id": "module-01",
+      "section_id": "m01-section-3",
+      "anchor": "m01-section-3-media"
+    },
+    {
+      "site_id": "m01-section-3-visual",
+      "route": "modules/module-01.html#m01-section-3-visual",
+      "audience": "student",
+      "purpose": "Purposeful explanatory visual",
+      "module_id": "module-01",
+      "section_id": "m01-section-3",
+      "anchor": "m01-section-3-visual"
+    },
+    {
+      "site_id": "m01-section-3-video-library",
+      "route": "videos.html#m01-section-3",
+      "audience": "student",
+      "purpose": "Section video rework record; use the equivalent non-video pathway",
+      "module_id": "module-01",
+      "section_id": "m01-section-3",
+      "anchor": "m01-section-3",
+      "source_status": "REWORK"
+    },
+    {
+      "site_id": "module-02-deck",
+      "route": "modules/module-02.html#module-02-presentation",
+      "audience": "student",
+      "purpose": "Matching student PowerPoint",
+      "module_id": "module-02",
+      "anchor": "module-02-presentation"
+    },
+    {
+      "site_id": "module-02-review",
+      "route": "modules/module-02.html#module-02-review",
+      "audience": "student",
+      "purpose": "Three-link module review checklist",
+      "module_id": "module-02",
+      "anchor": "module-02-review"
+    },
+    {
+      "site_id": "module-02-activity",
+      "route": "activities.html#module-02-activity",
+      "audience": "student",
+      "purpose": "Applied scenario choice and justification",
+      "module_id": "module-02",
+      "anchor": "module-02-activity"
+    },
+    {
+      "site_id": "module-02-puzzle",
+      "route": "busy-work.html#puzzle-02",
+      "audience": "student",
+      "purpose": "Three-item source-grounded puzzle bank",
+      "module_id": "module-02",
+      "anchor": "puzzle-02"
+    },
+    {
+      "site_id": "module-02-folio",
+      "route": "folio.html#module-02-folio",
+      "audience": "student",
+      "purpose": "Selected formative folio evidence card",
+      "module_id": "module-02",
+      "anchor": "module-02-folio"
+    },
+    {
+      "site_id": "module-02-workbook",
+      "route": "assets/workbook/Year-10-Food-Technology-Student-Workbook-50-pages.pdf",
+      "audience": "student",
+      "purpose": "Shared 50-page student workbook companion",
+      "module_id": "module-02"
+    },
+    {
+      "site_id": "module-02-assessment",
+      "route": "assessment.html#main",
+      "audience": "student",
+      "purpose": "Posted Food Trends assessment boundary and Classroom link",
+      "module_id": "module-02",
+      "anchor": "main"
+    },
+    {
+      "site_id": "m02-section-1-theory",
+      "route": "modules/module-02.html#m02-section-1-theory",
+      "audience": "student",
+      "purpose": "Named theory section",
+      "module_id": "module-02",
+      "section_id": "m02-section-1",
+      "anchor": "m02-section-1-theory"
+    },
+    {
+      "site_id": "m02-section-1-check",
+      "route": "modules/module-02.html#m02-section-1-package",
+      "audience": "student",
+      "purpose": "Closed 10-MCQ learning check",
+      "module_id": "module-02",
+      "section_id": "m02-section-1",
+      "anchor": "m02-section-1-package"
+    },
+    {
+      "site_id": "m02-section-1-response",
+      "route": "modules/module-02.html#m02-section-1-response",
+      "audience": "student",
+      "purpose": "Scaffolded long response saved on device",
+      "module_id": "module-02",
+      "section_id": "m02-section-1",
+      "anchor": "m02-section-1-response"
+    },
+    {
+      "site_id": "m02-section-1-practice",
+      "route": "modules/module-02.html#m02-section-1-practice-choice",
+      "audience": "student",
+      "purpose": "Inline feedback-bearing practice choice",
+      "module_id": "module-02",
+      "section_id": "m02-section-1",
+      "anchor": "m02-section-1-practice-choice"
+    },
+    {
+      "site_id": "m02-section-1-media",
+      "route": "modules/module-02.html#m02-section-1-media",
+      "audience": "student",
+      "purpose": "Non-video learning pathway",
+      "module_id": "module-02",
+      "section_id": "m02-section-1",
+      "anchor": "m02-section-1-media"
+    },
+    {
+      "site_id": "m02-section-1-visual",
+      "route": "modules/module-02.html#m02-section-1-visual",
+      "audience": "student",
+      "purpose": "Purposeful explanatory visual",
+      "module_id": "module-02",
+      "section_id": "m02-section-1",
+      "anchor": "m02-section-1-visual"
+    },
+    {
+      "site_id": "m02-section-1-video-library",
+      "route": "videos.html#m02-section-1",
+      "audience": "student",
+      "purpose": "Section video rework record; use the equivalent non-video pathway",
+      "module_id": "module-02",
+      "section_id": "m02-section-1",
+      "anchor": "m02-section-1",
+      "source_status": "REWORK"
+    },
+    {
+      "site_id": "m02-section-2-theory",
+      "route": "modules/module-02.html#m02-section-2-theory",
+      "audience": "student",
+      "purpose": "Named theory section",
+      "module_id": "module-02",
+      "section_id": "m02-section-2",
+      "anchor": "m02-section-2-theory"
+    },
+    {
+      "site_id": "m02-section-2-check",
+      "route": "modules/module-02.html#m02-section-2-package",
+      "audience": "student",
+      "purpose": "Closed 10-MCQ learning check",
+      "module_id": "module-02",
+      "section_id": "m02-section-2",
+      "anchor": "m02-section-2-package"
+    },
+    {
+      "site_id": "m02-section-2-response",
+      "route": "modules/module-02.html#m02-section-2-response",
+      "audience": "student",
+      "purpose": "Scaffolded long response saved on device",
+      "module_id": "module-02",
+      "section_id": "m02-section-2",
+      "anchor": "m02-section-2-response"
+    },
+    {
+      "site_id": "m02-section-2-practice",
+      "route": "modules/module-02.html#m02-section-2-practice-choice",
+      "audience": "student",
+      "purpose": "Inline feedback-bearing practice choice",
+      "module_id": "module-02",
+      "section_id": "m02-section-2",
+      "anchor": "m02-section-2-practice-choice"
+    },
+    {
+      "site_id": "m02-section-2-media",
+      "route": "modules/module-02.html#m02-section-2-media",
+      "audience": "student",
+      "purpose": "Non-video learning pathway",
+      "module_id": "module-02",
+      "section_id": "m02-section-2",
+      "anchor": "m02-section-2-media"
+    },
+    {
+      "site_id": "m02-section-2-visual",
+      "route": "modules/module-02.html#m02-section-2-visual",
+      "audience": "student",
+      "purpose": "Purposeful explanatory visual",
+      "module_id": "module-02",
+      "section_id": "m02-section-2",
+      "anchor": "m02-section-2-visual"
+    },
+    {
+      "site_id": "m02-section-2-video-library",
+      "route": "videos.html#m02-section-2",
+      "audience": "student",
+      "purpose": "Section video rework record; use the equivalent non-video pathway",
+      "module_id": "module-02",
+      "section_id": "m02-section-2",
+      "anchor": "m02-section-2",
+      "source_status": "REWORK"
+    },
+    {
+      "site_id": "m02-section-3-theory",
+      "route": "modules/module-02.html#m02-section-3-theory",
+      "audience": "student",
+      "purpose": "Named theory section",
+      "module_id": "module-02",
+      "section_id": "m02-section-3",
+      "anchor": "m02-section-3-theory"
+    },
+    {
+      "site_id": "m02-section-3-check",
+      "route": "modules/module-02.html#m02-section-3-package",
+      "audience": "student",
+      "purpose": "Closed 10-MCQ learning check",
+      "module_id": "module-02",
+      "section_id": "m02-section-3",
+      "anchor": "m02-section-3-package"
+    },
+    {
+      "site_id": "m02-section-3-response",
+      "route": "modules/module-02.html#m02-section-3-response",
+      "audience": "student",
+      "purpose": "Scaffolded long response saved on device",
+      "module_id": "module-02",
+      "section_id": "m02-section-3",
+      "anchor": "m02-section-3-response"
+    },
+    {
+      "site_id": "m02-section-3-practice",
+      "route": "modules/module-02.html#m02-section-3-practice-choice",
+      "audience": "student",
+      "purpose": "Inline feedback-bearing practice choice",
+      "module_id": "module-02",
+      "section_id": "m02-section-3",
+      "anchor": "m02-section-3-practice-choice"
+    },
+    {
+      "site_id": "m02-section-3-media",
+      "route": "modules/module-02.html#m02-section-3-media",
+      "audience": "student",
+      "purpose": "Non-video learning pathway",
+      "module_id": "module-02",
+      "section_id": "m02-section-3",
+      "anchor": "m02-section-3-media"
+    },
+    {
+      "site_id": "m02-section-3-visual",
+      "route": "modules/module-02.html#m02-section-3-visual",
+      "audience": "student",
+      "purpose": "Purposeful explanatory visual",
+      "module_id": "module-02",
+      "section_id": "m02-section-3",
+      "anchor": "m02-section-3-visual"
+    },
+    {
+      "site_id": "m02-section-3-video-library",
+      "route": "videos.html#m02-section-3",
+      "audience": "student",
+      "purpose": "Section video rework record; use the equivalent non-video pathway",
+      "module_id": "module-02",
+      "section_id": "m02-section-3",
+      "anchor": "m02-section-3",
+      "source_status": "REWORK"
+    },
+    {
+      "site_id": "module-03-deck",
+      "route": "modules/module-03.html#module-03-presentation",
+      "audience": "student",
+      "purpose": "Matching student PowerPoint",
+      "module_id": "module-03",
+      "anchor": "module-03-presentation"
+    },
+    {
+      "site_id": "module-03-review",
+      "route": "modules/module-03.html#module-03-review",
+      "audience": "student",
+      "purpose": "Three-link module review checklist",
+      "module_id": "module-03",
+      "anchor": "module-03-review"
+    },
+    {
+      "site_id": "module-03-activity",
+      "route": "activities.html#module-03-activity",
+      "audience": "student",
+      "purpose": "Applied scenario choice and justification",
+      "module_id": "module-03",
+      "anchor": "module-03-activity"
+    },
+    {
+      "site_id": "module-03-puzzle",
+      "route": "busy-work.html#puzzle-03",
+      "audience": "student",
+      "purpose": "Three-item source-grounded puzzle bank",
+      "module_id": "module-03",
+      "anchor": "puzzle-03"
+    },
+    {
+      "site_id": "module-03-folio",
+      "route": "folio.html#module-03-folio",
+      "audience": "student",
+      "purpose": "Selected formative folio evidence card",
+      "module_id": "module-03",
+      "anchor": "module-03-folio"
+    },
+    {
+      "site_id": "module-03-workbook",
+      "route": "assets/workbook/Year-10-Food-Technology-Student-Workbook-50-pages.pdf",
+      "audience": "student",
+      "purpose": "Shared 50-page student workbook companion",
+      "module_id": "module-03"
+    },
+    {
+      "site_id": "m03-section-1-theory",
+      "route": "modules/module-03.html#m03-section-1-theory",
+      "audience": "student",
+      "purpose": "Named theory section",
+      "module_id": "module-03",
+      "section_id": "m03-section-1",
+      "anchor": "m03-section-1-theory"
+    },
+    {
+      "site_id": "m03-section-1-check",
+      "route": "modules/module-03.html#m03-section-1-package",
+      "audience": "student",
+      "purpose": "Closed 10-MCQ learning check",
+      "module_id": "module-03",
+      "section_id": "m03-section-1",
+      "anchor": "m03-section-1-package"
+    },
+    {
+      "site_id": "m03-section-1-response",
+      "route": "modules/module-03.html#m03-section-1-response",
+      "audience": "student",
+      "purpose": "Scaffolded long response saved on device",
+      "module_id": "module-03",
+      "section_id": "m03-section-1",
+      "anchor": "m03-section-1-response"
+    },
+    {
+      "site_id": "m03-section-1-practice",
+      "route": "modules/module-03.html#m03-section-1-practice-choice",
+      "audience": "student",
+      "purpose": "Inline feedback-bearing practice choice",
+      "module_id": "module-03",
+      "section_id": "m03-section-1",
+      "anchor": "m03-section-1-practice-choice"
+    },
+    {
+      "site_id": "m03-section-1-media",
+      "route": "modules/module-03.html#m03-section-1-media",
+      "audience": "student",
+      "purpose": "Non-video learning pathway",
+      "module_id": "module-03",
+      "section_id": "m03-section-1",
+      "anchor": "m03-section-1-media"
+    },
+    {
+      "site_id": "m03-section-1-visual",
+      "route": "modules/module-03.html#m03-section-1-visual",
+      "audience": "student",
+      "purpose": "Purposeful explanatory visual",
+      "module_id": "module-03",
+      "section_id": "m03-section-1",
+      "anchor": "m03-section-1-visual"
+    },
+    {
+      "site_id": "m03-section-1-video-library",
+      "route": "videos.html#m03-section-1",
+      "audience": "student",
+      "purpose": "Section video rework record; use the equivalent non-video pathway",
+      "module_id": "module-03",
+      "section_id": "m03-section-1",
+      "anchor": "m03-section-1",
+      "source_status": "REWORK"
+    },
+    {
+      "site_id": "m03-section-2-theory",
+      "route": "modules/module-03.html#m03-section-2-theory",
+      "audience": "student",
+      "purpose": "Named theory section",
+      "module_id": "module-03",
+      "section_id": "m03-section-2",
+      "anchor": "m03-section-2-theory"
+    },
+    {
+      "site_id": "m03-section-2-check",
+      "route": "modules/module-03.html#m03-section-2-package",
+      "audience": "student",
+      "purpose": "Closed 10-MCQ learning check",
+      "module_id": "module-03",
+      "section_id": "m03-section-2",
+      "anchor": "m03-section-2-package"
+    },
+    {
+      "site_id": "m03-section-2-response",
+      "route": "modules/module-03.html#m03-section-2-response",
+      "audience": "student",
+      "purpose": "Scaffolded long response saved on device",
+      "module_id": "module-03",
+      "section_id": "m03-section-2",
+      "anchor": "m03-section-2-response"
+    },
+    {
+      "site_id": "m03-section-2-practice",
+      "route": "modules/module-03.html#m03-section-2-practice-choice",
+      "audience": "student",
+      "purpose": "Inline feedback-bearing practice choice",
+      "module_id": "module-03",
+      "section_id": "m03-section-2",
+      "anchor": "m03-section-2-practice-choice"
+    },
+    {
+      "site_id": "m03-section-2-media",
+      "route": "modules/module-03.html#m03-section-2-media",
+      "audience": "student",
+      "purpose": "Non-video learning pathway",
+      "module_id": "module-03",
+      "section_id": "m03-section-2",
+      "anchor": "m03-section-2-media"
+    },
+    {
+      "site_id": "m03-section-2-visual",
+      "route": "modules/module-03.html#m03-section-2-visual",
+      "audience": "student",
+      "purpose": "Purposeful explanatory visual",
+      "module_id": "module-03",
+      "section_id": "m03-section-2",
+      "anchor": "m03-section-2-visual"
+    },
+    {
+      "site_id": "m03-section-2-video-library",
+      "route": "videos.html#m03-section-2",
+      "audience": "student",
+      "purpose": "Section video rework record; use the equivalent non-video pathway",
+      "module_id": "module-03",
+      "section_id": "m03-section-2",
+      "anchor": "m03-section-2",
+      "source_status": "REWORK"
+    },
+    {
+      "site_id": "m03-section-3-theory",
+      "route": "modules/module-03.html#m03-section-3-theory",
+      "audience": "student",
+      "purpose": "Named theory section",
+      "module_id": "module-03",
+      "section_id": "m03-section-3",
+      "anchor": "m03-section-3-theory"
+    },
+    {
+      "site_id": "m03-section-3-check",
+      "route": "modules/module-03.html#m03-section-3-package",
+      "audience": "student",
+      "purpose": "Closed 10-MCQ learning check",
+      "module_id": "module-03",
+      "section_id": "m03-section-3",
+      "anchor": "m03-section-3-package"
+    },
+    {
+      "site_id": "m03-section-3-response",
+      "route": "modules/module-03.html#m03-section-3-response",
+      "audience": "student",
+      "purpose": "Scaffolded long response saved on device",
+      "module_id": "module-03",
+      "section_id": "m03-section-3",
+      "anchor": "m03-section-3-response"
+    },
+    {
+      "site_id": "m03-section-3-practice",
+      "route": "modules/module-03.html#m03-section-3-practice-choice",
+      "audience": "student",
+      "purpose": "Inline feedback-bearing practice choice",
+      "module_id": "module-03",
+      "section_id": "m03-section-3",
+      "anchor": "m03-section-3-practice-choice"
+    },
+    {
+      "site_id": "m03-section-3-media",
+      "route": "modules/module-03.html#m03-section-3-media",
+      "audience": "student",
+      "purpose": "Non-video learning pathway",
+      "module_id": "module-03",
+      "section_id": "m03-section-3",
+      "anchor": "m03-section-3-media"
+    },
+    {
+      "site_id": "m03-section-3-visual",
+      "route": "modules/module-03.html#m03-section-3-visual",
+      "audience": "student",
+      "purpose": "Purposeful explanatory visual",
+      "module_id": "module-03",
+      "section_id": "m03-section-3",
+      "anchor": "m03-section-3-visual"
+    },
+    {
+      "site_id": "m03-section-3-video-library",
+      "route": "videos.html#m03-section-3",
+      "audience": "student",
+      "purpose": "Section video gap record; use the equivalent non-video pathway",
+      "module_id": "module-03",
+      "section_id": "m03-section-3",
+      "anchor": "m03-section-3",
+      "source_status": "GAP"
+    },
+    {
+      "site_id": "module-04-deck",
+      "route": "modules/module-04.html#module-04-presentation",
+      "audience": "student",
+      "purpose": "Matching student PowerPoint",
+      "module_id": "module-04",
+      "anchor": "module-04-presentation"
+    },
+    {
+      "site_id": "module-04-review",
+      "route": "modules/module-04.html#module-04-review",
+      "audience": "student",
+      "purpose": "Three-link module review checklist",
+      "module_id": "module-04",
+      "anchor": "module-04-review"
+    },
+    {
+      "site_id": "module-04-activity",
+      "route": "activities.html#module-04-activity",
+      "audience": "student",
+      "purpose": "Applied scenario choice and justification",
+      "module_id": "module-04",
+      "anchor": "module-04-activity"
+    },
+    {
+      "site_id": "module-04-puzzle",
+      "route": "busy-work.html#puzzle-04",
+      "audience": "student",
+      "purpose": "Three-item source-grounded puzzle bank",
+      "module_id": "module-04",
+      "anchor": "puzzle-04"
+    },
+    {
+      "site_id": "module-04-folio",
+      "route": "folio.html#module-04-folio",
+      "audience": "student",
+      "purpose": "Selected formative folio evidence card",
+      "module_id": "module-04",
+      "anchor": "module-04-folio"
+    },
+    {
+      "site_id": "module-04-workbook",
+      "route": "assets/workbook/Year-10-Food-Technology-Student-Workbook-50-pages.pdf",
+      "audience": "student",
+      "purpose": "Shared 50-page student workbook companion",
+      "module_id": "module-04"
+    },
+    {
+      "site_id": "m04-section-1-theory",
+      "route": "modules/module-04.html#m04-section-1-theory",
+      "audience": "student",
+      "purpose": "Named theory section",
+      "module_id": "module-04",
+      "section_id": "m04-section-1",
+      "anchor": "m04-section-1-theory"
+    },
+    {
+      "site_id": "m04-section-1-check",
+      "route": "modules/module-04.html#m04-section-1-package",
+      "audience": "student",
+      "purpose": "Closed 10-MCQ learning check",
+      "module_id": "module-04",
+      "section_id": "m04-section-1",
+      "anchor": "m04-section-1-package"
+    },
+    {
+      "site_id": "m04-section-1-response",
+      "route": "modules/module-04.html#m04-section-1-response",
+      "audience": "student",
+      "purpose": "Scaffolded long response saved on device",
+      "module_id": "module-04",
+      "section_id": "m04-section-1",
+      "anchor": "m04-section-1-response"
+    },
+    {
+      "site_id": "m04-section-1-practice",
+      "route": "modules/module-04.html#m04-section-1-practice-choice",
+      "audience": "student",
+      "purpose": "Inline feedback-bearing practice choice",
+      "module_id": "module-04",
+      "section_id": "m04-section-1",
+      "anchor": "m04-section-1-practice-choice"
+    },
+    {
+      "site_id": "m04-section-1-media",
+      "route": "modules/module-04.html#m04-section-1-media",
+      "audience": "student",
+      "purpose": "Non-video learning pathway",
+      "module_id": "module-04",
+      "section_id": "m04-section-1",
+      "anchor": "m04-section-1-media"
+    },
+    {
+      "site_id": "m04-section-1-visual",
+      "route": "modules/module-04.html#m04-section-1-visual",
+      "audience": "student",
+      "purpose": "Purposeful explanatory visual",
+      "module_id": "module-04",
+      "section_id": "m04-section-1",
+      "anchor": "m04-section-1-visual"
+    },
+    {
+      "site_id": "m04-section-1-video-library",
+      "route": "videos.html#m04-section-1",
+      "audience": "student",
+      "purpose": "Section video rework record; use the equivalent non-video pathway",
+      "module_id": "module-04",
+      "section_id": "m04-section-1",
+      "anchor": "m04-section-1",
+      "source_status": "REWORK"
+    },
+    {
+      "site_id": "m04-section-2-theory",
+      "route": "modules/module-04.html#m04-section-2-theory",
+      "audience": "student",
+      "purpose": "Named theory section",
+      "module_id": "module-04",
+      "section_id": "m04-section-2",
+      "anchor": "m04-section-2-theory"
+    },
+    {
+      "site_id": "m04-section-2-check",
+      "route": "modules/module-04.html#m04-section-2-package",
+      "audience": "student",
+      "purpose": "Closed 10-MCQ learning check",
+      "module_id": "module-04",
+      "section_id": "m04-section-2",
+      "anchor": "m04-section-2-package"
+    },
+    {
+      "site_id": "m04-section-2-response",
+      "route": "modules/module-04.html#m04-section-2-response",
+      "audience": "student",
+      "purpose": "Scaffolded long response saved on device",
+      "module_id": "module-04",
+      "section_id": "m04-section-2",
+      "anchor": "m04-section-2-response"
+    },
+    {
+      "site_id": "m04-section-2-practice",
+      "route": "modules/module-04.html#m04-section-2-practice-choice",
+      "audience": "student",
+      "purpose": "Inline feedback-bearing practice choice",
+      "module_id": "module-04",
+      "section_id": "m04-section-2",
+      "anchor": "m04-section-2-practice-choice"
+    },
+    {
+      "site_id": "m04-section-2-media",
+      "route": "modules/module-04.html#m04-section-2-media",
+      "audience": "student",
+      "purpose": "Non-video learning pathway",
+      "module_id": "module-04",
+      "section_id": "m04-section-2",
+      "anchor": "m04-section-2-media"
+    },
+    {
+      "site_id": "m04-section-2-visual",
+      "route": "modules/module-04.html#m04-section-2-visual",
+      "audience": "student",
+      "purpose": "Purposeful explanatory visual",
+      "module_id": "module-04",
+      "section_id": "m04-section-2",
+      "anchor": "m04-section-2-visual"
+    },
+    {
+      "site_id": "m04-section-2-video-library",
+      "route": "videos.html#m04-section-2",
+      "audience": "student",
+      "purpose": "Section video gap record; use the equivalent non-video pathway",
+      "module_id": "module-04",
+      "section_id": "m04-section-2",
+      "anchor": "m04-section-2",
+      "source_status": "GAP"
+    },
+    {
+      "site_id": "m04-section-3-theory",
+      "route": "modules/module-04.html#m04-section-3-theory",
+      "audience": "student",
+      "purpose": "Named theory section",
+      "module_id": "module-04",
+      "section_id": "m04-section-3",
+      "anchor": "m04-section-3-theory"
+    },
+    {
+      "site_id": "m04-section-3-check",
+      "route": "modules/module-04.html#m04-section-3-package",
+      "audience": "student",
+      "purpose": "Closed 10-MCQ learning check",
+      "module_id": "module-04",
+      "section_id": "m04-section-3",
+      "anchor": "m04-section-3-package"
+    },
+    {
+      "site_id": "m04-section-3-response",
+      "route": "modules/module-04.html#m04-section-3-response",
+      "audience": "student",
+      "purpose": "Scaffolded long response saved on device",
+      "module_id": "module-04",
+      "section_id": "m04-section-3",
+      "anchor": "m04-section-3-response"
+    },
+    {
+      "site_id": "m04-section-3-practice",
+      "route": "modules/module-04.html#m04-section-3-practice-choice",
+      "audience": "student",
+      "purpose": "Inline feedback-bearing practice choice",
+      "module_id": "module-04",
+      "section_id": "m04-section-3",
+      "anchor": "m04-section-3-practice-choice"
+    },
+    {
+      "site_id": "m04-section-3-media",
+      "route": "modules/module-04.html#m04-section-3-media",
+      "audience": "student",
+      "purpose": "Non-video learning pathway",
+      "module_id": "module-04",
+      "section_id": "m04-section-3",
+      "anchor": "m04-section-3-media"
+    },
+    {
+      "site_id": "m04-section-3-visual",
+      "route": "modules/module-04.html#m04-section-3-visual",
+      "audience": "student",
+      "purpose": "Purposeful explanatory visual",
+      "module_id": "module-04",
+      "section_id": "m04-section-3",
+      "anchor": "m04-section-3-visual"
+    },
+    {
+      "site_id": "m04-section-3-video-library",
+      "route": "videos.html#m04-section-3",
+      "audience": "student",
+      "purpose": "Section video gap record; use the equivalent non-video pathway",
+      "module_id": "module-04",
+      "section_id": "m04-section-3",
+      "anchor": "m04-section-3",
+      "source_status": "GAP"
+    },
+    {
+      "site_id": "course-home",
+      "route": "index.html#main",
+      "audience": "student",
+      "purpose": "Student course map",
+      "module_id": "module-01",
+      "anchor": "main"
+    },
+    {
+      "site_id": "teacher-resources",
+      "route": "teacher-resources.html#main",
+      "audience": "teacher",
+      "purpose": "Teacher-facing source and program links",
+      "module_id": "module-01",
+      "anchor": "main"
+    }
+  ],
+  "delivery_register": {
+    "status": "planning slots only; actual dates and period allocation blank-ready",
+    "entries": [
+      {
+        "period": "1",
+        "planned_focus": "What food equity means",
+        "planned_evidence": "The 10-question check and one written access comparison saved locally.",
+        "site_ids": [
+          "m01-section-1-theory",
+          "m01-section-1-check",
+          "m01-section-1-response",
+          "m01-section-1-practice",
+          "m01-section-1-media",
+          "m01-section-1-visual",
+          "m01-section-1-video-library",
+          "module-01-workbook",
+          "module-01-deck"
+        ],
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": "2",
+        "planned_focus": "Barriers to food and water",
+        "planned_evidence": "The 10-question check and one comparison of responses saved locally.",
+        "site_ids": [
+          "m01-section-2-theory",
+          "m01-section-2-check",
+          "m01-section-2-response",
+          "m01-section-2-practice",
+          "m01-section-2-media",
+          "m01-section-2-visual",
+          "m01-section-2-video-library",
+          "module-01-workbook"
+        ],
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": "3",
+        "planned_focus": "Investigate and respond",
+        "planned_evidence": "The 10-question check and one evaluated access plan saved locally.",
+        "site_ids": [
+          "m01-section-3-theory",
+          "m01-section-3-check",
+          "m01-section-3-response",
+          "m01-section-3-practice",
+          "m01-section-3-media",
+          "m01-section-3-visual",
+          "m01-section-3-video-library",
+          "module-01-workbook"
+        ],
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": "4",
+        "planned_focus": "Apply and select evidence - Food Equity",
+        "planned_evidence": "Formative activity choice/justification and one selected folio card; formal submission remains in Classroom.",
+        "site_ids": [
+          "module-01-activity",
+          "module-01-puzzle",
+          "module-01-folio",
+          "module-01-review"
+        ],
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": "5",
+        "planned_focus": "Teacher-approved practical sequence - Food Equity",
+        "planned_evidence": "Teacher-controlled practical observations and product evidence - Teacher to confirm.",
+        "site_ids": [],
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": "6",
+        "planned_focus": "Why food trends emerge",
+        "planned_evidence": "The 10-question check and one evaluation of two trend claims saved locally.",
+        "site_ids": [
+          "m02-section-1-theory",
+          "m02-section-1-check",
+          "m02-section-1-response",
+          "m02-section-1-practice",
+          "m02-section-1-media",
+          "m02-section-1-visual",
+          "m02-section-1-video-library",
+          "module-02-workbook",
+          "module-02-deck"
+        ],
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": "7",
+        "planned_focus": "Local produce, waste and value adding",
+        "planned_evidence": "The 10-question check and one surplus-produce decision saved locally.",
+        "site_ids": [
+          "m02-section-2-theory",
+          "m02-section-2-check",
+          "m02-section-2-response",
+          "m02-section-2-practice",
+          "m02-section-2-media",
+          "m02-section-2-visual",
+          "m02-section-2-video-library",
+          "module-02-workbook"
+        ],
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": "8",
+        "planned_focus": "Evaluate a food trend",
+        "planned_evidence": "The 10-question check and one conditional trend recommendation saved locally.",
+        "site_ids": [
+          "m02-section-3-theory",
+          "m02-section-3-check",
+          "m02-section-3-response",
+          "m02-section-3-practice",
+          "m02-section-3-media",
+          "m02-section-3-visual",
+          "m02-section-3-video-library",
+          "module-02-workbook"
+        ],
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": "9",
+        "planned_focus": "Apply and select evidence - Food Trends",
+        "planned_evidence": "Formative activity choice/justification and one selected folio card; formal submission remains in Classroom.",
+        "site_ids": [
+          "module-02-activity",
+          "module-02-puzzle",
+          "module-02-folio",
+          "module-02-review",
+          "module-02-assessment"
+        ],
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": "10",
+        "planned_focus": "Teacher-approved practical sequence - Food Trends",
+        "planned_evidence": "Teacher-controlled practical observations and product evidence - Teacher to confirm.",
+        "site_ids": [],
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": "11",
+        "planned_focus": "Food, identity and significance",
+        "planned_evidence": "The 10-question check and one inclusive occasion explanation saved locally.",
+        "site_ids": [
+          "m03-section-1-theory",
+          "m03-section-1-check",
+          "m03-section-1-response",
+          "m03-section-1-practice",
+          "m03-section-1-media",
+          "m03-section-1-visual",
+          "m03-section-1-video-library",
+          "module-03-workbook",
+          "module-03-deck"
+        ],
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": "12",
+        "planned_focus": "Celebrations across time and place",
+        "planned_evidence": "The 10-question check and one source-aware historical comparison saved locally.",
+        "site_ids": [
+          "m03-section-2-theory",
+          "m03-section-2-check",
+          "m03-section-2-response",
+          "m03-section-2-practice",
+          "m03-section-2-media",
+          "m03-section-2-visual",
+          "m03-section-2-video-library",
+          "module-03-workbook"
+        ],
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": "13",
+        "planned_focus": "Plan for an occasion",
+        "planned_evidence": "The 10-question check and one justified menu approach saved locally.",
+        "site_ids": [
+          "m03-section-3-theory",
+          "m03-section-3-check",
+          "m03-section-3-response",
+          "m03-section-3-practice",
+          "m03-section-3-media",
+          "m03-section-3-visual",
+          "m03-section-3-video-library",
+          "module-03-workbook"
+        ],
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": "14",
+        "planned_focus": "Apply and select evidence - Food for Special Occasions",
+        "planned_evidence": "Formative activity choice/justification and one selected folio card; formal submission remains in Classroom.",
+        "site_ids": [
+          "module-03-activity",
+          "module-03-puzzle",
+          "module-03-folio",
+          "module-03-review"
+        ],
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": "15",
+        "planned_focus": "Teacher-approved practical sequence - Food for Special Occasions",
+        "planned_evidence": "Teacher-controlled practical observations and product evidence - Teacher to confirm.",
+        "site_ids": [],
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": "16",
+        "planned_focus": "Service settings and customers",
+        "planned_evidence": "The 10-question check and one service-setting comparison saved locally.",
+        "site_ids": [
+          "m04-section-1-theory",
+          "m04-section-1-check",
+          "m04-section-1-response",
+          "m04-section-1-practice",
+          "m04-section-1-media",
+          "m04-section-1-visual",
+          "m04-section-1-video-library",
+          "module-04-workbook",
+          "module-04-deck"
+        ],
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": "17",
+        "planned_focus": "Menus, teams and costs",
+        "planned_evidence": "The 10-question check and one menu-workflow evaluation saved locally.",
+        "site_ids": [
+          "m04-section-2-theory",
+          "m04-section-2-check",
+          "m04-section-2-response",
+          "m04-section-2-practice",
+          "m04-section-2-media",
+          "m04-section-2-visual",
+          "m04-section-2-video-library",
+          "module-04-workbook"
+        ],
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": "18",
+        "planned_focus": "Functional properties and review",
+        "planned_evidence": "The 10-question check and one controlled-improvement evaluation saved locally.",
+        "site_ids": [
+          "m04-section-3-theory",
+          "m04-section-3-check",
+          "m04-section-3-response",
+          "m04-section-3-practice",
+          "m04-section-3-media",
+          "m04-section-3-visual",
+          "m04-section-3-video-library",
+          "module-04-workbook"
+        ],
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": "19",
+        "planned_focus": "Apply and select evidence - Food Service and Catering",
+        "planned_evidence": "Formative activity choice/justification and one selected folio card; formal submission remains in Classroom.",
+        "site_ids": [
+          "module-04-activity",
+          "module-04-puzzle",
+          "module-04-folio",
+          "module-04-review"
+        ],
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      },
+      {
+        "period": "20",
+        "planned_focus": "Teacher-approved practical sequence - Food Service and Catering",
+        "planned_evidence": "Teacher-controlled practical observations and product evidence - Teacher to confirm.",
+        "site_ids": [],
+        "date_taught": "",
+        "teacher_initials": "",
+        "completion_or_variance": "",
+        "evidence_checked": "",
+        "adjustments": "",
+        "follow_up": ""
+      }
+    ]
+  },
+  "course_specific_compliance": [
+    {
+      "compliance_id": "2019-practical-majority",
+      "requirement_type": "practical-course-time",
+      "requirement": "Practical experiences occupy the majority of course time under the 2019 syllabus.",
+      "source_ids": [
+        "nesa-2019"
+      ],
+      "module_ids": [
+        "module-01",
+        "module-02",
+        "module-03",
+        "module-04"
+      ],
+      "section_ids": [],
+      "evidence_site_ids": [],
+      "status": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TBC-TIME",
+        "TBC-PRACTICAL"
+      ]
+    }
+  ],
+  "files": [
+    {
+      "path": "teacher-program-v1.1.0.docx",
+      "sha256": "d8452b70d36ee47fb70803b813fc758eb81bd6939bb1c3fa4d61ffb7b2934818",
+      "role": "editable-program"
+    },
+    {
+      "path": "teacher-program-v1.1.0.pdf",
+      "sha256": "0f9c31dd60c37ac60192c31e6f7c24ecf69a13dc190ae223776dc192cf92f4f6",
+      "role": "rendered-program"
+    },
+    {
+      "path": "delivery-register-v1.0.0.docx",
+      "sha256": "b8c06b3f4cd968536869c4548df4110e1ba30fe5fb13a06305506d310fa2fece",
+      "role": "delivery-register"
+    },
+    {
+      "path": "teacher-program-site-map-v1.0.0.json",
+      "sha256": "f085eb0b1a8b44f8f9241521cdd4b9c2e8439f76bcca2fbbd622c5c1e0a5217b",
+      "role": "site-map"
+    },
+    {
+      "path": "program-alignment-v1.1.0.json",
+      "sha256": "14f7ded2f30c8f2f82f27022b62787d6d4bd2200364b80e3ea690fa18710a727",
+      "role": "alignment-manifest"
+    },
+    {
+      "path": "link-map-v1.1.0.json",
+      "sha256": "1e13bd6429fa2cea35585f445c0300832c94e8e21e91355a790c934b397bfd51",
+      "role": "hyperlink-map"
+    }
+  ],
+  "publication": {
+    "date": "2026-09-25",
+    "site_url": "https://stevencowell.github.io/Main-Page/Year-10-Food-Technology/",
+    "program_library_url": "https://stevencowell.github.io/Main-Page/subject-program-library/#year-10-food-technology",
+    "pdf_url": "https://stevencowell.github.io/Main-Page/Year-10-Food-Technology/assets/program/teacher-program-v1.1.0.pdf",
+    "docx_url": "https://stevencowell.github.io/Main-Page/Year-10-Food-Technology/assets/program/teacher-program-v1.1.0.docx"
+  }
+}

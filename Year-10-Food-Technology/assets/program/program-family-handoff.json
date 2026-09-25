@@ -13,13 +13,13 @@
     "family": "Food Technology",
     "stage": "Stage 5",
     "course": "Food Technology 7–10",
-    "version": "v1.0.0",
+    "version": "v1.1.0",
     "duration": {
       "value": 4,
       "unit": "blocks"
     },
     "duration_label": "Four 2026 term blocks; hours and periods Teacher to confirm",
-    "site_state": "local-only"
+    "site_state": "live"
   },
   "syllabus": {
     "family_key": "food-technology-7-10-2019",
@@ -36,7 +36,7 @@
     "accent": "#126B61",
     "soft": "#DCEFE8",
     "text": "#142F2D",
-    "contrast_evidence": "Proposed teal family palette has readable dark text on pale background; Stage 91 must compare visually with the live registry before registration."
+    "contrast_evidence": "Teal 2019 Food family card visually checked against the existing orange 2025 Food family on 25 September 2026."
   },
   "master_relationship": {
     "state": "master-not-established",
@@ -59,13 +59,13 @@
   "artifacts": [
     {
       "role": "editable-program",
-      "path": "teacher-program-v1.0.0.docx",
-      "sha256": "3938d35c588928117175edb532c20c344aaed67809d94adafd0e85e26339e563"
+      "path": "teacher-program-v1.1.0.docx",
+      "sha256": "d8452b70d36ee47fb70803b813fc758eb81bd6939bb1c3fa4d61ffb7b2934818"
     },
     {
       "role": "rendered-program",
-      "path": "teacher-program-v1.0.0.pdf",
-      "sha256": "1d6b7c89db742c40216a09723e28b7c568991d7b7feb30d3975cf291787117e7"
+      "path": "teacher-program-v1.1.0.pdf",
+      "sha256": "0f9c31dd60c37ac60192c31e6f7c24ecf69a13dc190ae223776dc192cf92f4f6"
     },
     {
       "role": "delivery-register",
@@ -79,29 +79,37 @@
     },
     {
       "role": "alignment-manifest",
-      "path": "program-alignment-v1.0.0.json",
-      "sha256": "e3028217ff515a81ecb40a371147f131396d161c2dd463ee22a9b6f6ac316758"
+      "path": "program-alignment-v1.1.0.json",
+      "sha256": "14f7ded2f30c8f2f82f27022b62787d6d4bd2200364b80e3ea690fa18710a727"
+    },
+    {
+      "role": "teacher-program-manifest",
+      "path": "teacher-program-manifest-v1.1.0.json",
+      "sha256": "76ba9e2014c645485194790778cae774fcfd672847fe42b83c0b21f742889103"
     }
   ],
   "library_card": {
-    "title": "Year 10 Food Technology 2026",
+    "title": "Year 10 Food Technology",
     "family": "Food Technology",
     "stage": "Stage 5",
     "course": "Food Technology 7–10",
-    "durationLabel": "4 blocks",
-    "version": "v1.0.0",
-    "syllabusAligned": true,
-    "pdf": "programs/teacher-program-v1.0.0.pdf",
-    "docx": "programs/teacher-program-v1.0.0.docx",
-    "manifest": "programs/program-alignment-v1.0.0.json",
+    "durationLabel": "4 planning blocks",
+    "version": "v1.1.0",
+    "pdf": "programs/year-10-food-technology/teacher-program-v1.1.0.pdf",
+    "docx": "programs/year-10-food-technology/teacher-program-v1.1.0.docx",
+    "manifest": "programs/year-10-food-technology/program-alignment-v1.1.0.json",
     "syllabusTitle": "Food Technology 7–10 Syllabus (2019)",
     "syllabusUrl": "https://www.nsw.gov.au/education-and-training/nesa/curriculum/tas/food-technology-7-10-2019",
     "syllabusStatus": "Current 2019 basis for 2026; successor 2025 implemented from 2028",
-    "syllabusVerified": "24 September 2026",
-    "masterNote": "Master not established; four 2026 focus areas only"
+    "syllabusVerified": "25 September 2026",
+    "masterNote": "Master not established; four 2026 focus areas only",
+    "reviewDraft": true,
+    "anchor": "year-10-food-technology",
+    "syllabusKey": "food-technology-7-10-2019",
+    "site": "https://stevencowell.github.io/Main-Page/Year-10-Food-Technology/"
   },
   "registration": {
-    "state": "handoff-ready",
-    "canonical_library_url": "https://stevencowell.github.io/Main-Page/subject-program-library/"
+    "state": "published",
+    "canonical_library_url": "https://stevencowell.github.io/Main-Page/subject-program-library/#year-10-food-technology"
   }
 }

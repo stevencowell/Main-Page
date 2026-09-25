@@ -76,6 +76,7 @@ h1 span { color: #f0d49f; }
 .syllabus-family--engineering { --syllabus-accent: #005a9c; --syllabus-soft: #e5f2fb; }
 .syllabus-family--graphics { --syllabus-accent: #8b2433; --syllabus-soft: #fbeaec; }
 .syllabus-family--food { --syllabus-accent: #b24a00; --syllabus-soft: #fff0df; }
+.syllabus-family--food-current { --syllabus-accent: #126b61; --syllabus-soft: #dcefe8; }
 .syllabus-family--textiles { --syllabus-accent: #9b1463; --syllabus-soft: #fbe8f3; }
 .syllabus-family--agriculture { --syllabus-accent: #617400; --syllabus-soft: #f1f6d8; }
 .syllabus-family--senior-textiles { --syllabus-accent: #5b2387; --syllabus-soft: #f1e8fa; }
@@ -113,6 +114,8 @@ h1 span { color: #f0d49f; }
 .focus-area-heading small { display: block; max-width: 780px; margin-top: 5px; color: #4f6259; font-size: .79rem; }
 .focus-area-heading > strong { flex: 0 0 auto; padding: 7px 10px; border-radius: 999px; color: white; background: var(--focus-accent); font-size: .72rem; }
 .program-card { position: relative; display: flex; min-width: 0; min-height: 345px; flex-direction: column; overflow: hidden; border: 1px solid var(--line); border-radius: var(--radius); background: var(--paper); box-shadow: 0 8px 26px rgba(24,51,42,.07); }
+.program-card[id] { scroll-margin-top: 26px; }
+.program-card:target { outline: 3px solid var(--syllabus-accent); outline-offset: 4px; }
 .program-card::before { content: ""; height: 8px; background: var(--syllabus-accent, var(--forest)); }
 .program-card.is-master { min-height: 0; border-color: var(--syllabus-accent); background: linear-gradient(132deg, var(--syllabus-soft), white 48%); box-shadow: 0 14px 36px rgba(24,51,42,.12); }
 .syllabus-family--industrial .program-card[data-family="Timber"] { --syllabus-accent: #8a531f; --syllabus-soft: #f8ead8; border-color: #ddc3a3; background: linear-gradient(180deg, #fff9f2 0, white 42%); box-shadow: 0 9px 28px rgba(111,63,18,.1); }
@@ -129,6 +132,7 @@ h1 span { color: #f0d49f; }
 .subject-tag { color: var(--syllabus-accent, #325844); background: var(--syllabus-soft, #edf3ef); }
 .status.ready { color: #245f42; background: #dff2e6; }
 .status.pending { color: #726344; background: #f4eedf; }
+.status.review-draft { color: #15584f; background: #dcefe8; }
 .program-card h4 { margin: 19px 0 7px; font-family: Manrope, sans-serif; font-size: 1.45rem; line-height: 1.12; letter-spacing: -.025em; }
 .course-meta { margin: 0; color: var(--muted); font-size: .9rem; }
 .program-details { display: flex; flex-wrap: wrap; gap: 7px; margin: 19px 0 0; }

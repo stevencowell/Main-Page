@@ -63,6 +63,7 @@ const programs = [
   { title: "Year 11 Work Studies", family: "Work Studies", stage: "Stage 6", course: "Work Studies (CEC)", periods: 120, version: "v1.0.0", syllabusAligned: true, pdf: "programs/work-studies/year-11/teacher-program-v1.0.0.pdf", docx: "programs/work-studies/year-11/teacher-program-v1.0.0.docx", manifest: "programs/work-studies/year-11/teacher-program-manifest-v1.0.0.json", syllabusKey: "work-studies-stage-6-cec-2012", syllabusTitle: "11–12 Work Studies Stage 6 (CEC) Syllabus (2012)", syllabusUrl: "https://curriculum.nsw.edu.au/learning-areas/hsie/work-studies-stage-6-cec-2012/overview/course", syllabusStatus: "Current NSW syllabus", syllabusVerified: "1 September 2026", site: "https://stevencowell.github.io/Year-11-12-Work-Studies/two-year-map.html#year-11" },
   { title: "Year 12 Work Studies", family: "Work Studies", stage: "Stage 6", course: "Work Studies (CEC)", periods: 120, version: "v1.0.0", syllabusAligned: true, pdf: "programs/work-studies/year-12/teacher-program-v1.0.0.pdf", docx: "programs/work-studies/year-12/teacher-program-v1.0.0.docx", manifest: "programs/work-studies/year-12/teacher-program-manifest-v1.0.0.json", syllabusKey: "work-studies-stage-6-cec-2012", syllabusTitle: "11–12 Work Studies Stage 6 (CEC) Syllabus (2012)", syllabusUrl: "https://curriculum.nsw.edu.au/learning-areas/hsie/work-studies-stage-6-cec-2012/overview/course", syllabusStatus: "Current NSW syllabus", syllabusVerified: "1 September 2026", site: "https://stevencowell.github.io/Year-11-12-Work-Studies/two-year-map.html#year-12" },
 
+  { title: "Year 10 Food Technology", family: "Food Technology", stage: "Stage 5", course: "Food Technology", durationLabel: "4 planning blocks", version: "v1.1.0", reviewDraft: true, anchor: "year-10-food-technology", reviewNote: "2026 teaching sequence linked to the course site. Teacher to confirm timetable and hours, local practical controls and assessment details before delivery.", pdf: "programs/year-10-food-technology/teacher-program-v1.1.0.pdf", docx: "programs/year-10-food-technology/teacher-program-v1.1.0.docx", manifest: "programs/year-10-food-technology/program-alignment-v1.1.0.json", syllabusKey: "food-technology-7-10-2019", syllabusTitle: "Food Technology 7–10 Syllabus (2019)", syllabusUrl: "https://www.nsw.gov.au/education-and-training/nesa/curriculum/tas/food-technology-7-10-2019", syllabusStatus: "Current for 2026 delivery; successor syllabus mandatory from 2028", syllabusVerified: "25 September 2026", site: "https://stevencowell.github.io/Main-Page/Year-10-Food-Technology/" },
   { title: "Stage 5 Food Technology 200-hour Master", family: "Food Technology", stage: "Stage 5", course: "Food Technology", periods: 200, version: "v2.0", master: true, masterNote: "Flexible two-year master: the three current sites provide 60 mapped periods; the remaining 140-period capacity and every unsupported official content point are explicitly registered for future units rather than claimed as complete.", syllabusAligned: true, pdf: "programs/Stage-5-Food-200-Hour-Master-Teaching-Program-v2.0-Network-Benchmark.pdf", docx: "programs/Stage-5-Food-200-Hour-Master-Teaching-Program-v2.0-Network-Benchmark.docx", manifest: "programs/Stage-5-Food-200-Hour-Master-Alignment-Manifest-v2.0.json", syllabusTitle: "Food Technology 7–10 Syllabus (2025)", syllabusUrl: "https://curriculum.nsw.edu.au/learning-areas/tas/food-technology-7-10-2025/overview/course", syllabusStatus: "New syllabus — early implementation for 2027; mandatory 2028", syllabusVerified: "29 August 2026", site: "https://stevencowell.github.io/Year-9-Food-in-Australia/" },
   { title: "Food in Australia", family: "Food Technology", stage: "Stage 5", course: "Food Technology", periods: 20, version: "v2.0", syllabusAligned: true, pdf: "programs/Food-in-Australia-20-Period-Teaching-Program-v2.0-Network-Benchmark.pdf", docx: "programs/Food-in-Australia-20-Period-Teaching-Program-v2.0-Network-Benchmark.docx", manifest: "programs/Food-in-Australia-20-Period-Alignment-Manifest-v2.0.json", syllabusTitle: "Food Technology 7–10 Syllabus (2025)", syllabusUrl: "https://curriculum.nsw.edu.au/learning-areas/tas/food-technology-7-10-2025/overview/course", syllabusStatus: "New syllabus — early implementation for 2027; mandatory 2028", syllabusVerified: "29 August 2026", site: "https://stevencowell.github.io/Year-9-Food-in-Australia/" },
   { title: "Food Selection and Health", family: "Food Technology", stage: "Stage 5", course: "Food Technology", periods: 20, version: "v2.0", syllabusAligned: true, pdf: "programs/Food-Selection-and-Health-20-Period-Teaching-Program-v2.0-Network-Benchmark.pdf", docx: "programs/Food-Selection-and-Health-20-Period-Teaching-Program-v2.0-Network-Benchmark.docx", manifest: "programs/Food-Selection-and-Health-20-Period-Alignment-Manifest-v2.0.json", syllabusTitle: "Food Technology 7–10 Syllabus (2025)", syllabusUrl: "https://curriculum.nsw.edu.au/learning-areas/tas/food-technology-7-10-2025/overview/course", syllabusStatus: "New syllabus — early implementation for 2027; mandatory 2028", syllabusVerified: "29 August 2026", site: "https://stevencowell.github.io/Year-9-Food-Selection-and-Health/" },
@@ -143,6 +144,15 @@ const syllabusFamilies = [
     order: 27,
   },
   {
+    key: "food-technology-7-10-2019",
+    title: "Food Technology 7–10 Syllabus (2019)",
+    url: "https://www.nsw.gov.au/education-and-training/nesa/curriculum/tas/food-technology-7-10-2019",
+    status: "Current for 2026 delivery; successor syllabus mandatory from 2028",
+    description: "Year 10 Food Technology 2026 teaching program",
+    tone: "food-current",
+    order: 29,
+  },
+  {
     key: "food-technology-7-10-2025",
     title: "Food Technology 7–10 Syllabus (2025)",
     url: "https://curriculum.nsw.edu.au/learning-areas/tas/food-technology-7-10-2025/overview/course",
@@ -219,7 +229,7 @@ const emptyState = document.querySelector("#empty-state");
 let activeFamily = "All";
 
 const families = ["All", ...new Set(programs.map(program => program.family))];
-const readyPrograms = programs.filter(program => program.pdf);
+const readyPrograms = programs.filter(program => program.pdf && !program.reviewDraft);
 
 document.querySelector("#ready-count").textContent = readyPrograms.length;
 document.querySelector("#total-count").textContent = programs.length;
@@ -256,18 +266,18 @@ function programCard(program) {
     details.push("Syllabus-aligned");
   }
   const focusAreaKey = program.master && isStage4Technology ? "all" : stage4UnitFocus[program.title];
-  const statusLabel = program.master ? "Master" : (program.benchmark ? "Benchmark" : (ready ? "Ready" : (program.alignmentInProgress ? "Alignment in progress" : "Not yet added")));
+  const statusLabel = program.reviewDraft ? "Teacher review draft" : (program.master ? "Master" : (program.benchmark ? "Benchmark" : (ready ? "Ready" : (program.alignmentInProgress ? "Alignment in progress" : "Not yet added"))));
   return `
-    <article class="program-card${program.master ? " is-master" : ""}" data-family="${program.family}" data-program-title="${program.title}"${focusAreaKey ? ` data-focus-area="${focusAreaKey}"` : ""}>
+    <article class="program-card${program.master ? " is-master" : ""}"${program.anchor ? ` id="${program.anchor}"` : ""} data-family="${program.family}" data-program-title="${program.title}"${focusAreaKey ? ` data-focus-area="${focusAreaKey}"` : ""}>
       <div class="program-body">
         <div class="card-topline">
           <span class="subject-tag">${program.family}</span>
-          <span class="status ${ready ? "ready" : "pending"}">${statusLabel}</span>
+          <span class="status ${program.reviewDraft ? "review-draft" : (ready ? "ready" : "pending")}">${statusLabel}</span>
         </div>
         <h4>${program.title}</h4>
         <p class="course-meta">${courseLabel(program)}</p>
         <div class="program-details">${details.map(detail => `<span>${detail}</span>`).join("")}</div>
-        <p class="card-note">${program.master ? (program.masterNote || "Two-year course map with exact site, evidence and syllabus destinations.") : (program.introUnit ? "A 50-period introductory unit that contributes to a named 100-hour elective; additional study is required to complete the course." : (program.benchmark ? "Network benchmark: outcome codes sit beside the syllabus content they support, and each teacher checkpoint says exactly what to check or observe." : (ready ? "Print-ready program and editable source, aligned to the matching course site." : (program.alignmentInProgress ? "Existing course materials are being converted into the network program format; the official syllabus is confirmed." : "The course remains listed so the program gap is visible and easy to complete."))))}</p>
+        <p class="card-note">${program.reviewDraft ? program.reviewNote : (program.master ? (program.masterNote || "Two-year course map with exact site, evidence and syllabus destinations.") : (program.introUnit ? "A 50-period introductory unit that contributes to a named 100-hour elective; additional study is required to complete the course." : (program.benchmark ? "Network benchmark: outcome codes sit beside the syllabus content they support, and each teacher checkpoint says exactly what to check or observe." : (ready ? "Print-ready program and editable source, aligned to the matching course site." : (program.alignmentInProgress ? "Existing course materials are being converted into the network program format; the official syllabus is confirmed." : "The course remains listed so the program gap is visible and easy to complete.")))))}</p>
         ${program.syllabusUrl ? `<div class="syllabus-meta"><span>Official syllabus</span><a href="${program.syllabusUrl}" target="_blank" rel="noopener">${program.syllabusTitle} ↗</a><small>${program.syllabusStatus} · verified ${program.syllabusVerified}</small></div>` : ""}
         <div class="card-actions">
           ${ready ? `<a class="primary" href="${program.pdf}" target="_blank">Open PDF</a><a href="${program.docx}" download>Word copy</a>` : ""}
@@ -362,7 +372,7 @@ function renderPrograms() {
   grid.innerHTML = visibleGroups.map(({ group, items }) => syllabusFamilyMarkup(group, items)).join("");
   grid.hidden = visible.length === 0;
   emptyState.hidden = visible.length !== 0;
-  const readyVisible = visible.filter(program => program.pdf).length;
+  const readyVisible = visible.filter(program => program.pdf && !program.reviewDraft).length;
   resultsSummary.textContent = `${visible.length} shown · ${readyVisible} ready · ${visibleGroups.length} syllabus ${visibleGroups.length === 1 ? "group" : "groups"}`;
 }
 

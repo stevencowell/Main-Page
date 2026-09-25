@@ -1,0 +1,423 @@
+{
+  "version": "v1.1.0",
+  "source": "teacher-program-v1.0.0.docx",
+  "output": "teacher-program-v1.1.0.docx",
+  "site": "https://stevencowell.github.io/Main-Page/Year-10-Food-Technology/",
+  "date": "2026-09-25",
+  "links": [
+    {
+      "period": 1,
+      "field": "Type",
+      "label": "Site/theory",
+      "url": "https://stevencowell.github.io/Main-Page/Year-10-Food-Technology/modules/module-01.html#m01-section-1-theory"
+    },
+    {
+      "period": 1,
+      "field": "Focus",
+      "label": "What food equity means",
+      "url": "https://stevencowell.github.io/Main-Page/Year-10-Food-Technology/modules/module-01.html#m01-section-1-theory"
+    },
+    {
+      "period": 1,
+      "field": "Evidence / outcomes",
+      "label": "10-question check",
+      "url": "https://stevencowell.github.io/Main-Page/Year-10-Food-Technology/modules/module-01.html#m01-section-1-package"
+    },
+    {
+      "period": 2,
+      "field": "Type",
+      "label": "Site/theory",
+      "url": "https://stevencowell.github.io/Main-Page/Year-10-Food-Technology/modules/module-01.html#m01-section-2-theory"
+    },
+    {
+      "period": 2,
+      "field": "Focus",
+      "label": "Barriers to food and water",
+      "url": "https://stevencowell.github.io/Main-Page/Year-10-Food-Technology/modules/module-01.html#m01-section-2-theory"
+    },
+    {
+      "period": 2,
+      "field": "Evidence / outcomes",
+      "label": "10-question check",
+      "url": "https://stevencowell.github.io/Main-Page/Year-10-Food-Technology/modules/module-01.html#m01-section-2-package"
+    },
+    {
+      "period": 3,
+      "field": "Type",
+      "label": "Site/theory",
+      "url": "https://stevencowell.github.io/Main-Page/Year-10-Food-Technology/modules/module-01.html#m01-section-3-theory"
+    },
+    {
+      "period": 3,
+      "field": "Focus",
+      "label": "Investigate and respond",
+      "url": "https://stevencowell.github.io/Main-Page/Year-10-Food-Technology/modules/module-01.html#m01-section-3-theory"
+    },
+    {
+      "period": 3,
+      "field": "Evidence / outcomes",
+      "label": "10-question check",
+      "url": "https://stevencowell.github.io/Main-Page/Year-10-Food-Technology/modules/module-01.html#m01-section-3-package"
+    },
+    {
+      "period": 4,
+      "field": "Type",
+      "label": "Project/folio",
+      "url": "https://stevencowell.github.io/Main-Page/Year-10-Food-Technology/folio.html#module-01-folio"
+    },
+    {
+      "period": 4,
+      "field": "Focus",
+      "label": "Apply and select evidence - Food Equity",
+      "url": "https://stevencowell.github.io/Main-Page/Year-10-Food-Technology/activities.html#module-01-activity"
+    },
+    {
+      "period": 4,
+      "field": "Teaching and learning",
+      "label": "Module 1 applied scenario",
+      "url": "https://stevencowell.github.io/Main-Page/Year-10-Food-Technology/activities.html#module-01-activity"
+    },
+    {
+      "period": 4,
+      "field": "Teaching and learning",
+      "label": "puzzle bank",
+      "url": "https://stevencowell.github.io/Main-Page/Year-10-Food-Technology/busy-work.html#puzzle-01"
+    },
+    {
+      "period": 4,
+      "field": "Teaching and learning",
+      "label": "Review all three checks",
+      "url": "https://stevencowell.github.io/Main-Page/Year-10-Food-Technology/modules/module-01.html#module-01-review"
+    },
+    {
+      "period": 4,
+      "field": "Teaching and learning",
+      "label": "folio record",
+      "url": "https://stevencowell.github.io/Main-Page/Year-10-Food-Technology/folio.html#module-01-folio"
+    },
+    {
+      "period": 5,
+      "field": "Type",
+      "label": "Practical",
+      "url": "https://classroom.google.com/w/ODQxODU0NzM4OTcw/t/all"
+    },
+    {
+      "period": 5,
+      "field": "Evidence / outcomes",
+      "label": "Teacher to confirm",
+      "url": "https://stevencowell.github.io/Main-Page/Year-10-Food-Technology/teacher-resources.html#main"
+    },
+    {
+      "period": 6,
+      "field": "Type",
+      "label": "Site/theory",
+      "url": "https://stevencowell.github.io/Main-Page/Year-10-Food-Technology/modules/module-02.html#m02-section-1-theory"
+    },
+    {
+      "period": 6,
+      "field": "Focus",
+      "label": "Why food trends emerge",
+      "url": "https://stevencowell.github.io/Main-Page/Year-10-Food-Technology/modules/module-02.html#m02-section-1-theory"
+    },
+    {
+      "period": 6,
+      "field": "Evidence / outcomes",
+      "label": "10-question check",
+      "url": "https://stevencowell.github.io/Main-Page/Year-10-Food-Technology/modules/module-02.html#m02-section-1-package"
+    },
+    {
+      "period": 7,
+      "field": "Type",
+      "label": "Site/theory",
+      "url": "https://stevencowell.github.io/Main-Page/Year-10-Food-Technology/modules/module-02.html#m02-section-2-theory"
+    },
+    {
+      "period": 7,
+      "field": "Focus",
+      "label": "Local produce, waste and value adding",
+      "url": "https://stevencowell.github.io/Main-Page/Year-10-Food-Technology/modules/module-02.html#m02-section-2-theory"
+    },
+    {
+      "period": 7,
+      "field": "Evidence / outcomes",
+      "label": "10-question check",
+      "url": "https://stevencowell.github.io/Main-Page/Year-10-Food-Technology/modules/module-02.html#m02-section-2-package"
+    },
+    {
+      "period": 8,
+      "field": "Type",
+      "label": "Site/theory",
+      "url": "https://stevencowell.github.io/Main-Page/Year-10-Food-Technology/modules/module-02.html#m02-section-3-theory"
+    },
+    {
+      "period": 8,
+      "field": "Focus",
+      "label": "Evaluate a food trend",
+      "url": "https://stevencowell.github.io/Main-Page/Year-10-Food-Technology/modules/module-02.html#m02-section-3-theory"
+    },
+    {
+      "period": 8,
+      "field": "Evidence / outcomes",
+      "label": "10-question check",
+      "url": "https://stevencowell.github.io/Main-Page/Year-10-Food-Technology/modules/module-02.html#m02-section-3-package"
+    },
+    {
+      "period": 9,
+      "field": "Type",
+      "label": "Project/folio",
+      "url": "https://stevencowell.github.io/Main-Page/Year-10-Food-Technology/folio.html#module-02-folio"
+    },
+    {
+      "period": 9,
+      "field": "Focus",
+      "label": "Apply and select evidence - Food Trends",
+      "url": "https://stevencowell.github.io/Main-Page/Year-10-Food-Technology/activities.html#module-02-activity"
+    },
+    {
+      "period": 9,
+      "field": "Teaching and learning",
+      "label": "Module 2 applied scenario",
+      "url": "https://stevencowell.github.io/Main-Page/Year-10-Food-Technology/activities.html#module-02-activity"
+    },
+    {
+      "period": 9,
+      "field": "Teaching and learning",
+      "label": "puzzle bank",
+      "url": "https://stevencowell.github.io/Main-Page/Year-10-Food-Technology/busy-work.html#puzzle-02"
+    },
+    {
+      "period": 9,
+      "field": "Teaching and learning",
+      "label": "Review all three checks",
+      "url": "https://stevencowell.github.io/Main-Page/Year-10-Food-Technology/modules/module-02.html#module-02-review"
+    },
+    {
+      "period": 9,
+      "field": "Teaching and learning",
+      "label": "folio record",
+      "url": "https://stevencowell.github.io/Main-Page/Year-10-Food-Technology/folio.html#module-02-folio"
+    },
+    {
+      "period": 9,
+      "field": "Teaching and learning",
+      "label": "posted Food Trends task",
+      "url": "https://classroom.google.com/c/ODQxODU0NzM4OTcw/a/ODYyOTA0NDM2MjUx/details"
+    },
+    {
+      "period": 10,
+      "field": "Type",
+      "label": "Practical",
+      "url": "https://classroom.google.com/w/ODQxODU0NzM4OTcw/t/all"
+    },
+    {
+      "period": 10,
+      "field": "Evidence / outcomes",
+      "label": "Teacher to confirm",
+      "url": "https://stevencowell.github.io/Main-Page/Year-10-Food-Technology/teacher-resources.html#main"
+    },
+    {
+      "period": 11,
+      "field": "Type",
+      "label": "Site/theory",
+      "url": "https://stevencowell.github.io/Main-Page/Year-10-Food-Technology/modules/module-03.html#m03-section-1-theory"
+    },
+    {
+      "period": 11,
+      "field": "Focus",
+      "label": "Food, identity and significance",
+      "url": "https://stevencowell.github.io/Main-Page/Year-10-Food-Technology/modules/module-03.html#m03-section-1-theory"
+    },
+    {
+      "period": 11,
+      "field": "Evidence / outcomes",
+      "label": "10-question check",
+      "url": "https://stevencowell.github.io/Main-Page/Year-10-Food-Technology/modules/module-03.html#m03-section-1-package"
+    },
+    {
+      "period": 12,
+      "field": "Type",
+      "label": "Site/theory",
+      "url": "https://stevencowell.github.io/Main-Page/Year-10-Food-Technology/modules/module-03.html#m03-section-2-theory"
+    },
+    {
+      "period": 12,
+      "field": "Focus",
+      "label": "Celebrations across time and place",
+      "url": "https://stevencowell.github.io/Main-Page/Year-10-Food-Technology/modules/module-03.html#m03-section-2-theory"
+    },
+    {
+      "period": 12,
+      "field": "Evidence / outcomes",
+      "label": "10-question check",
+      "url": "https://stevencowell.github.io/Main-Page/Year-10-Food-Technology/modules/module-03.html#m03-section-2-package"
+    },
+    {
+      "period": 13,
+      "field": "Type",
+      "label": "Site/theory",
+      "url": "https://stevencowell.github.io/Main-Page/Year-10-Food-Technology/modules/module-03.html#m03-section-3-theory"
+    },
+    {
+      "period": 13,
+      "field": "Focus",
+      "label": "Plan for an occasion",
+      "url": "https://stevencowell.github.io/Main-Page/Year-10-Food-Technology/modules/module-03.html#m03-section-3-theory"
+    },
+    {
+      "period": 13,
+      "field": "Evidence / outcomes",
+      "label": "10-question check",
+      "url": "https://stevencowell.github.io/Main-Page/Year-10-Food-Technology/modules/module-03.html#m03-section-3-package"
+    },
+    {
+      "period": 14,
+      "field": "Type",
+      "label": "Project/folio",
+      "url": "https://stevencowell.github.io/Main-Page/Year-10-Food-Technology/folio.html#module-03-folio"
+    },
+    {
+      "period": 14,
+      "field": "Focus",
+      "label": "Apply and select evidence - Food for Special Occasions",
+      "url": "https://stevencowell.github.io/Main-Page/Year-10-Food-Technology/activities.html#module-03-activity"
+    },
+    {
+      "period": 14,
+      "field": "Teaching and learning",
+      "label": "Module 3 applied scenario",
+      "url": "https://stevencowell.github.io/Main-Page/Year-10-Food-Technology/activities.html#module-03-activity"
+    },
+    {
+      "period": 14,
+      "field": "Teaching and learning",
+      "label": "puzzle bank",
+      "url": "https://stevencowell.github.io/Main-Page/Year-10-Food-Technology/busy-work.html#puzzle-03"
+    },
+    {
+      "period": 14,
+      "field": "Teaching and learning",
+      "label": "Review all three checks",
+      "url": "https://stevencowell.github.io/Main-Page/Year-10-Food-Technology/modules/module-03.html#module-03-review"
+    },
+    {
+      "period": 14,
+      "field": "Teaching and learning",
+      "label": "folio record",
+      "url": "https://stevencowell.github.io/Main-Page/Year-10-Food-Technology/folio.html#module-03-folio"
+    },
+    {
+      "period": 15,
+      "field": "Type",
+      "label": "Practical",
+      "url": "https://classroom.google.com/w/ODQxODU0NzM4OTcw/t/all"
+    },
+    {
+      "period": 15,
+      "field": "Evidence / outcomes",
+      "label": "Teacher to confirm",
+      "url": "https://stevencowell.github.io/Main-Page/Year-10-Food-Technology/teacher-resources.html#main"
+    },
+    {
+      "period": 16,
+      "field": "Type",
+      "label": "Site/theory",
+      "url": "https://stevencowell.github.io/Main-Page/Year-10-Food-Technology/modules/module-04.html#m04-section-1-theory"
+    },
+    {
+      "period": 16,
+      "field": "Focus",
+      "label": "Service settings and customers",
+      "url": "https://stevencowell.github.io/Main-Page/Year-10-Food-Technology/modules/module-04.html#m04-section-1-theory"
+    },
+    {
+      "period": 16,
+      "field": "Evidence / outcomes",
+      "label": "10-question check",
+      "url": "https://stevencowell.github.io/Main-Page/Year-10-Food-Technology/modules/module-04.html#m04-section-1-package"
+    },
+    {
+      "period": 17,
+      "field": "Type",
+      "label": "Site/theory",
+      "url": "https://stevencowell.github.io/Main-Page/Year-10-Food-Technology/modules/module-04.html#m04-section-2-theory"
+    },
+    {
+      "period": 17,
+      "field": "Focus",
+      "label": "Menus, teams and costs",
+      "url": "https://stevencowell.github.io/Main-Page/Year-10-Food-Technology/modules/module-04.html#m04-section-2-theory"
+    },
+    {
+      "period": 17,
+      "field": "Evidence / outcomes",
+      "label": "10-question check",
+      "url": "https://stevencowell.github.io/Main-Page/Year-10-Food-Technology/modules/module-04.html#m04-section-2-package"
+    },
+    {
+      "period": 18,
+      "field": "Type",
+      "label": "Site/theory",
+      "url": "https://stevencowell.github.io/Main-Page/Year-10-Food-Technology/modules/module-04.html#m04-section-3-theory"
+    },
+    {
+      "period": 18,
+      "field": "Focus",
+      "label": "Functional properties and review",
+      "url": "https://stevencowell.github.io/Main-Page/Year-10-Food-Technology/modules/module-04.html#m04-section-3-theory"
+    },
+    {
+      "period": 18,
+      "field": "Evidence / outcomes",
+      "label": "10-question check",
+      "url": "https://stevencowell.github.io/Main-Page/Year-10-Food-Technology/modules/module-04.html#m04-section-3-package"
+    },
+    {
+      "period": 19,
+      "field": "Type",
+      "label": "Project/folio",
+      "url": "https://stevencowell.github.io/Main-Page/Year-10-Food-Technology/folio.html#module-04-folio"
+    },
+    {
+      "period": 19,
+      "field": "Focus",
+      "label": "Apply and select evidence - Food Service and Catering",
+      "url": "https://stevencowell.github.io/Main-Page/Year-10-Food-Technology/activities.html#module-04-activity"
+    },
+    {
+      "period": 19,
+      "field": "Teaching and learning",
+      "label": "Module 4 applied scenario",
+      "url": "https://stevencowell.github.io/Main-Page/Year-10-Food-Technology/activities.html#module-04-activity"
+    },
+    {
+      "period": 19,
+      "field": "Teaching and learning",
+      "label": "puzzle bank",
+      "url": "https://stevencowell.github.io/Main-Page/Year-10-Food-Technology/busy-work.html#puzzle-04"
+    },
+    {
+      "period": 19,
+      "field": "Teaching and learning",
+      "label": "Review all three checks",
+      "url": "https://stevencowell.github.io/Main-Page/Year-10-Food-Technology/modules/module-04.html#module-04-review"
+    },
+    {
+      "period": 19,
+      "field": "Teaching and learning",
+      "label": "folio record",
+      "url": "https://stevencowell.github.io/Main-Page/Year-10-Food-Technology/folio.html#module-04-folio"
+    },
+    {
+      "period": 20,
+      "field": "Type",
+      "label": "Practical",
+      "url": "https://classroom.google.com/w/ODQxODU0NzM4OTcw/t/all"
+    },
+    {
+      "period": 20,
+      "field": "Evidence / outcomes",
+      "label": "Teacher to confirm",
+      "url": "https://stevencowell.github.io/Main-Page/Year-10-Food-Technology/teacher-resources.html#main"
+    }
+  ]
+}
