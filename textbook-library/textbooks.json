@@ -297,7 +297,29 @@
     "word": "books/bbq-case/bbq-case-student-workbook.docx",
     "teacherGuide": "books/bbq-case/bbq-case-teacher-guide.pdf",
     "course": "https://stevencowell.github.io/Yr-10-Metal/bbq-case/",
-    "printNote": "Print on A4 at actual size. Pages 3–6 are landscape plans; check their orientation in the double-sided print preview."
+    "printNote": "Print on A4 at actual size. Pages 3–6 are landscape plans; check their orientation in the double-sided print preview.",
+    "classroom": "../classroom-library/#bbq-case",
+    "classroomLabel": "Open the matching Google Classroom"
+  },
+  {
+    "id": "folding-camping-shovel",
+    "title": "Folding Camping Shovel",
+    "subject": "Metal",
+    "stage": "Stage 5",
+    "type": "Student workbook",
+    "edition": "1.1",
+    "published": "2026-09-26",
+    "description": "Connect drawings, materials, fits, threads, machining and assembly with evidence from your own Folding Camping Shovel project. Read, check, plan and evaluate alongside the guided course.",
+    "includes": "Five illustrated modules, all 150 original knowledge-check questions, six original plan sheets, worked examples and a 12-part project folio. The expanded layout provides room to read and respond. Includes an editable Word edition and a separate 38-page teacher guide with answers.",
+    "pages": 70,
+    "sheets": 35,
+    "cover": "assets/folding-camping-shovel-cover.webp",
+    "preview": "assets/folding-camping-shovel-preview.webp",
+    "pdf": "books/folding-camping-shovel/folding-camping-shovel-student-workbook.pdf",
+    "word": "books/folding-camping-shovel/folding-camping-shovel-student-workbook.docx",
+    "teacherGuide": "books/folding-camping-shovel/folding-camping-shovel-teacher-guide.pdf",
+    "course": "https://stevencowell.github.io/Yr-10-Metal/folding-camping-shovel/",
+    "printNote": "Print on A4 at actual size. Pages 3–8 are landscape plans; check their orientation in the double-sided print preview."
   },
   {
     "id": "fishing-rod-holder",
