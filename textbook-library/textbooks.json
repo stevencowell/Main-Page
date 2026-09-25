@@ -261,6 +261,25 @@
     "course": "https://stevencowell.github.io/Swinging-Sign/"
   },
   {
+    "id": "sheet-metal-toolbox",
+    "title": "Sheet-metal Toolbox",
+    "subject": "Metal",
+    "stage": "Stage 5",
+    "type": "Student workbook",
+    "edition": "1.0",
+    "published": "2026-09-25",
+    "description": "Develop accurate marking, forming, joining and evaluation through the Sheet-metal Toolbox project. Connect material choices, plan reading and safe workshop decisions with evidence of your own work.",
+    "includes": "Five illustrated modules, the original Tool Carryall drawing, worked examples, 20 original knowledge-check questions and a complete 12-part project folio. Includes an editable Word edition and a 21-page teacher guide with answers.",
+    "pages": 50,
+    "sheets": 25,
+    "cover": "assets/sheet-metal-toolbox-cover.webp",
+    "preview": "assets/sheet-metal-toolbox-preview.webp",
+    "pdf": "books/sheet-metal-toolbox/sheet-metal-toolbox-student-workbook.pdf",
+    "word": "books/sheet-metal-toolbox/sheet-metal-toolbox-student-workbook.docx",
+    "teacherGuide": "books/sheet-metal-toolbox/sheet-metal-toolbox-teacher-guide.pdf",
+    "course": "https://stevencowell.github.io/Yr-9-Metal/toolbox/"
+  },
+  {
     "id": "bucket-hat",
     "title": "Bucket Hat for a Cause",
     "subject": "Textiles",
