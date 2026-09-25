@@ -280,6 +280,25 @@
     "course": "https://stevencowell.github.io/Yr-9-Metal/toolbox/"
   },
   {
+    "id": "fishing-rod-holder",
+    "title": "Fishing Rod Holder",
+    "subject": "Metal",
+    "stage": "Stage 5",
+    "type": "Student textbook",
+    "edition": "1.0",
+    "published": "2026-09-25",
+    "description": "Study the Fishing Rod Holder through the original components drawing, material choices, accurate marking, safe workshop decisions and evidence-based evaluation.",
+    "includes": "Five illustrated modules, worked examples, 20 original knowledge-check questions, the 12-part project folio and space for your own evidence. Includes an editable Word edition and a nine-page teacher guide.",
+    "pages": 50,
+    "sheets": 25,
+    "cover": "assets/fishing-rod-holder-cover.webp",
+    "preview": "assets/fishing-rod-holder-preview.webp",
+    "pdf": "books/fishing-rod-holder/fishing-rod-holder-student-textbook.pdf",
+    "word": "books/fishing-rod-holder/fishing-rod-holder-student-textbook.docx",
+    "teacherGuide": "books/fishing-rod-holder/fishing-rod-holder-teacher-guide.pdf",
+    "course": "https://stevencowell.github.io/Yr-9-Metal/fishing-rod-holder/"
+  },
+  {
     "id": "bucket-hat",
     "title": "Bucket Hat for a Cause",
     "subject": "Textiles",
