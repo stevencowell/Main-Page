@@ -280,6 +280,26 @@
     "course": "https://stevencowell.github.io/Yr-9-Metal/toolbox/"
   },
   {
+    "id": "bbq-case",
+    "title": "BBQ and Case",
+    "subject": "Metal",
+    "stage": "Stage 5",
+    "type": "Student workbook",
+    "edition": "1.0",
+    "published": "2026-09-25",
+    "description": "Connect drawings, materials, machining, fabrication and case development with evidence from your own BBQ and Case project. Read, check, plan and evaluate alongside the guided course.",
+    "includes": "Nine illustrated modules, all 270 original questions, four original plan sheets, worked applications and a 12-part project folio. Includes an editable Word edition and a separate 71-page teacher guide with answers.",
+    "pages": 50,
+    "sheets": 25,
+    "cover": "assets/bbq-case-cover.webp",
+    "preview": "assets/bbq-case-preview.webp",
+    "pdf": "books/bbq-case/bbq-case-student-workbook.pdf",
+    "word": "books/bbq-case/bbq-case-student-workbook.docx",
+    "teacherGuide": "books/bbq-case/bbq-case-teacher-guide.pdf",
+    "course": "https://stevencowell.github.io/Yr-10-Metal/bbq-case/",
+    "printNote": "Print on A4 at actual size. Pages 3–6 are landscape plans; check their orientation in the double-sided print preview."
+  },
+  {
     "id": "fishing-rod-holder",
     "title": "Fishing Rod Holder",
     "subject": "Metal",

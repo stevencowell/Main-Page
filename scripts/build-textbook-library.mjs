@@ -59,7 +59,7 @@ const card = b => `<article class="book-card" id="${e(b.id)}" data-subject="${e(
     <p class="book-includes">${e(b.includes)}</p>
     <p class="book-facts"><span>${b.pages} pages</span><span>${b.sheets} double-sided sheets</span><span>A4</span><span>Edition ${e(b.edition)}</span></p>
     <div class="book-actions"><a class="button primary" href="${assetUrl(b.pdf)}" target="_blank" rel="noopener">Open ${kind(b)} (PDF) <span aria-hidden="true">↗</span>${newTab}</a><a class="button" href="${assetUrl(b.pdf)}" download="${e(b.id)}-student-${kind(b)}.pdf">Download PDF <span aria-hidden="true">↓</span></a></div>
-    <p class="download-note">PDF · ${size(b.pdf)}. Print double-sided on A4, flipping on the long edge.</p>
+    <p class="download-note">PDF · ${size(b.pdf)}. ${e(b.printNote || 'Print double-sided on A4, flipping on the long edge.')}</p>
     <a class="course-link" href="${e(b.course)}" target="_blank" rel="noopener">Open the matching course <span aria-hidden="true">↗</span>${newTab}</a>${b.classroom ? `
     <a class="course-link" href="${e(b.classroom)}">${e(b.classroomLabel || 'Open the matching Google Classroom')} <span aria-hidden="true">→</span></a>` : ''}${b.word || b.teacherGuide ? `
     ${teacherResources(b)}` : ''}
