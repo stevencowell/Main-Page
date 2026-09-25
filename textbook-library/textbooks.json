@@ -37,7 +37,9 @@
     "pdf": "books/footstool/footstool-student-workbook.pdf",
     "word": "books/footstool/footstool-student-workbook.docx",
     "teacherGuide": "books/footstool/footstool-teacher-guide.pdf",
-    "course": "https://stevencowell.github.io/Year-8-Intro-Timber-Technology/"
+    "course": "https://stevencowell.github.io/Year-8-Intro-Timber-Technology/",
+    "classroom": "../classroom-library/#footstool",
+    "classroomLabel": "Open Footstool Classroom and joining instructions"
   },
   {
     "id": "programmable-light",
@@ -56,7 +58,9 @@
     "pdf": "books/programmable-light/programmable-light-student-workbook.pdf",
     "word": "books/programmable-light/programmable-light-student-workbook.docx",
     "teacherGuide": "books/programmable-light/programmable-light-teacher-guide.pdf",
-    "course": "https://stevencowell.github.io/programmable-light-guided-course/"
+    "course": "https://stevencowell.github.io/programmable-light-guided-course/",
+    "classroom": "../classroom-library/#programmable-light",
+    "classroomLabel": "Check Programmable Light Classroom availability"
   },
   {
     "id": "breadboard",
@@ -75,7 +79,9 @@
     "pdf": "books/breadboard/breadboard-student-workbook.pdf",
     "word": "books/breadboard/breadboard-student-workbook.docx",
     "teacherGuide": "books/breadboard/breadboard-teacher-guide.pdf",
-    "course": "https://stevencowell.github.io/bread-board-guided-course/"
+    "course": "https://stevencowell.github.io/bread-board-guided-course/",
+    "classroom": "../classroom-library/#breadboard",
+    "classroomLabel": "Open Breadboard Classroom and joining instructions"
   },
   {
     "id": "small-box",
@@ -157,7 +163,9 @@
     "pdf": "books/mirror/mirror-student-workbook.pdf",
     "word": "books/mirror/mirror-student-workbook.docx",
     "teacherGuide": "books/mirror/mirror-teacher-guide.pdf",
-    "course": "https://stevencowell.github.io/year-10-timber-mirror-project/"
+    "course": "https://stevencowell.github.io/year-10-timber-mirror-project/",
+    "classroom": "../classroom-library/#mirror",
+    "classroomLabel": "Open Mirror Classroom and joining instructions"
   },
   {
     "id": "folding-chair",
@@ -239,7 +247,9 @@
     "pdf": "books/hose-reel-holder/hose-reel-holder-student-workbook.pdf",
     "word": "books/hose-reel-holder/hose-reel-holder-student-workbook.docx",
     "teacherGuide": "books/hose-reel-holder/hose-reel-holder-teacher-guide.pdf",
-    "course": "https://stevencowell.github.io/Yr-8-Metal-Technology/"
+    "course": "https://stevencowell.github.io/Yr-8-Metal-Technology/",
+    "classroom": "../classroom-library/#hose-reel-holder",
+    "classroomLabel": "Check Hose Reel Holder Classroom availability"
   },
   {
     "id": "swinging-sign",
@@ -258,7 +268,9 @@
     "pdf": "books/swinging-sign/swinging-sign-student-workbook.pdf",
     "word": "books/swinging-sign/swinging-sign-student-workbook.docx",
     "teacherGuide": "books/swinging-sign/swinging-sign-teacher-guide.pdf",
-    "course": "https://stevencowell.github.io/Swinging-Sign/"
+    "course": "https://stevencowell.github.io/Swinging-Sign/",
+    "classroom": "../classroom-library/#swinging-sign",
+    "classroomLabel": "Check Swinging Sign Classroom availability"
   },
   {
     "id": "sheet-metal-toolbox",
@@ -359,7 +371,9 @@
     "pdf": "books/cnc-plasma/cnc-plasma-student-workbook.pdf",
     "word": "books/cnc-plasma/cnc-plasma-student-workbook.docx",
     "teacherGuide": "books/cnc-plasma/cnc-plasma-teacher-guide.pdf",
-    "course": "https://stevencowell.github.io/Main-Page/CNC-Plasma/"
+    "course": "https://stevencowell.github.io/Main-Page/CNC-Plasma/",
+    "classroom": "../classroom-library/#cnc-plasma",
+    "classroomLabel": "Check CNC Plasma Cutter Classroom availability"
   },
   {
     "id": "bucket-hat",

@@ -43,3 +43,12 @@
 @media(max-width:700px){.subject-nav{gap:10px;margin-bottom:26px}.subject-nav a{padding:10px 14px;gap:12px;font-size:.88rem}.subject-groups{gap:30px}.subject-heading{align-items:flex-start;flex-direction:column;gap:12px;padding:19px 18px}.subject-count{text-align:left;max-width:none}.collection>.learning-note{margin-top:30px}}
 
 @media(max-width:700px){.bbq-case-banner .banner-copy{top:18px;left:20px;width:66%;max-width:calc(100% - 40px)}.bbq-case-banner .banner-copy>span{display:block;font-size:.62rem;line-height:1.4;letter-spacing:.06em}.bbq-case-banner .banner-copy h4{font-size:clamp(1.1rem,5.5vw,1.4rem);line-height:1.15;margin-top:8px}}
+
+/* Course and workbook routes remain usable while a Classroom is prepared. */
+.preparation-list{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:24px;margin-top:28px}
+.preparation-card{min-width:0;padding:24px 26px;border:1px solid var(--line);border-left:4px solid var(--subject-accent);border-radius:12px;background:#fffdf8;scroll-margin-top:24px}
+.preparation-card .eyebrow{font-size:.67rem;line-height:1.5;margin-bottom:10px}
+.preparation-card h4{font-size:1.2rem;margin-bottom:12px;color:var(--teal)}
+.preparation-card>p:not(.eyebrow){font-size:.94rem;color:var(--muted);margin-bottom:8px}
+.preparation-card .companion-links{flex-wrap:wrap;gap:8px 18px;margin-top:8px}
+@media(max-width:700px){.preparation-list{grid-template-columns:1fr;gap:20px}.preparation-card{padding:22px 20px}}
