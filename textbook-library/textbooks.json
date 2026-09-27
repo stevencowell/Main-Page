@@ -435,5 +435,22 @@
     "teacherGuide": "books/fantastic-food/fantastic-food-teacher-guide.pdf",
     "showWordPrintNote": false,
     "course": "https://stevencowell.github.io/Fantastic-Food/"
+  },
+  {
+    "id": "food-for-purpose",
+    "title": "Food for Purpose",
+    "subject": "Food Technology",
+    "stage": "Stage 4",
+    "type": "Student textbook",
+    "edition": "1.0",
+    "published": "2026-09-28",
+    "description": "Learn safe kitchen routines, food choices, sustainability and purposeful food design alongside the Year 8 course and Party Task.",
+    "includes": "Ten illustrated learning modules, applied questions with response space and an eight-stage Party Task folio. The 50-page PDF is ready for double-sided A4 printing; follow current teacher directions for recipes and assessment details.",
+    "pages": 50,
+    "sheets": 25,
+    "cover": "assets/food-for-purpose-cover.jpg",
+    "preview": "assets/food-for-purpose-preview.jpg",
+    "pdf": "books/food-for-purpose/food-for-purpose-student-textbook.pdf",
+    "course": "https://stevencowell.github.io/Year-8-Food-Technology/"
   }
 ]
