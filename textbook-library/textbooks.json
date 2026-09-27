@@ -431,6 +431,7 @@
     "preview": "assets/fantastic-food-preview.webp",
     "pdf": "books/fantastic-food/fantastic-food-student-workbook.pdf",
     "word": "books/fantastic-food/fantastic-food-student-workbook.docx",
+    "showWordButton": true,
     "teacherGuide": "books/fantastic-food/fantastic-food-teacher-guide.pdf",
     "showWordPrintNote": false,
     "course": "https://stevencowell.github.io/Fantastic-Food/"
