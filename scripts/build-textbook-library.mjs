@@ -44,7 +44,7 @@ const teacherResources = b => {
   if (!b.word && !b.teacherGuide) return '';
   const word = b.word ? `<a href="${assetUrl(b.word)}" download>Editable ${kind(b)} (Word) · ${size(b.word)}</a>` : '';
   const guide = b.teacherGuide ? `<a href="${assetUrl(b.teacherGuide)}" target="_blank" rel="noopener">Teacher guide and answers (PDF)${newTab}</a>` : '';
-  const note = b.word ? '<small>Use the student PDF for printing. Word pagination can vary between computers.</small>' : '';
+  const note = b.word && b.showWordPrintNote !== false ? '<small>Use the student PDF for printing. Word pagination can vary between computers.</small>' : '';
   return `<details class="teacher-resources"><summary>Teacher resources</summary><div class="teacher-resource-links">${word}${guide}${note}</div></details>`;
 };
 const card = b => `<article class="book-card" id="${e(b.id)}" data-subject="${e(b.subject)}" data-search="${e([b.title,b.subject,b.stage,b.type,b.description,b.includes].join(' ').toLocaleLowerCase('en-AU'))}" aria-labelledby="${e(b.id)}-title">

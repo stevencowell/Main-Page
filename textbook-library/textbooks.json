@@ -414,5 +414,25 @@
     "course": "https://stevencowell.github.io/Main-Page/Year-10-Food-Technology/",
     "classroom": "../classroom-library/#food-technology",
     "classroomLabel": "Open the matching Google Classroom"
+  },
+  {
+    "id": "fantastic-food",
+    "title": "Fantastic Food",
+    "subject": "Food Technology",
+    "stage": "Stage 4",
+    "type": "Student workbook",
+    "edition": "1.0",
+    "published": "2026-09-27",
+    "description": "Explore food safety, nutrition and food design through the Fantastic Food unit. Read, plan and record learning alongside the guided course.",
+    "includes": "Illustrated readings, ten varied learning activities, kitchen and food-design thinking, response space and eight project folio stages.",
+    "pages": 50,
+    "sheets": 25,
+    "cover": "assets/fantastic-food-cover.webp",
+    "preview": "assets/fantastic-food-preview.webp",
+    "pdf": "books/fantastic-food/fantastic-food-student-workbook.pdf",
+    "word": "books/fantastic-food/fantastic-food-student-workbook.docx",
+    "teacherGuide": "books/fantastic-food/fantastic-food-teacher-guide.pdf",
+    "showWordPrintNote": false,
+    "course": "https://stevencowell.github.io/Fantastic-Food/"
   }
 ]
