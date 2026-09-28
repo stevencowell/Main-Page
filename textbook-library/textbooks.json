@@ -481,5 +481,25 @@
         "word": "books/food-selection-and-health/food-selection-and-health-practice-and-activities.docx"
       }
     ]
+  },
+  {
+    "id": "riv-burger",
+    "title": "The Riv Burger",
+    "subject": "Food Technology",
+    "stage": "Stage 4",
+    "type": "Student workbook",
+    "edition": "1.0",
+    "published": "2026-09-28",
+    "description": "Read, design and evaluate a burger using ingredient research, food-safety decisions and evidence from your own practical work.",
+    "includes": "Ten illustrated modules, 60 knowledge checks, 20 paper activities, applied design tasks and an eight-stage project folio.",
+    "pages": 50,
+    "sheets": 25,
+    "cover": "assets/riv-burger-cover.webp",
+    "preview": "assets/riv-burger-preview.webp",
+    "pdf": "books/riv-burger/riv-burger-student-workbook.pdf",
+    "word": "books/riv-burger/riv-burger-student-workbook.docx",
+    "showWordButton": true,
+    "teacherGuide": "books/riv-burger/riv-burger-teacher-guide.pdf",
+    "course": "https://stevencowell.github.io/Year-8-The-Riv-Burger/"
   }
 ]
