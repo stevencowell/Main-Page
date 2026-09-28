@@ -501,5 +501,34 @@
     "showWordButton": true,
     "teacherGuide": "books/riv-burger/riv-burger-teacher-guide.pdf",
     "course": "https://stevencowell.github.io/Year-8-The-Riv-Burger/"
+  },
+  {
+    "id": "food-for-specific-needs",
+    "title": "Food for Specific Needs",
+    "subject": "Food Technology",
+    "stage": "Year 9 · Stage 5",
+    "type": "Student workbook",
+    "edition": "1.0",
+    "published": "2026-09-28",
+    "description": "Explore how health, life stage, culture, beliefs and circumstances shape food needs. Use evidence to plan and justify an appropriate food response.",
+    "includes": "Illustrated readings, 15 extended responses and eight folio stages across five modules. A separate 49-page practice booklet contains all 150 knowledge checks and 15 applied activities. Includes editable Word editions and a 48-page teacher guide.",
+    "pages": 50,
+    "sheets": 25,
+    "cover": "assets/food-for-specific-needs-cover.webp",
+    "preview": "assets/food-for-specific-needs-preview.webp",
+    "pdf": "books/food-for-specific-needs/food-for-specific-needs-student-workbook.pdf",
+    "word": "books/food-for-specific-needs/food-for-specific-needs-student-workbook.docx",
+    "showWordButton": true,
+    "showWordPrintNote": false,
+    "teacherGuide": "books/food-for-specific-needs/food-for-specific-needs-teacher-guide.pdf",
+    "course": "https://stevencowell.github.io/Food-for-Specific-Needs/",
+    "supplements": [
+      {
+        "title": "Practice and activities",
+        "pages": 49,
+        "pdf": "books/food-for-specific-needs/food-for-specific-needs-practice-and-activities.pdf",
+        "word": "books/food-for-specific-needs/food-for-specific-needs-practice-and-activities.docx"
+      }
+    ]
   }
 ]
