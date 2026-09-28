@@ -1,7 +1,7 @@
 # Google Classroom library
 
-This library adds Google Classroom to the existing course sites and textbook library.
-Cards are grouped into visible subject sections using the textbook library’s
+This library adds Google Classroom to the existing course sites and student workbook library.
+Cards are grouped into visible subject sections using the student workbook library’s
 subject categories, with quick links at the top of the collection.
 No student or submission data is displayed here.
 
@@ -10,7 +10,7 @@ No student or submission data is displayed here.
 1. Verify its class name, year/subject, direct URL and joining code in Classroom.
 2. Save its approved banner in assets.
 3. Add a card to its subject section using the Mirror card’s structure, h4 title
-   and unique IDs. Link its matching course and textbook-library anchor, then add
+   and unique IDs. Link its matching course and student workbook library anchor, then add
    its joining instructions. Keep existing card IDs stable for incoming links.
    Add a new subject section and navigation link when its first card is ready.
 4. Update the subject heading and navigation counts. Count draft-only classrooms

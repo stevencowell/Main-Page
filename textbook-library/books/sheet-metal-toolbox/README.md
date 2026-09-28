@@ -10,4 +10,4 @@ Use the student PDF for printing. Word pagination can vary between computers. Th
 
 [Matching guided course](https://stevencowell.github.io/Yr-9-Metal/toolbox/)
 
-[Textbook Library entry](https://stevencowell.github.io/Main-Page/textbook-library/#sheet-metal-toolbox)
+[Student Workbook Library entry](https://stevencowell.github.io/Main-Page/textbook-library/#sheet-metal-toolbox)
