@@ -35,6 +35,13 @@ for (const b of books) {
   for (const field of ['cover','preview','pdf',...(b.word ? ['word'] : []),...(b.teacherGuide ? ['teacherGuide'] : [])]) {
     if (!b[field] || !fs.existsSync(assetPath(b[field]))) throw new Error(`${b.id}: missing or unsafe ${field}`);
   }
+  for (const item of b.supplements || []) {
+    if (!item.title || !Number.isInteger(item.pages) || item.pages < 1) throw new Error(`${b.id}: invalid supplement`);
+    for (const field of ['pdf', ...(item.word ? ['word'] : [])]) {
+      if (!item[field] || !fs.existsSync(assetPath(item[field]))) throw new Error(`${b.id}: missing supplement ${field}`);
+    }
+    if (fs.readFileSync(assetPath(item.pdf)).subarray(0,5).toString() !== '%PDF-') throw new Error(`${b.id}: invalid supplement PDF`);
+  }
   if (!b.course?.startsWith('https://stevencowell.github.io/')) throw new Error(`${b.id}: verify the course URL`);
   if (b.classroom && !/^\.\.\/classroom-library\/#[-a-z0-9]+$/.test(b.classroom)) throw new Error(`${b.id}: verify the Classroom Library link`);
   if (fs.readFileSync(assetPath(b.pdf)).subarray(0,5).toString() !== '%PDF-') throw new Error(`${b.id}: invalid student PDF`);
@@ -48,6 +55,10 @@ const teacherResources = b => {
   return `<details class="teacher-resources"><summary>Teacher resources</summary><div class="teacher-resource-links">${word}${guide}${note}</div></details>`;
 };
 const wordDownloadButton = b => b.word && b.showWordButton ? `<a class="button" href="${assetUrl(b.word)}" download>Download editable Word <span aria-hidden="true">↓</span></a>` : '';
+const supplementDownloads = b => (b.supplements || []).map(item => `<div class="supplement-resources">
+  <p class="book-includes"><strong>${e(item.title)}</strong> · ${item.pages} pages</p>
+  <div class="book-actions"><a class="button" href="${assetUrl(item.pdf)}" target="_blank" rel="noopener">Practice booklet (PDF) <span aria-hidden="true">↗</span>${newTab}</a>${item.word ? `<a class="button" href="${assetUrl(item.word)}" download>Practice booklet (Word) <span aria-hidden="true">↓</span></a>` : ''}</div>
+</div>`).join('');
 const card = b => `<article class="book-card" id="${e(b.id)}" data-subject="${e(b.subject)}" data-search="${e([b.title,b.subject,b.stage,b.type,b.description,b.includes].join(' ').toLocaleLowerCase('en-AU'))}" aria-labelledby="${e(b.id)}-title">
   <div class="cover-panel">
     <a class="cover-link" href="${assetUrl(b.pdf)}" target="_blank" rel="noopener" aria-label="Open ${e(b.title)} student ${kind(b)} PDF (opens in a new tab)"><img src="${assetUrl(b.cover)}" width="701" height="991" alt="${e(b.title)} ${kind(b)} cover" loading="lazy"></a>
@@ -61,7 +72,7 @@ const card = b => `<article class="book-card" id="${e(b.id)}" data-subject="${e(
     <p class="book-facts"><span>${b.pages} pages</span><span>${b.sheets} double-sided sheets</span><span>A4</span><span>Edition ${e(b.edition)}</span></p>
     <div class="book-actions"><a class="button primary" href="${assetUrl(b.pdf)}" target="_blank" rel="noopener">Open ${kind(b)} (PDF) <span aria-hidden="true">↗</span>${newTab}</a><a class="button" href="${assetUrl(b.pdf)}" download="${e(b.id)}-student-${kind(b)}.pdf">Download PDF <span aria-hidden="true">↓</span></a>${wordDownloadButton(b)}</div>
     <p class="download-note">PDF · ${size(b.pdf)}. ${e(b.printNote || 'Print double-sided on A4, flipping on the long edge.')}</p>
-    <a class="course-link" href="${e(b.course)}" target="_blank" rel="noopener">Open the matching course <span aria-hidden="true">↗</span>${newTab}</a>${b.classroom ? `
+    ${b.supplements?.length ? supplementDownloads(b) + '\n    ' : ''}<a class="course-link" href="${e(b.course)}" target="_blank" rel="noopener">Open the matching course <span aria-hidden="true">↗</span>${newTab}</a>${b.classroom ? `
     <a class="course-link" href="${e(b.classroom)}">${e(b.classroomLabel || 'Open the matching Google Classroom')} <span aria-hidden="true">→</span></a>` : ''}${b.word || b.teacherGuide ? `
     ${teacherResources(b)}` : ''}
   </div>

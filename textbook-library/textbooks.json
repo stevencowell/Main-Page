@@ -452,5 +452,34 @@
     "preview": "assets/food-for-purpose-preview.jpg",
     "pdf": "books/food-for-purpose/food-for-purpose-student-textbook.pdf",
     "course": "https://stevencowell.github.io/Year-8-Food-Technology/"
+  },
+  {
+    "id": "food-selection-and-health",
+    "title": "Food Selection and Health",
+    "subject": "Food Technology",
+    "stage": "Year 9 · Stage 5",
+    "type": "Student workbook",
+    "edition": "1.0",
+    "published": "2026-09-28",
+    "description": "Explore food choices, nutrients, labels and health through six connected modules. Explain your decisions and develop a food concept for a named consumer.",
+    "includes": "Illustrated readings, 18 extended responses and eight folio stages. A separate 58-page practice booklet contains all 180 knowledge checks, 18 applied activities and five optional puzzles. Includes editable Word editions and a 36-page teacher guide.",
+    "pages": 50,
+    "sheets": 25,
+    "cover": "assets/food-selection-and-health-cover.webp",
+    "preview": "assets/food-selection-and-health-preview.webp",
+    "pdf": "books/food-selection-and-health/food-selection-and-health-student-workbook.pdf",
+    "word": "books/food-selection-and-health/food-selection-and-health-student-workbook.docx",
+    "showWordButton": true,
+    "showWordPrintNote": false,
+    "teacherGuide": "books/food-selection-and-health/food-selection-and-health-teacher-guide.pdf",
+    "course": "https://stevencowell.github.io/Year-9-Food-Selection-and-Health/",
+    "supplements": [
+      {
+        "title": "Practice and activities",
+        "pages": 58,
+        "pdf": "books/food-selection-and-health/food-selection-and-health-practice-and-activities.pdf",
+        "word": "books/food-selection-and-health/food-selection-and-health-practice-and-activities.docx"
+      }
+    ]
   }
 ]
