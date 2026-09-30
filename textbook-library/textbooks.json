@@ -548,5 +548,23 @@
     "pdf": "books/food-in-australia/food-in-australia-student-workbook.pdf",
     "teacherGuide": "books/food-in-australia/food-in-australia-teacher-guide.pdf",
     "course": "https://stevencowell.github.io/Year-9-Food-in-Australia/"
+  },
+  {
+    "id": "farm-in-a-box",
+    "title": "Farm in a Box",
+    "subject": "Food and agricultural practices",
+    "stage": "Stage 4",
+    "type": "Student workbook",
+    "edition": "1.0",
+    "published": "2026-09-30",
+    "description": "Design, establish and improve a compact crop-production system. Follow ten agriculture-led modules from plant needs and resource choices to field evidence, harvest and evaluation.",
+    "includes": "Thirty illustrated readings, source knowledge checks, crop investigations, drawing and graph tasks, a weighted design comparison and project folio evidence. Includes a separate 14-page teacher guide with answers.",
+    "pages": 50,
+    "sheets": 25,
+    "cover": "assets/farm-in-a-box-cover.webp",
+    "preview": "assets/farm-in-a-box-preview.webp",
+    "pdf": "books/farm-in-a-box/farm-in-a-box-student-workbook.pdf",
+    "teacherGuide": "books/farm-in-a-box/farm-in-a-box-teacher-guide.pdf",
+    "course": "https://stevencowell.github.io/Stage-4-Farm-in-a-Box/"
   }
 ]
