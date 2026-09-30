@@ -530,5 +530,23 @@
         "word": "books/food-for-specific-needs/food-for-specific-needs-practice-and-activities.docx"
       }
     ]
+  },
+  {
+    "id": "food-in-australia",
+    "title": "Food in Australia",
+    "subject": "Food Technology",
+    "stage": "Year 9 · Stage 5",
+    "type": "Student workbook",
+    "edition": "1.0",
+    "published": "2026-09-30",
+    "description": "Investigate Australian food practices through Country, culture, migration, technology and choice. Use evidence to explain change and justify food-design decisions.",
+    "includes": "Ten illustrated modules, 30 knowledge checks, applied activities and an eight-stage learning folio. Includes a separate 17-page teacher guide with answers.",
+    "pages": 50,
+    "sheets": 25,
+    "cover": "assets/food-in-australia-cover.webp",
+    "preview": "assets/food-in-australia-preview.webp",
+    "pdf": "books/food-in-australia/food-in-australia-student-workbook.pdf",
+    "teacherGuide": "books/food-in-australia/food-in-australia-teacher-guide.pdf",
+    "course": "https://stevencowell.github.io/Year-9-Food-in-Australia/"
   }
 ]
