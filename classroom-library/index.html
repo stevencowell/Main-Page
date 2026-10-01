@@ -9,6 +9,14 @@
   <link rel="icon" href="data:,">
   <link rel="stylesheet" href="library.css?v=library-status-20260926">
   <script src="library.js?v=breadboard-20260912" defer></script>
+  <style>
+    @media(max-width:600px){
+      #sheet-metal-toolbox .card-banner{aspect-ratio:auto!important;min-height:0!important;display:flex;flex-direction:column}
+      #sheet-metal-toolbox .card-banner img{width:100%!important;height:auto;aspect-ratio:1.5;object-fit:contain;order:2}
+      #sheet-metal-toolbox .banner-copy{position:relative;inset:auto;max-width:none!important;padding:20px 24px;order:1}
+      #sheet-metal-toolbox .card-banner:after{display:none}
+    }
+  </style>
 </head>
 <body>
   <a class="skip-link" href="#classrooms">Skip to classrooms</a>
@@ -24,14 +32,14 @@
       <h1 id="page-title">Google Classroom <em>library.</em></h1>
       <p class="lead">Learn together. Make with purpose. Show your progress.</p>
       <p class="intro-copy">Your course site, illustrated workbook and Google Classroom work together. Open your classroom for organised topics, lesson resources and a personal space to complete and turn in your work.</p>
-      <div class="intro-meta"><span>18 classroom links · check each package’s posted or draft status</span><span>Check each listing for its current availability.</span></div>
+      <div class="intro-meta"><span>19 classroom links · check each package’s posted or draft status</span><span>Check each listing for its current availability.</span></div>
     </section>
     <section class="collection shell" id="classrooms" aria-labelledby="collection-title">
       <div class="section-heading"><h2 id="collection-title">Classrooms by subject</h2><a href="#joining">Joining for the first time? <span aria-hidden="true">↓</span></a></div>
       <p class="collection-intro">Browse by subject, then open your project’s classroom.</p>
       <nav class="subject-nav" aria-label="Jump to a classroom subject">
         <a href="#subject-timber">Timber <span aria-label="10 classrooms">10</span></a>
-        <a href="#subject-metal">Metal <span aria-label="3 classrooms">3</span></a>
+        <a href="#subject-metal">Metal <span aria-label="5 classrooms">5</span></a>
         <a href="#subject-technology">Technology 7–8 <span aria-label="2 classrooms">2</span></a>
         <a href="#subject-food">Food Technology <span aria-label="1 classroom">1</span></a>
         <a href="#subject-textiles">Textiles <span aria-label="1 classroom">1</span></a>
@@ -210,9 +218,24 @@
         <section class="classroom-subject classroom-subject--metal" id="subject-metal" aria-labelledby="subject-metal-title">
           <header class="subject-heading">
             <div><h3 id="subject-metal-title">Metal</h3><p>Metal fabrication, machining and project evidence.</p></div>
-            <span class="subject-count">3 classrooms with posted resources · 1 partly drafted</span>
+            <span class="subject-count">4 classrooms with posted resources · 1 partly drafted</span>
           </header>
           <div class="classroom-grid">
+            <article class="classroom-card" id="sheet-metal-toolbox" aria-labelledby="sheet-metal-toolbox-title" aria-describedby="sheet-metal-toolbox-status">
+              <a class="card-banner" style="aspect-ratio:2;min-height:210px;background:#153c40" href="https://classroom.google.com/c/ODczNjM2NzM3NzQw" target="_blank" rel="noopener" aria-label="Open Sheet-metal Toolbox Classroom (new tab)">
+                <img src="../assets/metal-card-toolbox.webp" width="1200" height="800" style="width:64%;margin-left:auto;object-fit:contain;object-position:right center" alt="Finished sheet-metal Toolbox on a school Metalwork bench" loading="lazy">
+                <div class="banner-copy" style="max-width:46%"><span>Year 9 Industrial Technology · Metal</span><h4 id="sheet-metal-toolbox-title">Sheet-metal Toolbox<br>Classroom</h4></div>
+                <span class="open-mark" aria-hidden="true">↗</span>
+              </a>
+              <div class="card-copy">
+                <p class="eyebrow" id="sheet-metal-toolbox-status">Learning resources and assignments posted</p>
+                <p>Five learning modules connect workshop systems, the original Tool Carryall drawing, accurate fabrication and evaluation. Start with the course guide, use one personal illustrated workbook, submit evidence at five checkpoints, then turn in the complete workbook and 12-part project folio.</p>
+                <ul class="card-facts" aria-label="Classroom resources"><li>7 organised topics</li><li>7 assignments</li><li>50-page personal workbook</li></ul>
+                <a class="button primary" href="https://classroom.google.com/c/ODczNjM2NzM3NzQw" target="_blank" rel="noopener">Open Toolbox Classroom <span aria-hidden="true">↗</span><span class="sr-only"> (new tab)</span></a>
+                <div class="companion-links"><a href="https://stevencowell.github.io/Yr-9-Metal/toolbox/" target="_blank" rel="noopener">Course website <span aria-hidden="true">↗</span></a><a href="../textbook-library/#sheet-metal-toolbox">Illustrated workbook <span aria-hidden="true">→</span></a></div>
+              </div>
+            </article>
+
             <article class="classroom-card" id="bbq-case" aria-labelledby="bbq-case-title">
               <a class="card-banner bbq-case-banner" href="https://classroom.google.com/c/ODg3MjQ1NTU3MzUw" target="_blank" rel="noopener" aria-label="Open BBQ and Case Classroom (new tab)">
                 <img src="assets/bbq-case-classroom-banner.png" width="2172" height="724" alt="Portable metal BBQ and matching metal case on a timber workshop bench against a deep teal background" loading="lazy">
@@ -364,7 +387,7 @@
       <div class="joining-copy">
         <ol>
           <li><strong>Use your teacher’s invitation.</strong> Open the invitation supplied by your teacher, check that your school account is selected and follow the joining instructions.</li>
-          <li><strong>Begin with Start Here.</strong> Open <strong>Classwork</strong> and the first numbered topic. For Mirror, read <strong>00.1 Mirror — How to learn, make and turn in your work</strong>. For Footstool, begin with <strong>00 · Start here</strong>. For Bread Board, begin with <strong>00 | Start here - your Bread Board project</strong>. For Clock, begin with <strong>00 | Start here - your Clock project</strong>. For Fishing Rod Holder, begin with the <strong>00.1 Start Here</strong> topic for the website, student workbook and submission instructions. For Bucket Hat, begin with <strong>00 · Start here — How to use this Classroom</strong>. For Desk Tidy, begin with <strong>00 | Start here - your Desk Tidy project</strong>. For Folding Chair, begin with <strong>00 · Start here — Course, workbook and original plans</strong>. For Timber Pen and Small Box, begin with <strong>00 Start Here · Read, make and submit</strong>. For Year 10 Food Technology, open <strong>00 Start Here</strong> and <strong>Start here | course guide and workbook</strong>. For BBQ and Case, begin with <strong>00 Start Here</strong>. For Programmable Light, wait for your teacher to confirm that the lesson resources are ready. Follow your teacher’s instructions through the numbered topics.</li>
+          <li><strong>Begin with Start Here.</strong> Open <strong>Classwork</strong> and the first numbered topic. For Mirror, read <strong>00.1 Mirror — How to learn, make and turn in your work</strong>. For Footstool, begin with <strong>00 · Start here</strong>. For Bread Board, begin with <strong>00 | Start here - your Bread Board project</strong>. For Clock, begin with <strong>00 | Start here - your Clock project</strong>. For Fishing Rod Holder, begin with the <strong>00.1 Start Here</strong> topic for the website, student workbook and submission instructions. For Bucket Hat, begin with <strong>00 · Start here — How to use this Classroom</strong>. For Desk Tidy, begin with <strong>00 | Start here - your Desk Tidy project</strong>. For Folding Chair, begin with <strong>00 · Start here — Course, workbook and original plans</strong>. For Timber Pen and Small Box, begin with <strong>00 Start Here · Read, make and submit</strong>. For Year 10 Food Technology, open <strong>00 Start Here</strong> and <strong>Start here | course guide and workbook</strong>. For BBQ and Case, begin with <strong>00 Start Here</strong>. For Sheet-metal Toolbox, begin with <strong>00 Start Here</strong> and <strong>00.1 Start here — course, workbook and workshop authority</strong>. For Programmable Light, wait for your teacher to confirm that the lesson resources are ready. Follow your teacher’s instructions through the numbered topics.</li>
         </ol>
         <p class="help-note">Already a member? Use the <strong>Open Classroom</strong> button on your project card. If access is blocked, check your account and speak with your teacher. <a href="https://support.google.com/edu/classroom/answer/15605102" target="_blank" rel="noopener">Google’s joining help ↗</a></p>
       </div>

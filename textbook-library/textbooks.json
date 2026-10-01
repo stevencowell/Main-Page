@@ -289,7 +289,9 @@
     "pdf": "books/sheet-metal-toolbox/sheet-metal-toolbox-student-workbook.pdf",
     "word": "books/sheet-metal-toolbox/sheet-metal-toolbox-student-workbook.docx",
     "teacherGuide": "books/sheet-metal-toolbox/sheet-metal-toolbox-teacher-guide.pdf",
-    "course": "https://stevencowell.github.io/Yr-9-Metal/toolbox/"
+    "course": "https://stevencowell.github.io/Yr-9-Metal/toolbox/",
+    "classroom": "../classroom-library/#sheet-metal-toolbox",
+    "classroomLabel": "Open Toolbox Classroom and joining instructions"
   },
   {
     "id": "bbq-case",
