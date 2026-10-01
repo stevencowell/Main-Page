@@ -568,5 +568,22 @@
     "pdf": "books/farm-in-a-box/farm-in-a-box-student-workbook.pdf",
     "teacherGuide": "books/farm-in-a-box/farm-in-a-box-teacher-guide.pdf",
     "course": "https://stevencowell.github.io/Stage-4-Farm-in-a-Box/"
+  },
+  {
+    "id": "year8-agriculture",
+    "title": "Year 8 Agriculture",
+    "subject": "Agriculture Technology",
+    "stage": "Year 8 · Stage 4",
+    "type": "Student textbook and workbook",
+    "edition": "1.0",
+    "published": "2026-10-01",
+    "description": "Explore food, fibre and agricultural production through the separate Year 8 Agriculture elective. Use evidence to explain systems, technologies, labels and management decisions.",
+    "includes": "All 11 modules and 33 theory sections, 33 selected knowledge checks, 33 written responses, 11 applied activities and three synthesis folio pages. The complete question bank and course folio remain online.",
+    "pages": 50,
+    "sheets": 25,
+    "cover": "assets/year8-agriculture-cover.webp",
+    "preview": "assets/year8-agriculture-preview.webp",
+    "pdf": "books/year8-agriculture/year8-agriculture-student-workbook.pdf",
+    "course": "https://stevencowell.github.io/Year-8-Agriculture-Guided-Course/"
   }
 ]
