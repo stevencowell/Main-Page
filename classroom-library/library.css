@@ -45,11 +45,11 @@
 @media(max-width:700px){.bbq-case-banner .banner-copy{top:18px;left:20px;width:66%;max-width:calc(100% - 40px)}.bbq-case-banner .banner-copy>span{display:block;font-size:.62rem;line-height:1.4;letter-spacing:.06em}.bbq-case-banner .banner-copy h4{font-size:clamp(1.1rem,5.5vw,1.4rem);line-height:1.15;margin-top:8px}}
 
 /* Existing course artwork shares the Classroom card header without cropping the product. */
-.course-image-banner{min-height:180px;background:var(--teal)}
+.course-image-banner{background:var(--teal)}
 .course-image-banner img{position:absolute;inset:0 0 0 auto;width:60%;height:100%;object-fit:contain;object-position:right center}
 .course-image-banner:after{background:linear-gradient(90deg,#153c40 0%,#153c40f2 38%,#153c4033 60%,transparent 76%)}
 .course-image-banner .banner-copy{max-width:48%}
 .course-image-banner .banner-copy>span{display:block;line-height:1.4}
 .course-image-banner .banner-copy h4{font-size:clamp(1.2rem,2.3vw,1.7rem)}
-@media(max-width:900px) and (min-width:701px){.course-image-banner{min-height:200px}.course-image-banner .banner-copy{left:20px;max-width:51%}.course-image-banner .banner-copy h4{font-size:1.25rem}.course-image-banner .banner-copy>span{font-size:.61rem}}
+@media(max-width:900px) and (min-width:701px){.course-image-banner .banner-copy{left:20px;max-width:51%}.course-image-banner .banner-copy h4{font-size:1.25rem}.course-image-banner .banner-copy>span{font-size:.61rem}}
 @media(max-width:700px){.course-image-banner .banner-copy{top:18px;max-width:48%}.course-image-banner .banner-copy>span{font-size:.62rem;letter-spacing:.06em}.course-image-banner .banner-copy h4{font-size:clamp(1.1rem,4.8vw,1.5rem)}}
