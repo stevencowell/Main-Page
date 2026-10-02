@@ -585,5 +585,23 @@
     "preview": "assets/year8-agriculture-preview.webp",
     "pdf": "books/year8-agriculture/year8-agriculture-student-workbook.pdf",
     "course": "https://stevencowell.github.io/Year-8-Agriculture-Guided-Course/"
+  },
+  {
+    "id": "year9-agriculture",
+    "title": "Year 9 Agriculture",
+    "subject": "Agriculture Technology",
+    "stage": "Stage 5",
+    "type": "Student textbook and workbook",
+    "edition": "1.0",
+    "published": "2026-10-02",
+    "description": "Explore agricultural systems, vegetable production, beef and poultry in the guided course order. Explain connections and record evidence from teacher-directed observations and investigations.",
+    "includes": "All 19 modules and 57 condensed readings, all 57 written responses, 25 selected knowledge checks, practical folio pages and worked applications. Includes a 25-page teacher guide. The full 570-question bank remains online.",
+    "pages": 50,
+    "sheets": 25,
+    "cover": "assets/year9-agriculture-cover.webp",
+    "preview": "assets/year9-agriculture-preview.webp",
+    "pdf": "books/year9-agriculture/year9-agriculture-student-workbook.pdf",
+    "teacherGuide": "books/year9-agriculture/year9-agriculture-teacher-guide.pdf",
+    "course": "https://stevencowell.github.io/Year-9-Agriculture-Guided-Course/"
   }
 ]
