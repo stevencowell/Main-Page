@@ -621,5 +621,23 @@
     "pdf": "books/year10-agriculture/year10-agriculture-student-workbook.pdf",
     "showWordButton": false,
     "course": "https://stevencowell.github.io/Year-10-Agriculture-Guided-Course/"
+  },
+  {
+    "id": "work-studies",
+    "title": "Years 11–12 Work Studies",
+    "subject": "Work Studies",
+    "stage": "Stage 6",
+    "type": "Student textbook and workbook",
+    "edition": "1.0",
+    "published": "2026-10-02",
+    "description": "Explore working life, applications, communication, enterprise, commitments, finance, workplace issues and experience in the current two-year course order. Use evidence to test choices and record learning.",
+    "includes": "All 11 modules and 33 condensed readings, 33 source extended-response starts, 33 adapted applied tasks, 11 exact knowledge checks and four paper labs. Full online banks remain available.",
+    "pages": 50,
+    "sheets": 25,
+    "cover": "assets/work-studies-cover.webp",
+    "preview": "assets/work-studies-preview.webp",
+    "pdf": "books/work-studies/work-studies-student-workbook.pdf",
+    "showWordButton": false,
+    "course": "https://stevencowell.github.io/Year-11-12-Work-Studies/"
   }
 ]
