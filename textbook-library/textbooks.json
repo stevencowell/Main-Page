@@ -603,5 +603,23 @@
     "pdf": "books/year9-agriculture/year9-agriculture-student-workbook.pdf",
     "teacherGuide": "books/year9-agriculture/year9-agriculture-teacher-guide.pdf",
     "course": "https://stevencowell.github.io/Year-9-Agriculture-Guided-Course/"
+  },
+  {
+    "id": "year10-agriculture",
+    "title": "Year 10 Agriculture",
+    "subject": "Agriculture Technology",
+    "stage": "Stage 5",
+    "type": "Student textbook and workbook",
+    "edition": "1.0",
+    "published": "2026-10-02",
+    "description": "Follow agricultural systems and management, pastures and cropping, prime lamb production and dairy farming in the current guided-course order. Explain relationships and record source-grounded learning evidence.",
+    "includes": "All 20 modules and 60 condensed readings, 60 selected source written tasks, 24 knowledge checks and eight application/folio pages. The full 102-task and 600-question banks remain online.",
+    "pages": 50,
+    "sheets": 25,
+    "cover": "assets/year10-agriculture-cover.webp",
+    "preview": "assets/year10-agriculture-preview.webp",
+    "pdf": "books/year10-agriculture/year10-agriculture-student-workbook.pdf",
+    "showWordButton": false,
+    "course": "https://stevencowell.github.io/Year-10-Agriculture-Guided-Course/"
   }
 ]
