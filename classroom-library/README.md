@@ -13,6 +13,13 @@ No student or submission data is displayed here.
    and unique IDs. Link its matching course and student workbook library anchor, then add
    its joining instructions. Keep existing card IDs stable for incoming links.
    Add a new subject section and navigation link when its first card is ready.
+   Posted, partly posted and draft-only packages all use the same `classroom-card`,
+   `card-banner`, `card-copy`, `card-facts` and full-width button structure in the
+   subject's `classroom-grid`. State the actual availability in its eyebrow and
+   description; a draft status is not a reason to use a plain text panel.
+   Reuse an approved course hero when no dedicated banner exists, with
+   `course-image-banner` to keep the complete product visible. Preserve the
+   verified links, counts and teacher-publication wording.
 4. Update the subject heading and navigation counts. Count draft-only classrooms
    in their section, but keep their status explicit and exclude them from the
    available-classroom total. Update copy-button labels/status handling as needed.
