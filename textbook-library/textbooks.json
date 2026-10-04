@@ -715,5 +715,24 @@
     "word": "books/geared-lolly-dispenser/geared-lolly-dispenser-student-workbook.docx",
     "showWordButton": true,
     "course": "https://stevencowell.github.io/Engineering-Website/year9_term4.html"
+  },
+  {
+    "id": "concrete-beam",
+    "title": "Concrete Beam",
+    "subject": "Engineering",
+    "stage": "Year 9 · Term 2",
+    "type": "Student workbook",
+    "edition": "2026.1",
+    "published": "2026-10-04",
+    "description": "Investigate materials and reinforced concrete. Explain beam behaviour, plan carefully and use measured evidence to evaluate testing and failure.",
+    "includes": "Illustrated materials and concrete theory, source questions, beam diagrams, design planning, safety checks and guided folio evidence.",
+    "pages": 65,
+    "sheets": 33,
+    "cover": "assets/concrete-beam-cover.webp",
+    "preview": "assets/concrete-beam-preview.webp",
+    "pdf": "books/concrete-beam/concrete-beam-student-workbook.pdf",
+    "word": "books/concrete-beam/concrete-beam-student-workbook.docx",
+    "showWordButton": true,
+    "course": "https://stevencowell.github.io/Engineering-Website/year9_term2.html"
   }
 ]
