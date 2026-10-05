@@ -37,3 +37,8 @@ reused from the Classroom package. Its native Classroom upload remains pending;
 the library hosts its own copy. Class names and year/subject labels are accessible
 HTML text over both banners. Code-copy status and fallback selection stay within
 the selected card.
+
+
+## Prepared banner card update
+
+The October 2026 addition uses exact prepared Classroom PNGs, without changing their source masters. New class links come from saved verification receipts. Three Food packages have published learning posts; the new agriculture, Work Studies and engineering listings are draft-only and say teacher publication is required. Water Tower has no published workbook catalogue entry, so its card does not link to one. Food for Specific Needs and Wind Powered USB Charger are withheld pending the remaining package checks. No invitation codes, private Drive resources or student data are included. Public release still requires explicit approval and rendered acceptance.

@@ -53,3 +53,22 @@
 .course-image-banner .banner-copy h4{font-size:clamp(1.2rem,2.3vw,1.7rem)}
 @media(max-width:900px) and (min-width:701px){.course-image-banner .banner-copy{left:20px;max-width:51%}.course-image-banner .banner-copy h4{font-size:1.25rem}.course-image-banner .banner-copy>span{font-size:.61rem}}
 @media(max-width:700px){.course-image-banner .banner-copy{top:18px;max-width:48%}.course-image-banner .banner-copy>span{font-size:.62rem;letter-spacing:.06em}.course-image-banner .banner-copy h4{font-size:clamp(1.1rem,4.8vw,1.5rem)}}
+
+
+/* Prepared Classroom artwork is reused byte-for-byte; card framing is CSS-only. */
+.classroom-subject--agriculture{--subject-accent:#49622b;--subject-soft:#edf3e4}
+.classroom-subject--engineering{--subject-accent:#2f5470;--subject-soft:#e5eef5}
+.classroom-subject--work-studies{--subject-accent:#6b4e7a;--subject-soft:#efe7f4}
+.prepared-banner{min-height:180px;aspect-ratio:3;background:#153c40}
+.prepared-banner img{object-position:right center}
+#geared-lolly-dispenser .prepared-banner img{object-fit:contain}
+.prepared-banner:after{background:linear-gradient(90deg,#142530ed 0%,#142530c9 44%,#14253052 67%,transparent 88%)}
+.prepared-banner .banner-copy{top:20px;left:24px;max-width:58%;right:40px}
+.prepared-banner .banner-copy>span{display:block;font-size:.875rem;line-height:1.45;color:#fff0dd}
+.prepared-banner .banner-copy h4{font-size:clamp(1.35rem,2.15vw,1.6rem);line-height:1.18;margin-top:9px;overflow-wrap:normal}
+.classroom-card--prepared .card-copy{display:flex;flex-direction:column}
+.classroom-card--prepared .card-facts{margin-top:auto;padding-top:10px}
+.classroom-card--prepared .card-copy>.eyebrow{font-size:.75rem;letter-spacing:.07em;line-height:1.55;color:#7e451e}
+.classroom-card--prepared .banner-note{font-size:.8rem;line-height:1.55;color:#58686b;margin:12px 0 0}
+@media(max-width:900px) and (min-width:701px){.prepared-banner{min-height:190px}.prepared-banner .banner-copy{left:20px;max-width:64%}.prepared-banner .banner-copy h4{font-size:1.28rem}}
+@media(max-width:700px){.prepared-banner{min-height:180px;aspect-ratio:2.5}.prepared-banner .banner-copy{left:20px;right:32px;max-width:62%}.prepared-banner .banner-copy h4{font-size:1.35rem}.prepared-banner .banner-copy>span{font-size:.875rem}}
