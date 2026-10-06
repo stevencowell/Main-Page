@@ -34,6 +34,13 @@ for (const b of books) {
   for (const field of ['cover','preview','pdf',...(b.word ? ['word'] : []),...(b.teacherGuide ? ['teacherGuide'] : [])]) {
     if (!b[field] || !fs.existsSync(assetPath(b[field]))) throw new Error(`${b.id}: missing or unsafe ${field}`);
   }
+  if (b.previousEdition) {
+    const old = b.previousEdition;
+    if (!old.edition || !Number.isInteger(old.pages) || old.pages < 1 || !old.pdf) throw new Error(`${b.id}: invalid previous edition`);
+    for (const field of ['pdf', ...(old.word ? ['word'] : []), ...(old.teacherGuide ? ['teacherGuide'] : [])]) {
+      if (!/^books\/[a-z0-9-]+\/[a-z0-9-]+\.(pdf|docx)\?v=[a-f0-9]{12}$/.test(old[field])) throw new Error(`${b.id}: unsafe previous edition path`);
+    }
+  }
   for (const item of b.supplements || []) {
     if (!item.title || !Number.isInteger(item.pages) || item.pages < 1) throw new Error(`${b.id}: invalid supplement`);
     for (const field of ['pdf', ...(item.word ? ['word'] : [])]) {
@@ -58,6 +65,12 @@ const supplementDownloads = b => (b.supplements || []).map(item => `<div class="
   <p class="book-includes"><strong>${e(item.title)}</strong> · ${item.pages} pages</p>
   <div class="book-actions"><a class="button" href="${assetUrl(item.pdf)}" target="_blank" rel="noopener">Practice booklet (PDF) <span aria-hidden="true">↗</span>${newTab}</a>${item.word ? `<a class="button" href="${assetUrl(item.word)}" download>Practice booklet (Word) <span aria-hidden="true">↓</span></a>` : ''}</div>
 </div>`).join('');
+const previousEdition = b => {
+  if (!b.previousEdition) return '';
+  const old = b.previousEdition;
+  return `<details class="teacher-resources previous-edition"><summary>Previous edition ${e(old.edition)} · ${old.pages} pages</summary><div class="teacher-resource-links"><p>Use this edition when your teacher or an existing Classroom reading refers to its page numbers.</p><a href="${e(old.pdf)}" target="_blank" rel="noopener">Previous student workbook (PDF)${newTab}</a>${old.word ? `<a href="${e(old.word)}" download>Previous editable workbook (Word)</a>` : ''}${old.teacherGuide ? `<a href="${e(old.teacherGuide)}" target="_blank" rel="noopener">Previous teacher guide (PDF)${newTab}</a>` : ''}</div></details>`;
+};
+
 const card = b => `<article class="book-card" id="${e(b.id)}" data-subject="${e(b.subject)}" data-search="${e([b.title,b.subject,b.stage,b.type,b.description,b.includes].join(' ').toLocaleLowerCase('en-AU'))}" aria-labelledby="${e(b.id)}-title">
   <div class="cover-panel">
     <a class="cover-link" href="${assetUrl(b.pdf)}" target="_blank" rel="noopener" aria-label="Open ${e(b.title)} student workbook PDF (opens in a new tab)"><img src="${assetUrl(b.cover)}" width="701" height="991" alt="${e(b.title)} workbook cover" loading="lazy"></a>
@@ -68,11 +81,11 @@ const card = b => `<article class="book-card" id="${e(b.id)}" data-subject="${e(
     <h3 id="${e(b.id)}-title"><a href="${assetUrl(b.pdf)}" target="_blank" rel="noopener">${e(b.title)}${newTab}</a></h3>
     <p class="book-description">${e(b.description)}</p>
     <p class="book-includes">${e(b.includes)}</p>
-    <p class="book-facts"><span>${b.pages} pages</span><span>${b.sheets} double-sided sheets</span><span>A4</span><span>Edition ${e(b.edition)}</span></p>
+    <p class="book-facts"><span>${b.pages} pages</span><span>${b.sheets} double-sided sheets</span><span>A4</span><span>${e(b.editionLabel || `Edition ${b.edition}`)}</span></p>
     <div class="book-actions"><a class="button primary" href="${assetUrl(b.pdf)}" target="_blank" rel="noopener">Open workbook (PDF) <span aria-hidden="true">↗</span>${newTab}</a><a class="button" href="${assetUrl(b.pdf)}" download="${e(b.id)}-student-workbook.pdf">Download PDF <span aria-hidden="true">↓</span></a>${wordDownloadButton(b)}</div>
     <p class="download-note">PDF · ${size(b.pdf)}. ${e(b.printNote || 'Print double-sided on A4, flipping on the long edge.')}</p>
     ${b.supplements?.length ? supplementDownloads(b) + '\n    ' : ''}<a class="course-link" href="${e(b.course)}" target="_blank" rel="noopener">Open the matching course <span aria-hidden="true">↗</span>${newTab}</a>${b.classroom ? `
-    <a class="course-link" href="${e(b.classroom)}">${e(b.classroomLabel || 'Open the matching Google Classroom')} <span aria-hidden="true">→</span></a>` : ''}${b.word || b.teacherGuide ? `
+    <a class="course-link" href="${e(b.classroom)}">${e(b.classroomLabel || 'Open the matching Google Classroom')} <span aria-hidden="true">→</span></a>` : ''}${b.previousEdition ? `\n    ${previousEdition(b)}` : ''}${b.word || b.teacherGuide ? `
     ${teacherResources(b)}` : ''}
   </div>
 </article>`;
