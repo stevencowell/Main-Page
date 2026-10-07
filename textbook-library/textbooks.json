@@ -443,7 +443,9 @@
     "showWordButton": true,
     "teacherGuide": "books/fantastic-food/fantastic-food-teacher-guide.pdf",
     "showWordPrintNote": false,
-    "course": "https://stevencowell.github.io/Fantastic-Food/"
+    "course": "https://stevencowell.github.io/Fantastic-Food/",
+    "classroom": "../classroom-library/#fantastic-food",
+    "classroomLabel": "Google Classroom · check availability"
   },
   {
     "id": "food-for-purpose",
@@ -460,7 +462,9 @@
     "cover": "assets/food-for-purpose-cover.jpg",
     "preview": "assets/food-for-purpose-preview.jpg",
     "pdf": "books/food-for-purpose/food-for-purpose-student-textbook.pdf",
-    "course": "https://stevencowell.github.io/Year-8-Food-Technology/"
+    "course": "https://stevencowell.github.io/Year-8-Food-Technology/",
+    "classroom": "../classroom-library/#food-for-purpose",
+    "classroomLabel": "Google Classroom · check availability"
   },
   {
     "id": "food-selection-and-health",
@@ -489,7 +493,9 @@
         "pdf": "books/food-selection-and-health/food-selection-and-health-practice-and-activities.pdf",
         "word": "books/food-selection-and-health/food-selection-and-health-practice-and-activities.docx"
       }
-    ]
+    ],
+    "classroom": "../classroom-library/#food-selection-and-health",
+    "classroomLabel": "Google Classroom · check availability"
   },
   {
     "id": "riv-burger",
@@ -509,7 +515,9 @@
     "word": "books/riv-burger/riv-burger-student-workbook.docx",
     "showWordButton": true,
     "teacherGuide": "books/riv-burger/riv-burger-teacher-guide.pdf",
-    "course": "https://stevencowell.github.io/Year-8-The-Riv-Burger/"
+    "course": "https://stevencowell.github.io/Year-8-The-Riv-Burger/",
+    "classroom": "../classroom-library/#riv-burger",
+    "classroomLabel": "Google Classroom · check availability"
   },
   {
     "id": "food-for-specific-needs",
@@ -556,7 +564,9 @@
     "preview": "assets/food-in-australia-preview.webp",
     "pdf": "books/food-in-australia/food-in-australia-student-workbook.pdf",
     "teacherGuide": "books/food-in-australia/food-in-australia-teacher-guide.pdf",
-    "course": "https://stevencowell.github.io/Year-9-Food-in-Australia/"
+    "course": "https://stevencowell.github.io/Year-9-Food-in-Australia/",
+    "classroom": "../classroom-library/#food-in-australia",
+    "classroomLabel": "Google Classroom · check availability"
   },
   {
     "id": "farm-in-a-box",
@@ -574,7 +584,9 @@
     "preview": "assets/farm-in-a-box-preview.webp",
     "pdf": "books/farm-in-a-box/farm-in-a-box-student-workbook.pdf",
     "teacherGuide": "books/farm-in-a-box/farm-in-a-box-teacher-guide.pdf",
-    "course": "https://stevencowell.github.io/Stage-4-Farm-in-a-Box/"
+    "course": "https://stevencowell.github.io/Stage-4-Farm-in-a-Box/",
+    "classroom": "../classroom-library/#farm-in-a-box",
+    "classroomLabel": "Google Classroom · check availability"
   },
   {
     "id": "year8-agriculture",
@@ -591,7 +603,9 @@
     "cover": "assets/year8-agriculture-cover.webp",
     "preview": "assets/year8-agriculture-preview.webp",
     "pdf": "books/year8-agriculture/year8-agriculture-student-workbook.pdf",
-    "course": "https://stevencowell.github.io/Year-8-Agriculture-Guided-Course/"
+    "course": "https://stevencowell.github.io/Year-8-Agriculture-Guided-Course/",
+    "classroom": "../classroom-library/#year8-agriculture",
+    "classroomLabel": "Google Classroom · check availability"
   },
   {
     "id": "year9-agriculture",
@@ -609,7 +623,9 @@
     "preview": "assets/year9-agriculture-preview.webp",
     "pdf": "books/year9-agriculture/year9-agriculture-student-workbook.pdf",
     "teacherGuide": "books/year9-agriculture/year9-agriculture-teacher-guide.pdf",
-    "course": "https://stevencowell.github.io/Year-9-Agriculture-Guided-Course/"
+    "course": "https://stevencowell.github.io/Year-9-Agriculture-Guided-Course/",
+    "classroom": "../classroom-library/#year9-agriculture",
+    "classroomLabel": "Google Classroom · check availability"
   },
   {
     "id": "year10-agriculture",
@@ -627,7 +643,9 @@
     "preview": "assets/year10-agriculture-preview.webp",
     "pdf": "books/year10-agriculture/year10-agriculture-student-workbook.pdf",
     "showWordButton": false,
-    "course": "https://stevencowell.github.io/Year-10-Agriculture-Guided-Course/"
+    "course": "https://stevencowell.github.io/Year-10-Agriculture-Guided-Course/",
+    "classroom": "../classroom-library/#year10-agriculture",
+    "classroomLabel": "Google Classroom · check availability"
   },
   {
     "id": "work-studies",
@@ -645,7 +663,9 @@
     "preview": "assets/work-studies-preview.webp",
     "pdf": "books/work-studies/work-studies-student-workbook.pdf",
     "showWordButton": false,
-    "course": "https://stevencowell.github.io/Year-11-12-Work-Studies/"
+    "course": "https://stevencowell.github.io/Year-11-12-Work-Studies/",
+    "classroom": "../classroom-library/#work-studies",
+    "classroomLabel": "Google Classroom · check availability"
   },
   {
     "id": "garden-watering-system",
@@ -664,7 +684,9 @@
     "pdf": "books/garden-watering-system/garden-watering-system-student-workbook.pdf",
     "word": "books/garden-watering-system/garden-watering-system-student-workbook.docx",
     "showWordButton": true,
-    "course": "https://stevencowell.github.io/Engineering-Website/year10_term1.html"
+    "course": "https://stevencowell.github.io/Engineering-Website/year10_term1.html",
+    "classroom": "../classroom-library/#garden-watering-system",
+    "classroomLabel": "Google Classroom · check availability"
   },
   {
     "id": "wind-powered-usb-charger",
@@ -716,7 +738,9 @@
       "pages": 81,
       "pdf": "books/hydraulic-digger/hydraulic-digger-student-workbook.pdf?v=094500c9bb28",
       "word": "books/hydraulic-digger/hydraulic-digger-student-workbook.docx?v=4958bb5ab074"
-    }
+    },
+    "classroom": "../classroom-library/#hydraulic-digger",
+    "classroomLabel": "Google Classroom · check availability"
   },
   {
     "id": "geared-lolly-dispenser",
@@ -742,7 +766,9 @@
       "pages": 81,
       "pdf": "books/geared-lolly-dispenser/geared-lolly-dispenser-student-workbook.pdf?v=fb6377068fbb",
       "word": "books/geared-lolly-dispenser/geared-lolly-dispenser-student-workbook.docx?v=2974c96702e4"
-    }
+    },
+    "classroom": "../classroom-library/#geared-lolly-dispenser",
+    "classroomLabel": "Google Classroom · check availability"
   },
   {
     "id": "concrete-beam",
@@ -768,7 +794,9 @@
       "pages": 65,
       "pdf": "books/concrete-beam/concrete-beam-student-workbook.pdf?v=2cdccbcb9aa1",
       "word": "books/concrete-beam/concrete-beam-student-workbook.docx?v=7775b551a05a"
-    }
+    },
+    "classroom": "../classroom-library/#concrete-beam",
+    "classroomLabel": "Google Classroom · check availability"
   },
   {
     "id": "lunch-is-packed",
@@ -787,7 +815,9 @@
     "pdf": "books/lunch-is-packed/lunch-is-packed-student-workbook.pdf",
     "word": "books/lunch-is-packed/lunch-is-packed-student-workbook.docx",
     "showWordButton": true,
-    "course": "https://stevencowell.github.io/Year-7-8-Lunch-Is-Packed/"
+    "course": "https://stevencowell.github.io/Year-7-8-Lunch-Is-Packed/",
+    "classroom": "../classroom-library/#lunch-is-packed",
+    "classroomLabel": "Google Classroom · teacher drafts"
   },
   {
     "id": "intro-textiles",
@@ -806,7 +836,9 @@
     "pdf": "books/intro-textiles/intro-textiles-student-workbook.pdf",
     "word": "books/intro-textiles/intro-textiles-student-workbook.docx",
     "showWordButton": true,
-    "course": "https://stevencowell.github.io/Year-8-Textiles-Technology/"
+    "course": "https://stevencowell.github.io/Year-8-Textiles-Technology/",
+    "classroom": "../classroom-library/#intro-textiles",
+    "classroomLabel": "Google Classroom · teacher drafts"
   },
   {
     "id": "year9-textiles",
@@ -825,7 +857,9 @@
     "pdf": "books/year9-textiles/year9-textiles-student-workbook.pdf",
     "word": "books/year9-textiles/year9-textiles-student-workbook.docx",
     "showWordButton": true,
-    "course": "https://stevencowell.github.io/Year-9-Textiles-Technology/"
+    "course": "https://stevencowell.github.io/Year-9-Textiles-Technology/",
+    "classroom": "../classroom-library/#year9-textiles",
+    "classroomLabel": "Google Classroom · teacher drafts"
   },
   {
     "id": "year10-textiles",
@@ -844,7 +878,9 @@
     "pdf": "books/year10-textiles/year10-textiles-student-workbook.pdf",
     "word": "books/year10-textiles/year10-textiles-student-workbook.docx",
     "showWordButton": true,
-    "course": "https://stevencowell.github.io/Year-10-Textiles-Technology/"
+    "course": "https://stevencowell.github.io/Year-10-Textiles-Technology/",
+    "classroom": "../classroom-library/#year10-textiles",
+    "classroomLabel": "Google Classroom · teacher drafts"
   },
   {
     "id": "year11-textiles",
@@ -863,7 +899,9 @@
     "pdf": "books/year11-textiles/year11-textiles-student-workbook.pdf",
     "word": "books/year11-textiles/year11-textiles-student-workbook.docx",
     "showWordButton": true,
-    "course": "https://stevencowell.github.io/Year-11-Preliminary-Textiles-and-Design/"
+    "course": "https://stevencowell.github.io/Year-11-Preliminary-Textiles-and-Design/",
+    "classroom": "../classroom-library/#year11-textiles",
+    "classroomLabel": "Google Classroom · teacher drafts"
   },
   {
     "id": "year12-textiles",
@@ -882,7 +920,9 @@
     "pdf": "books/year12-textiles/year12-textiles-student-workbook.pdf",
     "word": "books/year12-textiles/year12-textiles-student-workbook.docx",
     "showWordButton": true,
-    "course": "https://stevencowell.github.io/Year-12-HSC-Textiles-and-Design/"
+    "course": "https://stevencowell.github.io/Year-12-HSC-Textiles-and-Design/",
+    "classroom": "../classroom-library/#year12-textiles",
+    "classroomLabel": "Google Classroom · teacher drafts"
   },
   {
     "id": "catapult",
@@ -920,7 +960,9 @@
     "pdf": "books/crack-the-code/crack-the-code-student-workbook.pdf",
     "word": "books/crack-the-code/crack-the-code-student-workbook.docx",
     "showWordButton": true,
-    "course": "https://stevencowell.github.io/Year-8-Crack-the-Code/"
+    "course": "https://stevencowell.github.io/Year-8-Crack-the-Code/",
+    "classroom": "../classroom-library/#crack-the-code",
+    "classroomLabel": "Google Classroom · teacher drafts"
   },
   {
     "id": "year9-graphics",

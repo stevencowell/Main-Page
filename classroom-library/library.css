@@ -72,3 +72,8 @@
 .classroom-card--prepared .banner-note{font-size:.8rem;line-height:1.55;color:#58686b;margin:12px 0 0}
 @media(max-width:900px) and (min-width:701px){.prepared-banner{min-height:190px}.prepared-banner .banner-copy{left:20px;max-width:64%}.prepared-banner .banner-copy h4{font-size:1.28rem}}
 @media(max-width:700px){.prepared-banner{min-height:180px;aspect-ratio:2.5}.prepared-banner .banner-copy{left:20px;right:32px;max-width:62%}.prepared-banner .banner-copy h4{font-size:1.35rem}.prepared-banner .banner-copy>span{font-size:.875rem}}
+
+/* Completed draft installations use existing course images, with space for full course titles. */
+.classroom-card--teacher-draft .course-image-banner{min-height:220px;aspect-ratio:auto}
+.classroom-card--teacher-draft .banner-copy h4{font-size:1.4rem;line-height:1.18}
+.classroom-card--teacher-draft .banner-copy>span{font-size:.75rem;letter-spacing:.05em}
