@@ -77,3 +77,6 @@
 .classroom-card--teacher-draft .course-image-banner{min-height:220px;aspect-ratio:auto}
 .classroom-card--teacher-draft .banner-copy h4{font-size:1.4rem;line-height:1.18}
 .classroom-card--teacher-draft .banner-copy>span{font-size:.75rem;letter-spacing:.05em}
+
+/* Science uses the established subject group layout. */
+.classroom-subject--science{--subject-accent:#285364;--subject-soft:#e5eff2}

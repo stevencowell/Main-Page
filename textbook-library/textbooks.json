@@ -1076,6 +1076,8 @@
     "pdf": "books/year8-science/year8-science-student-workbook.pdf",
     "word": "books/year8-science/year8-science-student-workbook.docx",
     "showWordButton": true,
-    "course": "https://stevencowell.github.io/Year-8-Science-Guided-Course/"
+    "course": "https://stevencowell.github.io/Year-8-Science-Guided-Course/",
+    "classroom": "../classroom-library/#year8-science",
+    "classroomLabel": "Google Classroom · teacher drafts"
   }
 ]
