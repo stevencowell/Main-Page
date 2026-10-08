@@ -332,6 +332,8 @@
     "pdf": "books/folding-camping-shovel/revisions/50-page-20261006/folding-camping-shovel-student-workbook.pdf",
     "word": "books/folding-camping-shovel/revisions/50-page-20261006/folding-camping-shovel-student-workbook.docx",
     "course": "https://stevencowell.github.io/Yr-10-Metal/folding-camping-shovel/",
+    "classroom": "../classroom-library/#folding-camping-shovel",
+    "classroomLabel": "Google Classroom · teacher review draft",
     "printNote": "Print on A4 at actual size. Pages 3–8 are landscape plans; check their orientation in the double-sided print preview.",
     "showWordButton": true,
     "previousEdition": {
