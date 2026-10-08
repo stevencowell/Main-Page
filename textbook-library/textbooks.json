@@ -943,6 +943,8 @@
     "pdf": "books/catapult/catapult-student-workbook.pdf",
     "word": "books/catapult/catapult-student-workbook.docx",
     "showWordButton": true,
+    "classroom": "../classroom-library/#catapult",
+    "classroomLabel": "Google Classroom · teacher review draft",
     "course": "https://stevencowell.github.io/Year-8-Catapult/"
   },
   {
@@ -983,6 +985,8 @@
     "pdf": "books/year9-graphics/year9-graphics-student-workbook.pdf",
     "word": "books/year9-graphics/year9-graphics-student-workbook.docx",
     "showWordButton": true,
+    "classroom": "../classroom-library/#year9-graphics",
+    "classroomLabel": "Google Classroom · teacher review draft",
     "course": "https://stevencowell.github.io/Year-9-Graphics-Technology/"
   },
   {
@@ -1002,6 +1006,8 @@
     "pdf": "books/year10-graphics/year10-graphics-student-workbook.pdf",
     "word": "books/year10-graphics/year10-graphics-student-workbook.docx",
     "showWordButton": true,
+    "classroom": "../classroom-library/#year10-graphics",
+    "classroomLabel": "Google Classroom · teacher review draft",
     "course": "https://stevencowell.github.io/Year-10-Graphics-Technology/"
   },
   {
@@ -1021,6 +1027,8 @@
     "pdf": "books/year11-design-technology/year11-design-technology-student-workbook.pdf",
     "word": "books/year11-design-technology/year11-design-technology-student-workbook.docx",
     "showWordButton": true,
+    "classroom": "../classroom-library/#year11-design-technology",
+    "classroomLabel": "Google Classroom · teacher review draft",
     "course": "https://stevencowell.github.io/Main-Page/Year-11-Design-and-Technology/"
   },
   {

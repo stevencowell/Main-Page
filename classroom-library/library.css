@@ -80,3 +80,8 @@
 
 /* Science uses the established subject group layout. */
 .classroom-subject--science{--subject-accent:#285364;--subject-soft:#e5eff2}
+
+/* Draft-review groups reuse verified public course artwork. */
+.classroom-subject--graphics{--subject-accent:#285364;--subject-soft:#e5eff2}
+.classroom-subject--design-technology{--subject-accent:#49622b;--subject-soft:#edf3e4}
+.course-artwork-note{font-size:.8rem;color:var(--muted);margin:14px 0 0}
