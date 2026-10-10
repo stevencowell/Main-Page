@@ -541,6 +541,8 @@
     "showWordPrintNote": false,
     "teacherGuide": "books/food-for-specific-needs/food-for-specific-needs-teacher-guide.pdf",
     "course": "https://stevencowell.github.io/Food-for-Specific-Needs/",
+    "classroom": "../classroom-library/#food-for-specific-needs",
+    "classroomLabel": "Google Classroom · saved drafts",
     "supplements": [
       {
         "title": "Practice and activities",
@@ -708,6 +710,8 @@
     "word": "books/wind-powered-usb-charger/revisions/50-page-20261006/wind-powered-usb-charger-student-workbook.docx",
     "showWordButton": true,
     "course": "https://stevencowell.github.io/Engineering-Website/year10_term2.html",
+    "classroom": "../classroom-library/#wind-powered-usb-charger",
+    "classroomLabel": "Google Classroom · teacher review draft",
     "editionLabel": "50-page revision",
     "previousEdition": {
       "edition": "2026",
@@ -1048,7 +1052,9 @@
     "pdf": "books/year12-design-technology/year12-design-technology-student-workbook.pdf",
     "word": "books/year12-design-technology/year12-design-technology-student-workbook.docx",
     "showWordButton": true,
-    "course": "https://stevencowell.github.io/Year-12-Design-and-Technology/"
+    "course": "https://stevencowell.github.io/Year-12-Design-and-Technology/",
+    "classroom": "../classroom-library/#year12-design-technology",
+    "classroomLabel": "Google Classroom · teacher review draft"
   },
   {
     "id": "year7-multimedia",
@@ -1067,7 +1073,9 @@
     "pdf": "books/year7-multimedia/year7-multimedia-student-workbook.pdf",
     "word": "books/year7-multimedia/year7-multimedia-student-workbook.docx",
     "showWordButton": true,
-    "course": "https://stevencowell.github.io/Year-7-Multimedia/"
+    "course": "https://stevencowell.github.io/Year-7-Multimedia/",
+    "classroom": "../classroom-library/#year7-multimedia",
+    "classroomLabel": "Google Classroom · teacher review draft"
   },
   {
     "id": "year8-science",
