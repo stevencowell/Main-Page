@@ -13,3 +13,9 @@ This is the central catalogue of completed TAS student workbooks. It includes De
 5. Check the card, PDF/downloads, teacher resources, search/reset, keyboard preview controls and 390px layout. Verify final document bytes after deployment.
 
 Do not silently replace an existing approved edition with an unfinished document. Source documents and production checks for each workbook are retained in its creating task; only final public artifacts are included here.
+
+## Subject sections
+
+The shelf follows the Classroom library’s subject-section order, with Multimedia beside Design and Technology. Agriculture groups the existing Agriculture Technology and Food and agricultural practices metadata values; the subject filter retains both original values. Cards and downloads retain their existing identities.
+
+Display groups and section markup live in `scripts/textbook-subject-sections.mjs`. The full build still verifies every local book asset before rendering; unknown subjects fail with a request to add a display group. Empty groups are omitted. Search hides empty sections and their jump links, updates section counts, and keeps the original subject-filter semantics. Direct card/section anchors clear a conflicting filter so the target remains reachable.

@@ -1,3 +1,4 @@
+import {groupBooks, renderSubjectNavigation, renderBookSections} from './textbook-subject-sections.mjs';
 import fs from 'node:fs';
 import path from 'node:path';
 import {fileURLToPath} from 'node:url';
@@ -96,7 +97,9 @@ function replace(name, value) {
   if (!re.test(html)) throw new Error(`Missing ${name} template markers`);
   html = html.replace(re, `<!-- ${name}_START -->\n${value}\n<!-- ${name}_END -->`);
 }
-replace('BOOKS', books.map(card).join('\n'));
+const groups = groupBooks(books);
+replace('BOOKS', renderBookSections(groups, card));
+replace('SUBJECT_NAV', renderSubjectNavigation(groups));
 replace('COUNT', `${books.length} ${books.length === 1 ? 'book' : 'books'} available`);
 replace('SUBJECTS', [...new Set(books.map(b => b.subject))].sort().map(s => `<option value="${e(s)}">${e(s)}</option>`).join('\n'));
 fs.writeFileSync(path.join(root, 'index.html'), html);

@@ -7,8 +7,8 @@
   <meta name="theme-color" content="#153c40">
   <title>Student Workbook Library | TAS Learning Hub</title>
   <link rel="icon" href="data:,">
-  <link rel="stylesheet" href="library.css?v=04b7f9f024a1">
-  <script src="library.js?v=20260910" defer></script>
+  <link rel="stylesheet" href="library.css?v=fcd12fb8e8a0">
+  <script src="library.js?v=0e43b50b8509" defer></script>
 </head>
 <body>
   <a class="skip-link" href="#books">Skip to the books</a>
@@ -33,9 +33,25 @@
       </aside>
     </section>
     <section class="collection shell" id="books" aria-labelledby="books-title">
-      <div class="collection-heading"><h2 id="books-title">On the shelf</h2><p id="result-count" role="status"><!-- COUNT_START -->
+      <div class="collection-heading"><h2 id="books-title">Workbooks by subject</h2><p id="result-count" role="status"><!-- COUNT_START -->
 50 books available
 <!-- COUNT_END --></p></div>
+      <nav class="subject-navigation" id="subject-navigation" aria-label="Jump to a workbook subject" tabindex="-1">
+<!-- SUBJECT_NAV_START -->
+        <a href="#subject-timber">Timber <span data-subject-nav-count aria-label="10 books">10</span></a>
+        <a href="#subject-metal">Metal <span data-subject-nav-count aria-label="6 books">6</span></a>
+        <a href="#subject-technology">Technology 7–8 <span data-subject-nav-count aria-label="4 books">4</span></a>
+        <a href="#subject-graphics">Graphics Technology <span data-subject-nav-count aria-label="2 books">2</span></a>
+        <a href="#subject-design-technology">Design and Technology <span data-subject-nav-count aria-label="2 books">2</span></a>
+        <a href="#subject-multimedia">Multimedia <span data-subject-nav-count aria-label="1 book">1</span></a>
+        <a href="#subject-food">Food Technology <span data-subject-nav-count aria-label="7 books">7</span></a>
+        <a href="#subject-textiles">Textiles <span data-subject-nav-count aria-label="7 books">7</span></a>
+        <a href="#subject-agriculture">Agriculture <span data-subject-nav-count aria-label="4 books">4</span></a>
+        <a href="#subject-engineering">Engineering <span data-subject-nav-count aria-label="5 books">5</span></a>
+        <a href="#subject-work-studies">Work Studies <span data-subject-nav-count aria-label="1 book">1</span></a>
+        <a href="#subject-science">Science <span data-subject-nav-count aria-label="1 book">1</span></a>
+<!-- SUBJECT_NAV_END -->
+      </nav>
       <form class="filters" role="search" hidden>
         <div class="search-field"><label for="book-search">Find a book</label><input id="book-search" type="search" placeholder="Search by unit, subject or stage" autocomplete="off"></div>
         <div class="subject-field"><label for="subject-filter">Subject</label><select id="subject-filter"><option value="">All subjects</option><!-- SUBJECTS_START -->
@@ -55,8 +71,14 @@
 <!-- SUBJECTS_END --></select></div>
         <button class="clear-search" type="reset">Clear filters</button>
       </form>
-      <div class="book-grid">
+      <div class="book-sections">
         <!-- BOOKS_START -->
+<section class="book-subject book-subject--timber" id="subject-timber" aria-labelledby="subject-timber-title">
+  <header class="subject-heading">
+    <div><h2 id="subject-timber-title">Timber</h2><p>Timber projects, workshop skills and design evidence.</p></div>
+    <p class="subject-count" data-subject-count>10 books</p>
+  </header>
+  <div class="book-grid">
 <article class="book-card" id="desk-tidy" data-subject="Timber" data-search="desk tidy timber stage 4 student workbook design and make a useful timber organiser. follow the project from the brief and early concepts through drawings, making, testing and evaluation. illustrated readings, design activities, knowledge checks, puzzles and a complete project folio." aria-labelledby="desk-tidy-title">
   <div class="cover-panel">
     <a class="cover-link" href="books/desk-tidy/desk-tidy-student-workbook.pdf?v=3ab3a77047fb" target="_blank" rel="noopener" aria-label="Open Desk Tidy student workbook PDF (opens in a new tab)"><img src="assets/desk-tidy-cover.webp?v=bff1ef45cbd0" width="701" height="991" alt="Desk Tidy workbook cover" loading="lazy"></a>
@@ -91,24 +113,6 @@
     <a class="course-link" href="https://stevencowell.github.io/Year-8-Intro-Timber-Technology/" target="_blank" rel="noopener">Open the matching course <span aria-hidden="true">↗</span><span class="sr-only"> (opens in a new tab)</span></a>
     <a class="course-link" href="../classroom-library/#footstool">Open Footstool Classroom and joining instructions <span aria-hidden="true">→</span></a>
     <details class="teacher-resources"><summary>Teacher resources</summary><div class="teacher-resource-links"><a href="books/footstool/footstool-student-workbook.docx?v=56b44f4c1207" download>Editable workbook (Word) · 10.9 MB</a><a href="books/footstool/footstool-teacher-guide.pdf?v=5a7a0d8bdeac" target="_blank" rel="noopener">Teacher guide and answers (PDF)<span class="sr-only"> (opens in a new tab)</span></a><small>Use the student PDF for printing. Word pagination can vary between computers.</small></div></details>
-  </div>
-</article>
-<article class="book-card" id="programmable-light" data-subject="Technology 7–8" data-search="programmable light technology 7–8 stage 4 student workbook connect materials, design and digital thinking through the programmable light project, from reading the original drawing to planning behaviour and evaluating evidence. illustrated readings, original drawing, design development, paper coding tasks, knowledge checks and project folio activities." aria-labelledby="programmable-light-title">
-  <div class="cover-panel">
-    <a class="cover-link" href="books/programmable-light/programmable-light-student-workbook.pdf?v=9e396190dddf" target="_blank" rel="noopener" aria-label="Open Programmable Light student workbook PDF (opens in a new tab)"><img src="assets/programmable-light-cover.webp?v=eaa218fe8cf9" width="701" height="991" alt="Programmable Light workbook cover" loading="lazy"></a>
-    <a class="preview-link" href="assets/programmable-light-preview.webp?v=f5def08d5300" data-preview data-title="Programmable Light" data-pdf="books/programmable-light/programmable-light-student-workbook.pdf?v=9e396190dddf">Look inside <span aria-hidden="true">↗</span></a>
-  </div>
-  <div class="book-copy">
-    <p class="book-meta">Stage 4 · Technology 7–8 · Student workbook</p>
-    <h3 id="programmable-light-title"><a href="books/programmable-light/programmable-light-student-workbook.pdf?v=9e396190dddf" target="_blank" rel="noopener">Programmable Light<span class="sr-only"> (opens in a new tab)</span></a></h3>
-    <p class="book-description">Connect materials, design and digital thinking through the Programmable Light project, from reading the original drawing to planning behaviour and evaluating evidence.</p>
-    <p class="book-includes">Illustrated readings, original drawing, design development, paper coding tasks, knowledge checks and project folio activities.</p>
-    <p class="book-facts"><span>50 pages</span><span>25 double-sided sheets</span><span>A4</span><span>Edition 2.0</span></p>
-    <div class="book-actions"><a class="button primary" href="books/programmable-light/programmable-light-student-workbook.pdf?v=9e396190dddf" target="_blank" rel="noopener">Open workbook (PDF) <span aria-hidden="true">↗</span><span class="sr-only"> (opens in a new tab)</span></a><a class="button" href="books/programmable-light/programmable-light-student-workbook.pdf?v=9e396190dddf" download="programmable-light-student-workbook.pdf">Download PDF <span aria-hidden="true">↓</span></a></div>
-    <p class="download-note">PDF · 32.1 MB. Print double-sided on A4, flipping on the long edge.</p>
-    <a class="course-link" href="https://stevencowell.github.io/programmable-light-guided-course/" target="_blank" rel="noopener">Open the matching course <span aria-hidden="true">↗</span><span class="sr-only"> (opens in a new tab)</span></a>
-    <a class="course-link" href="../classroom-library/#programmable-light">Check Programmable Light Classroom availability <span aria-hidden="true">→</span></a>
-    <details class="teacher-resources"><summary>Teacher resources</summary><div class="teacher-resource-links"><a href="books/programmable-light/programmable-light-student-workbook.docx?v=97cb661b2441" download>Editable workbook (Word) · 17.2 MB</a><a href="books/programmable-light/programmable-light-teacher-guide.pdf?v=6b83fb005829" target="_blank" rel="noopener">Teacher guide and answers (PDF)<span class="sr-only"> (opens in a new tab)</span></a><small>Use the student PDF for printing. Word pagination can vary between computers.</small></div></details>
   </div>
 </article>
 <article class="book-card" id="breadboard" data-subject="Timber" data-search="breadboard timber stage 5 student workbook develop accurate timber selection, marking, joining and finishing through the breadboard project. record checks and explain the decisions behind the finished work. illustrated readings, original project plan, biscuit-joint diagrams, knowledge checks, surface investigations and a complete project folio." aria-labelledby="breadboard-title">
@@ -255,6 +259,15 @@
     <details class="teacher-resources"><summary>Teacher resources</summary><div class="teacher-resource-links"><a href="books/pen/pen-student-workbook.docx?v=273bf67053f5" download>Editable workbook (Word) · 10.9 MB</a><a href="books/pen/pen-teacher-guide.pdf?v=c27bb7433bbc" target="_blank" rel="noopener">Teacher guide and answers (PDF)<span class="sr-only"> (opens in a new tab)</span></a><small>Use the student PDF for printing. Word pagination can vary between computers.</small></div></details>
   </div>
 </article>
+  </div>
+  <a class="back-to-subjects" href="#subject-navigation">Back to subjects <span aria-hidden="true">↑</span></a>
+</section>
+<section class="book-subject book-subject--metal" id="subject-metal" aria-labelledby="subject-metal-title">
+  <header class="subject-heading">
+    <div><h2 id="subject-metal-title">Metal</h2><p>Metal fabrication, machining and project evidence.</p></div>
+    <p class="subject-count" data-subject-count>6 books</p>
+  </header>
+  <div class="book-grid">
 <article class="book-card" id="hose-reel-holder" data-subject="Metal" data-search="hose reel holder metal year 8 elective student workbook explore metal, design and safe workshop decisions through the hose reel holder project. connect plan reading, accurate making, surface protection and evaluation with evidence of your own work. five illustrated course modules, worked examples, knowledge checks, drawing activities and a complete project folio. use the teacher-issued plan for construction details." aria-labelledby="hose-reel-holder-title">
   <div class="cover-panel">
     <a class="cover-link" href="books/hose-reel-holder/hose-reel-holder-student-workbook.pdf?v=ca39d4a5f61f" target="_blank" rel="noopener" aria-label="Open Hose Reel Holder student workbook PDF (opens in a new tab)"><img src="assets/hose-reel-holder-cover.webp?v=3bf81e807729" width="701" height="991" alt="Hose Reel Holder workbook cover" loading="lazy"></a>
@@ -271,24 +284,6 @@
     <a class="course-link" href="https://stevencowell.github.io/Yr-8-Metal-Technology/" target="_blank" rel="noopener">Open the matching course <span aria-hidden="true">↗</span><span class="sr-only"> (opens in a new tab)</span></a>
     <a class="course-link" href="../classroom-library/#hose-reel-holder">Check Hose Reel Holder Classroom availability <span aria-hidden="true">→</span></a>
     <details class="teacher-resources"><summary>Teacher resources</summary><div class="teacher-resource-links"><a href="books/hose-reel-holder/hose-reel-holder-student-workbook.docx?v=20dc6bb480ea" download>Editable workbook (Word) · 20.6 MB</a><a href="books/hose-reel-holder/hose-reel-holder-teacher-guide.pdf?v=dd2d94b50576" target="_blank" rel="noopener">Teacher guide and answers (PDF)<span class="sr-only"> (opens in a new tab)</span></a><small>Use the student PDF for printing. Word pagination can vary between computers.</small></div></details>
-  </div>
-</article>
-<article class="book-card" id="swinging-sign" data-subject="Technology 7–8" data-search="swinging sign technology 7–8 stage 4 student workbook explore materials, design and safe workshop decisions through the swinging sign project. develop ideas, communicate with sketches and onshape, and evaluate the evidence from your own work. five illustrated course modules, worked examples, knowledge checks, practical planning and a complete project folio. teacher-directed led tea-light and pot-plant holder pathways are included. use teacher-approved plans for construction details." aria-labelledby="swinging-sign-title">
-  <div class="cover-panel">
-    <a class="cover-link" href="books/swinging-sign/swinging-sign-student-workbook.pdf?v=e3d018fc2bef" target="_blank" rel="noopener" aria-label="Open Swinging Sign student workbook PDF (opens in a new tab)"><img src="assets/swinging-sign-cover.webp?v=e8274da8259a" width="701" height="991" alt="Swinging Sign workbook cover" loading="lazy"></a>
-    <a class="preview-link" href="assets/swinging-sign-preview.webp?v=56edf7312a21" data-preview data-title="Swinging Sign" data-pdf="books/swinging-sign/swinging-sign-student-workbook.pdf?v=e3d018fc2bef">Look inside <span aria-hidden="true">↗</span></a>
-  </div>
-  <div class="book-copy">
-    <p class="book-meta">Stage 4 · Technology 7–8 · Student workbook</p>
-    <h3 id="swinging-sign-title"><a href="books/swinging-sign/swinging-sign-student-workbook.pdf?v=e3d018fc2bef" target="_blank" rel="noopener">Swinging Sign<span class="sr-only"> (opens in a new tab)</span></a></h3>
-    <p class="book-description">Explore materials, design and safe workshop decisions through the Swinging Sign project. Develop ideas, communicate with sketches and Onshape, and evaluate the evidence from your own work.</p>
-    <p class="book-includes">Five illustrated course modules, worked examples, knowledge checks, practical planning and a complete project folio. Teacher-directed LED tea-light and pot-plant holder pathways are included. Use teacher-approved plans for construction details.</p>
-    <p class="book-facts"><span>50 pages</span><span>25 double-sided sheets</span><span>A4</span><span>Edition 1.0</span></p>
-    <div class="book-actions"><a class="button primary" href="books/swinging-sign/swinging-sign-student-workbook.pdf?v=e3d018fc2bef" target="_blank" rel="noopener">Open workbook (PDF) <span aria-hidden="true">↗</span><span class="sr-only"> (opens in a new tab)</span></a><a class="button" href="books/swinging-sign/swinging-sign-student-workbook.pdf?v=e3d018fc2bef" download="swinging-sign-student-workbook.pdf">Download PDF <span aria-hidden="true">↓</span></a></div>
-    <p class="download-note">PDF · 3.0 MB. Print double-sided on A4, flipping on the long edge.</p>
-    <a class="course-link" href="https://stevencowell.github.io/Swinging-Sign/" target="_blank" rel="noopener">Open the matching course <span aria-hidden="true">↗</span><span class="sr-only"> (opens in a new tab)</span></a>
-    <a class="course-link" href="../classroom-library/#swinging-sign">Check Swinging Sign Classroom availability <span aria-hidden="true">→</span></a>
-    <details class="teacher-resources"><summary>Teacher resources</summary><div class="teacher-resource-links"><a href="books/swinging-sign/swinging-sign-student-workbook.docx?v=8efd63dfd6a0" download>Editable workbook (Word) · 22.0 MB</a><a href="books/swinging-sign/swinging-sign-teacher-guide.pdf?v=0dbded13ba3d" target="_blank" rel="noopener">Teacher guide and answers (PDF)<span class="sr-only"> (opens in a new tab)</span></a><small>Use the student PDF for printing. Word pagination can vary between computers.</small></div></details>
   </div>
 </article>
 <article class="book-card" id="sheet-metal-toolbox" data-subject="Metal" data-search="sheet-metal toolbox metal stage 5 student workbook develop accurate marking, forming, joining and evaluation through the sheet-metal toolbox project. connect material choices, plan reading and safe workshop decisions with evidence of your own work. five illustrated modules, the original tool carryall drawing, worked examples, 20 original knowledge-check questions and a complete 12-part project folio. includes an editable word edition and a 21-page teacher guide with answers." aria-labelledby="sheet-metal-toolbox-title">
@@ -382,24 +377,211 @@
     <details class="teacher-resources"><summary>Teacher resources</summary><div class="teacher-resource-links"><a href="books/cnc-plasma/cnc-plasma-student-workbook.docx?v=51101deeb303" download>Editable workbook (Word) · 6.8 MB</a><a href="books/cnc-plasma/cnc-plasma-teacher-guide.pdf?v=294c47f1b6e5" target="_blank" rel="noopener">Teacher guide and answers (PDF)<span class="sr-only"> (opens in a new tab)</span></a><small>Use the student PDF for printing. Word pagination can vary between computers.</small></div></details>
   </div>
 </article>
-<article class="book-card" id="bucket-hat" data-subject="Textiles" data-search="bucket hat for a cause textiles stage 4 student workbook design a reversible bucket hat that communicates a respectful cause. explore textiles, develop original ideas, trial decorative techniques and record the making and evaluation of your own hat. ten course modules, 19 captioned figures, 105 tasks and a complete project folio. printable pdf, editable word workbook and a 19-page teacher guide with answers. use the teacher-issued pattern for construction." aria-labelledby="bucket-hat-title">
+  </div>
+  <a class="back-to-subjects" href="#subject-navigation">Back to subjects <span aria-hidden="true">↑</span></a>
+</section>
+<section class="book-subject book-subject--technology" id="subject-technology" aria-labelledby="subject-technology-title">
+  <header class="subject-heading">
+    <div><h2 id="subject-technology-title">Technology 7–8</h2><p>Materials, design and digital systems.</p></div>
+    <p class="subject-count" data-subject-count>4 books</p>
+  </header>
+  <div class="book-grid">
+<article class="book-card" id="programmable-light" data-subject="Technology 7–8" data-search="programmable light technology 7–8 stage 4 student workbook connect materials, design and digital thinking through the programmable light project, from reading the original drawing to planning behaviour and evaluating evidence. illustrated readings, original drawing, design development, paper coding tasks, knowledge checks and project folio activities." aria-labelledby="programmable-light-title">
   <div class="cover-panel">
-    <a class="cover-link" href="books/bucket-hat/bucket-hat-student-workbook.pdf?v=da77c35cad05" target="_blank" rel="noopener" aria-label="Open Bucket Hat for a Cause student workbook PDF (opens in a new tab)"><img src="assets/bucket-hat-cover.webp?v=ee7ac65f0ec3" width="701" height="991" alt="Bucket Hat for a Cause workbook cover" loading="lazy"></a>
-    <a class="preview-link" href="assets/bucket-hat-preview.webp?v=a98a925eecc2" data-preview data-title="Bucket Hat for a Cause" data-pdf="books/bucket-hat/bucket-hat-student-workbook.pdf?v=da77c35cad05">Look inside <span aria-hidden="true">↗</span></a>
+    <a class="cover-link" href="books/programmable-light/programmable-light-student-workbook.pdf?v=9e396190dddf" target="_blank" rel="noopener" aria-label="Open Programmable Light student workbook PDF (opens in a new tab)"><img src="assets/programmable-light-cover.webp?v=eaa218fe8cf9" width="701" height="991" alt="Programmable Light workbook cover" loading="lazy"></a>
+    <a class="preview-link" href="assets/programmable-light-preview.webp?v=f5def08d5300" data-preview data-title="Programmable Light" data-pdf="books/programmable-light/programmable-light-student-workbook.pdf?v=9e396190dddf">Look inside <span aria-hidden="true">↗</span></a>
   </div>
   <div class="book-copy">
-    <p class="book-meta">Stage 4 · Textiles · Student workbook</p>
-    <h3 id="bucket-hat-title"><a href="books/bucket-hat/bucket-hat-student-workbook.pdf?v=da77c35cad05" target="_blank" rel="noopener">Bucket Hat for a Cause<span class="sr-only"> (opens in a new tab)</span></a></h3>
-    <p class="book-description">Design a reversible bucket hat that communicates a respectful cause. Explore textiles, develop original ideas, trial decorative techniques and record the making and evaluation of your own hat.</p>
-    <p class="book-includes">Ten course modules, 19 captioned figures, 105 tasks and a complete project folio. Printable PDF, editable Word workbook and a 19-page teacher guide with answers. Use the teacher-issued pattern for construction.</p>
-    <p class="book-facts"><span>50 pages</span><span>25 double-sided sheets</span><span>A4</span><span>Edition 1.0</span></p>
-    <div class="book-actions"><a class="button primary" href="books/bucket-hat/bucket-hat-student-workbook.pdf?v=da77c35cad05" target="_blank" rel="noopener">Open workbook (PDF) <span aria-hidden="true">↗</span><span class="sr-only"> (opens in a new tab)</span></a><a class="button" href="books/bucket-hat/bucket-hat-student-workbook.pdf?v=da77c35cad05" download="bucket-hat-student-workbook.pdf">Download PDF <span aria-hidden="true">↓</span></a></div>
-    <p class="download-note">PDF · 2.9 MB. Print double-sided on A4, flipping on the long edge.</p>
-    <a class="course-link" href="https://stevencowell.github.io/Year-7-8-Bucket-Hat/" target="_blank" rel="noopener">Open the matching course <span aria-hidden="true">↗</span><span class="sr-only"> (opens in a new tab)</span></a>
-    <a class="course-link" href="../classroom-library/#bucket-hat">Open the matching Google Classroom <span aria-hidden="true">→</span></a>
-    <details class="teacher-resources"><summary>Teacher resources</summary><div class="teacher-resource-links"><a href="books/bucket-hat/bucket-hat-student-workbook.docx?v=f1f5f930e0ca" download>Editable workbook (Word) · 24.2 MB</a><a href="books/bucket-hat/bucket-hat-teacher-guide.pdf?v=0e98c436c9c0" target="_blank" rel="noopener">Teacher guide and answers (PDF)<span class="sr-only"> (opens in a new tab)</span></a><small>Use the student PDF for printing. Word pagination can vary between computers.</small></div></details>
+    <p class="book-meta">Stage 4 · Technology 7–8 · Student workbook</p>
+    <h3 id="programmable-light-title"><a href="books/programmable-light/programmable-light-student-workbook.pdf?v=9e396190dddf" target="_blank" rel="noopener">Programmable Light<span class="sr-only"> (opens in a new tab)</span></a></h3>
+    <p class="book-description">Connect materials, design and digital thinking through the Programmable Light project, from reading the original drawing to planning behaviour and evaluating evidence.</p>
+    <p class="book-includes">Illustrated readings, original drawing, design development, paper coding tasks, knowledge checks and project folio activities.</p>
+    <p class="book-facts"><span>50 pages</span><span>25 double-sided sheets</span><span>A4</span><span>Edition 2.0</span></p>
+    <div class="book-actions"><a class="button primary" href="books/programmable-light/programmable-light-student-workbook.pdf?v=9e396190dddf" target="_blank" rel="noopener">Open workbook (PDF) <span aria-hidden="true">↗</span><span class="sr-only"> (opens in a new tab)</span></a><a class="button" href="books/programmable-light/programmable-light-student-workbook.pdf?v=9e396190dddf" download="programmable-light-student-workbook.pdf">Download PDF <span aria-hidden="true">↓</span></a></div>
+    <p class="download-note">PDF · 32.1 MB. Print double-sided on A4, flipping on the long edge.</p>
+    <a class="course-link" href="https://stevencowell.github.io/programmable-light-guided-course/" target="_blank" rel="noopener">Open the matching course <span aria-hidden="true">↗</span><span class="sr-only"> (opens in a new tab)</span></a>
+    <a class="course-link" href="../classroom-library/#programmable-light">Check Programmable Light Classroom availability <span aria-hidden="true">→</span></a>
+    <details class="teacher-resources"><summary>Teacher resources</summary><div class="teacher-resource-links"><a href="books/programmable-light/programmable-light-student-workbook.docx?v=97cb661b2441" download>Editable workbook (Word) · 17.2 MB</a><a href="books/programmable-light/programmable-light-teacher-guide.pdf?v=6b83fb005829" target="_blank" rel="noopener">Teacher guide and answers (PDF)<span class="sr-only"> (opens in a new tab)</span></a><small>Use the student PDF for printing. Word pagination can vary between computers.</small></div></details>
   </div>
 </article>
+<article class="book-card" id="swinging-sign" data-subject="Technology 7–8" data-search="swinging sign technology 7–8 stage 4 student workbook explore materials, design and safe workshop decisions through the swinging sign project. develop ideas, communicate with sketches and onshape, and evaluate the evidence from your own work. five illustrated course modules, worked examples, knowledge checks, practical planning and a complete project folio. teacher-directed led tea-light and pot-plant holder pathways are included. use teacher-approved plans for construction details." aria-labelledby="swinging-sign-title">
+  <div class="cover-panel">
+    <a class="cover-link" href="books/swinging-sign/swinging-sign-student-workbook.pdf?v=e3d018fc2bef" target="_blank" rel="noopener" aria-label="Open Swinging Sign student workbook PDF (opens in a new tab)"><img src="assets/swinging-sign-cover.webp?v=e8274da8259a" width="701" height="991" alt="Swinging Sign workbook cover" loading="lazy"></a>
+    <a class="preview-link" href="assets/swinging-sign-preview.webp?v=56edf7312a21" data-preview data-title="Swinging Sign" data-pdf="books/swinging-sign/swinging-sign-student-workbook.pdf?v=e3d018fc2bef">Look inside <span aria-hidden="true">↗</span></a>
+  </div>
+  <div class="book-copy">
+    <p class="book-meta">Stage 4 · Technology 7–8 · Student workbook</p>
+    <h3 id="swinging-sign-title"><a href="books/swinging-sign/swinging-sign-student-workbook.pdf?v=e3d018fc2bef" target="_blank" rel="noopener">Swinging Sign<span class="sr-only"> (opens in a new tab)</span></a></h3>
+    <p class="book-description">Explore materials, design and safe workshop decisions through the Swinging Sign project. Develop ideas, communicate with sketches and Onshape, and evaluate the evidence from your own work.</p>
+    <p class="book-includes">Five illustrated course modules, worked examples, knowledge checks, practical planning and a complete project folio. Teacher-directed LED tea-light and pot-plant holder pathways are included. Use teacher-approved plans for construction details.</p>
+    <p class="book-facts"><span>50 pages</span><span>25 double-sided sheets</span><span>A4</span><span>Edition 1.0</span></p>
+    <div class="book-actions"><a class="button primary" href="books/swinging-sign/swinging-sign-student-workbook.pdf?v=e3d018fc2bef" target="_blank" rel="noopener">Open workbook (PDF) <span aria-hidden="true">↗</span><span class="sr-only"> (opens in a new tab)</span></a><a class="button" href="books/swinging-sign/swinging-sign-student-workbook.pdf?v=e3d018fc2bef" download="swinging-sign-student-workbook.pdf">Download PDF <span aria-hidden="true">↓</span></a></div>
+    <p class="download-note">PDF · 3.0 MB. Print double-sided on A4, flipping on the long edge.</p>
+    <a class="course-link" href="https://stevencowell.github.io/Swinging-Sign/" target="_blank" rel="noopener">Open the matching course <span aria-hidden="true">↗</span><span class="sr-only"> (opens in a new tab)</span></a>
+    <a class="course-link" href="../classroom-library/#swinging-sign">Check Swinging Sign Classroom availability <span aria-hidden="true">→</span></a>
+    <details class="teacher-resources"><summary>Teacher resources</summary><div class="teacher-resource-links"><a href="books/swinging-sign/swinging-sign-student-workbook.docx?v=8efd63dfd6a0" download>Editable workbook (Word) · 22.0 MB</a><a href="books/swinging-sign/swinging-sign-teacher-guide.pdf?v=0dbded13ba3d" target="_blank" rel="noopener">Teacher guide and answers (PDF)<span class="sr-only"> (opens in a new tab)</span></a><small>Use the student PDF for printing. Word pagination can vary between computers.</small></div></details>
+  </div>
+</article>
+<article class="book-card" id="catapult" data-subject="Technology 7–8" data-search="catapult technology 7–8 stage 4 · year 8 student workbook explore engineering systems, materials, levers, energy, design communication, production, testing and evaluation through the catapult course. original questions, whole responses and project-folio space. conceptual illustrations support learning; teacher-approved drawings, processes and test conditions control practical work." aria-labelledby="catapult-title">
+  <div class="cover-panel">
+    <a class="cover-link" href="books/catapult/catapult-student-workbook.pdf?v=cda9775cf6b2" target="_blank" rel="noopener" aria-label="Open Catapult student workbook PDF (opens in a new tab)"><img src="assets/catapult-cover.webp?v=64d5e0ad23fe" width="701" height="991" alt="Catapult workbook cover" loading="lazy"></a>
+    <a class="preview-link" href="assets/catapult-preview.webp?v=a0e4d9fba871" data-preview data-title="Catapult" data-pdf="books/catapult/catapult-student-workbook.pdf?v=cda9775cf6b2">Look inside <span aria-hidden="true">↗</span></a>
+  </div>
+  <div class="book-copy">
+    <p class="book-meta">Stage 4 · Year 8 · Technology 7–8 · Student workbook</p>
+    <h3 id="catapult-title"><a href="books/catapult/catapult-student-workbook.pdf?v=cda9775cf6b2" target="_blank" rel="noopener">Catapult<span class="sr-only"> (opens in a new tab)</span></a></h3>
+    <p class="book-description">Explore engineering systems, materials, levers, energy, design communication, production, testing and evaluation through the Catapult course.</p>
+    <p class="book-includes">Original questions, whole responses and project-folio space. Conceptual illustrations support learning; teacher-approved drawings, processes and test conditions control practical work.</p>
+    <p class="book-facts"><span>50 pages</span><span>25 double-sided sheets</span><span>A4</span><span>Edition 1.0</span></p>
+    <div class="book-actions"><a class="button primary" href="books/catapult/catapult-student-workbook.pdf?v=cda9775cf6b2" target="_blank" rel="noopener">Open workbook (PDF) <span aria-hidden="true">↗</span><span class="sr-only"> (opens in a new tab)</span></a><a class="button" href="books/catapult/catapult-student-workbook.pdf?v=cda9775cf6b2" download="catapult-student-workbook.pdf">Download PDF <span aria-hidden="true">↓</span></a><a class="button" href="books/catapult/catapult-student-workbook.docx?v=ef2d14b9c0c1" download>Download editable Word <span aria-hidden="true">↓</span></a></div>
+    <p class="download-note">PDF · 78.4 MB. Print double-sided on A4, flipping on the long edge.</p>
+    <a class="course-link" href="https://stevencowell.github.io/Year-8-Catapult/" target="_blank" rel="noopener">Open the matching course <span aria-hidden="true">↗</span><span class="sr-only"> (opens in a new tab)</span></a>
+    <a class="course-link" href="../classroom-library/#catapult">Google Classroom · teacher review draft <span aria-hidden="true">→</span></a>
+    
+  </div>
+</article>
+<article class="book-card" id="crack-the-code" data-subject="Technology 7–8" data-search="crack the code technology 7–8 stage 4 · year 8 student workbook trace inputs, outputs, algorithms, data and decisions, then use evidence to explain an alarm with the course thinkershield system. original source practice, investigation studios and connected project evidence. use teacher-confirmed equipment, safety and submission directions." aria-labelledby="crack-the-code-title">
+  <div class="cover-panel">
+    <a class="cover-link" href="books/crack-the-code/crack-the-code-student-workbook.pdf?v=1635d4f502a6" target="_blank" rel="noopener" aria-label="Open Crack the Code student workbook PDF (opens in a new tab)"><img src="assets/crack-the-code-cover.webp?v=673c7042cd01" width="701" height="991" alt="Crack the Code workbook cover" loading="lazy"></a>
+    <a class="preview-link" href="assets/crack-the-code-preview.webp?v=12c5c33346e4" data-preview data-title="Crack the Code" data-pdf="books/crack-the-code/crack-the-code-student-workbook.pdf?v=1635d4f502a6">Look inside <span aria-hidden="true">↗</span></a>
+  </div>
+  <div class="book-copy">
+    <p class="book-meta">Stage 4 · Year 8 · Technology 7–8 · Student workbook</p>
+    <h3 id="crack-the-code-title"><a href="books/crack-the-code/crack-the-code-student-workbook.pdf?v=1635d4f502a6" target="_blank" rel="noopener">Crack the Code<span class="sr-only"> (opens in a new tab)</span></a></h3>
+    <p class="book-description">Trace inputs, outputs, algorithms, data and decisions, then use evidence to explain an alarm with the course ThinkerShield system.</p>
+    <p class="book-includes">Original source practice, investigation studios and connected project evidence. Use teacher-confirmed equipment, safety and submission directions.</p>
+    <p class="book-facts"><span>50 pages</span><span>25 double-sided sheets</span><span>A4</span><span>Edition 1.0</span></p>
+    <div class="book-actions"><a class="button primary" href="books/crack-the-code/crack-the-code-student-workbook.pdf?v=1635d4f502a6" target="_blank" rel="noopener">Open workbook (PDF) <span aria-hidden="true">↗</span><span class="sr-only"> (opens in a new tab)</span></a><a class="button" href="books/crack-the-code/crack-the-code-student-workbook.pdf?v=1635d4f502a6" download="crack-the-code-student-workbook.pdf">Download PDF <span aria-hidden="true">↓</span></a><a class="button" href="books/crack-the-code/crack-the-code-student-workbook.docx?v=e68bd9f209c8" download>Download editable Word <span aria-hidden="true">↓</span></a></div>
+    <p class="download-note">PDF · 0.7 MB. Print double-sided on A4, flipping on the long edge.</p>
+    <a class="course-link" href="https://stevencowell.github.io/Year-8-Crack-the-Code/" target="_blank" rel="noopener">Open the matching course <span aria-hidden="true">↗</span><span class="sr-only"> (opens in a new tab)</span></a>
+    <a class="course-link" href="../classroom-library/#crack-the-code">Google Classroom · teacher drafts <span aria-hidden="true">→</span></a>
+    
+  </div>
+</article>
+  </div>
+  <a class="back-to-subjects" href="#subject-navigation">Back to subjects <span aria-hidden="true">↑</span></a>
+</section>
+<section class="book-subject book-subject--graphics" id="subject-graphics" aria-labelledby="subject-graphics-title">
+  <header class="subject-heading">
+    <div><h2 id="subject-graphics-title">Graphics Technology</h2><p>Drawing, modelling and visual communication.</p></div>
+    <p class="subject-count" data-subject-count>2 books</p>
+  </header>
+  <div class="book-grid">
+<article class="book-card" id="year9-graphics" data-subject="Graphics Technology" data-search="year 9 graphics technology graphics technology stage 5 · year 9 course student workbook develop visual communication through drawing foundations, onshape product drawing, graphic modelling, prototyping and graphic design. selected original questions, whole activities, capstones and folio records. continue the remaining required course work online and follow current teacher-issued drawing tasks and templates." aria-labelledby="year9-graphics-title">
+  <div class="cover-panel">
+    <a class="cover-link" href="books/year9-graphics/year9-graphics-student-workbook.pdf?v=eab9d3f32962" target="_blank" rel="noopener" aria-label="Open Year 9 Graphics Technology student workbook PDF (opens in a new tab)"><img src="assets/year9-graphics-cover.webp?v=43572da0d0c8" width="701" height="991" alt="Year 9 Graphics Technology workbook cover" loading="lazy"></a>
+    <a class="preview-link" href="assets/year9-graphics-preview.webp?v=bc8f0ef9ed57" data-preview data-title="Year 9 Graphics Technology" data-pdf="books/year9-graphics/year9-graphics-student-workbook.pdf?v=eab9d3f32962">Look inside <span aria-hidden="true">↗</span></a>
+  </div>
+  <div class="book-copy">
+    <p class="book-meta">Stage 5 · Year 9 course · Graphics Technology · Student workbook</p>
+    <h3 id="year9-graphics-title"><a href="books/year9-graphics/year9-graphics-student-workbook.pdf?v=eab9d3f32962" target="_blank" rel="noopener">Year 9 Graphics Technology<span class="sr-only"> (opens in a new tab)</span></a></h3>
+    <p class="book-description">Develop visual communication through drawing foundations, Onshape product drawing, graphic modelling, prototyping and graphic design.</p>
+    <p class="book-includes">Selected original questions, whole activities, capstones and folio records. Continue the remaining required course work online and follow current teacher-issued drawing tasks and templates.</p>
+    <p class="book-facts"><span>50 pages</span><span>25 double-sided sheets</span><span>A4</span><span>Edition 1.0</span></p>
+    <div class="book-actions"><a class="button primary" href="books/year9-graphics/year9-graphics-student-workbook.pdf?v=eab9d3f32962" target="_blank" rel="noopener">Open workbook (PDF) <span aria-hidden="true">↗</span><span class="sr-only"> (opens in a new tab)</span></a><a class="button" href="books/year9-graphics/year9-graphics-student-workbook.pdf?v=eab9d3f32962" download="year9-graphics-student-workbook.pdf">Download PDF <span aria-hidden="true">↓</span></a><a class="button" href="books/year9-graphics/year9-graphics-student-workbook.docx?v=fba3008f0899" download>Download editable Word <span aria-hidden="true">↓</span></a></div>
+    <p class="download-note">PDF · 5.3 MB. Print double-sided on A4, flipping on the long edge.</p>
+    <a class="course-link" href="https://stevencowell.github.io/Year-9-Graphics-Technology/" target="_blank" rel="noopener">Open the matching course <span aria-hidden="true">↗</span><span class="sr-only"> (opens in a new tab)</span></a>
+    <a class="course-link" href="../classroom-library/#year9-graphics">Google Classroom · teacher review draft <span aria-hidden="true">→</span></a>
+    
+  </div>
+</article>
+<article class="book-card" id="year10-graphics" data-subject="Graphics Technology" data-search="year 10 graphics technology graphics technology stage 5 · year 10 course student workbook connect graphic design, architectural drawing, engineering communication and a student-negotiated project through illustrated course practice. original questions, whole activities, capstones and folio work with exact online continuation. current teacher-issued tasks, drawings, templates and licensed standards control requirements." aria-labelledby="year10-graphics-title">
+  <div class="cover-panel">
+    <a class="cover-link" href="books/year10-graphics/year10-graphics-student-workbook.pdf?v=d22de71ef61b" target="_blank" rel="noopener" aria-label="Open Year 10 Graphics Technology student workbook PDF (opens in a new tab)"><img src="assets/year10-graphics-cover.webp?v=e1702d2b09fc" width="701" height="991" alt="Year 10 Graphics Technology workbook cover" loading="lazy"></a>
+    <a class="preview-link" href="assets/year10-graphics-preview.webp?v=47b35fab0690" data-preview data-title="Year 10 Graphics Technology" data-pdf="books/year10-graphics/year10-graphics-student-workbook.pdf?v=d22de71ef61b">Look inside <span aria-hidden="true">↗</span></a>
+  </div>
+  <div class="book-copy">
+    <p class="book-meta">Stage 5 · Year 10 course · Graphics Technology · Student workbook</p>
+    <h3 id="year10-graphics-title"><a href="books/year10-graphics/year10-graphics-student-workbook.pdf?v=d22de71ef61b" target="_blank" rel="noopener">Year 10 Graphics Technology<span class="sr-only"> (opens in a new tab)</span></a></h3>
+    <p class="book-description">Connect graphic design, architectural drawing, engineering communication and a student-negotiated project through illustrated course practice.</p>
+    <p class="book-includes">Original questions, whole activities, capstones and folio work with exact online continuation. Current teacher-issued tasks, drawings, templates and licensed standards control requirements.</p>
+    <p class="book-facts"><span>50 pages</span><span>25 double-sided sheets</span><span>A4</span><span>Edition 1.0</span></p>
+    <div class="book-actions"><a class="button primary" href="books/year10-graphics/year10-graphics-student-workbook.pdf?v=d22de71ef61b" target="_blank" rel="noopener">Open workbook (PDF) <span aria-hidden="true">↗</span><span class="sr-only"> (opens in a new tab)</span></a><a class="button" href="books/year10-graphics/year10-graphics-student-workbook.pdf?v=d22de71ef61b" download="year10-graphics-student-workbook.pdf">Download PDF <span aria-hidden="true">↓</span></a><a class="button" href="books/year10-graphics/year10-graphics-student-workbook.docx?v=dd535c49a9cc" download>Download editable Word <span aria-hidden="true">↓</span></a></div>
+    <p class="download-note">PDF · 19.0 MB. Print double-sided on A4, flipping on the long edge.</p>
+    <a class="course-link" href="https://stevencowell.github.io/Year-10-Graphics-Technology/" target="_blank" rel="noopener">Open the matching course <span aria-hidden="true">↗</span><span class="sr-only"> (opens in a new tab)</span></a>
+    <a class="course-link" href="../classroom-library/#year10-graphics">Google Classroom · teacher review draft <span aria-hidden="true">→</span></a>
+    
+  </div>
+</article>
+  </div>
+  <a class="back-to-subjects" href="#subject-navigation">Back to subjects <span aria-hidden="true">↑</span></a>
+</section>
+<section class="book-subject book-subject--design-technology" id="subject-design-technology" aria-labelledby="subject-design-technology-title">
+  <header class="subject-heading">
+    <div><h2 id="subject-design-technology-title">Design and Technology</h2><p>Design thinking, project development and evidence.</p></div>
+    <p class="subject-count" data-subject-count>2 books</p>
+  </header>
+  <div class="book-grid">
+<article class="book-card" id="year11-design-technology" data-subject="Design and Technology" data-search="year 11 design and technology design and technology stage 6 · year 11 preliminary student workbook connect design foundations, research, communication, creativity, cad, materials, production, project management and evaluation. selected original questions, complete module applications and longer responses with linked course continuation. current teacher-issued assessment notices, practical approvals and formal folios remain authoritative." aria-labelledby="year11-design-technology-title">
+  <div class="cover-panel">
+    <a class="cover-link" href="books/year11-design-technology/year11-design-technology-student-workbook.pdf?v=9fbb6caa55b7" target="_blank" rel="noopener" aria-label="Open Year 11 Design and Technology student workbook PDF (opens in a new tab)"><img src="assets/year11-design-technology-cover.webp?v=40e839326edc" width="701" height="991" alt="Year 11 Design and Technology workbook cover" loading="lazy"></a>
+    <a class="preview-link" href="assets/year11-design-technology-preview.webp?v=7936bd1502b0" data-preview data-title="Year 11 Design and Technology" data-pdf="books/year11-design-technology/year11-design-technology-student-workbook.pdf?v=9fbb6caa55b7">Look inside <span aria-hidden="true">↗</span></a>
+  </div>
+  <div class="book-copy">
+    <p class="book-meta">Stage 6 · Year 11 Preliminary · Design and Technology · Student workbook</p>
+    <h3 id="year11-design-technology-title"><a href="books/year11-design-technology/year11-design-technology-student-workbook.pdf?v=9fbb6caa55b7" target="_blank" rel="noopener">Year 11 Design and Technology<span class="sr-only"> (opens in a new tab)</span></a></h3>
+    <p class="book-description">Connect design foundations, research, communication, creativity, CAD, materials, production, project management and evaluation.</p>
+    <p class="book-includes">Selected original questions, complete module applications and longer responses with linked course continuation. Current teacher-issued assessment notices, practical approvals and formal folios remain authoritative.</p>
+    <p class="book-facts"><span>50 pages</span><span>25 double-sided sheets</span><span>A4</span><span>Edition 1.0</span></p>
+    <div class="book-actions"><a class="button primary" href="books/year11-design-technology/year11-design-technology-student-workbook.pdf?v=9fbb6caa55b7" target="_blank" rel="noopener">Open workbook (PDF) <span aria-hidden="true">↗</span><span class="sr-only"> (opens in a new tab)</span></a><a class="button" href="books/year11-design-technology/year11-design-technology-student-workbook.pdf?v=9fbb6caa55b7" download="year11-design-technology-student-workbook.pdf">Download PDF <span aria-hidden="true">↓</span></a><a class="button" href="books/year11-design-technology/year11-design-technology-student-workbook.docx?v=3bc0099e11cd" download>Download editable Word <span aria-hidden="true">↓</span></a></div>
+    <p class="download-note">PDF · 24.2 MB. Print double-sided on A4, flipping on the long edge.</p>
+    <a class="course-link" href="https://stevencowell.github.io/Main-Page/Year-11-Design-and-Technology/" target="_blank" rel="noopener">Open the matching course <span aria-hidden="true">↗</span><span class="sr-only"> (opens in a new tab)</span></a>
+    <a class="course-link" href="../classroom-library/#year11-design-technology">Google Classroom · teacher review draft <span aria-hidden="true">→</span></a>
+    
+  </div>
+</article>
+<article class="book-card" id="year12-design-technology" data-subject="Design and Technology" data-search="year 12 hsc design and technology design and technology stage 6 · year 12 hsc student workbook explore innovation, design research, project management, concept development, prototyping, production, communication and evaluation. selected original checks and complete formative tasks with online continuation. current school and official instructions control the major design project, assessment, permitted assistance and authentication." aria-labelledby="year12-design-technology-title">
+  <div class="cover-panel">
+    <a class="cover-link" href="books/year12-design-technology/year12-design-technology-student-workbook.pdf?v=8fcea54fc1a9" target="_blank" rel="noopener" aria-label="Open Year 12 HSC Design and Technology student workbook PDF (opens in a new tab)"><img src="assets/year12-design-technology-cover.webp?v=b570e5c0fcb5" width="701" height="991" alt="Year 12 HSC Design and Technology workbook cover" loading="lazy"></a>
+    <a class="preview-link" href="assets/year12-design-technology-preview.webp?v=dc477bda3467" data-preview data-title="Year 12 HSC Design and Technology" data-pdf="books/year12-design-technology/year12-design-technology-student-workbook.pdf?v=8fcea54fc1a9">Look inside <span aria-hidden="true">↗</span></a>
+  </div>
+  <div class="book-copy">
+    <p class="book-meta">Stage 6 · Year 12 HSC · Design and Technology · Student workbook</p>
+    <h3 id="year12-design-technology-title"><a href="books/year12-design-technology/year12-design-technology-student-workbook.pdf?v=8fcea54fc1a9" target="_blank" rel="noopener">Year 12 HSC Design and Technology<span class="sr-only"> (opens in a new tab)</span></a></h3>
+    <p class="book-description">Explore innovation, design research, project management, concept development, prototyping, production, communication and evaluation.</p>
+    <p class="book-includes">Selected original checks and complete formative tasks with online continuation. Current school and official instructions control the Major Design Project, assessment, permitted assistance and authentication.</p>
+    <p class="book-facts"><span>50 pages</span><span>25 double-sided sheets</span><span>A4</span><span>Edition 1.0</span></p>
+    <div class="book-actions"><a class="button primary" href="books/year12-design-technology/year12-design-technology-student-workbook.pdf?v=8fcea54fc1a9" target="_blank" rel="noopener">Open workbook (PDF) <span aria-hidden="true">↗</span><span class="sr-only"> (opens in a new tab)</span></a><a class="button" href="books/year12-design-technology/year12-design-technology-student-workbook.pdf?v=8fcea54fc1a9" download="year12-design-technology-student-workbook.pdf">Download PDF <span aria-hidden="true">↓</span></a><a class="button" href="books/year12-design-technology/year12-design-technology-student-workbook.docx?v=4dee92d889b1" download>Download editable Word <span aria-hidden="true">↓</span></a></div>
+    <p class="download-note">PDF · 2.5 MB. Print double-sided on A4, flipping on the long edge.</p>
+    <a class="course-link" href="https://stevencowell.github.io/Year-12-Design-and-Technology/" target="_blank" rel="noopener">Open the matching course <span aria-hidden="true">↗</span><span class="sr-only"> (opens in a new tab)</span></a>
+    
+  </div>
+</article>
+  </div>
+  <a class="back-to-subjects" href="#subject-navigation">Back to subjects <span aria-hidden="true">↑</span></a>
+</section>
+<section class="book-subject book-subject--multimedia" id="subject-multimedia" aria-labelledby="subject-multimedia-title">
+  <header class="subject-heading">
+    <div><h2 id="subject-multimedia-title">Multimedia</h2><p>Visual identity, digital communication and media production.</p></div>
+    <p class="subject-count" data-subject-count>1 book</p>
+  </header>
+  <div class="book-grid">
+<article class="book-card" id="year7-multimedia" data-subject="Multimedia" data-search="multimedia fast food futures multimedia stage 4 supplementary course student workbook develop an original fast-food brand through visual language, logo systems, menu design, posters, brand applications, motion and a web portfolio. original application questions, design studios and eight folio stages. use teacher-approved accounts, sharing and submission arrangements for actual digital production." aria-labelledby="year7-multimedia-title">
+  <div class="cover-panel">
+    <a class="cover-link" href="books/year7-multimedia/year7-multimedia-student-workbook.pdf?v=53a7fd9f8790" target="_blank" rel="noopener" aria-label="Open Multimedia Fast Food Futures student workbook PDF (opens in a new tab)"><img src="assets/year7-multimedia-cover.webp?v=a249549d34ea" width="701" height="991" alt="Multimedia Fast Food Futures workbook cover" loading="lazy"></a>
+    <a class="preview-link" href="assets/year7-multimedia-preview.webp?v=08f9dd7816dc" data-preview data-title="Multimedia Fast Food Futures" data-pdf="books/year7-multimedia/year7-multimedia-student-workbook.pdf?v=53a7fd9f8790">Look inside <span aria-hidden="true">↗</span></a>
+  </div>
+  <div class="book-copy">
+    <p class="book-meta">Stage 4 supplementary course · Multimedia · Student workbook</p>
+    <h3 id="year7-multimedia-title"><a href="books/year7-multimedia/year7-multimedia-student-workbook.pdf?v=53a7fd9f8790" target="_blank" rel="noopener">Multimedia Fast Food Futures<span class="sr-only"> (opens in a new tab)</span></a></h3>
+    <p class="book-description">Develop an original fast-food brand through visual language, logo systems, menu design, posters, brand applications, motion and a web portfolio.</p>
+    <p class="book-includes">Original application questions, design studios and eight folio stages. Use teacher-approved accounts, sharing and submission arrangements for actual digital production.</p>
+    <p class="book-facts"><span>50 pages</span><span>25 double-sided sheets</span><span>A4</span><span>Edition 1.0</span></p>
+    <div class="book-actions"><a class="button primary" href="books/year7-multimedia/year7-multimedia-student-workbook.pdf?v=53a7fd9f8790" target="_blank" rel="noopener">Open workbook (PDF) <span aria-hidden="true">↗</span><span class="sr-only"> (opens in a new tab)</span></a><a class="button" href="books/year7-multimedia/year7-multimedia-student-workbook.pdf?v=53a7fd9f8790" download="year7-multimedia-student-workbook.pdf">Download PDF <span aria-hidden="true">↓</span></a><a class="button" href="books/year7-multimedia/year7-multimedia-student-workbook.docx?v=f781b1e69bd1" download>Download editable Word <span aria-hidden="true">↓</span></a></div>
+    <p class="download-note">PDF · 7.9 MB. Print double-sided on A4, flipping on the long edge.</p>
+    <a class="course-link" href="https://stevencowell.github.io/Year-7-Multimedia/" target="_blank" rel="noopener">Open the matching course <span aria-hidden="true">↗</span><span class="sr-only"> (opens in a new tab)</span></a>
+    
+  </div>
+</article>
+  </div>
+  <a class="back-to-subjects" href="#subject-navigation">Back to subjects <span aria-hidden="true">↑</span></a>
+</section>
+<section class="book-subject book-subject--food" id="subject-food" aria-labelledby="subject-food-title">
+  <header class="subject-heading">
+    <div><h2 id="subject-food-title">Food Technology</h2><p>Food choices, cultures, practical skills and service.</p></div>
+    <p class="subject-count" data-subject-count>7 books</p>
+  </header>
+  <div class="book-grid">
 <article class="book-card" id="year-10-food-technology" data-subject="Food Technology" data-search="year 10 food technology food technology stage 5 student workbook explore food equity, food trends, special occasions and food service through four year 10 modules. read, question evidence and record your thinking alongside the guided course. illustrated readings, food-system examples, practical thinking prompts and space for written responses. the 50-page pdf is ready for double-sided a4 printing." aria-labelledby="year-10-food-technology-title">
   <div class="cover-panel">
     <a class="cover-link" href="../Year-10-Food-Technology/assets/workbook/Year-10-Food-Technology-Student-Workbook-50-pages.pdf?v=b6c999768d43" target="_blank" rel="noopener" aria-label="Open Year 10 Food Technology student workbook PDF (opens in a new tab)"><img src="assets/year-10-food-technology-cover.jpg?v=a1f20be1dd13" width="701" height="991" alt="Year 10 Food Technology workbook cover" loading="lazy"></a>
@@ -531,184 +713,31 @@
     <details class="teacher-resources"><summary>Teacher resources</summary><div class="teacher-resource-links"><a href="books/food-in-australia/food-in-australia-teacher-guide.pdf?v=922928faab7f" target="_blank" rel="noopener">Teacher guide and answers (PDF)<span class="sr-only"> (opens in a new tab)</span></a></div></details>
   </div>
 </article>
-<article class="book-card" id="farm-in-a-box" data-subject="Food and agricultural practices" data-search="farm in a box food and agricultural practices stage 4 student workbook design, establish and improve a compact crop-production system. follow ten agriculture-led modules from plant needs and resource choices to field evidence, harvest and evaluation. thirty illustrated readings, source knowledge checks, crop investigations, drawing and graph tasks, a weighted design comparison and project folio evidence. includes a separate 14-page teacher guide with answers." aria-labelledby="farm-in-a-box-title">
+  </div>
+  <a class="back-to-subjects" href="#subject-navigation">Back to subjects <span aria-hidden="true">↑</span></a>
+</section>
+<section class="book-subject book-subject--textiles" id="subject-textiles" aria-labelledby="subject-textiles-title">
+  <header class="subject-heading">
+    <div><h2 id="subject-textiles-title">Textiles</h2><p>Textile design, materials, techniques and project work.</p></div>
+    <p class="subject-count" data-subject-count>7 books</p>
+  </header>
+  <div class="book-grid">
+<article class="book-card" id="bucket-hat" data-subject="Textiles" data-search="bucket hat for a cause textiles stage 4 student workbook design a reversible bucket hat that communicates a respectful cause. explore textiles, develop original ideas, trial decorative techniques and record the making and evaluation of your own hat. ten course modules, 19 captioned figures, 105 tasks and a complete project folio. printable pdf, editable word workbook and a 19-page teacher guide with answers. use the teacher-issued pattern for construction." aria-labelledby="bucket-hat-title">
   <div class="cover-panel">
-    <a class="cover-link" href="books/farm-in-a-box/farm-in-a-box-student-workbook.pdf?v=311025d289a2" target="_blank" rel="noopener" aria-label="Open Farm in a Box student workbook PDF (opens in a new tab)"><img src="assets/farm-in-a-box-cover.webp?v=09349a8b9a67" width="701" height="991" alt="Farm in a Box workbook cover" loading="lazy"></a>
-    <a class="preview-link" href="assets/farm-in-a-box-preview.webp?v=9f278e289698" data-preview data-title="Farm in a Box" data-pdf="books/farm-in-a-box/farm-in-a-box-student-workbook.pdf?v=311025d289a2">Look inside <span aria-hidden="true">↗</span></a>
+    <a class="cover-link" href="books/bucket-hat/bucket-hat-student-workbook.pdf?v=da77c35cad05" target="_blank" rel="noopener" aria-label="Open Bucket Hat for a Cause student workbook PDF (opens in a new tab)"><img src="assets/bucket-hat-cover.webp?v=ee7ac65f0ec3" width="701" height="991" alt="Bucket Hat for a Cause workbook cover" loading="lazy"></a>
+    <a class="preview-link" href="assets/bucket-hat-preview.webp?v=a98a925eecc2" data-preview data-title="Bucket Hat for a Cause" data-pdf="books/bucket-hat/bucket-hat-student-workbook.pdf?v=da77c35cad05">Look inside <span aria-hidden="true">↗</span></a>
   </div>
   <div class="book-copy">
-    <p class="book-meta">Stage 4 · Food and agricultural practices · Student workbook</p>
-    <h3 id="farm-in-a-box-title"><a href="books/farm-in-a-box/farm-in-a-box-student-workbook.pdf?v=311025d289a2" target="_blank" rel="noopener">Farm in a Box<span class="sr-only"> (opens in a new tab)</span></a></h3>
-    <p class="book-description">Design, establish and improve a compact crop-production system. Follow ten agriculture-led modules from plant needs and resource choices to field evidence, harvest and evaluation.</p>
-    <p class="book-includes">Thirty illustrated readings, source knowledge checks, crop investigations, drawing and graph tasks, a weighted design comparison and project folio evidence. Includes a separate 14-page teacher guide with answers.</p>
+    <p class="book-meta">Stage 4 · Textiles · Student workbook</p>
+    <h3 id="bucket-hat-title"><a href="books/bucket-hat/bucket-hat-student-workbook.pdf?v=da77c35cad05" target="_blank" rel="noopener">Bucket Hat for a Cause<span class="sr-only"> (opens in a new tab)</span></a></h3>
+    <p class="book-description">Design a reversible bucket hat that communicates a respectful cause. Explore textiles, develop original ideas, trial decorative techniques and record the making and evaluation of your own hat.</p>
+    <p class="book-includes">Ten course modules, 19 captioned figures, 105 tasks and a complete project folio. Printable PDF, editable Word workbook and a 19-page teacher guide with answers. Use the teacher-issued pattern for construction.</p>
     <p class="book-facts"><span>50 pages</span><span>25 double-sided sheets</span><span>A4</span><span>Edition 1.0</span></p>
-    <div class="book-actions"><a class="button primary" href="books/farm-in-a-box/farm-in-a-box-student-workbook.pdf?v=311025d289a2" target="_blank" rel="noopener">Open workbook (PDF) <span aria-hidden="true">↗</span><span class="sr-only"> (opens in a new tab)</span></a><a class="button" href="books/farm-in-a-box/farm-in-a-box-student-workbook.pdf?v=311025d289a2" download="farm-in-a-box-student-workbook.pdf">Download PDF <span aria-hidden="true">↓</span></a></div>
-    <p class="download-note">PDF · 7.0 MB. Print double-sided on A4, flipping on the long edge.</p>
-    <a class="course-link" href="https://stevencowell.github.io/Stage-4-Farm-in-a-Box/" target="_blank" rel="noopener">Open the matching course <span aria-hidden="true">↗</span><span class="sr-only"> (opens in a new tab)</span></a>
-    <a class="course-link" href="../classroom-library/#farm-in-a-box">Google Classroom · check availability <span aria-hidden="true">→</span></a>
-    <details class="teacher-resources"><summary>Teacher resources</summary><div class="teacher-resource-links"><a href="books/farm-in-a-box/farm-in-a-box-teacher-guide.pdf?v=446de3edf648" target="_blank" rel="noopener">Teacher guide and answers (PDF)<span class="sr-only"> (opens in a new tab)</span></a></div></details>
-  </div>
-</article>
-<article class="book-card" id="year8-agriculture" data-subject="Agriculture Technology" data-search="year 8 agriculture agriculture technology year 8 · stage 4 student textbook and workbook explore food, fibre and agricultural production through the separate year 8 agriculture elective. use evidence to explain systems, technologies, labels and management decisions. all 11 modules and 33 theory sections, 33 selected knowledge checks, 33 written responses, 11 applied activities and three synthesis folio pages. the complete question bank and course folio remain online." aria-labelledby="year8-agriculture-title">
-  <div class="cover-panel">
-    <a class="cover-link" href="books/year8-agriculture/year8-agriculture-student-workbook.pdf?v=bf141a6a4766" target="_blank" rel="noopener" aria-label="Open Year 8 Agriculture student workbook PDF (opens in a new tab)"><img src="assets/year8-agriculture-cover.webp?v=36fe94cdd33a" width="701" height="991" alt="Year 8 Agriculture workbook cover" loading="lazy"></a>
-    <a class="preview-link" href="assets/year8-agriculture-preview.webp?v=069884c659bd" data-preview data-title="Year 8 Agriculture" data-pdf="books/year8-agriculture/year8-agriculture-student-workbook.pdf?v=bf141a6a4766">Look inside <span aria-hidden="true">↗</span></a>
-  </div>
-  <div class="book-copy">
-    <p class="book-meta">Year 8 · Stage 4 · Agriculture Technology · Student textbook and workbook</p>
-    <h3 id="year8-agriculture-title"><a href="books/year8-agriculture/year8-agriculture-student-workbook.pdf?v=bf141a6a4766" target="_blank" rel="noopener">Year 8 Agriculture<span class="sr-only"> (opens in a new tab)</span></a></h3>
-    <p class="book-description">Explore food, fibre and agricultural production through the separate Year 8 Agriculture elective. Use evidence to explain systems, technologies, labels and management decisions.</p>
-    <p class="book-includes">All 11 modules and 33 theory sections, 33 selected knowledge checks, 33 written responses, 11 applied activities and three synthesis folio pages. The complete question bank and course folio remain online.</p>
-    <p class="book-facts"><span>50 pages</span><span>25 double-sided sheets</span><span>A4</span><span>Edition 1.0</span></p>
-    <div class="book-actions"><a class="button primary" href="books/year8-agriculture/year8-agriculture-student-workbook.pdf?v=bf141a6a4766" target="_blank" rel="noopener">Open workbook (PDF) <span aria-hidden="true">↗</span><span class="sr-only"> (opens in a new tab)</span></a><a class="button" href="books/year8-agriculture/year8-agriculture-student-workbook.pdf?v=bf141a6a4766" download="year8-agriculture-student-workbook.pdf">Download PDF <span aria-hidden="true">↓</span></a></div>
-    <p class="download-note">PDF · 21.3 MB. Print double-sided on A4, flipping on the long edge.</p>
-    <a class="course-link" href="https://stevencowell.github.io/Year-8-Agriculture-Guided-Course/" target="_blank" rel="noopener">Open the matching course <span aria-hidden="true">↗</span><span class="sr-only"> (opens in a new tab)</span></a>
-    <a class="course-link" href="../classroom-library/#year8-agriculture">Google Classroom · check availability <span aria-hidden="true">→</span></a>
-  </div>
-</article>
-<article class="book-card" id="year9-agriculture" data-subject="Agriculture Technology" data-search="year 9 agriculture agriculture technology stage 5 student textbook and workbook explore agricultural systems, vegetable production, beef and poultry in the guided course order. explain connections and record evidence from teacher-directed observations and investigations. all 19 modules and 57 condensed readings, all 57 written responses, 25 selected knowledge checks, practical folio pages and worked applications. includes a 25-page teacher guide. the full 570-question bank remains online." aria-labelledby="year9-agriculture-title">
-  <div class="cover-panel">
-    <a class="cover-link" href="books/year9-agriculture/year9-agriculture-student-workbook.pdf?v=e9026dc6fa3a" target="_blank" rel="noopener" aria-label="Open Year 9 Agriculture student workbook PDF (opens in a new tab)"><img src="assets/year9-agriculture-cover.webp?v=daaab4e2abf0" width="701" height="991" alt="Year 9 Agriculture workbook cover" loading="lazy"></a>
-    <a class="preview-link" href="assets/year9-agriculture-preview.webp?v=dfce9cccd88f" data-preview data-title="Year 9 Agriculture" data-pdf="books/year9-agriculture/year9-agriculture-student-workbook.pdf?v=e9026dc6fa3a">Look inside <span aria-hidden="true">↗</span></a>
-  </div>
-  <div class="book-copy">
-    <p class="book-meta">Stage 5 · Agriculture Technology · Student textbook and workbook</p>
-    <h3 id="year9-agriculture-title"><a href="books/year9-agriculture/year9-agriculture-student-workbook.pdf?v=e9026dc6fa3a" target="_blank" rel="noopener">Year 9 Agriculture<span class="sr-only"> (opens in a new tab)</span></a></h3>
-    <p class="book-description">Explore agricultural systems, vegetable production, beef and poultry in the guided course order. Explain connections and record evidence from teacher-directed observations and investigations.</p>
-    <p class="book-includes">All 19 modules and 57 condensed readings, all 57 written responses, 25 selected knowledge checks, practical folio pages and worked applications. Includes a 25-page teacher guide. The full 570-question bank remains online.</p>
-    <p class="book-facts"><span>50 pages</span><span>25 double-sided sheets</span><span>A4</span><span>Edition 1.0</span></p>
-    <div class="book-actions"><a class="button primary" href="books/year9-agriculture/year9-agriculture-student-workbook.pdf?v=e9026dc6fa3a" target="_blank" rel="noopener">Open workbook (PDF) <span aria-hidden="true">↗</span><span class="sr-only"> (opens in a new tab)</span></a><a class="button" href="books/year9-agriculture/year9-agriculture-student-workbook.pdf?v=e9026dc6fa3a" download="year9-agriculture-student-workbook.pdf">Download PDF <span aria-hidden="true">↓</span></a></div>
-    <p class="download-note">PDF · 2.4 MB. Print double-sided on A4, flipping on the long edge.</p>
-    <a class="course-link" href="https://stevencowell.github.io/Year-9-Agriculture-Guided-Course/" target="_blank" rel="noopener">Open the matching course <span aria-hidden="true">↗</span><span class="sr-only"> (opens in a new tab)</span></a>
-    <a class="course-link" href="../classroom-library/#year9-agriculture">Google Classroom · check availability <span aria-hidden="true">→</span></a>
-    <details class="teacher-resources"><summary>Teacher resources</summary><div class="teacher-resource-links"><a href="books/year9-agriculture/year9-agriculture-teacher-guide.pdf?v=ca2289030153" target="_blank" rel="noopener">Teacher guide and answers (PDF)<span class="sr-only"> (opens in a new tab)</span></a></div></details>
-  </div>
-</article>
-<article class="book-card" id="year10-agriculture" data-subject="Agriculture Technology" data-search="year 10 agriculture agriculture technology stage 5 student textbook and workbook follow agricultural systems and management, pastures and cropping, prime lamb production and dairy farming in the current guided-course order. explain relationships and record source-grounded learning evidence. all 20 modules and 60 condensed readings, 60 selected source written tasks, 24 knowledge checks and eight application/folio pages. the full 102-task and 600-question banks remain online." aria-labelledby="year10-agriculture-title">
-  <div class="cover-panel">
-    <a class="cover-link" href="books/year10-agriculture/year10-agriculture-student-workbook.pdf?v=c212ad086db3" target="_blank" rel="noopener" aria-label="Open Year 10 Agriculture student workbook PDF (opens in a new tab)"><img src="assets/year10-agriculture-cover.webp?v=cc1ccfa9ff84" width="701" height="991" alt="Year 10 Agriculture workbook cover" loading="lazy"></a>
-    <a class="preview-link" href="assets/year10-agriculture-preview.webp?v=42c2f4f359b4" data-preview data-title="Year 10 Agriculture" data-pdf="books/year10-agriculture/year10-agriculture-student-workbook.pdf?v=c212ad086db3">Look inside <span aria-hidden="true">↗</span></a>
-  </div>
-  <div class="book-copy">
-    <p class="book-meta">Stage 5 · Agriculture Technology · Student textbook and workbook</p>
-    <h3 id="year10-agriculture-title"><a href="books/year10-agriculture/year10-agriculture-student-workbook.pdf?v=c212ad086db3" target="_blank" rel="noopener">Year 10 Agriculture<span class="sr-only"> (opens in a new tab)</span></a></h3>
-    <p class="book-description">Follow agricultural systems and management, pastures and cropping, prime lamb production and dairy farming in the current guided-course order. Explain relationships and record source-grounded learning evidence.</p>
-    <p class="book-includes">All 20 modules and 60 condensed readings, 60 selected source written tasks, 24 knowledge checks and eight application/folio pages. The full 102-task and 600-question banks remain online.</p>
-    <p class="book-facts"><span>50 pages</span><span>25 double-sided sheets</span><span>A4</span><span>Edition 1.0</span></p>
-    <div class="book-actions"><a class="button primary" href="books/year10-agriculture/year10-agriculture-student-workbook.pdf?v=c212ad086db3" target="_blank" rel="noopener">Open workbook (PDF) <span aria-hidden="true">↗</span><span class="sr-only"> (opens in a new tab)</span></a><a class="button" href="books/year10-agriculture/year10-agriculture-student-workbook.pdf?v=c212ad086db3" download="year10-agriculture-student-workbook.pdf">Download PDF <span aria-hidden="true">↓</span></a></div>
-    <p class="download-note">PDF · 2.2 MB. Print double-sided on A4, flipping on the long edge.</p>
-    <a class="course-link" href="https://stevencowell.github.io/Year-10-Agriculture-Guided-Course/" target="_blank" rel="noopener">Open the matching course <span aria-hidden="true">↗</span><span class="sr-only"> (opens in a new tab)</span></a>
-    <a class="course-link" href="../classroom-library/#year10-agriculture">Google Classroom · check availability <span aria-hidden="true">→</span></a>
-  </div>
-</article>
-<article class="book-card" id="work-studies" data-subject="Work Studies" data-search="years 11–12 work studies work studies stage 6 student textbook and workbook explore working life, applications, communication, enterprise, commitments, finance, workplace issues and experience in the current two-year course order. use evidence to test choices and record learning. all 11 modules and 33 condensed readings, 33 source extended-response starts, 33 adapted applied tasks, 11 exact knowledge checks and four paper labs. full online banks remain available." aria-labelledby="work-studies-title">
-  <div class="cover-panel">
-    <a class="cover-link" href="books/work-studies/work-studies-student-workbook.pdf?v=c21bf2417ca5" target="_blank" rel="noopener" aria-label="Open Years 11–12 Work Studies student workbook PDF (opens in a new tab)"><img src="assets/work-studies-cover.webp?v=fe783d66ca3e" width="701" height="991" alt="Years 11–12 Work Studies workbook cover" loading="lazy"></a>
-    <a class="preview-link" href="assets/work-studies-preview.webp?v=d4429976e7e8" data-preview data-title="Years 11–12 Work Studies" data-pdf="books/work-studies/work-studies-student-workbook.pdf?v=c21bf2417ca5">Look inside <span aria-hidden="true">↗</span></a>
-  </div>
-  <div class="book-copy">
-    <p class="book-meta">Stage 6 · Work Studies · Student textbook and workbook</p>
-    <h3 id="work-studies-title"><a href="books/work-studies/work-studies-student-workbook.pdf?v=c21bf2417ca5" target="_blank" rel="noopener">Years 11–12 Work Studies<span class="sr-only"> (opens in a new tab)</span></a></h3>
-    <p class="book-description">Explore working life, applications, communication, enterprise, commitments, finance, workplace issues and experience in the current two-year course order. Use evidence to test choices and record learning.</p>
-    <p class="book-includes">All 11 modules and 33 condensed readings, 33 source extended-response starts, 33 adapted applied tasks, 11 exact knowledge checks and four paper labs. Full online banks remain available.</p>
-    <p class="book-facts"><span>50 pages</span><span>25 double-sided sheets</span><span>A4</span><span>Edition 1.0</span></p>
-    <div class="book-actions"><a class="button primary" href="books/work-studies/work-studies-student-workbook.pdf?v=c21bf2417ca5" target="_blank" rel="noopener">Open workbook (PDF) <span aria-hidden="true">↗</span><span class="sr-only"> (opens in a new tab)</span></a><a class="button" href="books/work-studies/work-studies-student-workbook.pdf?v=c21bf2417ca5" download="work-studies-student-workbook.pdf">Download PDF <span aria-hidden="true">↓</span></a></div>
-    <p class="download-note">PDF · 1.6 MB. Print double-sided on A4, flipping on the long edge.</p>
-    <a class="course-link" href="https://stevencowell.github.io/Year-11-12-Work-Studies/" target="_blank" rel="noopener">Open the matching course <span aria-hidden="true">↗</span><span class="sr-only"> (opens in a new tab)</span></a>
-    <a class="course-link" href="../classroom-library/#work-studies">Google Classroom · check availability <span aria-hidden="true">→</span></a>
-  </div>
-</article>
-<article class="book-card" id="garden-watering-system" data-subject="Engineering" data-search="garden watering system engineering year 10 · semester 1 student workbook explain and design a water control system. connect research, safety, input and output choices, control logic and measured prototype evidence. illustrated theory, source questions, control-system checks, design planning, subsystem trials and a guided engineering folio." aria-labelledby="garden-watering-system-title">
-  <div class="cover-panel">
-    <a class="cover-link" href="books/garden-watering-system/garden-watering-system-student-workbook.pdf?v=998bb1cdf865" target="_blank" rel="noopener" aria-label="Open Garden Watering System student workbook PDF (opens in a new tab)"><img src="assets/garden-watering-system-cover.webp?v=ce5e206f54e8" width="701" height="991" alt="Garden Watering System workbook cover" loading="lazy"></a>
-    <a class="preview-link" href="assets/garden-watering-system-preview.webp?v=d5f90764094c" data-preview data-title="Garden Watering System" data-pdf="books/garden-watering-system/garden-watering-system-student-workbook.pdf?v=998bb1cdf865">Look inside <span aria-hidden="true">↗</span></a>
-  </div>
-  <div class="book-copy">
-    <p class="book-meta">Year 10 · Semester 1 · Engineering · Student workbook</p>
-    <h3 id="garden-watering-system-title"><a href="books/garden-watering-system/garden-watering-system-student-workbook.pdf?v=998bb1cdf865" target="_blank" rel="noopener">Garden Watering System<span class="sr-only"> (opens in a new tab)</span></a></h3>
-    <p class="book-description">Explain and design a water control system. Connect research, safety, input and output choices, control logic and measured prototype evidence.</p>
-    <p class="book-includes">Illustrated theory, source questions, control-system checks, design planning, subsystem trials and a guided engineering folio.</p>
-    <p class="book-facts"><span>50 pages</span><span>25 double-sided sheets</span><span>A4</span><span>Edition 2026</span></p>
-    <div class="book-actions"><a class="button primary" href="books/garden-watering-system/garden-watering-system-student-workbook.pdf?v=998bb1cdf865" target="_blank" rel="noopener">Open workbook (PDF) <span aria-hidden="true">↗</span><span class="sr-only"> (opens in a new tab)</span></a><a class="button" href="books/garden-watering-system/garden-watering-system-student-workbook.pdf?v=998bb1cdf865" download="garden-watering-system-student-workbook.pdf">Download PDF <span aria-hidden="true">↓</span></a><a class="button" href="books/garden-watering-system/garden-watering-system-student-workbook.docx?v=cd45c204b865" download>Download editable Word <span aria-hidden="true">↓</span></a></div>
-    <p class="download-note">PDF · 1.3 MB. Print double-sided on A4, flipping on the long edge.</p>
-    <a class="course-link" href="https://stevencowell.github.io/Engineering-Website/year10_term1.html" target="_blank" rel="noopener">Open the matching course <span aria-hidden="true">↗</span><span class="sr-only"> (opens in a new tab)</span></a>
-    <a class="course-link" href="../classroom-library/#garden-watering-system">Google Classroom · check availability <span aria-hidden="true">→</span></a>
-
-  </div>
-</article>
-<article class="book-card" id="wind-powered-usb-charger" data-subject="Engineering" data-search="wind powered usb phone charger engineering year 10 · semester 2 student workbook investigate renewable energy and wind generation. compare mechanical concepts, plan the prototype and use evidence to judge its electrical output. illustrated energy research, drive comparisons, selected original checks with online continuation, design and drawing tasks, electrical checks and test records. use the confirmed school equipment and teacher-approved testing arrangements." aria-labelledby="wind-powered-usb-charger-title">
-  <div class="cover-panel">
-    <a class="cover-link" href="books/wind-powered-usb-charger/revisions/50-page-20261006/wind-powered-usb-charger-student-workbook.pdf?v=77c1ede7cb2f" target="_blank" rel="noopener" aria-label="Open Wind Powered USB Phone Charger student workbook PDF (opens in a new tab)"><img src="assets/wind-powered-usb-charger-50-page-20261006-cover.webp?v=fe92816c1212" width="701" height="991" alt="Wind Powered USB Phone Charger workbook cover" loading="lazy"></a>
-    <a class="preview-link" href="assets/wind-powered-usb-charger-50-page-20261006-preview.webp?v=4e069b2950a8" data-preview data-title="Wind Powered USB Phone Charger" data-pdf="books/wind-powered-usb-charger/revisions/50-page-20261006/wind-powered-usb-charger-student-workbook.pdf?v=77c1ede7cb2f">Look inside <span aria-hidden="true">↗</span></a>
-  </div>
-  <div class="book-copy">
-    <p class="book-meta">Year 10 · Semester 2 · Engineering · Student workbook</p>
-    <h3 id="wind-powered-usb-charger-title"><a href="books/wind-powered-usb-charger/revisions/50-page-20261006/wind-powered-usb-charger-student-workbook.pdf?v=77c1ede7cb2f" target="_blank" rel="noopener">Wind Powered USB Phone Charger<span class="sr-only"> (opens in a new tab)</span></a></h3>
-    <p class="book-description">Investigate renewable energy and wind generation. Compare mechanical concepts, plan the prototype and use evidence to judge its electrical output.</p>
-    <p class="book-includes">Illustrated energy research, drive comparisons, selected original checks with online continuation, design and drawing tasks, electrical checks and test records. Use the confirmed school equipment and teacher-approved testing arrangements.</p>
-    <p class="book-facts"><span>50 pages</span><span>25 double-sided sheets</span><span>A4</span><span>50-page revision</span></p>
-    <div class="book-actions"><a class="button primary" href="books/wind-powered-usb-charger/revisions/50-page-20261006/wind-powered-usb-charger-student-workbook.pdf?v=77c1ede7cb2f" target="_blank" rel="noopener">Open workbook (PDF) <span aria-hidden="true">↗</span><span class="sr-only"> (opens in a new tab)</span></a><a class="button" href="books/wind-powered-usb-charger/revisions/50-page-20261006/wind-powered-usb-charger-student-workbook.pdf?v=77c1ede7cb2f" download="wind-powered-usb-charger-student-workbook.pdf">Download PDF <span aria-hidden="true">↓</span></a><a class="button" href="books/wind-powered-usb-charger/revisions/50-page-20261006/wind-powered-usb-charger-student-workbook.docx?v=b08af71112a4" download>Download editable Word <span aria-hidden="true">↓</span></a></div>
-    <p class="download-note">PDF · 1.5 MB. Print double-sided on A4, flipping on the long edge.</p>
-    <a class="course-link" href="https://stevencowell.github.io/Engineering-Website/year10_term2.html" target="_blank" rel="noopener">Open the matching course <span aria-hidden="true">↗</span><span class="sr-only"> (opens in a new tab)</span></a>
-    <details class="teacher-resources previous-edition"><summary>Previous edition 2026 · 70 pages</summary><div class="teacher-resource-links"><p>Use this edition when your teacher or an existing Classroom reading refers to its page numbers.</p><a href="books/wind-powered-usb-charger/wind-powered-usb-charger-student-workbook.pdf?v=3a3ab19de8ae" target="_blank" rel="noopener">Previous student workbook (PDF)<span class="sr-only"> (opens in a new tab)</span></a><a href="books/wind-powered-usb-charger/wind-powered-usb-charger-student-workbook.docx?v=b77517f08af6" download>Previous editable workbook (Word)</a></div></details>
-    
-  </div>
-</article>
-<article class="book-card" id="hydraulic-digger" data-subject="Engineering" data-search="hydraulic digger engineering year 9 · term 3 student workbook explore fluid power and mechanisms, develop digger concepts, plan making and explain measured tests through a guided engineering folio. illustrated fluid-power theory, worked examples, selected original checks with online continuation, original drawing sheets and guided design, build, test and folio evidence. use teacher-approved dimensions, equipment and loads." aria-labelledby="hydraulic-digger-title">
-  <div class="cover-panel">
-    <a class="cover-link" href="books/hydraulic-digger/revisions/50-page-20261006/hydraulic-digger-student-workbook.pdf?v=ac0d6c72ea6d" target="_blank" rel="noopener" aria-label="Open Hydraulic Digger student workbook PDF (opens in a new tab)"><img src="assets/hydraulic-digger-50-page-20261006-cover.webp?v=453f61a40595" width="701" height="991" alt="Hydraulic Digger workbook cover" loading="lazy"></a>
-    <a class="preview-link" href="assets/hydraulic-digger-50-page-20261006-preview.webp?v=8a40dfe08dd9" data-preview data-title="Hydraulic Digger" data-pdf="books/hydraulic-digger/revisions/50-page-20261006/hydraulic-digger-student-workbook.pdf?v=ac0d6c72ea6d">Look inside <span aria-hidden="true">↗</span></a>
-  </div>
-  <div class="book-copy">
-    <p class="book-meta">Year 9 · Term 3 · Engineering · Student workbook</p>
-    <h3 id="hydraulic-digger-title"><a href="books/hydraulic-digger/revisions/50-page-20261006/hydraulic-digger-student-workbook.pdf?v=ac0d6c72ea6d" target="_blank" rel="noopener">Hydraulic Digger<span class="sr-only"> (opens in a new tab)</span></a></h3>
-    <p class="book-description">Explore fluid power and mechanisms, develop digger concepts, plan making and explain measured tests through a guided engineering folio.</p>
-    <p class="book-includes">Illustrated fluid-power theory, worked examples, selected original checks with online continuation, original drawing sheets and guided design, build, test and folio evidence. Use teacher-approved dimensions, equipment and loads.</p>
-    <p class="book-facts"><span>50 pages</span><span>25 double-sided sheets</span><span>A4</span><span>50-page revision</span></p>
-    <div class="book-actions"><a class="button primary" href="books/hydraulic-digger/revisions/50-page-20261006/hydraulic-digger-student-workbook.pdf?v=ac0d6c72ea6d" target="_blank" rel="noopener">Open workbook (PDF) <span aria-hidden="true">↗</span><span class="sr-only"> (opens in a new tab)</span></a><a class="button" href="books/hydraulic-digger/revisions/50-page-20261006/hydraulic-digger-student-workbook.pdf?v=ac0d6c72ea6d" download="hydraulic-digger-student-workbook.pdf">Download PDF <span aria-hidden="true">↓</span></a><a class="button" href="books/hydraulic-digger/revisions/50-page-20261006/hydraulic-digger-student-workbook.docx?v=d64e63d0db91" download>Download editable Word <span aria-hidden="true">↓</span></a></div>
-    <p class="download-note">PDF · 2.0 MB. Print double-sided on A4, flipping on the long edge.</p>
-    <a class="course-link" href="https://stevencowell.github.io/Engineering-Website/year9_term3.html" target="_blank" rel="noopener">Open the matching course <span aria-hidden="true">↗</span><span class="sr-only"> (opens in a new tab)</span></a>
-    <a class="course-link" href="../classroom-library/#hydraulic-digger">Google Classroom · check availability <span aria-hidden="true">→</span></a>
-    <details class="teacher-resources previous-edition"><summary>Previous edition 2026 · 81 pages</summary><div class="teacher-resource-links"><p>Use this edition when your teacher or an existing Classroom reading refers to its page numbers.</p><a href="books/hydraulic-digger/hydraulic-digger-student-workbook.pdf?v=094500c9bb28" target="_blank" rel="noopener">Previous student workbook (PDF)<span class="sr-only"> (opens in a new tab)</span></a><a href="books/hydraulic-digger/hydraulic-digger-student-workbook.docx?v=4958bb5ab074" download>Previous editable workbook (Word)</a></div></details>
-    
-  </div>
-</article>
-<article class="book-card" id="geared-lolly-dispenser" data-subject="Engineering" data-search="geared lolly dispenser engineering year 9 · term 4 student workbook investigate gear trains, cams and one-way mechanisms. develop a dispenser concept, organise cad and manufacturing evidence, then test repeatability. illustrated mechanism teaching, gear-ratio calculations, selected original checks with online continuation, cad planning, reliability testing and project evidence. use teacher-approved dimensions, safety and food-contact arrangements." aria-labelledby="geared-lolly-dispenser-title">
-  <div class="cover-panel">
-    <a class="cover-link" href="books/geared-lolly-dispenser/revisions/50-page-20261006/geared-lolly-dispenser-student-workbook.pdf?v=8f7a03a77078" target="_blank" rel="noopener" aria-label="Open Geared Lolly Dispenser student workbook PDF (opens in a new tab)"><img src="assets/geared-lolly-dispenser-50-page-20261006-cover.webp?v=1df826f6919e" width="701" height="991" alt="Geared Lolly Dispenser workbook cover" loading="lazy"></a>
-    <a class="preview-link" href="assets/geared-lolly-dispenser-50-page-20261006-preview.webp?v=36f1395f5305" data-preview data-title="Geared Lolly Dispenser" data-pdf="books/geared-lolly-dispenser/revisions/50-page-20261006/geared-lolly-dispenser-student-workbook.pdf?v=8f7a03a77078">Look inside <span aria-hidden="true">↗</span></a>
-  </div>
-  <div class="book-copy">
-    <p class="book-meta">Year 9 · Term 4 · Engineering · Student workbook</p>
-    <h3 id="geared-lolly-dispenser-title"><a href="books/geared-lolly-dispenser/revisions/50-page-20261006/geared-lolly-dispenser-student-workbook.pdf?v=8f7a03a77078" target="_blank" rel="noopener">Geared Lolly Dispenser<span class="sr-only"> (opens in a new tab)</span></a></h3>
-    <p class="book-description">Investigate gear trains, cams and one-way mechanisms. Develop a dispenser concept, organise CAD and manufacturing evidence, then test repeatability.</p>
-    <p class="book-includes">Illustrated mechanism teaching, gear-ratio calculations, selected original checks with online continuation, CAD planning, reliability testing and project evidence. Use teacher-approved dimensions, safety and food-contact arrangements.</p>
-    <p class="book-facts"><span>50 pages</span><span>25 double-sided sheets</span><span>A4</span><span>50-page revision</span></p>
-    <div class="book-actions"><a class="button primary" href="books/geared-lolly-dispenser/revisions/50-page-20261006/geared-lolly-dispenser-student-workbook.pdf?v=8f7a03a77078" target="_blank" rel="noopener">Open workbook (PDF) <span aria-hidden="true">↗</span><span class="sr-only"> (opens in a new tab)</span></a><a class="button" href="books/geared-lolly-dispenser/revisions/50-page-20261006/geared-lolly-dispenser-student-workbook.pdf?v=8f7a03a77078" download="geared-lolly-dispenser-student-workbook.pdf">Download PDF <span aria-hidden="true">↓</span></a><a class="button" href="books/geared-lolly-dispenser/revisions/50-page-20261006/geared-lolly-dispenser-student-workbook.docx?v=fe2943495a21" download>Download editable Word <span aria-hidden="true">↓</span></a></div>
-    <p class="download-note">PDF · 2.4 MB. Print double-sided on A4, flipping on the long edge.</p>
-    <a class="course-link" href="https://stevencowell.github.io/Engineering-Website/year9_term4.html" target="_blank" rel="noopener">Open the matching course <span aria-hidden="true">↗</span><span class="sr-only"> (opens in a new tab)</span></a>
-    <a class="course-link" href="../classroom-library/#geared-lolly-dispenser">Google Classroom · check availability <span aria-hidden="true">→</span></a>
-    <details class="teacher-resources previous-edition"><summary>Previous edition 2026 · 81 pages</summary><div class="teacher-resource-links"><p>Use this edition when your teacher or an existing Classroom reading refers to its page numbers.</p><a href="books/geared-lolly-dispenser/geared-lolly-dispenser-student-workbook.pdf?v=fb6377068fbb" target="_blank" rel="noopener">Previous student workbook (PDF)<span class="sr-only"> (opens in a new tab)</span></a><a href="books/geared-lolly-dispenser/geared-lolly-dispenser-student-workbook.docx?v=2974c96702e4" download>Previous editable workbook (Word)</a></div></details>
-    
-  </div>
-</article>
-<article class="book-card" id="concrete-beam" data-subject="Engineering" data-search="concrete beam engineering year 9 · term 2 student workbook investigate materials and reinforced concrete. explain beam behaviour, plan carefully and use measured evidence to evaluate testing and failure. illustrated materials and concrete theory, source activities, conceptual beam diagrams and guided design, casting, testing and evaluation evidence. follow the assigned class experiment and current teacher-led testing instructions." aria-labelledby="concrete-beam-title">
-  <div class="cover-panel">
-    <a class="cover-link" href="books/concrete-beam/revisions/50-page-20261006/concrete-beam-student-workbook.pdf?v=3f90fd34150b" target="_blank" rel="noopener" aria-label="Open Concrete Beam student workbook PDF (opens in a new tab)"><img src="assets/concrete-beam-50-page-20261006-cover.webp?v=4a286ee3b41f" width="701" height="991" alt="Concrete Beam workbook cover" loading="lazy"></a>
-    <a class="preview-link" href="assets/concrete-beam-50-page-20261006-preview.webp?v=0c0d3fe29d38" data-preview data-title="Concrete Beam" data-pdf="books/concrete-beam/revisions/50-page-20261006/concrete-beam-student-workbook.pdf?v=3f90fd34150b">Look inside <span aria-hidden="true">↗</span></a>
-  </div>
-  <div class="book-copy">
-    <p class="book-meta">Year 9 · Term 2 · Engineering · Student workbook</p>
-    <h3 id="concrete-beam-title"><a href="books/concrete-beam/revisions/50-page-20261006/concrete-beam-student-workbook.pdf?v=3f90fd34150b" target="_blank" rel="noopener">Concrete Beam<span class="sr-only"> (opens in a new tab)</span></a></h3>
-    <p class="book-description">Investigate materials and reinforced concrete. Explain beam behaviour, plan carefully and use measured evidence to evaluate testing and failure.</p>
-    <p class="book-includes">Illustrated materials and concrete theory, source activities, conceptual beam diagrams and guided design, casting, testing and evaluation evidence. Follow the assigned class experiment and current teacher-led testing instructions.</p>
-    <p class="book-facts"><span>50 pages</span><span>25 double-sided sheets</span><span>A4</span><span>50-page revision</span></p>
-    <div class="book-actions"><a class="button primary" href="books/concrete-beam/revisions/50-page-20261006/concrete-beam-student-workbook.pdf?v=3f90fd34150b" target="_blank" rel="noopener">Open workbook (PDF) <span aria-hidden="true">↗</span><span class="sr-only"> (opens in a new tab)</span></a><a class="button" href="books/concrete-beam/revisions/50-page-20261006/concrete-beam-student-workbook.pdf?v=3f90fd34150b" download="concrete-beam-student-workbook.pdf">Download PDF <span aria-hidden="true">↓</span></a><a class="button" href="books/concrete-beam/revisions/50-page-20261006/concrete-beam-student-workbook.docx?v=c0c2bb5e9410" download>Download editable Word <span aria-hidden="true">↓</span></a></div>
-    <p class="download-note">PDF · 3.1 MB. Print double-sided on A4, flipping on the long edge.</p>
-    <a class="course-link" href="https://stevencowell.github.io/Engineering-Website/year9_term2.html" target="_blank" rel="noopener">Open the matching course <span aria-hidden="true">↗</span><span class="sr-only"> (opens in a new tab)</span></a>
-    <a class="course-link" href="../classroom-library/#concrete-beam">Google Classroom · check availability <span aria-hidden="true">→</span></a>
-    <details class="teacher-resources previous-edition"><summary>Previous edition 2026.1 · 65 pages</summary><div class="teacher-resource-links"><p>Use this edition when your teacher or an existing Classroom reading refers to its page numbers.</p><a href="books/concrete-beam/concrete-beam-student-workbook.pdf?v=2cdccbcb9aa1" target="_blank" rel="noopener">Previous student workbook (PDF)<span class="sr-only"> (opens in a new tab)</span></a><a href="books/concrete-beam/concrete-beam-student-workbook.docx?v=7775b551a05a" download>Previous editable workbook (Word)</a></div></details>
-    
+    <div class="book-actions"><a class="button primary" href="books/bucket-hat/bucket-hat-student-workbook.pdf?v=da77c35cad05" target="_blank" rel="noopener">Open workbook (PDF) <span aria-hidden="true">↗</span><span class="sr-only"> (opens in a new tab)</span></a><a class="button" href="books/bucket-hat/bucket-hat-student-workbook.pdf?v=da77c35cad05" download="bucket-hat-student-workbook.pdf">Download PDF <span aria-hidden="true">↓</span></a></div>
+    <p class="download-note">PDF · 2.9 MB. Print double-sided on A4, flipping on the long edge.</p>
+    <a class="course-link" href="https://stevencowell.github.io/Year-7-8-Bucket-Hat/" target="_blank" rel="noopener">Open the matching course <span aria-hidden="true">↗</span><span class="sr-only"> (opens in a new tab)</span></a>
+    <a class="course-link" href="../classroom-library/#bucket-hat">Open the matching Google Classroom <span aria-hidden="true">→</span></a>
+    <details class="teacher-resources"><summary>Teacher resources</summary><div class="teacher-resource-links"><a href="books/bucket-hat/bucket-hat-student-workbook.docx?v=f1f5f930e0ca" download>Editable workbook (Word) · 24.2 MB</a><a href="books/bucket-hat/bucket-hat-teacher-guide.pdf?v=0e98c436c9c0" target="_blank" rel="noopener">Teacher guide and answers (PDF)<span class="sr-only"> (opens in a new tab)</span></a><small>Use the student PDF for printing. Word pagination can vary between computers.</small></div></details>
   </div>
 </article>
 <article class="book-card" id="lunch-is-packed" data-subject="Textiles" data-search="lunch is packed textiles stage 4 · years 7–8 student workbook explore sustainable lunch-bag design, textiles, tools, sewing, practical evidence and evaluation through an illustrated technology and textiles companion. original website questions, fabric-structure teaching, design concepts, practical evidence and usable folio space. follow current teacher-issued project directions." aria-labelledby="lunch-is-packed-title">
@@ -819,130 +848,222 @@
     
   </div>
 </article>
-<article class="book-card" id="catapult" data-subject="Technology 7–8" data-search="catapult technology 7–8 stage 4 · year 8 student workbook explore engineering systems, materials, levers, energy, design communication, production, testing and evaluation through the catapult course. original questions, whole responses and project-folio space. conceptual illustrations support learning; teacher-approved drawings, processes and test conditions control practical work." aria-labelledby="catapult-title">
+  </div>
+  <a class="back-to-subjects" href="#subject-navigation">Back to subjects <span aria-hidden="true">↑</span></a>
+</section>
+<section class="book-subject book-subject--agriculture" id="subject-agriculture" aria-labelledby="subject-agriculture-title">
+  <header class="subject-heading">
+    <div><h2 id="subject-agriculture-title">Agriculture</h2><p>Food production, agricultural systems and field evidence.</p></div>
+    <p class="subject-count" data-subject-count>4 books</p>
+  </header>
+  <div class="book-grid">
+<article class="book-card" id="farm-in-a-box" data-subject="Food and agricultural practices" data-search="farm in a box food and agricultural practices stage 4 student workbook design, establish and improve a compact crop-production system. follow ten agriculture-led modules from plant needs and resource choices to field evidence, harvest and evaluation. thirty illustrated readings, source knowledge checks, crop investigations, drawing and graph tasks, a weighted design comparison and project folio evidence. includes a separate 14-page teacher guide with answers." aria-labelledby="farm-in-a-box-title">
   <div class="cover-panel">
-    <a class="cover-link" href="books/catapult/catapult-student-workbook.pdf?v=cda9775cf6b2" target="_blank" rel="noopener" aria-label="Open Catapult student workbook PDF (opens in a new tab)"><img src="assets/catapult-cover.webp?v=64d5e0ad23fe" width="701" height="991" alt="Catapult workbook cover" loading="lazy"></a>
-    <a class="preview-link" href="assets/catapult-preview.webp?v=a0e4d9fba871" data-preview data-title="Catapult" data-pdf="books/catapult/catapult-student-workbook.pdf?v=cda9775cf6b2">Look inside <span aria-hidden="true">↗</span></a>
+    <a class="cover-link" href="books/farm-in-a-box/farm-in-a-box-student-workbook.pdf?v=311025d289a2" target="_blank" rel="noopener" aria-label="Open Farm in a Box student workbook PDF (opens in a new tab)"><img src="assets/farm-in-a-box-cover.webp?v=09349a8b9a67" width="701" height="991" alt="Farm in a Box workbook cover" loading="lazy"></a>
+    <a class="preview-link" href="assets/farm-in-a-box-preview.webp?v=9f278e289698" data-preview data-title="Farm in a Box" data-pdf="books/farm-in-a-box/farm-in-a-box-student-workbook.pdf?v=311025d289a2">Look inside <span aria-hidden="true">↗</span></a>
   </div>
   <div class="book-copy">
-    <p class="book-meta">Stage 4 · Year 8 · Technology 7–8 · Student workbook</p>
-    <h3 id="catapult-title"><a href="books/catapult/catapult-student-workbook.pdf?v=cda9775cf6b2" target="_blank" rel="noopener">Catapult<span class="sr-only"> (opens in a new tab)</span></a></h3>
-    <p class="book-description">Explore engineering systems, materials, levers, energy, design communication, production, testing and evaluation through the Catapult course.</p>
-    <p class="book-includes">Original questions, whole responses and project-folio space. Conceptual illustrations support learning; teacher-approved drawings, processes and test conditions control practical work.</p>
+    <p class="book-meta">Stage 4 · Food and agricultural practices · Student workbook</p>
+    <h3 id="farm-in-a-box-title"><a href="books/farm-in-a-box/farm-in-a-box-student-workbook.pdf?v=311025d289a2" target="_blank" rel="noopener">Farm in a Box<span class="sr-only"> (opens in a new tab)</span></a></h3>
+    <p class="book-description">Design, establish and improve a compact crop-production system. Follow ten agriculture-led modules from plant needs and resource choices to field evidence, harvest and evaluation.</p>
+    <p class="book-includes">Thirty illustrated readings, source knowledge checks, crop investigations, drawing and graph tasks, a weighted design comparison and project folio evidence. Includes a separate 14-page teacher guide with answers.</p>
     <p class="book-facts"><span>50 pages</span><span>25 double-sided sheets</span><span>A4</span><span>Edition 1.0</span></p>
-    <div class="book-actions"><a class="button primary" href="books/catapult/catapult-student-workbook.pdf?v=cda9775cf6b2" target="_blank" rel="noopener">Open workbook (PDF) <span aria-hidden="true">↗</span><span class="sr-only"> (opens in a new tab)</span></a><a class="button" href="books/catapult/catapult-student-workbook.pdf?v=cda9775cf6b2" download="catapult-student-workbook.pdf">Download PDF <span aria-hidden="true">↓</span></a><a class="button" href="books/catapult/catapult-student-workbook.docx?v=ef2d14b9c0c1" download>Download editable Word <span aria-hidden="true">↓</span></a></div>
-    <p class="download-note">PDF · 78.4 MB. Print double-sided on A4, flipping on the long edge.</p>
-    <a class="course-link" href="https://stevencowell.github.io/Year-8-Catapult/" target="_blank" rel="noopener">Open the matching course <span aria-hidden="true">↗</span><span class="sr-only"> (opens in a new tab)</span></a>
-    <a class="course-link" href="../classroom-library/#catapult">Google Classroom · teacher review draft <span aria-hidden="true">→</span></a>
+    <div class="book-actions"><a class="button primary" href="books/farm-in-a-box/farm-in-a-box-student-workbook.pdf?v=311025d289a2" target="_blank" rel="noopener">Open workbook (PDF) <span aria-hidden="true">↗</span><span class="sr-only"> (opens in a new tab)</span></a><a class="button" href="books/farm-in-a-box/farm-in-a-box-student-workbook.pdf?v=311025d289a2" download="farm-in-a-box-student-workbook.pdf">Download PDF <span aria-hidden="true">↓</span></a></div>
+    <p class="download-note">PDF · 7.0 MB. Print double-sided on A4, flipping on the long edge.</p>
+    <a class="course-link" href="https://stevencowell.github.io/Stage-4-Farm-in-a-Box/" target="_blank" rel="noopener">Open the matching course <span aria-hidden="true">↗</span><span class="sr-only"> (opens in a new tab)</span></a>
+    <a class="course-link" href="../classroom-library/#farm-in-a-box">Google Classroom · check availability <span aria-hidden="true">→</span></a>
+    <details class="teacher-resources"><summary>Teacher resources</summary><div class="teacher-resource-links"><a href="books/farm-in-a-box/farm-in-a-box-teacher-guide.pdf?v=446de3edf648" target="_blank" rel="noopener">Teacher guide and answers (PDF)<span class="sr-only"> (opens in a new tab)</span></a></div></details>
+  </div>
+</article>
+<article class="book-card" id="year8-agriculture" data-subject="Agriculture Technology" data-search="year 8 agriculture agriculture technology year 8 · stage 4 student textbook and workbook explore food, fibre and agricultural production through the separate year 8 agriculture elective. use evidence to explain systems, technologies, labels and management decisions. all 11 modules and 33 theory sections, 33 selected knowledge checks, 33 written responses, 11 applied activities and three synthesis folio pages. the complete question bank and course folio remain online." aria-labelledby="year8-agriculture-title">
+  <div class="cover-panel">
+    <a class="cover-link" href="books/year8-agriculture/year8-agriculture-student-workbook.pdf?v=bf141a6a4766" target="_blank" rel="noopener" aria-label="Open Year 8 Agriculture student workbook PDF (opens in a new tab)"><img src="assets/year8-agriculture-cover.webp?v=36fe94cdd33a" width="701" height="991" alt="Year 8 Agriculture workbook cover" loading="lazy"></a>
+    <a class="preview-link" href="assets/year8-agriculture-preview.webp?v=069884c659bd" data-preview data-title="Year 8 Agriculture" data-pdf="books/year8-agriculture/year8-agriculture-student-workbook.pdf?v=bf141a6a4766">Look inside <span aria-hidden="true">↗</span></a>
+  </div>
+  <div class="book-copy">
+    <p class="book-meta">Year 8 · Stage 4 · Agriculture Technology · Student textbook and workbook</p>
+    <h3 id="year8-agriculture-title"><a href="books/year8-agriculture/year8-agriculture-student-workbook.pdf?v=bf141a6a4766" target="_blank" rel="noopener">Year 8 Agriculture<span class="sr-only"> (opens in a new tab)</span></a></h3>
+    <p class="book-description">Explore food, fibre and agricultural production through the separate Year 8 Agriculture elective. Use evidence to explain systems, technologies, labels and management decisions.</p>
+    <p class="book-includes">All 11 modules and 33 theory sections, 33 selected knowledge checks, 33 written responses, 11 applied activities and three synthesis folio pages. The complete question bank and course folio remain online.</p>
+    <p class="book-facts"><span>50 pages</span><span>25 double-sided sheets</span><span>A4</span><span>Edition 1.0</span></p>
+    <div class="book-actions"><a class="button primary" href="books/year8-agriculture/year8-agriculture-student-workbook.pdf?v=bf141a6a4766" target="_blank" rel="noopener">Open workbook (PDF) <span aria-hidden="true">↗</span><span class="sr-only"> (opens in a new tab)</span></a><a class="button" href="books/year8-agriculture/year8-agriculture-student-workbook.pdf?v=bf141a6a4766" download="year8-agriculture-student-workbook.pdf">Download PDF <span aria-hidden="true">↓</span></a></div>
+    <p class="download-note">PDF · 21.3 MB. Print double-sided on A4, flipping on the long edge.</p>
+    <a class="course-link" href="https://stevencowell.github.io/Year-8-Agriculture-Guided-Course/" target="_blank" rel="noopener">Open the matching course <span aria-hidden="true">↗</span><span class="sr-only"> (opens in a new tab)</span></a>
+    <a class="course-link" href="../classroom-library/#year8-agriculture">Google Classroom · check availability <span aria-hidden="true">→</span></a>
+  </div>
+</article>
+<article class="book-card" id="year9-agriculture" data-subject="Agriculture Technology" data-search="year 9 agriculture agriculture technology stage 5 student textbook and workbook explore agricultural systems, vegetable production, beef and poultry in the guided course order. explain connections and record evidence from teacher-directed observations and investigations. all 19 modules and 57 condensed readings, all 57 written responses, 25 selected knowledge checks, practical folio pages and worked applications. includes a 25-page teacher guide. the full 570-question bank remains online." aria-labelledby="year9-agriculture-title">
+  <div class="cover-panel">
+    <a class="cover-link" href="books/year9-agriculture/year9-agriculture-student-workbook.pdf?v=e9026dc6fa3a" target="_blank" rel="noopener" aria-label="Open Year 9 Agriculture student workbook PDF (opens in a new tab)"><img src="assets/year9-agriculture-cover.webp?v=daaab4e2abf0" width="701" height="991" alt="Year 9 Agriculture workbook cover" loading="lazy"></a>
+    <a class="preview-link" href="assets/year9-agriculture-preview.webp?v=dfce9cccd88f" data-preview data-title="Year 9 Agriculture" data-pdf="books/year9-agriculture/year9-agriculture-student-workbook.pdf?v=e9026dc6fa3a">Look inside <span aria-hidden="true">↗</span></a>
+  </div>
+  <div class="book-copy">
+    <p class="book-meta">Stage 5 · Agriculture Technology · Student textbook and workbook</p>
+    <h3 id="year9-agriculture-title"><a href="books/year9-agriculture/year9-agriculture-student-workbook.pdf?v=e9026dc6fa3a" target="_blank" rel="noopener">Year 9 Agriculture<span class="sr-only"> (opens in a new tab)</span></a></h3>
+    <p class="book-description">Explore agricultural systems, vegetable production, beef and poultry in the guided course order. Explain connections and record evidence from teacher-directed observations and investigations.</p>
+    <p class="book-includes">All 19 modules and 57 condensed readings, all 57 written responses, 25 selected knowledge checks, practical folio pages and worked applications. Includes a 25-page teacher guide. The full 570-question bank remains online.</p>
+    <p class="book-facts"><span>50 pages</span><span>25 double-sided sheets</span><span>A4</span><span>Edition 1.0</span></p>
+    <div class="book-actions"><a class="button primary" href="books/year9-agriculture/year9-agriculture-student-workbook.pdf?v=e9026dc6fa3a" target="_blank" rel="noopener">Open workbook (PDF) <span aria-hidden="true">↗</span><span class="sr-only"> (opens in a new tab)</span></a><a class="button" href="books/year9-agriculture/year9-agriculture-student-workbook.pdf?v=e9026dc6fa3a" download="year9-agriculture-student-workbook.pdf">Download PDF <span aria-hidden="true">↓</span></a></div>
+    <p class="download-note">PDF · 2.4 MB. Print double-sided on A4, flipping on the long edge.</p>
+    <a class="course-link" href="https://stevencowell.github.io/Year-9-Agriculture-Guided-Course/" target="_blank" rel="noopener">Open the matching course <span aria-hidden="true">↗</span><span class="sr-only"> (opens in a new tab)</span></a>
+    <a class="course-link" href="../classroom-library/#year9-agriculture">Google Classroom · check availability <span aria-hidden="true">→</span></a>
+    <details class="teacher-resources"><summary>Teacher resources</summary><div class="teacher-resource-links"><a href="books/year9-agriculture/year9-agriculture-teacher-guide.pdf?v=ca2289030153" target="_blank" rel="noopener">Teacher guide and answers (PDF)<span class="sr-only"> (opens in a new tab)</span></a></div></details>
+  </div>
+</article>
+<article class="book-card" id="year10-agriculture" data-subject="Agriculture Technology" data-search="year 10 agriculture agriculture technology stage 5 student textbook and workbook follow agricultural systems and management, pastures and cropping, prime lamb production and dairy farming in the current guided-course order. explain relationships and record source-grounded learning evidence. all 20 modules and 60 condensed readings, 60 selected source written tasks, 24 knowledge checks and eight application/folio pages. the full 102-task and 600-question banks remain online." aria-labelledby="year10-agriculture-title">
+  <div class="cover-panel">
+    <a class="cover-link" href="books/year10-agriculture/year10-agriculture-student-workbook.pdf?v=c212ad086db3" target="_blank" rel="noopener" aria-label="Open Year 10 Agriculture student workbook PDF (opens in a new tab)"><img src="assets/year10-agriculture-cover.webp?v=cc1ccfa9ff84" width="701" height="991" alt="Year 10 Agriculture workbook cover" loading="lazy"></a>
+    <a class="preview-link" href="assets/year10-agriculture-preview.webp?v=42c2f4f359b4" data-preview data-title="Year 10 Agriculture" data-pdf="books/year10-agriculture/year10-agriculture-student-workbook.pdf?v=c212ad086db3">Look inside <span aria-hidden="true">↗</span></a>
+  </div>
+  <div class="book-copy">
+    <p class="book-meta">Stage 5 · Agriculture Technology · Student textbook and workbook</p>
+    <h3 id="year10-agriculture-title"><a href="books/year10-agriculture/year10-agriculture-student-workbook.pdf?v=c212ad086db3" target="_blank" rel="noopener">Year 10 Agriculture<span class="sr-only"> (opens in a new tab)</span></a></h3>
+    <p class="book-description">Follow agricultural systems and management, pastures and cropping, prime lamb production and dairy farming in the current guided-course order. Explain relationships and record source-grounded learning evidence.</p>
+    <p class="book-includes">All 20 modules and 60 condensed readings, 60 selected source written tasks, 24 knowledge checks and eight application/folio pages. The full 102-task and 600-question banks remain online.</p>
+    <p class="book-facts"><span>50 pages</span><span>25 double-sided sheets</span><span>A4</span><span>Edition 1.0</span></p>
+    <div class="book-actions"><a class="button primary" href="books/year10-agriculture/year10-agriculture-student-workbook.pdf?v=c212ad086db3" target="_blank" rel="noopener">Open workbook (PDF) <span aria-hidden="true">↗</span><span class="sr-only"> (opens in a new tab)</span></a><a class="button" href="books/year10-agriculture/year10-agriculture-student-workbook.pdf?v=c212ad086db3" download="year10-agriculture-student-workbook.pdf">Download PDF <span aria-hidden="true">↓</span></a></div>
+    <p class="download-note">PDF · 2.2 MB. Print double-sided on A4, flipping on the long edge.</p>
+    <a class="course-link" href="https://stevencowell.github.io/Year-10-Agriculture-Guided-Course/" target="_blank" rel="noopener">Open the matching course <span aria-hidden="true">↗</span><span class="sr-only"> (opens in a new tab)</span></a>
+    <a class="course-link" href="../classroom-library/#year10-agriculture">Google Classroom · check availability <span aria-hidden="true">→</span></a>
+  </div>
+</article>
+  </div>
+  <a class="back-to-subjects" href="#subject-navigation">Back to subjects <span aria-hidden="true">↑</span></a>
+</section>
+<section class="book-subject book-subject--engineering" id="subject-engineering" aria-labelledby="subject-engineering-title">
+  <header class="subject-heading">
+    <div><h2 id="subject-engineering-title">Engineering</h2><p>Engineering projects, systems, testing and evaluation.</p></div>
+    <p class="subject-count" data-subject-count>5 books</p>
+  </header>
+  <div class="book-grid">
+<article class="book-card" id="garden-watering-system" data-subject="Engineering" data-search="garden watering system engineering year 10 · semester 1 student workbook explain and design a water control system. connect research, safety, input and output choices, control logic and measured prototype evidence. illustrated theory, source questions, control-system checks, design planning, subsystem trials and a guided engineering folio." aria-labelledby="garden-watering-system-title">
+  <div class="cover-panel">
+    <a class="cover-link" href="books/garden-watering-system/garden-watering-system-student-workbook.pdf?v=998bb1cdf865" target="_blank" rel="noopener" aria-label="Open Garden Watering System student workbook PDF (opens in a new tab)"><img src="assets/garden-watering-system-cover.webp?v=ce5e206f54e8" width="701" height="991" alt="Garden Watering System workbook cover" loading="lazy"></a>
+    <a class="preview-link" href="assets/garden-watering-system-preview.webp?v=d5f90764094c" data-preview data-title="Garden Watering System" data-pdf="books/garden-watering-system/garden-watering-system-student-workbook.pdf?v=998bb1cdf865">Look inside <span aria-hidden="true">↗</span></a>
+  </div>
+  <div class="book-copy">
+    <p class="book-meta">Year 10 · Semester 1 · Engineering · Student workbook</p>
+    <h3 id="garden-watering-system-title"><a href="books/garden-watering-system/garden-watering-system-student-workbook.pdf?v=998bb1cdf865" target="_blank" rel="noopener">Garden Watering System<span class="sr-only"> (opens in a new tab)</span></a></h3>
+    <p class="book-description">Explain and design a water control system. Connect research, safety, input and output choices, control logic and measured prototype evidence.</p>
+    <p class="book-includes">Illustrated theory, source questions, control-system checks, design planning, subsystem trials and a guided engineering folio.</p>
+    <p class="book-facts"><span>50 pages</span><span>25 double-sided sheets</span><span>A4</span><span>Edition 2026</span></p>
+    <div class="book-actions"><a class="button primary" href="books/garden-watering-system/garden-watering-system-student-workbook.pdf?v=998bb1cdf865" target="_blank" rel="noopener">Open workbook (PDF) <span aria-hidden="true">↗</span><span class="sr-only"> (opens in a new tab)</span></a><a class="button" href="books/garden-watering-system/garden-watering-system-student-workbook.pdf?v=998bb1cdf865" download="garden-watering-system-student-workbook.pdf">Download PDF <span aria-hidden="true">↓</span></a><a class="button" href="books/garden-watering-system/garden-watering-system-student-workbook.docx?v=cd45c204b865" download>Download editable Word <span aria-hidden="true">↓</span></a></div>
+    <p class="download-note">PDF · 1.3 MB. Print double-sided on A4, flipping on the long edge.</p>
+    <a class="course-link" href="https://stevencowell.github.io/Engineering-Website/year10_term1.html" target="_blank" rel="noopener">Open the matching course <span aria-hidden="true">↗</span><span class="sr-only"> (opens in a new tab)</span></a>
+    <a class="course-link" href="../classroom-library/#garden-watering-system">Google Classroom · check availability <span aria-hidden="true">→</span></a>
+
+  </div>
+</article>
+<article class="book-card" id="wind-powered-usb-charger" data-subject="Engineering" data-search="wind powered usb phone charger engineering year 10 · semester 2 student workbook investigate renewable energy and wind generation. compare mechanical concepts, plan the prototype and use evidence to judge its electrical output. illustrated energy research, drive comparisons, selected original checks with online continuation, design and drawing tasks, electrical checks and test records. use the confirmed school equipment and teacher-approved testing arrangements." aria-labelledby="wind-powered-usb-charger-title">
+  <div class="cover-panel">
+    <a class="cover-link" href="books/wind-powered-usb-charger/revisions/50-page-20261006/wind-powered-usb-charger-student-workbook.pdf?v=77c1ede7cb2f" target="_blank" rel="noopener" aria-label="Open Wind Powered USB Phone Charger student workbook PDF (opens in a new tab)"><img src="assets/wind-powered-usb-charger-50-page-20261006-cover.webp?v=fe92816c1212" width="701" height="991" alt="Wind Powered USB Phone Charger workbook cover" loading="lazy"></a>
+    <a class="preview-link" href="assets/wind-powered-usb-charger-50-page-20261006-preview.webp?v=4e069b2950a8" data-preview data-title="Wind Powered USB Phone Charger" data-pdf="books/wind-powered-usb-charger/revisions/50-page-20261006/wind-powered-usb-charger-student-workbook.pdf?v=77c1ede7cb2f">Look inside <span aria-hidden="true">↗</span></a>
+  </div>
+  <div class="book-copy">
+    <p class="book-meta">Year 10 · Semester 2 · Engineering · Student workbook</p>
+    <h3 id="wind-powered-usb-charger-title"><a href="books/wind-powered-usb-charger/revisions/50-page-20261006/wind-powered-usb-charger-student-workbook.pdf?v=77c1ede7cb2f" target="_blank" rel="noopener">Wind Powered USB Phone Charger<span class="sr-only"> (opens in a new tab)</span></a></h3>
+    <p class="book-description">Investigate renewable energy and wind generation. Compare mechanical concepts, plan the prototype and use evidence to judge its electrical output.</p>
+    <p class="book-includes">Illustrated energy research, drive comparisons, selected original checks with online continuation, design and drawing tasks, electrical checks and test records. Use the confirmed school equipment and teacher-approved testing arrangements.</p>
+    <p class="book-facts"><span>50 pages</span><span>25 double-sided sheets</span><span>A4</span><span>50-page revision</span></p>
+    <div class="book-actions"><a class="button primary" href="books/wind-powered-usb-charger/revisions/50-page-20261006/wind-powered-usb-charger-student-workbook.pdf?v=77c1ede7cb2f" target="_blank" rel="noopener">Open workbook (PDF) <span aria-hidden="true">↗</span><span class="sr-only"> (opens in a new tab)</span></a><a class="button" href="books/wind-powered-usb-charger/revisions/50-page-20261006/wind-powered-usb-charger-student-workbook.pdf?v=77c1ede7cb2f" download="wind-powered-usb-charger-student-workbook.pdf">Download PDF <span aria-hidden="true">↓</span></a><a class="button" href="books/wind-powered-usb-charger/revisions/50-page-20261006/wind-powered-usb-charger-student-workbook.docx?v=b08af71112a4" download>Download editable Word <span aria-hidden="true">↓</span></a></div>
+    <p class="download-note">PDF · 1.5 MB. Print double-sided on A4, flipping on the long edge.</p>
+    <a class="course-link" href="https://stevencowell.github.io/Engineering-Website/year10_term2.html" target="_blank" rel="noopener">Open the matching course <span aria-hidden="true">↗</span><span class="sr-only"> (opens in a new tab)</span></a>
+    <details class="teacher-resources previous-edition"><summary>Previous edition 2026 · 70 pages</summary><div class="teacher-resource-links"><p>Use this edition when your teacher or an existing Classroom reading refers to its page numbers.</p><a href="books/wind-powered-usb-charger/wind-powered-usb-charger-student-workbook.pdf?v=3a3ab19de8ae" target="_blank" rel="noopener">Previous student workbook (PDF)<span class="sr-only"> (opens in a new tab)</span></a><a href="books/wind-powered-usb-charger/wind-powered-usb-charger-student-workbook.docx?v=b77517f08af6" download>Previous editable workbook (Word)</a></div></details>
     
   </div>
 </article>
-<article class="book-card" id="crack-the-code" data-subject="Technology 7–8" data-search="crack the code technology 7–8 stage 4 · year 8 student workbook trace inputs, outputs, algorithms, data and decisions, then use evidence to explain an alarm with the course thinkershield system. original source practice, investigation studios and connected project evidence. use teacher-confirmed equipment, safety and submission directions." aria-labelledby="crack-the-code-title">
+<article class="book-card" id="hydraulic-digger" data-subject="Engineering" data-search="hydraulic digger engineering year 9 · term 3 student workbook explore fluid power and mechanisms, develop digger concepts, plan making and explain measured tests through a guided engineering folio. illustrated fluid-power theory, worked examples, selected original checks with online continuation, original drawing sheets and guided design, build, test and folio evidence. use teacher-approved dimensions, equipment and loads." aria-labelledby="hydraulic-digger-title">
   <div class="cover-panel">
-    <a class="cover-link" href="books/crack-the-code/crack-the-code-student-workbook.pdf?v=1635d4f502a6" target="_blank" rel="noopener" aria-label="Open Crack the Code student workbook PDF (opens in a new tab)"><img src="assets/crack-the-code-cover.webp?v=673c7042cd01" width="701" height="991" alt="Crack the Code workbook cover" loading="lazy"></a>
-    <a class="preview-link" href="assets/crack-the-code-preview.webp?v=12c5c33346e4" data-preview data-title="Crack the Code" data-pdf="books/crack-the-code/crack-the-code-student-workbook.pdf?v=1635d4f502a6">Look inside <span aria-hidden="true">↗</span></a>
+    <a class="cover-link" href="books/hydraulic-digger/revisions/50-page-20261006/hydraulic-digger-student-workbook.pdf?v=ac0d6c72ea6d" target="_blank" rel="noopener" aria-label="Open Hydraulic Digger student workbook PDF (opens in a new tab)"><img src="assets/hydraulic-digger-50-page-20261006-cover.webp?v=453f61a40595" width="701" height="991" alt="Hydraulic Digger workbook cover" loading="lazy"></a>
+    <a class="preview-link" href="assets/hydraulic-digger-50-page-20261006-preview.webp?v=8a40dfe08dd9" data-preview data-title="Hydraulic Digger" data-pdf="books/hydraulic-digger/revisions/50-page-20261006/hydraulic-digger-student-workbook.pdf?v=ac0d6c72ea6d">Look inside <span aria-hidden="true">↗</span></a>
   </div>
   <div class="book-copy">
-    <p class="book-meta">Stage 4 · Year 8 · Technology 7–8 · Student workbook</p>
-    <h3 id="crack-the-code-title"><a href="books/crack-the-code/crack-the-code-student-workbook.pdf?v=1635d4f502a6" target="_blank" rel="noopener">Crack the Code<span class="sr-only"> (opens in a new tab)</span></a></h3>
-    <p class="book-description">Trace inputs, outputs, algorithms, data and decisions, then use evidence to explain an alarm with the course ThinkerShield system.</p>
-    <p class="book-includes">Original source practice, investigation studios and connected project evidence. Use teacher-confirmed equipment, safety and submission directions.</p>
-    <p class="book-facts"><span>50 pages</span><span>25 double-sided sheets</span><span>A4</span><span>Edition 1.0</span></p>
-    <div class="book-actions"><a class="button primary" href="books/crack-the-code/crack-the-code-student-workbook.pdf?v=1635d4f502a6" target="_blank" rel="noopener">Open workbook (PDF) <span aria-hidden="true">↗</span><span class="sr-only"> (opens in a new tab)</span></a><a class="button" href="books/crack-the-code/crack-the-code-student-workbook.pdf?v=1635d4f502a6" download="crack-the-code-student-workbook.pdf">Download PDF <span aria-hidden="true">↓</span></a><a class="button" href="books/crack-the-code/crack-the-code-student-workbook.docx?v=e68bd9f209c8" download>Download editable Word <span aria-hidden="true">↓</span></a></div>
-    <p class="download-note">PDF · 0.7 MB. Print double-sided on A4, flipping on the long edge.</p>
-    <a class="course-link" href="https://stevencowell.github.io/Year-8-Crack-the-Code/" target="_blank" rel="noopener">Open the matching course <span aria-hidden="true">↗</span><span class="sr-only"> (opens in a new tab)</span></a>
-    <a class="course-link" href="../classroom-library/#crack-the-code">Google Classroom · teacher drafts <span aria-hidden="true">→</span></a>
+    <p class="book-meta">Year 9 · Term 3 · Engineering · Student workbook</p>
+    <h3 id="hydraulic-digger-title"><a href="books/hydraulic-digger/revisions/50-page-20261006/hydraulic-digger-student-workbook.pdf?v=ac0d6c72ea6d" target="_blank" rel="noopener">Hydraulic Digger<span class="sr-only"> (opens in a new tab)</span></a></h3>
+    <p class="book-description">Explore fluid power and mechanisms, develop digger concepts, plan making and explain measured tests through a guided engineering folio.</p>
+    <p class="book-includes">Illustrated fluid-power theory, worked examples, selected original checks with online continuation, original drawing sheets and guided design, build, test and folio evidence. Use teacher-approved dimensions, equipment and loads.</p>
+    <p class="book-facts"><span>50 pages</span><span>25 double-sided sheets</span><span>A4</span><span>50-page revision</span></p>
+    <div class="book-actions"><a class="button primary" href="books/hydraulic-digger/revisions/50-page-20261006/hydraulic-digger-student-workbook.pdf?v=ac0d6c72ea6d" target="_blank" rel="noopener">Open workbook (PDF) <span aria-hidden="true">↗</span><span class="sr-only"> (opens in a new tab)</span></a><a class="button" href="books/hydraulic-digger/revisions/50-page-20261006/hydraulic-digger-student-workbook.pdf?v=ac0d6c72ea6d" download="hydraulic-digger-student-workbook.pdf">Download PDF <span aria-hidden="true">↓</span></a><a class="button" href="books/hydraulic-digger/revisions/50-page-20261006/hydraulic-digger-student-workbook.docx?v=d64e63d0db91" download>Download editable Word <span aria-hidden="true">↓</span></a></div>
+    <p class="download-note">PDF · 2.0 MB. Print double-sided on A4, flipping on the long edge.</p>
+    <a class="course-link" href="https://stevencowell.github.io/Engineering-Website/year9_term3.html" target="_blank" rel="noopener">Open the matching course <span aria-hidden="true">↗</span><span class="sr-only"> (opens in a new tab)</span></a>
+    <a class="course-link" href="../classroom-library/#hydraulic-digger">Google Classroom · check availability <span aria-hidden="true">→</span></a>
+    <details class="teacher-resources previous-edition"><summary>Previous edition 2026 · 81 pages</summary><div class="teacher-resource-links"><p>Use this edition when your teacher or an existing Classroom reading refers to its page numbers.</p><a href="books/hydraulic-digger/hydraulic-digger-student-workbook.pdf?v=094500c9bb28" target="_blank" rel="noopener">Previous student workbook (PDF)<span class="sr-only"> (opens in a new tab)</span></a><a href="books/hydraulic-digger/hydraulic-digger-student-workbook.docx?v=4958bb5ab074" download>Previous editable workbook (Word)</a></div></details>
     
   </div>
 </article>
-<article class="book-card" id="year9-graphics" data-subject="Graphics Technology" data-search="year 9 graphics technology graphics technology stage 5 · year 9 course student workbook develop visual communication through drawing foundations, onshape product drawing, graphic modelling, prototyping and graphic design. selected original questions, whole activities, capstones and folio records. continue the remaining required course work online and follow current teacher-issued drawing tasks and templates." aria-labelledby="year9-graphics-title">
+<article class="book-card" id="geared-lolly-dispenser" data-subject="Engineering" data-search="geared lolly dispenser engineering year 9 · term 4 student workbook investigate gear trains, cams and one-way mechanisms. develop a dispenser concept, organise cad and manufacturing evidence, then test repeatability. illustrated mechanism teaching, gear-ratio calculations, selected original checks with online continuation, cad planning, reliability testing and project evidence. use teacher-approved dimensions, safety and food-contact arrangements." aria-labelledby="geared-lolly-dispenser-title">
   <div class="cover-panel">
-    <a class="cover-link" href="books/year9-graphics/year9-graphics-student-workbook.pdf?v=eab9d3f32962" target="_blank" rel="noopener" aria-label="Open Year 9 Graphics Technology student workbook PDF (opens in a new tab)"><img src="assets/year9-graphics-cover.webp?v=43572da0d0c8" width="701" height="991" alt="Year 9 Graphics Technology workbook cover" loading="lazy"></a>
-    <a class="preview-link" href="assets/year9-graphics-preview.webp?v=bc8f0ef9ed57" data-preview data-title="Year 9 Graphics Technology" data-pdf="books/year9-graphics/year9-graphics-student-workbook.pdf?v=eab9d3f32962">Look inside <span aria-hidden="true">↗</span></a>
+    <a class="cover-link" href="books/geared-lolly-dispenser/revisions/50-page-20261006/geared-lolly-dispenser-student-workbook.pdf?v=8f7a03a77078" target="_blank" rel="noopener" aria-label="Open Geared Lolly Dispenser student workbook PDF (opens in a new tab)"><img src="assets/geared-lolly-dispenser-50-page-20261006-cover.webp?v=1df826f6919e" width="701" height="991" alt="Geared Lolly Dispenser workbook cover" loading="lazy"></a>
+    <a class="preview-link" href="assets/geared-lolly-dispenser-50-page-20261006-preview.webp?v=36f1395f5305" data-preview data-title="Geared Lolly Dispenser" data-pdf="books/geared-lolly-dispenser/revisions/50-page-20261006/geared-lolly-dispenser-student-workbook.pdf?v=8f7a03a77078">Look inside <span aria-hidden="true">↗</span></a>
   </div>
   <div class="book-copy">
-    <p class="book-meta">Stage 5 · Year 9 course · Graphics Technology · Student workbook</p>
-    <h3 id="year9-graphics-title"><a href="books/year9-graphics/year9-graphics-student-workbook.pdf?v=eab9d3f32962" target="_blank" rel="noopener">Year 9 Graphics Technology<span class="sr-only"> (opens in a new tab)</span></a></h3>
-    <p class="book-description">Develop visual communication through drawing foundations, Onshape product drawing, graphic modelling, prototyping and graphic design.</p>
-    <p class="book-includes">Selected original questions, whole activities, capstones and folio records. Continue the remaining required course work online and follow current teacher-issued drawing tasks and templates.</p>
-    <p class="book-facts"><span>50 pages</span><span>25 double-sided sheets</span><span>A4</span><span>Edition 1.0</span></p>
-    <div class="book-actions"><a class="button primary" href="books/year9-graphics/year9-graphics-student-workbook.pdf?v=eab9d3f32962" target="_blank" rel="noopener">Open workbook (PDF) <span aria-hidden="true">↗</span><span class="sr-only"> (opens in a new tab)</span></a><a class="button" href="books/year9-graphics/year9-graphics-student-workbook.pdf?v=eab9d3f32962" download="year9-graphics-student-workbook.pdf">Download PDF <span aria-hidden="true">↓</span></a><a class="button" href="books/year9-graphics/year9-graphics-student-workbook.docx?v=fba3008f0899" download>Download editable Word <span aria-hidden="true">↓</span></a></div>
-    <p class="download-note">PDF · 5.3 MB. Print double-sided on A4, flipping on the long edge.</p>
-    <a class="course-link" href="https://stevencowell.github.io/Year-9-Graphics-Technology/" target="_blank" rel="noopener">Open the matching course <span aria-hidden="true">↗</span><span class="sr-only"> (opens in a new tab)</span></a>
-    <a class="course-link" href="../classroom-library/#year9-graphics">Google Classroom · teacher review draft <span aria-hidden="true">→</span></a>
+    <p class="book-meta">Year 9 · Term 4 · Engineering · Student workbook</p>
+    <h3 id="geared-lolly-dispenser-title"><a href="books/geared-lolly-dispenser/revisions/50-page-20261006/geared-lolly-dispenser-student-workbook.pdf?v=8f7a03a77078" target="_blank" rel="noopener">Geared Lolly Dispenser<span class="sr-only"> (opens in a new tab)</span></a></h3>
+    <p class="book-description">Investigate gear trains, cams and one-way mechanisms. Develop a dispenser concept, organise CAD and manufacturing evidence, then test repeatability.</p>
+    <p class="book-includes">Illustrated mechanism teaching, gear-ratio calculations, selected original checks with online continuation, CAD planning, reliability testing and project evidence. Use teacher-approved dimensions, safety and food-contact arrangements.</p>
+    <p class="book-facts"><span>50 pages</span><span>25 double-sided sheets</span><span>A4</span><span>50-page revision</span></p>
+    <div class="book-actions"><a class="button primary" href="books/geared-lolly-dispenser/revisions/50-page-20261006/geared-lolly-dispenser-student-workbook.pdf?v=8f7a03a77078" target="_blank" rel="noopener">Open workbook (PDF) <span aria-hidden="true">↗</span><span class="sr-only"> (opens in a new tab)</span></a><a class="button" href="books/geared-lolly-dispenser/revisions/50-page-20261006/geared-lolly-dispenser-student-workbook.pdf?v=8f7a03a77078" download="geared-lolly-dispenser-student-workbook.pdf">Download PDF <span aria-hidden="true">↓</span></a><a class="button" href="books/geared-lolly-dispenser/revisions/50-page-20261006/geared-lolly-dispenser-student-workbook.docx?v=fe2943495a21" download>Download editable Word <span aria-hidden="true">↓</span></a></div>
+    <p class="download-note">PDF · 2.4 MB. Print double-sided on A4, flipping on the long edge.</p>
+    <a class="course-link" href="https://stevencowell.github.io/Engineering-Website/year9_term4.html" target="_blank" rel="noopener">Open the matching course <span aria-hidden="true">↗</span><span class="sr-only"> (opens in a new tab)</span></a>
+    <a class="course-link" href="../classroom-library/#geared-lolly-dispenser">Google Classroom · check availability <span aria-hidden="true">→</span></a>
+    <details class="teacher-resources previous-edition"><summary>Previous edition 2026 · 81 pages</summary><div class="teacher-resource-links"><p>Use this edition when your teacher or an existing Classroom reading refers to its page numbers.</p><a href="books/geared-lolly-dispenser/geared-lolly-dispenser-student-workbook.pdf?v=fb6377068fbb" target="_blank" rel="noopener">Previous student workbook (PDF)<span class="sr-only"> (opens in a new tab)</span></a><a href="books/geared-lolly-dispenser/geared-lolly-dispenser-student-workbook.docx?v=2974c96702e4" download>Previous editable workbook (Word)</a></div></details>
     
   </div>
 </article>
-<article class="book-card" id="year10-graphics" data-subject="Graphics Technology" data-search="year 10 graphics technology graphics technology stage 5 · year 10 course student workbook connect graphic design, architectural drawing, engineering communication and a student-negotiated project through illustrated course practice. original questions, whole activities, capstones and folio work with exact online continuation. current teacher-issued tasks, drawings, templates and licensed standards control requirements." aria-labelledby="year10-graphics-title">
+<article class="book-card" id="concrete-beam" data-subject="Engineering" data-search="concrete beam engineering year 9 · term 2 student workbook investigate materials and reinforced concrete. explain beam behaviour, plan carefully and use measured evidence to evaluate testing and failure. illustrated materials and concrete theory, source activities, conceptual beam diagrams and guided design, casting, testing and evaluation evidence. follow the assigned class experiment and current teacher-led testing instructions." aria-labelledby="concrete-beam-title">
   <div class="cover-panel">
-    <a class="cover-link" href="books/year10-graphics/year10-graphics-student-workbook.pdf?v=d22de71ef61b" target="_blank" rel="noopener" aria-label="Open Year 10 Graphics Technology student workbook PDF (opens in a new tab)"><img src="assets/year10-graphics-cover.webp?v=e1702d2b09fc" width="701" height="991" alt="Year 10 Graphics Technology workbook cover" loading="lazy"></a>
-    <a class="preview-link" href="assets/year10-graphics-preview.webp?v=47b35fab0690" data-preview data-title="Year 10 Graphics Technology" data-pdf="books/year10-graphics/year10-graphics-student-workbook.pdf?v=d22de71ef61b">Look inside <span aria-hidden="true">↗</span></a>
+    <a class="cover-link" href="books/concrete-beam/revisions/50-page-20261006/concrete-beam-student-workbook.pdf?v=3f90fd34150b" target="_blank" rel="noopener" aria-label="Open Concrete Beam student workbook PDF (opens in a new tab)"><img src="assets/concrete-beam-50-page-20261006-cover.webp?v=4a286ee3b41f" width="701" height="991" alt="Concrete Beam workbook cover" loading="lazy"></a>
+    <a class="preview-link" href="assets/concrete-beam-50-page-20261006-preview.webp?v=0c0d3fe29d38" data-preview data-title="Concrete Beam" data-pdf="books/concrete-beam/revisions/50-page-20261006/concrete-beam-student-workbook.pdf?v=3f90fd34150b">Look inside <span aria-hidden="true">↗</span></a>
   </div>
   <div class="book-copy">
-    <p class="book-meta">Stage 5 · Year 10 course · Graphics Technology · Student workbook</p>
-    <h3 id="year10-graphics-title"><a href="books/year10-graphics/year10-graphics-student-workbook.pdf?v=d22de71ef61b" target="_blank" rel="noopener">Year 10 Graphics Technology<span class="sr-only"> (opens in a new tab)</span></a></h3>
-    <p class="book-description">Connect graphic design, architectural drawing, engineering communication and a student-negotiated project through illustrated course practice.</p>
-    <p class="book-includes">Original questions, whole activities, capstones and folio work with exact online continuation. Current teacher-issued tasks, drawings, templates and licensed standards control requirements.</p>
-    <p class="book-facts"><span>50 pages</span><span>25 double-sided sheets</span><span>A4</span><span>Edition 1.0</span></p>
-    <div class="book-actions"><a class="button primary" href="books/year10-graphics/year10-graphics-student-workbook.pdf?v=d22de71ef61b" target="_blank" rel="noopener">Open workbook (PDF) <span aria-hidden="true">↗</span><span class="sr-only"> (opens in a new tab)</span></a><a class="button" href="books/year10-graphics/year10-graphics-student-workbook.pdf?v=d22de71ef61b" download="year10-graphics-student-workbook.pdf">Download PDF <span aria-hidden="true">↓</span></a><a class="button" href="books/year10-graphics/year10-graphics-student-workbook.docx?v=dd535c49a9cc" download>Download editable Word <span aria-hidden="true">↓</span></a></div>
-    <p class="download-note">PDF · 19.0 MB. Print double-sided on A4, flipping on the long edge.</p>
-    <a class="course-link" href="https://stevencowell.github.io/Year-10-Graphics-Technology/" target="_blank" rel="noopener">Open the matching course <span aria-hidden="true">↗</span><span class="sr-only"> (opens in a new tab)</span></a>
-    <a class="course-link" href="../classroom-library/#year10-graphics">Google Classroom · teacher review draft <span aria-hidden="true">→</span></a>
+    <p class="book-meta">Year 9 · Term 2 · Engineering · Student workbook</p>
+    <h3 id="concrete-beam-title"><a href="books/concrete-beam/revisions/50-page-20261006/concrete-beam-student-workbook.pdf?v=3f90fd34150b" target="_blank" rel="noopener">Concrete Beam<span class="sr-only"> (opens in a new tab)</span></a></h3>
+    <p class="book-description">Investigate materials and reinforced concrete. Explain beam behaviour, plan carefully and use measured evidence to evaluate testing and failure.</p>
+    <p class="book-includes">Illustrated materials and concrete theory, source activities, conceptual beam diagrams and guided design, casting, testing and evaluation evidence. Follow the assigned class experiment and current teacher-led testing instructions.</p>
+    <p class="book-facts"><span>50 pages</span><span>25 double-sided sheets</span><span>A4</span><span>50-page revision</span></p>
+    <div class="book-actions"><a class="button primary" href="books/concrete-beam/revisions/50-page-20261006/concrete-beam-student-workbook.pdf?v=3f90fd34150b" target="_blank" rel="noopener">Open workbook (PDF) <span aria-hidden="true">↗</span><span class="sr-only"> (opens in a new tab)</span></a><a class="button" href="books/concrete-beam/revisions/50-page-20261006/concrete-beam-student-workbook.pdf?v=3f90fd34150b" download="concrete-beam-student-workbook.pdf">Download PDF <span aria-hidden="true">↓</span></a><a class="button" href="books/concrete-beam/revisions/50-page-20261006/concrete-beam-student-workbook.docx?v=c0c2bb5e9410" download>Download editable Word <span aria-hidden="true">↓</span></a></div>
+    <p class="download-note">PDF · 3.1 MB. Print double-sided on A4, flipping on the long edge.</p>
+    <a class="course-link" href="https://stevencowell.github.io/Engineering-Website/year9_term2.html" target="_blank" rel="noopener">Open the matching course <span aria-hidden="true">↗</span><span class="sr-only"> (opens in a new tab)</span></a>
+    <a class="course-link" href="../classroom-library/#concrete-beam">Google Classroom · check availability <span aria-hidden="true">→</span></a>
+    <details class="teacher-resources previous-edition"><summary>Previous edition 2026.1 · 65 pages</summary><div class="teacher-resource-links"><p>Use this edition when your teacher or an existing Classroom reading refers to its page numbers.</p><a href="books/concrete-beam/concrete-beam-student-workbook.pdf?v=2cdccbcb9aa1" target="_blank" rel="noopener">Previous student workbook (PDF)<span class="sr-only"> (opens in a new tab)</span></a><a href="books/concrete-beam/concrete-beam-student-workbook.docx?v=7775b551a05a" download>Previous editable workbook (Word)</a></div></details>
     
   </div>
 </article>
-<article class="book-card" id="year11-design-technology" data-subject="Design and Technology" data-search="year 11 design and technology design and technology stage 6 · year 11 preliminary student workbook connect design foundations, research, communication, creativity, cad, materials, production, project management and evaluation. selected original questions, complete module applications and longer responses with linked course continuation. current teacher-issued assessment notices, practical approvals and formal folios remain authoritative." aria-labelledby="year11-design-technology-title">
+  </div>
+  <a class="back-to-subjects" href="#subject-navigation">Back to subjects <span aria-hidden="true">↑</span></a>
+</section>
+<section class="book-subject book-subject--work-studies" id="subject-work-studies" aria-labelledby="subject-work-studies-title">
+  <header class="subject-heading">
+    <div><h2 id="subject-work-studies-title">Work Studies</h2><p>Career pathways, workplace learning and personal responses.</p></div>
+    <p class="subject-count" data-subject-count>1 book</p>
+  </header>
+  <div class="book-grid">
+<article class="book-card" id="work-studies" data-subject="Work Studies" data-search="years 11–12 work studies work studies stage 6 student textbook and workbook explore working life, applications, communication, enterprise, commitments, finance, workplace issues and experience in the current two-year course order. use evidence to test choices and record learning. all 11 modules and 33 condensed readings, 33 source extended-response starts, 33 adapted applied tasks, 11 exact knowledge checks and four paper labs. full online banks remain available." aria-labelledby="work-studies-title">
   <div class="cover-panel">
-    <a class="cover-link" href="books/year11-design-technology/year11-design-technology-student-workbook.pdf?v=9fbb6caa55b7" target="_blank" rel="noopener" aria-label="Open Year 11 Design and Technology student workbook PDF (opens in a new tab)"><img src="assets/year11-design-technology-cover.webp?v=40e839326edc" width="701" height="991" alt="Year 11 Design and Technology workbook cover" loading="lazy"></a>
-    <a class="preview-link" href="assets/year11-design-technology-preview.webp?v=7936bd1502b0" data-preview data-title="Year 11 Design and Technology" data-pdf="books/year11-design-technology/year11-design-technology-student-workbook.pdf?v=9fbb6caa55b7">Look inside <span aria-hidden="true">↗</span></a>
+    <a class="cover-link" href="books/work-studies/work-studies-student-workbook.pdf?v=c21bf2417ca5" target="_blank" rel="noopener" aria-label="Open Years 11–12 Work Studies student workbook PDF (opens in a new tab)"><img src="assets/work-studies-cover.webp?v=fe783d66ca3e" width="701" height="991" alt="Years 11–12 Work Studies workbook cover" loading="lazy"></a>
+    <a class="preview-link" href="assets/work-studies-preview.webp?v=d4429976e7e8" data-preview data-title="Years 11–12 Work Studies" data-pdf="books/work-studies/work-studies-student-workbook.pdf?v=c21bf2417ca5">Look inside <span aria-hidden="true">↗</span></a>
   </div>
   <div class="book-copy">
-    <p class="book-meta">Stage 6 · Year 11 Preliminary · Design and Technology · Student workbook</p>
-    <h3 id="year11-design-technology-title"><a href="books/year11-design-technology/year11-design-technology-student-workbook.pdf?v=9fbb6caa55b7" target="_blank" rel="noopener">Year 11 Design and Technology<span class="sr-only"> (opens in a new tab)</span></a></h3>
-    <p class="book-description">Connect design foundations, research, communication, creativity, CAD, materials, production, project management and evaluation.</p>
-    <p class="book-includes">Selected original questions, complete module applications and longer responses with linked course continuation. Current teacher-issued assessment notices, practical approvals and formal folios remain authoritative.</p>
+    <p class="book-meta">Stage 6 · Work Studies · Student textbook and workbook</p>
+    <h3 id="work-studies-title"><a href="books/work-studies/work-studies-student-workbook.pdf?v=c21bf2417ca5" target="_blank" rel="noopener">Years 11–12 Work Studies<span class="sr-only"> (opens in a new tab)</span></a></h3>
+    <p class="book-description">Explore working life, applications, communication, enterprise, commitments, finance, workplace issues and experience in the current two-year course order. Use evidence to test choices and record learning.</p>
+    <p class="book-includes">All 11 modules and 33 condensed readings, 33 source extended-response starts, 33 adapted applied tasks, 11 exact knowledge checks and four paper labs. Full online banks remain available.</p>
     <p class="book-facts"><span>50 pages</span><span>25 double-sided sheets</span><span>A4</span><span>Edition 1.0</span></p>
-    <div class="book-actions"><a class="button primary" href="books/year11-design-technology/year11-design-technology-student-workbook.pdf?v=9fbb6caa55b7" target="_blank" rel="noopener">Open workbook (PDF) <span aria-hidden="true">↗</span><span class="sr-only"> (opens in a new tab)</span></a><a class="button" href="books/year11-design-technology/year11-design-technology-student-workbook.pdf?v=9fbb6caa55b7" download="year11-design-technology-student-workbook.pdf">Download PDF <span aria-hidden="true">↓</span></a><a class="button" href="books/year11-design-technology/year11-design-technology-student-workbook.docx?v=3bc0099e11cd" download>Download editable Word <span aria-hidden="true">↓</span></a></div>
-    <p class="download-note">PDF · 24.2 MB. Print double-sided on A4, flipping on the long edge.</p>
-    <a class="course-link" href="https://stevencowell.github.io/Main-Page/Year-11-Design-and-Technology/" target="_blank" rel="noopener">Open the matching course <span aria-hidden="true">↗</span><span class="sr-only"> (opens in a new tab)</span></a>
-    <a class="course-link" href="../classroom-library/#year11-design-technology">Google Classroom · teacher review draft <span aria-hidden="true">→</span></a>
-    
+    <div class="book-actions"><a class="button primary" href="books/work-studies/work-studies-student-workbook.pdf?v=c21bf2417ca5" target="_blank" rel="noopener">Open workbook (PDF) <span aria-hidden="true">↗</span><span class="sr-only"> (opens in a new tab)</span></a><a class="button" href="books/work-studies/work-studies-student-workbook.pdf?v=c21bf2417ca5" download="work-studies-student-workbook.pdf">Download PDF <span aria-hidden="true">↓</span></a></div>
+    <p class="download-note">PDF · 1.6 MB. Print double-sided on A4, flipping on the long edge.</p>
+    <a class="course-link" href="https://stevencowell.github.io/Year-11-12-Work-Studies/" target="_blank" rel="noopener">Open the matching course <span aria-hidden="true">↗</span><span class="sr-only"> (opens in a new tab)</span></a>
+    <a class="course-link" href="../classroom-library/#work-studies">Google Classroom · check availability <span aria-hidden="true">→</span></a>
   </div>
 </article>
-<article class="book-card" id="year12-design-technology" data-subject="Design and Technology" data-search="year 12 hsc design and technology design and technology stage 6 · year 12 hsc student workbook explore innovation, design research, project management, concept development, prototyping, production, communication and evaluation. selected original checks and complete formative tasks with online continuation. current school and official instructions control the major design project, assessment, permitted assistance and authentication." aria-labelledby="year12-design-technology-title">
-  <div class="cover-panel">
-    <a class="cover-link" href="books/year12-design-technology/year12-design-technology-student-workbook.pdf?v=8fcea54fc1a9" target="_blank" rel="noopener" aria-label="Open Year 12 HSC Design and Technology student workbook PDF (opens in a new tab)"><img src="assets/year12-design-technology-cover.webp?v=b570e5c0fcb5" width="701" height="991" alt="Year 12 HSC Design and Technology workbook cover" loading="lazy"></a>
-    <a class="preview-link" href="assets/year12-design-technology-preview.webp?v=dc477bda3467" data-preview data-title="Year 12 HSC Design and Technology" data-pdf="books/year12-design-technology/year12-design-technology-student-workbook.pdf?v=8fcea54fc1a9">Look inside <span aria-hidden="true">↗</span></a>
   </div>
-  <div class="book-copy">
-    <p class="book-meta">Stage 6 · Year 12 HSC · Design and Technology · Student workbook</p>
-    <h3 id="year12-design-technology-title"><a href="books/year12-design-technology/year12-design-technology-student-workbook.pdf?v=8fcea54fc1a9" target="_blank" rel="noopener">Year 12 HSC Design and Technology<span class="sr-only"> (opens in a new tab)</span></a></h3>
-    <p class="book-description">Explore innovation, design research, project management, concept development, prototyping, production, communication and evaluation.</p>
-    <p class="book-includes">Selected original checks and complete formative tasks with online continuation. Current school and official instructions control the Major Design Project, assessment, permitted assistance and authentication.</p>
-    <p class="book-facts"><span>50 pages</span><span>25 double-sided sheets</span><span>A4</span><span>Edition 1.0</span></p>
-    <div class="book-actions"><a class="button primary" href="books/year12-design-technology/year12-design-technology-student-workbook.pdf?v=8fcea54fc1a9" target="_blank" rel="noopener">Open workbook (PDF) <span aria-hidden="true">↗</span><span class="sr-only"> (opens in a new tab)</span></a><a class="button" href="books/year12-design-technology/year12-design-technology-student-workbook.pdf?v=8fcea54fc1a9" download="year12-design-technology-student-workbook.pdf">Download PDF <span aria-hidden="true">↓</span></a><a class="button" href="books/year12-design-technology/year12-design-technology-student-workbook.docx?v=4dee92d889b1" download>Download editable Word <span aria-hidden="true">↓</span></a></div>
-    <p class="download-note">PDF · 2.5 MB. Print double-sided on A4, flipping on the long edge.</p>
-    <a class="course-link" href="https://stevencowell.github.io/Year-12-Design-and-Technology/" target="_blank" rel="noopener">Open the matching course <span aria-hidden="true">↗</span><span class="sr-only"> (opens in a new tab)</span></a>
-    
-  </div>
-</article>
-<article class="book-card" id="year7-multimedia" data-subject="Multimedia" data-search="multimedia fast food futures multimedia stage 4 supplementary course student workbook develop an original fast-food brand through visual language, logo systems, menu design, posters, brand applications, motion and a web portfolio. original application questions, design studios and eight folio stages. use teacher-approved accounts, sharing and submission arrangements for actual digital production." aria-labelledby="year7-multimedia-title">
-  <div class="cover-panel">
-    <a class="cover-link" href="books/year7-multimedia/year7-multimedia-student-workbook.pdf?v=53a7fd9f8790" target="_blank" rel="noopener" aria-label="Open Multimedia Fast Food Futures student workbook PDF (opens in a new tab)"><img src="assets/year7-multimedia-cover.webp?v=a249549d34ea" width="701" height="991" alt="Multimedia Fast Food Futures workbook cover" loading="lazy"></a>
-    <a class="preview-link" href="assets/year7-multimedia-preview.webp?v=08f9dd7816dc" data-preview data-title="Multimedia Fast Food Futures" data-pdf="books/year7-multimedia/year7-multimedia-student-workbook.pdf?v=53a7fd9f8790">Look inside <span aria-hidden="true">↗</span></a>
-  </div>
-  <div class="book-copy">
-    <p class="book-meta">Stage 4 supplementary course · Multimedia · Student workbook</p>
-    <h3 id="year7-multimedia-title"><a href="books/year7-multimedia/year7-multimedia-student-workbook.pdf?v=53a7fd9f8790" target="_blank" rel="noopener">Multimedia Fast Food Futures<span class="sr-only"> (opens in a new tab)</span></a></h3>
-    <p class="book-description">Develop an original fast-food brand through visual language, logo systems, menu design, posters, brand applications, motion and a web portfolio.</p>
-    <p class="book-includes">Original application questions, design studios and eight folio stages. Use teacher-approved accounts, sharing and submission arrangements for actual digital production.</p>
-    <p class="book-facts"><span>50 pages</span><span>25 double-sided sheets</span><span>A4</span><span>Edition 1.0</span></p>
-    <div class="book-actions"><a class="button primary" href="books/year7-multimedia/year7-multimedia-student-workbook.pdf?v=53a7fd9f8790" target="_blank" rel="noopener">Open workbook (PDF) <span aria-hidden="true">↗</span><span class="sr-only"> (opens in a new tab)</span></a><a class="button" href="books/year7-multimedia/year7-multimedia-student-workbook.pdf?v=53a7fd9f8790" download="year7-multimedia-student-workbook.pdf">Download PDF <span aria-hidden="true">↓</span></a><a class="button" href="books/year7-multimedia/year7-multimedia-student-workbook.docx?v=f781b1e69bd1" download>Download editable Word <span aria-hidden="true">↓</span></a></div>
-    <p class="download-note">PDF · 7.9 MB. Print double-sided on A4, flipping on the long edge.</p>
-    <a class="course-link" href="https://stevencowell.github.io/Year-7-Multimedia/" target="_blank" rel="noopener">Open the matching course <span aria-hidden="true">↗</span><span class="sr-only"> (opens in a new tab)</span></a>
-    
-  </div>
-</article>
+  <a class="back-to-subjects" href="#subject-navigation">Back to subjects <span aria-hidden="true">↑</span></a>
+</section>
+<section class="book-subject book-subject--science" id="subject-science" aria-labelledby="subject-science-title">
+  <header class="subject-heading">
+    <div><h2 id="subject-science-title">Science</h2><p>Evidence, living systems, matter and scientific models.</p></div>
+    <p class="subject-count" data-subject-count>1 book</p>
+  </header>
+  <div class="book-grid">
 <article class="book-card" id="year8-science" data-subject="Science" data-search="year 8 science guided course science stage 4 · year 8 course student workbook investigate data science, living systems, matter, atomic structure, physical and chemical change, scientific models and evidence. original knowledge checks, complete selected activities and response space. current teacher directions control investigations, genuine source data, equipment and formal assessment." aria-labelledby="year8-science-title">
   <div class="cover-panel">
     <a class="cover-link" href="books/year8-science/year8-science-student-workbook.pdf?v=84234bd52b7b" target="_blank" rel="noopener" aria-label="Open Year 8 Science Guided Course student workbook PDF (opens in a new tab)"><img src="assets/year8-science-cover.webp?v=48adc23b20ca" width="701" height="991" alt="Year 8 Science Guided Course workbook cover" loading="lazy"></a>
@@ -960,6 +1081,9 @@
     <a class="course-link" href="../classroom-library/#year8-science">Google Classroom · teacher drafts <span aria-hidden="true">→</span></a>
   </div>
 </article>
+  </div>
+  <a class="back-to-subjects" href="#subject-navigation">Back to subjects <span aria-hidden="true">↑</span></a>
+</section>
 <!-- BOOKS_END -->
       </div>
       <div class="empty-state" hidden><h3>No matching books yet</h3><p>Try another unit, subject or stage, or clear the filters to see every available book.</p><button type="button" class="button" id="reset-results">Show all books</button></div>

@@ -3,6 +3,12 @@ const form = document.querySelector('.filters');
 const search = document.querySelector('#book-search');
 const subject = document.querySelector('#subject-filter');
 const cards = Array.from(document.querySelectorAll('.book-card'));
+const sections = Array.from(document.querySelectorAll('.book-subject')).map(section => ({
+  element: section,
+  cards: Array.from(section.querySelectorAll('.book-card')),
+  count: section.querySelector('[data-subject-count]'),
+  link: document.querySelector('#subject-navigation a[href="#' + section.id + '"]')
+}));
 const count = document.querySelector('#result-count');
 const empty = document.querySelector('.empty-state');
 form.hidden = false;
@@ -16,6 +22,16 @@ function filterBooks() {
   }
   count.textContent = `${visible} ${visible === 1 ? 'book' : 'books'} ${terms.length || subject.value ? 'found' : 'available'}`;
   empty.hidden = visible !== 0;
+  for (const section of sections) {
+    const total = section.cards.length;
+    const shown = section.cards.filter(card => !card.hidden).length;
+    section.element.hidden = shown === 0;
+    section.link.hidden = shown === 0;
+    section.count.textContent = (shown === total ? shown : shown + ' of ' + total) + ' ' + (total === 1 ? 'book' : 'books');
+    const badge = section.link.querySelector('[data-subject-nav-count]');
+    badge.textContent = shown;
+    badge.setAttribute('aria-label', shown + ' ' + (shown === 1 ? 'book' : 'books'));
+  }
 }
 form.addEventListener('submit', event => event.preventDefault());
 search.addEventListener('input', filterBooks);
@@ -45,3 +61,16 @@ dialog.addEventListener('click', event => {
   if (event.target === dialog && (event.clientX < rect.left || event.clientX > rect.right || event.clientY < rect.top || event.clientY > rect.bottom)) dialog.close();
 });
 dialog.addEventListener('close', () => { document.body.classList.remove('modal-open'); previewTrigger?.focus(); });
+
+function revealHashTarget() {
+  let id;
+  try { id = decodeURIComponent(location.hash.slice(1)); } catch { return; }
+  const target = document.getElementById(id);
+  if (!target || !target.matches('.book-card, .book-subject')) return;
+  if (target.hidden || target.closest('.book-subject')?.hidden) {
+    resetFilters();
+    target.scrollIntoView();
+  }
+}
+window.addEventListener('hashchange', revealHashTarget);
+revealHashTarget();
