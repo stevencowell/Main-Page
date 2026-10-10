@@ -1097,5 +1097,26 @@
     "course": "https://stevencowell.github.io/Year-8-Science-Guided-Course/",
     "classroom": "../classroom-library/#year8-science",
     "classroomLabel": "Google Classroom · teacher drafts"
+  },
+  {
+    "id": "water-tower",
+    "title": "Water Tower",
+    "subject": "Engineering",
+    "stage": "Year 9 · Term 1",
+    "type": "Student workbook",
+    "edition": "2026",
+    "editionLabel": "59-page PDF edition",
+    "published": "2026-10-10",
+    "description": "Explore a light tower structure through safe work, structural concepts, design development, building, testing and evaluation. Explain what your evidence reveals.",
+    "includes": "Illustrated readings, knowledge checks, applied activities, design investigations, test records and a complete project folio. Use teacher-approved plans, materials and controlled testing arrangements.",
+    "pages": 59,
+    "sheets": 30,
+    "cover": "assets/water-tower-cover.webp",
+    "preview": "assets/water-tower-preview.webp",
+    "pdf": "books/water-tower/water-tower-student-workbook.pdf",
+    "course": "https://stevencowell.github.io/Engineering-Website/year9_term1.html",
+    "classroom": "../classroom-library/#water-tower",
+    "classroomLabel": "Google Classroom · saved drafts",
+    "printNote": "PDF-only edition. Print double-sided on A4, flipping on the long edge; the final sheet has one blank side."
   }
 ]
