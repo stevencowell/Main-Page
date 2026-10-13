@@ -1,0 +1,407 @@
+{
+  "manifestSha256": "673417de04be7390d3679361acdd30b66e6ceaf8d5f2bf22d330be871ab90727",
+  "releaseId": 409320493,
+  "releaseUrl": "https://github.com/stevencowell/Main-Page/releases/tag/workbook-pdf-covers-20261011-v1",
+  "assets": [
+    {
+      "bookId": "bbq-carry-all",
+      "url": "https://github.com/stevencowell/Main-Page/releases/download/workbook-pdf-covers-20261011-v1/bbq-carry-all-student-workbook-year8-template-20261011.pdf",
+      "assetName": "bbq-carry-all-student-workbook-year8-template-20261011.pdf",
+      "sha256": "75034d7fd2944a34b5c5bba7834013927def91f3da77c558322f9e9ba3fe77b3",
+      "bytes": 49159494,
+      "manifestSha256": "673417de04be7390d3679361acdd30b66e6ceaf8d5f2bf22d330be871ab90727"
+    },
+    {
+      "bookId": "bbq-case",
+      "url": "https://github.com/stevencowell/Main-Page/releases/download/workbook-pdf-covers-20261011-v1/bbq-case-student-workbook-year8-template-20261011.pdf",
+      "assetName": "bbq-case-student-workbook-year8-template-20261011.pdf",
+      "sha256": "cae13ee9c7eeca56ea26639f03fe541e5b949bcc57b326d1f2a04f1944dcb610",
+      "bytes": 2487588,
+      "manifestSha256": "673417de04be7390d3679361acdd30b66e6ceaf8d5f2bf22d330be871ab90727"
+    },
+    {
+      "bookId": "bedside-table",
+      "url": "https://github.com/stevencowell/Main-Page/releases/download/workbook-pdf-covers-20261011-v1/bedside-table-student-workbook-year8-template-20261011.pdf",
+      "assetName": "bedside-table-student-workbook-year8-template-20261011.pdf",
+      "sha256": "7a31137c274e0a20dce5916d0d5bd92172d620b104af4ef4bfb40ba239125d1b",
+      "bytes": 13886183,
+      "manifestSha256": "673417de04be7390d3679361acdd30b66e6ceaf8d5f2bf22d330be871ab90727"
+    },
+    {
+      "bookId": "breadboard",
+      "url": "https://github.com/stevencowell/Main-Page/releases/download/workbook-pdf-covers-20261011-v1/breadboard-student-workbook-year8-template-20261011.pdf",
+      "assetName": "breadboard-student-workbook-year8-template-20261011.pdf",
+      "sha256": "9e60b4969c757f95f82e85f8594869e311de7f461bffeff3cb35bb23441e284d",
+      "bytes": 79131819,
+      "manifestSha256": "673417de04be7390d3679361acdd30b66e6ceaf8d5f2bf22d330be871ab90727"
+    },
+    {
+      "bookId": "bucket-hat",
+      "url": "https://github.com/stevencowell/Main-Page/releases/download/workbook-pdf-covers-20261011-v1/bucket-hat-student-workbook-year8-template-20261011.pdf",
+      "assetName": "bucket-hat-student-workbook-year8-template-20261011.pdf",
+      "sha256": "4932a1067e77bfd766187e84bb427a928994f94c566413ce7043b7b237d50291",
+      "bytes": 3287805,
+      "manifestSha256": "673417de04be7390d3679361acdd30b66e6ceaf8d5f2bf22d330be871ab90727"
+    },
+    {
+      "bookId": "catapult",
+      "url": "https://github.com/stevencowell/Main-Page/releases/download/workbook-pdf-covers-20261011-v1/catapult-student-workbook-year8-template-20261011.pdf",
+      "assetName": "catapult-student-workbook-year8-template-20261011.pdf",
+      "sha256": "701c50c7958d60d12a76871eb2c60d343ef4601b77b340506fd1fcf5ce8b1acd",
+      "bytes": 81679046,
+      "manifestSha256": "673417de04be7390d3679361acdd30b66e6ceaf8d5f2bf22d330be871ab90727"
+    },
+    {
+      "bookId": "clock",
+      "url": "https://github.com/stevencowell/Main-Page/releases/download/workbook-pdf-covers-20261011-v1/clock-student-workbook-year8-template-20261011.pdf",
+      "assetName": "clock-student-workbook-year8-template-20261011.pdf",
+      "sha256": "0f8524bf4f6a4c9b366a19944499b845b9cef2131970a8d0ee9c1c92901e9c4c",
+      "bytes": 66077774,
+      "manifestSha256": "673417de04be7390d3679361acdd30b66e6ceaf8d5f2bf22d330be871ab90727"
+    },
+    {
+      "bookId": "cnc-plasma",
+      "url": "https://github.com/stevencowell/Main-Page/releases/download/workbook-pdf-covers-20261011-v1/cnc-plasma-student-workbook-year8-template-20261011.pdf",
+      "assetName": "cnc-plasma-student-workbook-year8-template-20261011.pdf",
+      "sha256": "59c28531a5b025774c847691cbade61b6b45028dff89f49d5c828d3e0cd157f0",
+      "bytes": 9836495,
+      "manifestSha256": "673417de04be7390d3679361acdd30b66e6ceaf8d5f2bf22d330be871ab90727"
+    },
+    {
+      "bookId": "concrete-beam",
+      "url": "https://github.com/stevencowell/Main-Page/releases/download/workbook-pdf-covers-20261011-v1/concrete-beam-student-workbook-year8-template-20261011.pdf",
+      "assetName": "concrete-beam-student-workbook-year8-template-20261011.pdf",
+      "sha256": "d089e0b7a90f1631c528eea80bc5420f8eb4e7895f938170f1e27f92276c2929",
+      "bytes": 4884176,
+      "manifestSha256": "673417de04be7390d3679361acdd30b66e6ceaf8d5f2bf22d330be871ab90727"
+    },
+    {
+      "bookId": "crack-the-code",
+      "url": "https://github.com/stevencowell/Main-Page/releases/download/workbook-pdf-covers-20261011-v1/crack-the-code-student-workbook-year8-template-20261011.pdf",
+      "assetName": "crack-the-code-student-workbook-year8-template-20261011.pdf",
+      "sha256": "3146c01b1d3e27307534006839332deea64f8fd0457b82c4f8acf342dff02e91",
+      "bytes": 2742713,
+      "manifestSha256": "673417de04be7390d3679361acdd30b66e6ceaf8d5f2bf22d330be871ab90727"
+    },
+    {
+      "bookId": "desk-tidy",
+      "url": "https://github.com/stevencowell/Main-Page/releases/download/workbook-pdf-covers-20261011-v1/desk-tidy-student-workbook-year8-template-20261011.pdf",
+      "assetName": "desk-tidy-student-workbook-year8-template-20261011.pdf",
+      "sha256": "c0a9621a6a7c4692da160bb2fd43d38dcb12a16b084cae6dcde932ce1d1d5cd4",
+      "bytes": 8273703,
+      "manifestSha256": "673417de04be7390d3679361acdd30b66e6ceaf8d5f2bf22d330be871ab90727"
+    },
+    {
+      "bookId": "fantastic-food",
+      "url": "https://github.com/stevencowell/Main-Page/releases/download/workbook-pdf-covers-20261011-v1/fantastic-food-student-workbook-year8-template-20261011.pdf",
+      "assetName": "fantastic-food-student-workbook-year8-template-20261011.pdf",
+      "sha256": "417c4be00a1fc85631df3725486df32e238ba5542cdd47435ec8f33b86bb6bbb",
+      "bytes": 22034111,
+      "manifestSha256": "673417de04be7390d3679361acdd30b66e6ceaf8d5f2bf22d330be871ab90727"
+    },
+    {
+      "bookId": "farm-in-a-box",
+      "url": "https://github.com/stevencowell/Main-Page/releases/download/workbook-pdf-covers-20261011-v1/farm-in-a-box-student-workbook-year8-template-20261011.pdf",
+      "assetName": "farm-in-a-box-student-workbook-year8-template-20261011.pdf",
+      "sha256": "a83e75d96d1cbfec9a3bb60d0dbae498782ee796398ea74a40ab9be143bd80de",
+      "bytes": 7518958,
+      "manifestSha256": "673417de04be7390d3679361acdd30b66e6ceaf8d5f2bf22d330be871ab90727"
+    },
+    {
+      "bookId": "fishing-rod-holder",
+      "url": "https://github.com/stevencowell/Main-Page/releases/download/workbook-pdf-covers-20261011-v1/fishing-rod-holder-student-workbook-year8-template-20261011.pdf",
+      "assetName": "fishing-rod-holder-student-workbook-year8-template-20261011.pdf",
+      "sha256": "4f98d08a9aa3b3d31ff0fb27e3b40cae4e0b0a048fb9b7caf6c5173aec19f721",
+      "bytes": 9616430,
+      "manifestSha256": "673417de04be7390d3679361acdd30b66e6ceaf8d5f2bf22d330be871ab90727"
+    },
+    {
+      "bookId": "folding-camping-shovel",
+      "url": "https://github.com/stevencowell/Main-Page/releases/download/workbook-pdf-covers-20261011-v1/folding-camping-shovel-student-workbook-year8-template-20261011.pdf",
+      "assetName": "folding-camping-shovel-student-workbook-year8-template-20261011.pdf",
+      "sha256": "2142ef5212cab102e95fa42c9ff11ab14fd76343aa64d86a3b565daf95a3746f",
+      "bytes": 2650641,
+      "manifestSha256": "673417de04be7390d3679361acdd30b66e6ceaf8d5f2bf22d330be871ab90727"
+    },
+    {
+      "bookId": "folding-chair",
+      "url": "https://github.com/stevencowell/Main-Page/releases/download/workbook-pdf-covers-20261011-v1/folding-chair-student-workbook-year8-template-20261011.pdf",
+      "assetName": "folding-chair-student-workbook-year8-template-20261011.pdf",
+      "sha256": "ccda5b8cc5845e994a3114008040813f51829b2640138de17035f5363018d036",
+      "bytes": 27585964,
+      "manifestSha256": "673417de04be7390d3679361acdd30b66e6ceaf8d5f2bf22d330be871ab90727"
+    },
+    {
+      "bookId": "food-for-purpose",
+      "url": "https://github.com/stevencowell/Main-Page/releases/download/workbook-pdf-covers-20261011-v1/food-for-purpose-student-workbook-year8-template-20261011.pdf",
+      "assetName": "food-for-purpose-student-workbook-year8-template-20261011.pdf",
+      "sha256": "bd8a31df3833d4d0ebd808a026a36fb46f8dac7ddbf56068686955466c1ea5db",
+      "bytes": 56249522,
+      "manifestSha256": "673417de04be7390d3679361acdd30b66e6ceaf8d5f2bf22d330be871ab90727"
+    },
+    {
+      "bookId": "food-for-specific-needs",
+      "url": "https://github.com/stevencowell/Main-Page/releases/download/workbook-pdf-covers-20261011-v1/food-for-specific-needs-student-workbook-year8-template-20261011.pdf",
+      "assetName": "food-for-specific-needs-student-workbook-year8-template-20261011.pdf",
+      "sha256": "1380d623c888fe49c8c8816d5ccaeb95019593eef9a84ec55939493191b1ad7b",
+      "bytes": 2873428,
+      "manifestSha256": "673417de04be7390d3679361acdd30b66e6ceaf8d5f2bf22d330be871ab90727"
+    },
+    {
+      "bookId": "food-in-australia",
+      "url": "https://github.com/stevencowell/Main-Page/releases/download/workbook-pdf-covers-20261011-v1/food-in-australia-student-workbook-year8-template-20261011.pdf",
+      "assetName": "food-in-australia-student-workbook-year8-template-20261011.pdf",
+      "sha256": "32beb21f20d4f00501fdaaf2d0e8e4bfd571b9152f9a28f9b124204c27b12211",
+      "bytes": 12709784,
+      "manifestSha256": "673417de04be7390d3679361acdd30b66e6ceaf8d5f2bf22d330be871ab90727"
+    },
+    {
+      "bookId": "food-selection-and-health",
+      "url": "https://github.com/stevencowell/Main-Page/releases/download/workbook-pdf-covers-20261011-v1/food-selection-and-health-student-workbook-year8-template-20261011.pdf",
+      "assetName": "food-selection-and-health-student-workbook-year8-template-20261011.pdf",
+      "sha256": "0b76d15b359c3c1ac380bec6c5b40e8df820d9861f9c6657ec16b7ef6c7822dc",
+      "bytes": 1928824,
+      "manifestSha256": "673417de04be7390d3679361acdd30b66e6ceaf8d5f2bf22d330be871ab90727"
+    },
+    {
+      "bookId": "footstool",
+      "url": "https://github.com/stevencowell/Main-Page/releases/download/workbook-pdf-covers-20261011-v1/footstool-student-workbook-year8-template-20261011.pdf",
+      "assetName": "footstool-student-workbook-year8-template-20261011.pdf",
+      "sha256": "38c7fcb491efbb86e4df81a08d78b72cbdf8aa13550882f559bebc13614349f0",
+      "bytes": 10444949,
+      "manifestSha256": "673417de04be7390d3679361acdd30b66e6ceaf8d5f2bf22d330be871ab90727"
+    },
+    {
+      "bookId": "garden-watering-system",
+      "url": "https://github.com/stevencowell/Main-Page/releases/download/workbook-pdf-covers-20261011-v1/garden-watering-system-student-workbook-year8-template-20261011.pdf",
+      "assetName": "garden-watering-system-student-workbook-year8-template-20261011.pdf",
+      "sha256": "f5c98e61344dc0d0a115a0cf25ca78ad825e55a99fff58330285d49870cf6d3b",
+      "bytes": 1698191,
+      "manifestSha256": "673417de04be7390d3679361acdd30b66e6ceaf8d5f2bf22d330be871ab90727"
+    },
+    {
+      "bookId": "geared-lolly-dispenser",
+      "url": "https://github.com/stevencowell/Main-Page/releases/download/workbook-pdf-covers-20261011-v1/geared-lolly-dispenser-student-workbook-year8-template-20261011.pdf",
+      "assetName": "geared-lolly-dispenser-student-workbook-year8-template-20261011.pdf",
+      "sha256": "45d70debe4072ec09bb7ec2e2c3a4d0edcdb3653344a3f00ecbe3a9c3bb63f4b",
+      "bytes": 2780951,
+      "manifestSha256": "673417de04be7390d3679361acdd30b66e6ceaf8d5f2bf22d330be871ab90727"
+    },
+    {
+      "bookId": "hose-reel-holder",
+      "url": "https://github.com/stevencowell/Main-Page/releases/download/workbook-pdf-covers-20261011-v1/hose-reel-holder-student-workbook-year8-template-20261011.pdf",
+      "assetName": "hose-reel-holder-student-workbook-year8-template-20261011.pdf",
+      "sha256": "c2a2be889bfb827b53b35b938ca29fb463e41b0a1ff7526865939b9e0f1f4e25",
+      "bytes": 3244356,
+      "manifestSha256": "673417de04be7390d3679361acdd30b66e6ceaf8d5f2bf22d330be871ab90727"
+    },
+    {
+      "bookId": "hydraulic-digger",
+      "url": "https://github.com/stevencowell/Main-Page/releases/download/workbook-pdf-covers-20261011-v1/hydraulic-digger-student-workbook-year8-template-20261011.pdf",
+      "assetName": "hydraulic-digger-student-workbook-year8-template-20261011.pdf",
+      "sha256": "cdd4e75f41bd467c055c7425b84cf9dd5065145fc000ad0f789f7515b1dc8dce",
+      "bytes": 2372903,
+      "manifestSha256": "673417de04be7390d3679361acdd30b66e6ceaf8d5f2bf22d330be871ab90727"
+    },
+    {
+      "bookId": "intro-textiles",
+      "url": "https://github.com/stevencowell/Main-Page/releases/download/workbook-pdf-covers-20261011-v1/intro-textiles-student-workbook-year8-template-20261011.pdf",
+      "assetName": "intro-textiles-student-workbook-year8-template-20261011.pdf",
+      "sha256": "c18d1b1c4085f673ff5f17f5bb46d406c967c7175c07c6fe969c33bf5bad4cc7",
+      "bytes": 2470467,
+      "manifestSha256": "673417de04be7390d3679361acdd30b66e6ceaf8d5f2bf22d330be871ab90727"
+    },
+    {
+      "bookId": "lunch-is-packed",
+      "url": "https://github.com/stevencowell/Main-Page/releases/download/workbook-pdf-covers-20261011-v1/lunch-is-packed-student-workbook-year8-template-20261011.pdf",
+      "assetName": "lunch-is-packed-student-workbook-year8-template-20261011.pdf",
+      "sha256": "84307da87d5202dece5b061c1386ccb9c21861d606d9967c212846edbf498cc3",
+      "bytes": 48454980,
+      "manifestSha256": "673417de04be7390d3679361acdd30b66e6ceaf8d5f2bf22d330be871ab90727"
+    },
+    {
+      "bookId": "mirror",
+      "url": "https://github.com/stevencowell/Main-Page/releases/download/workbook-pdf-covers-20261011-v1/mirror-student-workbook-year8-template-20261011.pdf",
+      "assetName": "mirror-student-workbook-year8-template-20261011.pdf",
+      "sha256": "f8ceed36bbdee90c128a0a9f7c3c48318d2ce452fc03250d94277a21c032095d",
+      "bytes": 79073221,
+      "manifestSha256": "673417de04be7390d3679361acdd30b66e6ceaf8d5f2bf22d330be871ab90727"
+    },
+    {
+      "bookId": "pen",
+      "url": "https://github.com/stevencowell/Main-Page/releases/download/workbook-pdf-covers-20261011-v1/pen-student-workbook-year8-template-20261011.pdf",
+      "assetName": "pen-student-workbook-year8-template-20261011.pdf",
+      "sha256": "d09d6699ece76f5dcdf6ce587a7e96e054e731cd3867ac1e0562bdebfc839055",
+      "bytes": 14122982,
+      "manifestSha256": "673417de04be7390d3679361acdd30b66e6ceaf8d5f2bf22d330be871ab90727"
+    },
+    {
+      "bookId": "programmable-light",
+      "url": "https://github.com/stevencowell/Main-Page/releases/download/workbook-pdf-covers-20261011-v1/programmable-light-student-workbook-year8-template-20261011.pdf",
+      "assetName": "programmable-light-student-workbook-year8-template-20261011.pdf",
+      "sha256": "22d668db7612bc22ba2e6a3ddd5fe0ccd321b77211fad36da398c4e529917d58",
+      "bytes": 35735284,
+      "manifestSha256": "673417de04be7390d3679361acdd30b66e6ceaf8d5f2bf22d330be871ab90727"
+    },
+    {
+      "bookId": "riv-burger",
+      "url": "https://github.com/stevencowell/Main-Page/releases/download/workbook-pdf-covers-20261011-v1/riv-burger-student-workbook-year8-template-20261011.pdf",
+      "assetName": "riv-burger-student-workbook-year8-template-20261011.pdf",
+      "sha256": "de258e97e4ae89f6354d2c84252046fab70d70d777af3eda4fc4919ab40bd355",
+      "bytes": 3358189,
+      "manifestSha256": "673417de04be7390d3679361acdd30b66e6ceaf8d5f2bf22d330be871ab90727"
+    },
+    {
+      "bookId": "sheet-metal-toolbox",
+      "url": "https://github.com/stevencowell/Main-Page/releases/download/workbook-pdf-covers-20261011-v1/sheet-metal-toolbox-student-workbook-year8-template-20261011.pdf",
+      "assetName": "sheet-metal-toolbox-student-workbook-year8-template-20261011.pdf",
+      "sha256": "2441895a50557e74a8f5dec73caa8022ea892521df73412a29a2405983be5d62",
+      "bytes": 2414948,
+      "manifestSha256": "673417de04be7390d3679361acdd30b66e6ceaf8d5f2bf22d330be871ab90727"
+    },
+    {
+      "bookId": "small-box",
+      "url": "https://github.com/stevencowell/Main-Page/releases/download/workbook-pdf-covers-20261011-v1/small-box-student-workbook-year8-template-20261011.pdf",
+      "assetName": "small-box-student-workbook-year8-template-20261011.pdf",
+      "sha256": "5b3a67c0f58caa0ca8f8a1e00dfb14791ce7bbfbd51b3f8aff6af3890d0bbeb0",
+      "bytes": 64381197,
+      "manifestSha256": "673417de04be7390d3679361acdd30b66e6ceaf8d5f2bf22d330be871ab90727"
+    },
+    {
+      "bookId": "swinging-sign",
+      "url": "https://github.com/stevencowell/Main-Page/releases/download/workbook-pdf-covers-20261011-v1/swinging-sign-student-workbook-year8-template-20261011.pdf",
+      "assetName": "swinging-sign-student-workbook-year8-template-20261011.pdf",
+      "sha256": "4a773df6fb65aa3ffba45dbab025379266ab1339e7aaf80d7d722cce14b24d5c",
+      "bytes": 3588632,
+      "manifestSha256": "673417de04be7390d3679361acdd30b66e6ceaf8d5f2bf22d330be871ab90727"
+    },
+    {
+      "bookId": "water-tower",
+      "url": "https://github.com/stevencowell/Main-Page/releases/download/workbook-pdf-covers-20261011-v1/water-tower-student-workbook-year8-template-20261011.pdf",
+      "assetName": "water-tower-student-workbook-year8-template-20261011.pdf",
+      "sha256": "f3cfb7610635949a0f253f5be31f612504038c6cabe8611d663af8c3d8a8a797",
+      "bytes": 11872248,
+      "manifestSha256": "673417de04be7390d3679361acdd30b66e6ceaf8d5f2bf22d330be871ab90727"
+    },
+    {
+      "bookId": "wind-powered-usb-charger",
+      "url": "https://github.com/stevencowell/Main-Page/releases/download/workbook-pdf-covers-20261011-v1/wind-powered-usb-charger-student-workbook-year8-template-20261011.pdf",
+      "assetName": "wind-powered-usb-charger-student-workbook-year8-template-20261011.pdf",
+      "sha256": "335005d98055e15bdf61f1e8f3dcc1f29bd5a36be5a6bc4873439c7932d72d95",
+      "bytes": 1822488,
+      "manifestSha256": "673417de04be7390d3679361acdd30b66e6ceaf8d5f2bf22d330be871ab90727"
+    },
+    {
+      "bookId": "work-studies",
+      "url": "https://github.com/stevencowell/Main-Page/releases/download/workbook-pdf-covers-20261011-v1/work-studies-student-workbook-year8-template-20261011.pdf",
+      "assetName": "work-studies-student-workbook-year8-template-20261011.pdf",
+      "sha256": "8b25d45e287b898c480b452c2b2a93f0d0a31d8ee299b1ea77162c457ec34e2a",
+      "bytes": 11047332,
+      "manifestSha256": "673417de04be7390d3679361acdd30b66e6ceaf8d5f2bf22d330be871ab90727"
+    },
+    {
+      "bookId": "year-10-food-technology",
+      "url": "https://github.com/stevencowell/Main-Page/releases/download/workbook-pdf-covers-20261011-v1/year-10-food-technology-student-workbook-year8-template-20261011.pdf",
+      "assetName": "year-10-food-technology-student-workbook-year8-template-20261011.pdf",
+      "sha256": "855dccb668c48e0c2ff233b09be8a47c9b3173658e2aa3688df29cf0712bddd7",
+      "bytes": 14026284,
+      "manifestSha256": "673417de04be7390d3679361acdd30b66e6ceaf8d5f2bf22d330be871ab90727"
+    },
+    {
+      "bookId": "year10-agriculture",
+      "url": "https://github.com/stevencowell/Main-Page/releases/download/workbook-pdf-covers-20261011-v1/year10-agriculture-student-workbook-year8-template-20261011.pdf",
+      "assetName": "year10-agriculture-student-workbook-year8-template-20261011.pdf",
+      "sha256": "fe92e034b3829330586f001c057a909fecacffb0438d69a5e9123b94b2b9a1a6",
+      "bytes": 4479325,
+      "manifestSha256": "673417de04be7390d3679361acdd30b66e6ceaf8d5f2bf22d330be871ab90727"
+    },
+    {
+      "bookId": "year10-graphics",
+      "url": "https://github.com/stevencowell/Main-Page/releases/download/workbook-pdf-covers-20261011-v1/year10-graphics-student-workbook-year8-template-20261011.pdf",
+      "assetName": "year10-graphics-student-workbook-year8-template-20261011.pdf",
+      "sha256": "28ca71a03b14741240d2660b3bc916a121ce4cf6c0f99d7acfcc6000e7760ff8",
+      "bytes": 22337569,
+      "manifestSha256": "673417de04be7390d3679361acdd30b66e6ceaf8d5f2bf22d330be871ab90727"
+    },
+    {
+      "bookId": "year10-textiles",
+      "url": "https://github.com/stevencowell/Main-Page/releases/download/workbook-pdf-covers-20261011-v1/year10-textiles-student-workbook-year8-template-20261011.pdf",
+      "assetName": "year10-textiles-student-workbook-year8-template-20261011.pdf",
+      "sha256": "4a93b1578f63d9c26b6871370c199c85dce39942301590d8eff371aee94328f3",
+      "bytes": 33823661,
+      "manifestSha256": "673417de04be7390d3679361acdd30b66e6ceaf8d5f2bf22d330be871ab90727"
+    },
+    {
+      "bookId": "year11-design-technology",
+      "url": "https://github.com/stevencowell/Main-Page/releases/download/workbook-pdf-covers-20261011-v1/year11-design-technology-student-workbook-year8-template-20261011.pdf",
+      "assetName": "year11-design-technology-student-workbook-year8-template-20261011.pdf",
+      "sha256": "8b1c5734ccf29786015701bf3001aaa6996703fb35e3ecd1e9021bc27cd9a842",
+      "bytes": 27579704,
+      "manifestSha256": "673417de04be7390d3679361acdd30b66e6ceaf8d5f2bf22d330be871ab90727"
+    },
+    {
+      "bookId": "year11-textiles",
+      "url": "https://github.com/stevencowell/Main-Page/releases/download/workbook-pdf-covers-20261011-v1/year11-textiles-student-workbook-year8-template-20261011.pdf",
+      "assetName": "year11-textiles-student-workbook-year8-template-20261011.pdf",
+      "sha256": "ce479c8e1f148f1f29636eda22e97708674e75d270f760d29277be3591572a66",
+      "bytes": 34968797,
+      "manifestSha256": "673417de04be7390d3679361acdd30b66e6ceaf8d5f2bf22d330be871ab90727"
+    },
+    {
+      "bookId": "year12-design-technology",
+      "url": "https://github.com/stevencowell/Main-Page/releases/download/workbook-pdf-covers-20261011-v1/year12-design-technology-student-workbook-year8-template-20261011.pdf",
+      "assetName": "year12-design-technology-student-workbook-year8-template-20261011.pdf",
+      "sha256": "ba96865c01a87927e1f5aded9009939019d73cc784b5fd705e180fdf413a0155",
+      "bytes": 10445786,
+      "manifestSha256": "673417de04be7390d3679361acdd30b66e6ceaf8d5f2bf22d330be871ab90727"
+    },
+    {
+      "bookId": "year12-textiles",
+      "url": "https://github.com/stevencowell/Main-Page/releases/download/workbook-pdf-covers-20261011-v1/year12-textiles-student-workbook-year8-template-20261011.pdf",
+      "assetName": "year12-textiles-student-workbook-year8-template-20261011.pdf",
+      "sha256": "5322005c0bfabad655a02ec0eaf19b383c4c5ecdfdabcc792b977415aacdfe24",
+      "bytes": 35262380,
+      "manifestSha256": "673417de04be7390d3679361acdd30b66e6ceaf8d5f2bf22d330be871ab90727"
+    },
+    {
+      "bookId": "year7-multimedia",
+      "url": "https://github.com/stevencowell/Main-Page/releases/download/workbook-pdf-covers-20261011-v1/year7-multimedia-student-workbook-year8-template-20261011.pdf",
+      "assetName": "year7-multimedia-student-workbook-year8-template-20261011.pdf",
+      "sha256": "319c9b0ed2c6ea6932a18db4b4c582471c666a513137bf604e9c27810a5b26ae",
+      "bytes": 8354200,
+      "manifestSha256": "673417de04be7390d3679361acdd30b66e6ceaf8d5f2bf22d330be871ab90727"
+    },
+    {
+      "bookId": "year8-science",
+      "url": "https://github.com/stevencowell/Main-Page/releases/download/workbook-pdf-covers-20261011-v1/year8-science-student-workbook-year8-template-20261011.pdf",
+      "assetName": "year8-science-student-workbook-year8-template-20261011.pdf",
+      "sha256": "a70fef5378b176268f971a90874a4ae5bb3987f3c74fb23182ac312283c3228e",
+      "bytes": 2444531,
+      "manifestSha256": "673417de04be7390d3679361acdd30b66e6ceaf8d5f2bf22d330be871ab90727"
+    },
+    {
+      "bookId": "year9-agriculture",
+      "url": "https://github.com/stevencowell/Main-Page/releases/download/workbook-pdf-covers-20261011-v1/year9-agriculture-student-workbook-year8-template-20261011.pdf",
+      "assetName": "year9-agriculture-student-workbook-year8-template-20261011.pdf",
+      "sha256": "52b8cf2d2ba43067875791612e379dca845fc3719b40b0d63294c94a11f7261e",
+      "bytes": 11837724,
+      "manifestSha256": "673417de04be7390d3679361acdd30b66e6ceaf8d5f2bf22d330be871ab90727"
+    },
+    {
+      "bookId": "year9-graphics",
+      "url": "https://github.com/stevencowell/Main-Page/releases/download/workbook-pdf-covers-20261011-v1/year9-graphics-student-workbook-year8-template-20261011.pdf",
+      "assetName": "year9-graphics-student-workbook-year8-template-20261011.pdf",
+      "sha256": "84d700b248aef282bf304569a87325086a3969ca66de97579d30029837ac5254",
+      "bytes": 5683346,
+      "manifestSha256": "673417de04be7390d3679361acdd30b66e6ceaf8d5f2bf22d330be871ab90727"
+    },
+    {
+      "bookId": "year9-textiles",
+      "url": "https://github.com/stevencowell/Main-Page/releases/download/workbook-pdf-covers-20261011-v1/year9-textiles-student-workbook-year8-template-20261011.pdf",
+      "assetName": "year9-textiles-student-workbook-year8-template-20261011.pdf",
+      "sha256": "0b9dd823ecef0f050adcd9d14c4b7495ce90c3e0d9d54f8a9c2dd519cfadcda0",
+      "bytes": 46157426,
+      "manifestSha256": "673417de04be7390d3679361acdd30b66e6ceaf8d5f2bf22d330be871ab90727"
+    }
+  ]
+}
