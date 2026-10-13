@@ -19,3 +19,8 @@ Do not silently replace an existing approved edition with an unfinished document
 The shelf follows the Classroom library’s subject-section order, with Multimedia beside Design and Technology. Agriculture groups the existing Agriculture Technology and Food and agricultural practices metadata values; the subject filter retains both original values. Cards and downloads retain their existing identities.
 
 Display groups and section markup live in `scripts/textbook-subject-sections.mjs`. The full build still verifies every local book asset before rendering; unknown subjects fail with a request to add a display group. Empty groups are omitted. Search hides empty sections and their jump links, updates section counts, and keeps the original subject-filter semantics. Direct card/section anchors clear a conflicting filter so the target remains reachable.
+## Versioned release PDF downloads
+
+The 50 cover-normalized student PDFs use fixed-tag GitHub Release downloads. `pdf-release-assets.json` binds each exact URL to its book ID, accepted SHA-256, byte count and frozen resource manifest. The builder accepts only those registered PDF URLs and formats their download sizes from the verified byte counts; it does not download or re-hash remote files during a build. Publication checks must verify the saved release asset digests against that registry before activating the catalogue links.
+
+Year 8 Agriculture remains a local reference PDF. Word files, historical editions, teacher resources, covers and previews retain local validation. New remote hosts, mutable `latest` aliases and unregistered remote PDFs are rejected. Keep original resource files and update the registry only through an accepted, authorized release.

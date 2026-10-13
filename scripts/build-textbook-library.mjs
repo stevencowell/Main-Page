@@ -10,16 +10,35 @@ const books = JSON.parse(fs.readFileSync(path.join(root, 'textbooks.json'), 'utf
 const ids = new Set();
 const e = text => String(text).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const assetPath = name => {
-  if (typeof name !== 'string' || !name || path.isAbsolute(name)) throw new Error(`Invalid asset path: ${name}`);
+  if (typeof name !== 'string' || !name || /^[a-z][a-z0-9+.-]*:/i.test(name) || path.isAbsolute(name)) throw new Error(`Invalid asset path: ${name}`);
   const resolved = path.resolve(root, name);
   const relative = path.relative(siteRoot, resolved);
   if (!relative || relative === '..' || relative.startsWith(`..${path.sep}`) || path.isAbsolute(relative)) throw new Error(`Asset escapes site: ${name}`);
   return resolved;
 };
-const size = name => `${(fs.statSync(assetPath(name)).size / 1e6).toFixed(1)} MB`;
+// Only exact registered, fixed-tag student PDF URLs may be remote.
+const releaseRegistry = JSON.parse(fs.readFileSync(path.join(root, 'pdf-release-assets.json'), 'utf8'));
+if (releaseRegistry.manifestSha256 !== '673417de04be7390d3679361acdd30b66e6ceaf8d5f2bf22d330be871ab90727' || !Array.isArray(releaseRegistry.assets) || releaseRegistry.assets.length !== 50) throw new Error('Invalid accepted release manifest');
+const releaseAssets = new Map();
+const releaseBookIds = new Set();
+for (const asset of releaseRegistry.assets) {
+  if (!/^[a-z0-9-]+$/.test(asset.bookId) || releaseBookIds.has(asset.bookId)
+      || !/^[a-f0-9]{64}$/.test(asset.sha256)
+      || !Number.isSafeInteger(asset.bytes) || asset.bytes < 5
+      || asset.manifestSha256 !== releaseRegistry.manifestSha256
+      || asset.assetName !== `${asset.bookId}-student-workbook-year8-template-20261011.pdf`
+      || asset.url !== `https://github.com/stevencowell/Main-Page/releases/download/workbook-pdf-covers-20261011-v1/${asset.assetName}`
+      || !books.some(book => book.id === asset.bookId && book.pdf === asset.url)
+      || releaseAssets.has(asset.url)) throw new Error('Invalid release PDF metadata');
+  releaseAssets.set(asset.url, asset);
+  releaseBookIds.add(asset.bookId);
+}
+const releasePdf = name => releaseAssets.get(name);
+const size = name => `${((releasePdf(name)?.bytes ?? fs.statSync(assetPath(name)).size) / 1e6).toFixed(1)} MB`;
 const newTab = '<span class="sr-only"> (opens in a new tab)</span>';
 const assetUrls = new Map();
 const assetUrl = file => {
+  if (releasePdf(file)) return e(file);
   if (!assetUrls.has(file)) {
     const version = createHash('sha256').update(fs.readFileSync(assetPath(file))).digest('hex').slice(0, 12);
     assetUrls.set(file, e(`${file}?v=${version}`));
@@ -33,6 +52,7 @@ for (const b of books) {
   for (const field of ['title','subject','stage','type','edition','description','includes']) if (!b[field]) throw new Error(`${b.id}: missing ${field}`);
   if (!Number.isInteger(b.pages) || b.pages < 1 || !Number.isInteger(b.sheets) || b.sheets < 1) throw new Error(`${b.id}: invalid print counts`);
   for (const field of ['cover','preview','pdf',...(b.word ? ['word'] : []),...(b.teacherGuide ? ['teacherGuide'] : [])]) {
+    if (field === 'pdf' && releasePdf(b.pdf)?.bookId === b.id) continue;
     if (!b[field] || !fs.existsSync(assetPath(b[field]))) throw new Error(`${b.id}: missing or unsafe ${field}`);
   }
   if (b.previousEdition) {
@@ -51,7 +71,7 @@ for (const b of books) {
   }
   if (!b.course?.startsWith('https://stevencowell.github.io/')) throw new Error(`${b.id}: verify the course URL`);
   if (b.classroom && !/^\.\.\/classroom-library\/#[-a-z0-9]+$/.test(b.classroom)) throw new Error(`${b.id}: verify the Classroom Library link`);
-  if (fs.readFileSync(assetPath(b.pdf)).subarray(0,5).toString() !== '%PDF-') throw new Error(`${b.id}: invalid student PDF`);
+  if (!releasePdf(b.pdf) && fs.readFileSync(assetPath(b.pdf)).subarray(0,5).toString() !== '%PDF-') throw new Error(`${b.id}: invalid student PDF`);
 }
 
 const teacherResources = b => {
@@ -103,4 +123,4 @@ replace('SUBJECT_NAV', renderSubjectNavigation(groups));
 replace('COUNT', `${books.length} ${books.length === 1 ? 'book' : 'books'} available`);
 replace('SUBJECTS', [...new Set(books.map(b => b.subject))].sort().map(s => `<option value="${e(s)}">${e(s)}</option>`).join('\n'));
 fs.writeFileSync(path.join(root, 'index.html'), html);
-console.log(`Built ${books.length} student workbook ${books.length === 1 ? 'card' : 'cards'} with verified local files.`);
+console.log(`Built ${books.length} student workbook ${books.length === 1 ? 'card' : 'cards'} with verified local files and registered release PDF metadata.`);
