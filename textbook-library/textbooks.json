@@ -754,19 +754,19 @@
     "subject": "Engineering",
     "stage": "Year 9 · Term 4",
     "type": "Student workbook",
-    "edition": "50-page revision",
-    "published": "2026-10-04",
-    "description": "Investigate gear trains, cams and one-way mechanisms. Develop a dispenser concept, organise CAD and manufacturing evidence, then test repeatability.",
-    "includes": "Illustrated mechanism teaching, gear-ratio calculations, selected original checks with online continuation, CAD planning, reliability testing and project evidence. Use teacher-approved dimensions, safety and food-contact arrangements.",
+    "edition": "50-page concept revision",
+    "published": "2026-10-30",
+    "description": "Understand how gears and moving parts work together. Plan and make a dispenser, observe its operation and explain useful improvements.",
+    "includes": "Concept explanations, labelled diagrams, sketches, material choices, safe making, observation tables and short explanations. No calculations are required. Use teacher-approved plans, dimensions and safety procedures.",
     "pages": 50,
     "sheets": 25,
     "cover": "assets/geared-lolly-dispenser-cover-year8-template-20261011.webp",
-    "preview": "assets/geared-lolly-dispenser-preview-year8-template-20261011.webp",
-    "pdf": "https://github.com/stevencowell/Main-Page/releases/download/workbook-pdf-covers-20261011-v1/geared-lolly-dispenser-student-workbook-year8-template-20261011.pdf",
-    "word": "books/geared-lolly-dispenser/revisions/50-page-20261006/geared-lolly-dispenser-student-workbook.docx",
+    "preview": "assets/geared-lolly-dispenser-concepts-preview-20261030.webp",
+    "pdf": "books/geared-lolly-dispenser/revisions/concepts-20261030/geared-lolly-dispenser-concept-workbook.pdf",
+    "word": "books/geared-lolly-dispenser/revisions/concepts-20261030/geared-lolly-dispenser-concept-workbook.docx",
     "showWordButton": true,
     "course": "https://stevencowell.github.io/Engineering-Website/year9_term4.html",
-    "editionLabel": "50-page revision",
+    "editionLabel": "50-page concept revision",
     "previousEdition": {
       "edition": "2026",
       "pages": 81,
@@ -774,7 +774,8 @@
       "word": "books/geared-lolly-dispenser/geared-lolly-dispenser-student-workbook.docx?v=2974c96702e4"
     },
     "classroom": "../classroom-library/#geared-lolly-dispenser",
-    "classroomLabel": "Google Classroom · check availability"
+    "classroomLabel": "Google Classroom · check availability",
+    "teacherGuide": "books/geared-lolly-dispenser/revisions/concepts-20261030/geared-lolly-dispenser-teacher-concept-guide.pdf"
   },
   {
     "id": "concrete-beam",

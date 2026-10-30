@@ -8,6 +8,13 @@ const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '../text
 const siteRoot = path.resolve(root, '..');
 const books = JSON.parse(fs.readFileSync(path.join(root, 'textbooks.json'), 'utf8'));
 const ids = new Set();
+// Update an existing card without reading unrelated local book assets.
+const args = process.argv.slice(2);
+if (args.length && (args.length !== 2 || args[0] !== '--book' || !/^[a-z0-9-]+$/.test(args[1]))) {
+  throw new Error('Usage: node scripts/build-textbook-library.mjs [--book existing-book-id]');
+}
+const onlyId = args[1];
+if (onlyId && !books.some(book => book.id === onlyId)) throw new Error(`Unknown book id: ${onlyId}`);
 const e = text => String(text).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const assetPath = name => {
   if (typeof name !== 'string' || !name || /^[a-z][a-z0-9+.-]*:/i.test(name) || path.isAbsolute(name)) throw new Error(`Invalid asset path: ${name}`);
@@ -21,6 +28,15 @@ const releaseRegistry = JSON.parse(fs.readFileSync(path.join(root, 'pdf-release-
 if (releaseRegistry.manifestSha256 !== '673417de04be7390d3679361acdd30b66e6ceaf8d5f2bf22d330be871ab90727' || !Array.isArray(releaseRegistry.assets) || releaseRegistry.assets.length !== 50) throw new Error('Invalid accepted release manifest');
 const releaseAssets = new Map();
 const releaseBookIds = new Set();
+// A registered immutable PDF may remain historical when a later accepted
+// local revision is active. Validate that replacement before accepting it.
+const validLocalRevision = book => {
+  if (!book || typeof book.pdf !== 'string'
+      || !book.pdf.startsWith(`books/${book.id}/revisions/`)
+      || !/^books\/[a-z0-9-]+\/revisions\/[a-z0-9-]+\/[a-z0-9-]+\.pdf$/.test(book.pdf)) return false;
+  const file = assetPath(book.pdf);
+  return fs.existsSync(file) && fs.readFileSync(file).subarray(0, 5).toString() === '%PDF-';
+};
 for (const asset of releaseRegistry.assets) {
   if (!/^[a-z0-9-]+$/.test(asset.bookId) || releaseBookIds.has(asset.bookId)
       || !/^[a-f0-9]{64}$/.test(asset.sha256)
@@ -28,7 +44,7 @@ for (const asset of releaseRegistry.assets) {
       || asset.manifestSha256 !== releaseRegistry.manifestSha256
       || asset.assetName !== `${asset.bookId}-student-workbook-year8-template-20261011.pdf`
       || asset.url !== `https://github.com/stevencowell/Main-Page/releases/download/workbook-pdf-covers-20261011-v1/${asset.assetName}`
-      || !books.some(book => book.id === asset.bookId && book.pdf === asset.url)
+      || !books.some(book => book.id === asset.bookId && (book.pdf === asset.url || validLocalRevision(book)))
       || releaseAssets.has(asset.url)) throw new Error('Invalid release PDF metadata');
   releaseAssets.set(asset.url, asset);
   releaseBookIds.add(asset.bookId);
@@ -51,6 +67,7 @@ for (const b of books) {
   ids.add(b.id);
   for (const field of ['title','subject','stage','type','edition','description','includes']) if (!b[field]) throw new Error(`${b.id}: missing ${field}`);
   if (!Number.isInteger(b.pages) || b.pages < 1 || !Number.isInteger(b.sheets) || b.sheets < 1) throw new Error(`${b.id}: invalid print counts`);
+  if (onlyId && b.id !== onlyId) continue;
   for (const field of ['cover','preview','pdf',...(b.word ? ['word'] : []),...(b.teacherGuide ? ['teacherGuide'] : [])]) {
     if (field === 'pdf' && releasePdf(b.pdf)?.bookId === b.id) continue;
     if (!b[field] || !fs.existsSync(assetPath(b[field]))) throw new Error(`${b.id}: missing or unsafe ${field}`);
@@ -117,10 +134,23 @@ function replace(name, value) {
   if (!re.test(html)) throw new Error(`Missing ${name} template markers`);
   html = html.replace(re, `<!-- ${name}_START -->\n${value}\n<!-- ${name}_END -->`);
 }
-const groups = groupBooks(books);
-replace('BOOKS', renderBookSections(groups, card));
-replace('SUBJECT_NAV', renderSubjectNavigation(groups));
-replace('COUNT', `${books.length} ${books.length === 1 ? 'book' : 'books'} available`);
-replace('SUBJECTS', [...new Set(books.map(b => b.subject))].sort().map(s => `<option value="${e(s)}">${e(s)}</option>`).join('\n'));
+if (onlyId) {
+  const book = books.find(item => item.id === onlyId);
+  const pattern = new RegExp(`<article class="book-card" id="${onlyId}"[\\s\\S]*?</article>`, 'g');
+  const matches = [...html.matchAll(pattern)];
+  if (matches.length !== 1) throw new Error(`Expected one existing card for ${onlyId}`);
+  if (!matches[0][0].includes(`data-subject="${e(book.subject)}"`)) {
+    throw new Error('A subject change requires a full catalogue build');
+  }
+  // Keeping an existing ID and subject leaves counts and section placement intact.
+  html = html.replace(pattern, () => card(book));
+} else {
+  const groups = groupBooks(books);
+  replace('BOOKS', renderBookSections(groups, card));
+  replace('SUBJECT_NAV', renderSubjectNavigation(groups));
+  replace('COUNT', `${books.length} ${books.length === 1 ? 'book' : 'books'} available`);
+  replace('SUBJECTS', [...new Set(books.map(b => b.subject))].sort().map(s => `<option value="${e(s)}">${e(s)}</option>`).join('\n'));
+}
 fs.writeFileSync(path.join(root, 'index.html'), html);
-console.log(`Built ${books.length} student workbook ${books.length === 1 ? 'card' : 'cards'} with verified local files and registered release PDF metadata.`);
+console.log(onlyId ? `Updated ${onlyId} with verified active assets; other cards unchanged.` : `Built ${books.length} student workbook ${books.length === 1 ? 'card' : 'cards'} with verified local files and registered release PDF metadata.`);
+
